@@ -1,0 +1,609 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="HALLO!"
+"i_agree_to_the"="Ik ga akkoord met de"
+"plug_in_your_gateway"="Sluit je gateway aan"
+"next"="VOLGENDE"
+"connect"="VERBINDEN"
+"terms_conditions"="Voorwaarden en bepalingen"
+"please_agree_to_continue"="Ga akkoord om door te gaan."
+"connecting_to_your_gateway"="Er wordt verbinding gemaakt met je gateway..."
+"plug_your_gateway_into_a_power"="Doe de stekker van je gateway in een stopcontact en sluit deze met de bijgeleverde netwerkkabel aan op je wifi-router."
+"congrats"="Gefeliciteerd!"
+"and"="en"
+"connect_to_wifi"="Verbinden met wifi"
+"this_name_is_already_in_use_pl"="Deze naam is al in gebruik. Probeer een andere naam."
+"welcome_to_the_tradfri_lightin"="Welkom bij het TRÅDFRI-verlichtingssysteem. Dit is de simpelste manier om thuis prachtige verlichting te creëren voor meer comfort in je leven. Ben je er klaar voor?"
+"enter_the_gateway_ip"="Voer het IP-adres van de gateway in"
+"gateway_ip"="IP-adres gateway"
+"if_the_gateway_is_plugged_in_c"="Als de gateway juist is aangesloten en nog steeds niet kan worden gevonden, dien je mogelijk het IP-adres van de gateway manueel in te voeren. Raadpleeg de helppagina voor meer informatie."
+"the_gateway_ip_is_incorrect"="Het IP-adres van de gateway is onjuist."
+"you_must_be_connected_to_your_"="Je moet zijn verbonden met je wifi-netwerk om TRÅDFRI vanaf je app te besturen."
+"these_are_your_tradfri_devices"="Dit zijn je TRÅDFRI-apparaten"
+"lets_get_started"="LATEN WE BEGINNEN"
+"get_started"="VAN START GAAN"
+"youre_now_connected_to_the_gat"="Je bent nu verbonden met de gateway. Laat ons nu je apparaten verbinden."
+"add_another_device"="Nog een apparaat toevoegen"
+"finding_gateway"="Je gateway zoeken..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Scannen..."
+"type_in_the_code_instead"="Voer in plaats daarvan de code in"
+"youll_find_the_code_on_the_bac"="Je vindt de code op de achterzijde van de gateway."
+"we_found_the_code"="We hebben de code gevonden."
+"hold_on_while_we_verify_the_co"="Even geduld terwijl we de code controleren..."
+"scan"="SCANNEN"
+"now_scan_the_code"="Scan nu de code"
+"enable_camera"="CAMERA INSCHAKELEN"
+"type_in_the_serial_number"="Voer het serienummer in"
+"type_in_the_security_code"="Voer de beveiligingscode in"
+"serial_number"="Serienummer"
+"security_code"="Beveiligingscode"
+"youll_find_it_on_the_back_of_y"="Je vindt dit op de achterzijde van je gateway."
+"youll_find_them_both_on_the_ba"="Je vindt beide op de achterzijde van je gateway."
+"this_serial_number_is_incorrec"="Dit serienummer is onjuist"
+"type_in_the_serial_number_and_"="Voer het serienummer en de beveiligingscode in"
+"enable_your_camera_to_scan_the"="Schakel je camera in om de code te scannen."
+"type_in_the_code"="CODE INVOEREN"
+"the_security_key_should_be_dig"="De beveiligingscode moet 16 cijfers bevatten"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Start door een apparaat te kiezen dat je wilt toevoegen"
+"open_the_back_of_the_remote_co"="1. Maak de achterzijde van de afstandsbediening open"
+"reset_the_remote_control"="2. Reset de afstandsbediening"
+"connect_the_remote_control"="3. Verbind de afstandsbediening"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Je lamp aanzetten"
+"make_sure_that_your_light_is_i"="Zorg dat je lamp is geïnstalleerd en de hoofdschakelaar is ingeschakeld."
+"which_control_device_are_you_u"="2. Welke bedieningsapparaat gebruik je?"
+"remember_to_use_a_control_devi"="Denk eraan om een bedieningsapparaat te gebruiken dat al is verbonden."
+"connect_the_light"="3. Verbind de lamp"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Je apparaten zoeken..."
+"bulb"="Gloeilamp"
+"door_or_panel"="Deur of paneel"
+"open_the_back_of_the_motion_se"="1. Maak de achterzijde van de bewegingssensor open"
+"reset_the_motion_sensor"="2. Reset de bewegingssensor"
+"connect_the_motion_sensor"="3. Verbind de bewegingssensor"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Maak de achterzijde van de draadloze dimmer open"
+"reset_the_wireless_dimmer"="2. Reset de draadloze dimmer"
+"connect_the_wireless_dimmer"="3. Verbind de draadloze dimmer"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Je apparaat zoeken"
+"which_device_would_you_like_to"="Welk apparaat wil je toevoegen?"
+"now_add_your_lights"="Voeg nu je lampen toe"
+"they_can_be_added_after_youve_"="Ze kunnen worden toegevoegd nadat je het bedieningsapparaat hebt verbonden."
+"ill_do_this_later"="Ik doe dit later"
+"delete_mood"="Sfeer verwijderen"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Gelieve op een toets te drukken op het apparaat om het verplaatsen te bevestigen. Je dient mogelijk meerdere keren te drukken."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="MIJN HUIS"
+"add_lights"="LAMPEN TOEVOEGEN"
+"no_lights_have_been_added_to_t"="Er zijn nog geen lampen toegevoegd aan deze groep."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Voer een sfeernaam in"
+"please_pick_another_name_this_"="Kies een andere naam, deze is reeds in gebruik."
+"moods_by_ikea"="Sferen door IKEA"
+"new_mood"="Nieuwe sfeer"
+"please_enter_a_mood_name"="Voer een sfeernaam in."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Uitschakelen"
+"turn_on"="Aanschakelen"
+"min"="Min"
+"max"="Max"
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Een van de apparaten kan niet worden gevonden"
+"devices_cannot_be_found"="%1$s apparaten kunnen niet worden gevonden"
+"one_remote_has_a_low_battery"="Een afstandsbediening heeft een batterij die bijna leeg is"
+"one_motion_sensor_has_a_low_ba"="Een bewegingssensor heeft een batterij die bijna leeg is"
+"remotes_have_low_batteries"="%1$s afstandsbedieningen hebben een batterij die bijna leeg is"
+"devices_have_low_batteries"="%1$s apparaten hebben een batterij die bijna leeg is"
+"updating"="Updaten..."
+"update_successful"="Updaten succesvol"
+"was_added_to_a_new_group"="%1$s is toegevoegd aan een nieuwe groep."
+"was_removed"="%1$s is verwijderd"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Groepen"
+"rename_group"="Naam van groep wijzigen"
+"add_new_group"="Nieuwe groep toevoegen"
+"add_devices"="Apparaten toevoegen"
+"new_group"="Nieuwe groep"
+"group_name"="Naam van groep"
+"low_battery"="Laag batterijniveau"
+"manage_your_devices"="Beheer je apparaten"
+"devices"="Apparaten"
+"last_seen_ago"="Laatst gezien: %1$s geleden"
+"move_a_device_to_this_group_by"="Verplaats een apparaat naar deze groep door op de drie punten te tikken."
+"leaving_will_remove_new_group"="Bij het verlaten van de pagina wordt de nieuwe groep verwijderd"
+"groups_without_any_devices_wil"="Groepen zonder apparaten worden automatisch verwijderd."
+"move_to_other_group"="Naar andere groep verplaatsen"
+"rename_device"="Naam apparaat wijzigen"
+"remove_device"="Apparaat verwijderen"
+"select_destination_group"="Bestemming van groep selecteren"
+"the_name_is_already_being_used"="De naam \" %1$s \" is al in gebruik."
+"remove_accessory"="Accessoire verwijderen?"
+"it_looks_like_there_was_a_prob"="Het lijkt erop dat er een probleem was met het verplaatsen van je lamp. Zorg ervoor dat de lamp is ingeschakeld en probeer ze opnieuw te verplaatsen."
+"disconnected_devices"="Losgekoppelde apparaten"
+"add_new"="NIEUWE TOEVOEGEN"
+"device_was_not_moved"="Het apparaat is niet verplaatst"
+"unfortunately_you_cant_add_a_m"="Je kunt helaas geen bewegingssensor toevoegen aan een groep met draadloze dimmers en afstandsbedieningen."
+"press_any_button_on_your_remot"="Druk op een knop op je afstandsbediening"
+"great"="Geweldig!"
+"your_was_moved_to"="Je %1$s is verplaatst naar %2$s."
+"are_you_sure_you_want_to_remov"="Ben je zeker dat je je %1$s wilt verwijderen?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="TIJDSCHAKELAARS"
+"enabled"="ingeschakeld"
+"disabled"="uitgeschakeld"
+"every_day"="Iedere dag"
+"days"="Dagen"
+"hours"="Uren"
+"minutes"="Minuten"
+"seconds"="Seconden"
+"mon"="maa"
+"tue"="din"
+"wed"="woe"
+"thu"="do"
+"fri"="vri"
+"sat"="zat"
+"sun"="zon"
+"timer_is_not_set"="Tijdschakelaar is niet ingesteld"
+"mon_fri"="ma - vr"
+"cant_set_time"="Kan tijd niet instellen"
+"make_sure_you_set_your_timer_b"="Zorg ervoor dat je je tijdschakelaar instelt voordat je weggaat."
+"are_you_sure_you_want_to_delete_this_tim"="Weet je zeker dat je deze tijdschakelaar wilt verwijderen?"
+"add"="TOEVOEGEN"
+"am"="VM"
+"pm"="NM"
+"monday"="M"
+"tuesday"="D"
+"wednesday"="W"
+"thursday"="D"
+"friday"="V"
+"saturday"="Z"
+"sunday"="Z"
+"set_your_time"="Je tijdschakelaar instellen"
+"new_timer"="Nieuwe tijdschakelaar"
+"what_time"="%1$s Hoe laat?"
+"which_lights"="%1$s Welke lampen?"
+"from"="van"
+"to"="tot"
+"should_they_turn_on_or_off"="%1$s Moeten ze aan- of uitschakelen?"
+"save"="OPSLAAN"
+"set_your_lights_to_turn_on_or_"="Schakel je lampen aan of uit precies wanneer jij het wilt."
+"set_your_lights_to_turn_on_or_off_e"="Schakel je lampen aan of uit precies wanneer jij het wilt.\n\nJe lampen zullen de helderheid en kleur onthouden van de laatste keer dat ze zijn gebruikt."
+"during_what_time"="%1$s Tijdens welke periode?"
+"you_cant_set_a_time_with_the_s"="Je kunt geen tijd instellen met een gelijke start- en eindtijd."
+"a_timer_has_been_updated"="Een tijdschakelaar is aangepast"
+"timers_have_been_updated"="Tijdschakelaars zijn aangepast"
+"view"="Bekijken"
+"you_are_now_using_the_maximum_"="Je gebruikt nu het maximum aantal tijdschakelaars."
+"timers_help_you_set_your_light"="Tijdschakelaars helpen je bij het aan- en uitschakelen van je verlichting. Voeg er een toe om van start te gaan!"
+"some_of_your_timers_was_update"="Enkele van je tijdschakelaars werden aangepast vanop een ander apparaat."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Herhalen"
+"rise_and_shine"="Wakker worden"
+"set_your_lights_to_wake_you_up"="Stel je lampen zo in dat ze je wekken."
+"your_rise_and_shine_timer_was_"="Je tijdschakelaar voor Wakker worden is aangepast vanop een ander apparaat."
+"delete_rise_and_shine"="Verwijderen Wakker worden"
+"your_rise_and_shine_timer_just"="Je tijdschakelaar voor Wakker worden is zonet gestart."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Weg van huis"
+"out_and_about_set_your_lights_"="Ben je de deur uit? Stel je lampen zo in dat ze aan- en uitgaan, net alsof er iemand thuis is."
+"set_your_lights_to_slowly_dim_"="Stel je lampen zo in dat ze langzaam feller worden, 30 minuten voor het tijdstip waarop je de tijdschakelaar hebt ingesteld. Je lampen zullen langzaam feller worden\n\n- net zoals de ochtendzon."
+"your_away_from_home_timer_just"="Je tijdschakelaar voor Weg van huis is zonet gestart."
+"your_away_from_home_timer_was_"="Je tijdschakelaar voor Weg van huis is aangepast vanop een ander apparaat."
+"delete_away_from_home"="Verwijder Weg van huis"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="AAN en UIT"
+"on_or_off"="Aan of Uit"
+"out_and_about_set_your_lights_to_tu"="Ben je de deur uit? Stel je lampen zo in dat ze aan- en uitgaan, net alsof er iemand thuis is.\n\nDenk eraan om je lampen niet uit te schakelen met de wandschakelaar. Deze zullen de helderheid en kleur onthouden van de laatste keer dat ze zijn gebruikt."
+"your_on_or_off_timer_just_star"="Je tijdschakelaar voor Aan of Uit is zonet gestart."
+"your_on_or_off_timer_was_updat"="Je tijdschakelaar voor Aan of Uit is aangepast vanop een ander apparaat."
+"delete_on_or_off"="Verwijderen AAN OF UIT"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="INSTELLINGEN"
+"need_help"="Hulp nodig?"
+"language"="Taal"
+"default_language"="Standaardtaal"
+"send_in_email"="VERSTUREN VIA E-MAIL"
+"terms_and_conditions"="Voorwaarden en bepalingen"
+"privacy_policy"="Privacybeleid"
+"software_licenses"="Softwarelicenties"
+"continue_"="Doorgaan"
+"youve_selected_as_your_language_"="Je hebt %1$s gekozen als je taal."
+"tradfri_terms_and_conditions"="Voorwaarden en bepalingen voor TRÅDFRI"
+"tradfri__privacy_policy"="Privacybeleid voor TRÅDFRI"
+"tradfri_is_up_to_date"="TRÅDFRI is bijgewerkt"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Er zijn updates beschikbaar"
+"update"="UPDATE"
+"unreachable"="Onbereikbaar"
+"update_details"="Updatedetails"
+"up_to_date"="Bijgewerkt"
+"remote_controls"="Afstandsbedieningen"
+"motion_sensors"="Bewegingssensoren"
+"this_should_only_take_about_mi"="Dit zou ongeveer 1 minuut moeten duren."
+"dismiss"="AFWIJZEN"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="VERBINDING VERBREKEN"
+"disconnecting"="VERBINDING WORDT VERBROKEN..."
+"disconnected"="VERBINDING VERBROKEN"
+"disconnecting_allow_you_to_con"="Verbreek de verbinding om verbinding met een andere gateway te maken. Je kunt ze niet tegelijkertijd gebruiken, maar geen nood, al je programma\'s en lichtinstellingen worden opgeslagen op je huidige gateway."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Nieuwe gateway gevonden"
+"gateway_is_rebooting"="Gateway wordt opnieuw opgestart..."
+"connect_to_new_gateway"="Verbinden met nieuwe gateway"
+"you_cant_connect_to_your_curre"="Je kunt geen verbinding maken met je huidige gateway, maar er is een andere beschikbaar. Wil je verbinding maken met de nieuwe gateway?"
+"connecting_will_disconnect_you"="Als je verbinding maakt, wordt de verbinding met je huidige gateway verbroken. Maar geen nood, al je instellingen worden opgeslagen op je huidige gateway."
+"try_again"="OPNIEUW PROBEREN"
+"oops"="Oeps!"
+"youre_about_to_remove_the_last"="Je gaat nu het laatste apparaat verwijderen"
+"your_light_needs_to_be_turned_"="Je dient je lampen aan te zetten met de lichtschakelaar voordat je er gebruik van kunt maken."
+"remember_to_turn_on_your_light"="Vergeet niet je lampen aan te zetten"
+"oops_something_went_wrong"="Oeps! Er is iets fout gegaan."
+"enter_the_gateway_ip_manually"="Voer het IP-adres van de gateway manueel in"
+"gateway_is_updating"="Gateway wordt geüpdatet..."
+"your_gateway_software_is_being"="Je gatewaysoftware wordt geüpdatet om je de best mogelijke ervaring te bieden. De gateway zal enkele minuten niet beschikbaar zijn, maar je kunt je lampen en afstandsbediening blijven gebruiken zoals gewoonlijk."
+"unable_to_connect_to_tradfri"="Kan geen verbinding maken met TRÅDFRI"
+"it_looks_like_you_scanned_the_"="Je hebt de verkeerde code gescand. Probeer de code op de achterzijde van je gateway te scannen."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Witte spectrum-gloeilamp"
+"bulb_e27_white_spectrum_globe_clear"="Witte spectrum-gloeilamp"
+"bulb_e27_white_spectrum_globe_opal"="Witte spectrum-gloeilamp"
+"bulb_e14_white_spectrum_globe_"="Witte spectrum-gloeilamp"
+"color_white_spectrum_bulb"="Gekleurde/Witte spectrum-gloeilamp"
+"bulb_e14_color_white_spectrum_"="Gekleurde/Witte spectrum-gloeilamp"
+"white_spectrum_panel"="Wit spectrum-paneel"
+"panel_white_spectrum_30_90"="Wit spectrum-paneel"
+"panel_white_spectrum_60_60"="Wit spectrum-paneel"
+"color_white_spectrum_panel"="Gekleurd/Wit spectrum-paneel"
+"white_spectrum_door"="Witte spectrum-deur"
+"door_white_spectrum_36_84"="Witte spectrum-deur"
+"remote_control"="Afstandsbediening"
+"motion_sensor"="Bewegingssensor"
+"wireless_dimmer"="Draadloze dimmer"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Verplaatsen"
+"rename"="Naam wijzigen"
+"remove"="Verwijderen"
+"off"="Uit"
+"done"="KLAAR"
+"cancel"="ANNULEREN"
+"ok"="OK"
+"confirm"="BEVESTIGEN"
+"delete"="Verwijderen"
+"proceed"="Doorgaan"
+"group"="Groep"
+"plug"="Stekker"
+"everyday"="Iedere dag"
+"focus"="Nadruk"
+"relax"="Relax"
+"plugs"="Stekkers"
+"gateway"="Gateway"
+"gateways"="Gateways"
+
+
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Zet al je lampen AAN"
+"are_all_your_lights_on_they_mu"="Zijn al je %1$s lampen aan? Ze moeten AAN staan om de draadloze dimmer succesvol te verplaatsen"
+"press_the_link_button"="Druk op de linkknop"
+"to_control_the_new_group_just_"="Om de nieuwe groep te besturen, open je gewoon de draadloze dimmer en druk je op de linkknop. Dan zal je apparaat verplaatst zijn."
+"i_did_it"="Het is gelukt"
+"to_finish_removing_your_remote"="Om het verwijderen van je afstandsbediening te voltooien, reset je deze door 4 keer op de linkknop te drukken. Dan ben je klaar!"
+"to_finish_removing_your_motion"="Om het verwijderen van je bewegingssensor te voltooien, reset je deze door 4 keer op de linkknop te drukken. Dan ben je klaar!"
+"to_finish_removing_your_wirele"="Om het verwijderen van je draadloze dimmer te voltooien, reset je deze door 4 keer op de linkknop te drukken. Dan ben je klaar!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Om je apparaat te verplaatsen, open je de draadloze dimmer %1$s en druk je op de linkknop."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Om je apparaat te verplaatsen, open je de draadloze dimmers in %1$s en %2$s en druk je op de linkknoppen op beide apparaten"
+"required_update"="Vereiste update"
+"update_required_tradfri_needs_"="Update vereist. TRÅDFRI vereist een update om vlot te blijven werken. De app zal niet beschikbaar zijn tijdens de update."
+"an_important_update_has_been_p"="Een belangrijke update werd uitgevoerd en Trådfri werd geüpdatet naar de recentste versie"
+"reconnect_to_gateway"="Opnieuw verbinden met gateway"
+"is_your_light_on"="Staat je lamp aan?"
+"if_not_turn_it_on_to_successfu"="Indien niet, zet de lamp dan aan om je apparaat succesvol te verwijderen."
+"to_remove_your_light_open_the_"="Om je lamp te verwijderen, open je de draadloze dimmer in %1$s en druk je op de linkknop."
+"wireless_motion_sensor"="Draadloze bewegingssensor"
+"please_confirm"="%1$s verplaatsen?"
+"gently_rotate_your_wireless_di"="Om te bevestigen, draai je voorzichtig aan je draadloze dimmer."
+"we_did_not_detect_any_action_o"="Je apparaat reageerde niet."
+"wave_your_hand_in_front_of_the"="Om te bevestigen, zwaai je met je hand voor de bewegingssensor."
+"enter_group_name"="Geef een naam in voor je groep"
+"enter_accessory_name"="Geef een naam in voor je accessoire"
+"remove_"="Verwijder %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Gloeilamp warm wit"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Stel je sfeer in voor het opslaan. Je sfeer zal worden toegevoegd."
+"my_moods"="Mijn sferen"
+"create_a_mood_and_save_it_for_"="Maak een sfeer aan en sla ze op voor snelle toegang"
+"light_unreachable"="Lamp onbereikbaar"
+"if_you_create_or_edit_a_mood_while"="Als je een sfeer aanmaakt of bewerkt terwijl een lamp niet bereikbaar is, zal de lamp genegeerd worden voor de sfeer. Zorg ervoor dat je lampen aan staan vooraleer verder te gaan"
+"edit_moods"="SFEREN BEWERKEN"
+"edit_mood"="SFEER BEWERKEN"
+"brightness"="HELDERHEID | %1$s"
+"disconnect_app"="VERBINDING VERBREKEN MET APP"
+"clear_all_settings"="Verwijder alle instellingen"
+"this_will_delete_all_Moods"="Dit zal alle sferen en tijdschakelaars verwijderen en alle instellingen resetten. Wanneer je reset, worden alle apparaten losgekoppeld van de gateway"
+"are_you_sure_you_want_to_clear"="Ben je zeker dat je al je instellingen wilt verwijderen?"
+"clear"="Verwijder"
+"cleared"="VERWIJDERD"
+"clearing"="AAN HET VERWIJDEREN..."
+"see_details"="Toon details"
+"update_did_not_complete"="Update werd niet voltooid"
+"one_or_more_devices_didnt_upda"="Een of meer apparaten zijn niet geüpdatet. Geen nood - je lamp zal nog steeds werken"
+"your_moods_are_still_loading_"="Je sferen worden geladen. Probeer opnieuw binnen een paar seconden."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Niet geüpdatet"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Gloeilampen"
+"waiting_for_gateway"="Wachten op gateway"
+"wireless_dimmers"="Draadloze dimmers"
+"theres_an_important_new_update"="Er is een belangrijke nieuwe update beschikbaar voor TRÅDFRI."
+"close"="Sluiten"
+"update_pending"="Update in behandeling"
+"your_devices_are_being_updated"="Uw apparaten worden geüpdatet. Je kunt TRÅDFRI blijven gebruiken zoals gewoonlijk."
+"start_update"="Updaten starten"
+"continue_to_use_your_lights_as"="Blijf je verlichting gebruiken zoals gewoonlijk - updates zullen op de achtergrond worden uitgevoerd. De app kan mogelijk niet beschikbaar zijn voor een korte periode."
+"panel"="Paneel"
+"door"="Deur"
+"panels"="Panelen"
+"doors"="Deuren"
+"check_for_updates"="Controleer of er updates beschikbaar zijn"
+"update_now"="Nu updaten"
+"view_update_details"="Updatedetails tonen"
+"all_your_devices_are_updated_t"="Al je apparaten zijn geüpdatet naar de laatste versie."
+"your_gateway_didnt_update_dont"="Je gateway werd niet geüpdatet. Geen nood - je lamp zal nog steeds werken"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="We kunnen geen verbinding maken met je gateway"
+"we_couldnt_connect_to_your_dev"="We konden geen verbinding maken met je apparaten. Als het probleem zich blijft voordoen, schakel je gateway dan uit en aan"
+"we_couldnt_find_your_gateway_m"="We konden je gateway niet vinden. Zorg ervoor dat deze door middel van de kabel is verbonden met je router en dat je telefoon is verbonden met hetzelfde netwerk."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Koude hemel"
+"_eaf6fb"="Koel daglicht"
+"_f5faf6"="Koel wit"
+"_f2eccf"="Zonsopgang"
+"_f1e0b5"="Warm wit"
+"_efd275"="Warme gloed"
+"_ebb63e"="Kaarslicht"
+"_e78834"="Warm amber"
+"_e57345"="Perzik"
+"_da5d41"="Donkere perzik"
+"_dc4b31"="Verzadigd rood"
+"_e491af"="Roze"
+"_e8bedd"="Lichtroze"
+"_d9337c"="Verzadigd roze"
+"_c984bb"="Lichtpaars"
+"_8f2686"="Verzadigd paars"
+"_4a418a"="Blauw"
+"_6c83ba"="Lichtblauw"
+"_a9d62b"="Limoen"
+"_d6e44b"="Geel"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Druk snel 4 keer op de knop naast %1$s. Een rood lampje zal knipperen op je afstandsbediening.<br/><br/><b>b.</b> Nadat het lampje stopt met knipperen, wacht je 10 seconden. Dan kun je verdergaan.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Houd de afstandsbediening op maximum 2 cm van de gateway.<br/><br/><b>b.</b> Druk op de knop naast %1$s op de afstandsbediening tot het %1$s lampje op de gateway 4 keer snel knippert.<br/><br/><b>c.</b> Wacht op de bevestiging hier in de app.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Houd de bewegingssensor op maximum 2 cm van de gateway.<br/><br/><b>b.</b> Druk op de knop naast %1$s op de bewegingssensor tot het lampje boven de %1$s op de gateway 4 keer snel knippert.<br/><br/><b>c.</b> Wacht op de bevestiging hier in de app.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Houd je draadloze dimmer op maximum 2 cm van de witte doos op de achterzijde van je deur of paneel.<br/><br/><b>b.</b> Druk gedurende 10 seconden op de knop naast %1$s. Je lichtbron zal dimmen en feller worden. Houd de knop ingedrukt tot het pulseren stopt.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Houd je draadloze dimmer op maximum 2 cm van de gloeilamp.<br/><br/><b>b.</b> Druk gedurende 10 seconden op de knop naast %1$s. Je lichtbron zal dimmen en feller worden. Houd de knop ingedrukt tot het pulseren stopt.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Houd de bewegingssensor op maximum 2 cm van de gloeilamp.<br/><br/><b>b.</b> Druk gedurende 10 seconden op de knop %1$s. Je lichtbron zal dimmen en feller worden. Houd de knop ingedrukt tot het pulseren stopt.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Houd je bewegingssensor op maximum 2 cm van de witte doos op de achterzijde van je deur of paneel.<br/><br/><b>b.</b> Druk gedurende 10 seconden op de knop %1$s. Je lichtbron zal dimmen en feller worden. Houd de knop ingedrukt tot het pulseren stopt.]]>"
+"found"="%1$s gevonden"
+"perfect_is_now_connected_to_tr"="Perfect! %1$s is nu verbonden met TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Verbonden"
+"disconnected_"="Verbinding verbroken"
+"find_detailed_help_in_our_trou"="Vind gedetailleerde hulp in onze gids voor probleemoplossing."
+"disconnect_from_your_gateway"="Verbinding met gateway verbreken"
+"are_you_sure_you_want_to_disco"="Weet je zeker dat je de verbinding wilt verbreken?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Trådfri-versie"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Tijdschakelaars die dezelfde lampen gebruiken"
+"you_have_two_timers_using_the_"="Je hebt twee tijdschakelaars die dezelfde lampen gebruiken. Gelieve te resetten.\nOf\nJe hebt twee tijdschakelaars die dezelfde tijdsperiodes gebruiken. Gelieve te resetten om je lampen op het juiste tijdstip te houden"
+"your_timers_are_still_loading_"="Je tijdschakelaars worden geladen. Probeer opnieuw binnen een paar seconden."
+"which_day"="%1$s Welke dag?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Hulp vragen"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Houd je afstandsbediening op maximum 2 cm van de gloeilamp.<br /><br /><b>b.</b> Druk gedurende 10 seconden op de knop naast de %1$s. Je lichtbron zal dimmen en feller worden. Houd de knop ingedrukt tot het pulseren stopt.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Houd je afstandsbediening op maximum 2 cm van de witte doos op de achterzijde van je deur of paneel.<br /><br /><b>b.</b> Druk gedurende 10 seconden op de knop naast de %1$s. Je lichtbron zal dimmen en feller worden. Houd de knop ingedrukt tot het pulseren stopt.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Druk vier keer snel op de knop naast de %1$s. Een rood lampje zal knipperen op je bewegingssensor.<br /><br /><b>b.</b> Nadat het lampje is gestopt met knipperen, wacht je 10 seconden. Dan kun je verdergaan.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Druk vier keer snel op de knop naast de %1$s. Een rood lampje zal knipperen op je draadloze dimmer.<br /><br /><b>b.</b> Nadat het lampje is gestopt met knipperen, wacht je 10 seconden. Dan kun je verdergaan]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Houd de draadloze dimmer op maximum 2 cm van de gateway.<br /><br /><b>b.</b> Druk op de knop naast de %1$s op de draadloze dimmer tot het lampje boven %1$s op de gateway vier keer snel knippert.<br /><br /><b>c.</b> Wacht op de bevestiging hier in de app.]]>"
+"are_you_sure_you_want_to_delete_mood"="Weet je zeker dat je \'%1$s\' wilt verwijderen"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Gloeilamp warm wit"
+"bulb_e27_w_opal_1000lm"="Gloeilamp warm wit"
+"bulb_e26_opal_1000lm"="Gloeilamp warm wit"
+"bulb_e12_ws_opal_400lm"="Witte spectrum-gloeilamp"
+"bulb_e26_ws_clear_950lm"="Witte spectrum-gloeilamp"
+"bulb_e26_ws_opal_980lm"="Witte spectrum-gloeilamp"
+"bulb_e27_ws_opal_980lm"="Witte spectrum-gloeilamp"
+
+<!--3rd PARTY DEVICES* -->
+"device"="apparaat"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integraties"
+"eg_amazon_alexa_apple_homekit"="bv. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Gebruik je stem om je TRÅDFRI-verlichting te bedienen met behulp van Amazon Alexa.\n\nbv. “Alexa, schakel de verlichting in.” \n“Alexa, dim de verlichting met 50%.”"
+"enable"="Inschakelen"
+"disable"="Uitschakelen"
+"you_are_logged_in"="Je bent ingelogd."
+"to_get_started_enable_the_trad"="Om van start te gaan, activeer je de TRÅDFRI-skill in de Alexa-app. Zeg dan: “Alexa, detecteer mijn apparaten.”"
+"ensure_your_alexa_device_is_s"="Zorg ervoor dat je Alexa-apparaat is geconfigureerd"
+"to_continue_your_alexa_device"="Om verder te gaan, moet je Alexa-apparaat operationeel zijn. Volg de instructies in de snelstartgids van Amazon Alexa."
+
+<!-- Whats New Strings* -->
+"whats_new"="Nieuwe functies"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Laat al je verbonden apparaten beter en slimmer voor je werken. TRÅDFRI werkt nu ook met Apple HomeKit."
+"learn_more"="Meer weten"
+"use_your_voice_to_control_your"="Gebruik je stem om je TRÅDFRI-lichten te bedienen met behulp van Amazon Alexa. Schakel ze in of uit of pas de helderheid aan."
+"disable_amazon_alexa"="Amazon Alexa uitschakelen?"
+"you_will_no_longer_be_able_to_"="Je zult je TRÅDFRI-apparaten niet meer kunnen bedienen met Amazon Alexa."
+"problem_connecting_to_amazon"="Probleem tijdens het verbinden met Amazon"
+"please_try_again"="Gelieve opnieuw te proberen."
+"accept_the_terms_of_use"="Aanvaard de gebruiksvoorwaarden"
+"in_order_to_enable_amazon_alex"="Om Amazon Alexa te activeren, moet je de gebruiksvoorwaarden aanvaarden."
+"cant_connect_to_amazon"="Kan geen verbinding maken met Amazon"
+"check_your_internet_connection"="Controleer je internetverbinding en probeer opnieuw."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Verlichting wordt feller bij %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Geef updatedetails weer"
+"gateway_update_required"="Gateway-update vereist"
+"to_use_this_new_feature_you_ne"="Om deze nieuwe functie te gebruiken, moet je je gatewaysoftware updaten naar de recentste versie."
+"later"="Later"
+"gateway_update_available"="Gateway-update beschikbaar"
+"to_use_new_features_you_need_t"="Om nieuwe functies te gebruiken, moet je je gatewaysoftware updaten naar de recentste versie."
+"new_update_available"="Nieuwe update beschikbaar"
+"in_order_to_control_your_devic"="Om je apparaten te bedienen met je telefoon, moet je de TRÅDFRI-app updaten."
+"as_a_security_precaution_you_h"="Voor de veiligheid werd de verbinding met je gateway verbroken.\n \nMaak opnieuw verbinding met je gateway om verder te gaan."
+"unknown_device"="Onbekend apparaat"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Lampen in verschillende kleuren"
+"now_you_can_decorate_your_home"="Je kunt nu je huis versieren met gekleurde verlichting."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Bijna klaar. Open de Google Home-app om stembediening in te schakelen op je TRÅDFRI-apparaten."
+"set_up_tradfri_for_voice_contr"="Stel stembediening in voor TRÅDFRI via Google Assistant.\n\n “Oké, Google, doe het licht aan”, of “Oké, Google, dim het licht voor 50%“."
+"are_you_using_a_google_home_de"="Gebruik je een Google Home-apparaat?"
+"if_youre_using_a_google_home_d"="Als je een Google Home-apparaat gebruikt, controleer dan nu of dat is ingeschakeld.\nGa door als je Google Assistant alleen op je telefoon gebruikt."
+"cant_connect_to_google"="Kan geen verbinding maken met Google"
+"disable_google_assistant"="Google Assistant uitschakelen?"
+"you_will_no_longer_be_able_to_contro"="Je kunt je TRÅDFRI-apparaten niet meer bedienen met Google Home."
+"google_assistant_could_not_be_"="Google Assistant kon niet ingeschakeld worden"
+"google_assistant"="Google Assistant"
+"use_voice_control_to_adjust_yo"="Gebruik stembediening om je TRÅDFRI-apparaten in te stellen met Google Assistant. Zet ze aan, kies andere kleuren of pas de helderheid aan."
+"you_cant_have_two_timers_on_a"="Je kunt geen twee timers tegelijk instellen voor dezelfde lampen."
+"multicolored_bulb_title"="Lampen in verschillende kleuren"
+"multicolored_bulb_desc"="Versier je huis met gekleurde verlichting. De Trådfri-familie is gegroeid."
+"something_went_wrong"="Er is iets fout gegaan."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Apparaten beheren"
+"devices"="apparaten"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Juridische gegevens"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="VERBINDING MET GATEWAY VERBREKEN"
+"in_progress"="Een moment geduld…"
+"turn_everything_off"="SCHAKEL ALLES UIT"
+"all_devices_are_off"="Alle apparaten zijn uitgeschakeld."
+"devices_on"="%1$s apparaten aan"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Plan wanneer je lichten aan en uit gaan, zelfs als je niet thuis bent."
+"on_and_off_small"="Aan en uit"
+"group_must_be_empty_to_delete"="De groep moet leeg zijn om deze te verwijderen."
+"please_remove_all_devices"="Verwijder alle apparaten in de groep."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Google Assistant kon niet worden uitgeschakeld"
+"please_verify_your_internet_co"="Controleer je internetverbinding en probeer opnieuw.\n\nAls de app na enkele pogingen nog steeds geen verbinding maakt, probeer dan alle mogelijk ingeschakelde integraties te verwijderen."
+"try_disable_again"="PROBEER OPNIEUW UIT TE SCHAKELEN"
+"remove_integration"="INTEGRATIES VERWIJDEREN"
+"cant_connect"="Kan geen verbinding maken"
+"remove_all_integration"="Alle integraties verwijderen?"
+"are_you_sure_this_will_remove_"="Weet je het zeker? Hiermee worden ALLE mogelijk ingeschakelde integraties verwijderd."
+"amazon_alexa_could_not_be_disa"="Amazon Alexa kon niet worden uitgeschakeld"
+"please_verify_your_internet_connect"="Controleer je internetverbinding en probeer opnieuw.\n\nAls de app na enkele pogingen nog steeds geen verbinding maakt, kies je INTEGRATIES VERWIJDEREN om de integraties opnieuw in te stellen. Probeer het vervolgens opnieuw.\nHiermee worden ALLE mogelijk ingeschakelde integraties verwijderd, inclusief Amazon Alexa."
+"eg_amazon_alexa_google_assista"="b v. Amazon Alexa, Google Assistant"
+

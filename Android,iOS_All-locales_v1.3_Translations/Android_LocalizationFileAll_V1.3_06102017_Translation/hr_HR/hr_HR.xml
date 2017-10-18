@@ -1,0 +1,608 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="POZDRAV!"
+"i_agree_to_the"="Prihvaćam"
+"plug_in_your_gateway"="Priključite pristupnik"
+"next"="DALJE"
+"connect"="POVEŽI"
+"terms_conditions"="Uvjeti i odredbe"
+"please_agree_to_continue"="Prihvatite za nastavak."
+"connecting_to_your_gateway"="Povezivanje s pristupnikom u tijeku…"
+"plug_your_gateway_into_a_power"="Priključite svoj pristupnik u strujnu utičnicu i povežite ga s usmjerivačem Wi-Fi veze pomoću isporučenog ethernet kabela."
+"congrats"="Čestitamo!"
+"and"="i"
+"connect_to_wifi"="Poveži s Wi-Fi mrežom"
+"this_name_is_already_in_use_pl"="Naziv je već u upotrebi. Pokušajte dodijeliti drugi naziv."
+"welcome_to_the_tradfri_lightin"="Dobro došli u sustav rasvjete TRÅDFRI. Riječ je o najjednostavnijem načinu za stvaranje prekrasnog osvjetljenja za ugodno ozračje u vašemu domu. Jeste li spremni započeti s postavljanjem?"
+"enter_the_gateway_ip"="Unesi IP adresu pristupnika"
+"gateway_ip"="IP adresa pristupnika"
+"if_the_gateway_is_plugged_in_c"="Ako je pristupnik ispravno priključen, a i dalje ga nije moguće pronaći, možda će biti potrebno ručno unijeti IP adresu pristupnika. Više informacija potražite na stranici podrške."
+"the_gateway_ip_is_incorrect"="IP adresa pristupnika nije točna."
+"you_must_be_connected_to_your_"="Morate biti povezani s Wi-Fi mrežom kako biste sustavom TRÅDFRI upravljali iz svoje aplikacije."
+"these_are_your_tradfri_devices"="Ovo su vaši uređaji sustava TRÅDFRI"
+"lets_get_started"="ZAPOČNIMO"
+"get_started"="POČETAK RADA"
+"youre_now_connected_to_the_gat"="Sada ste povezani s pristupnikom. Povežite svoje uređaje."
+"add_another_device"="Dodaj drugi uređaj"
+"finding_gateway"="Pronalaženje pristupnika u tijeku..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Skeniranje u tijeku…"
+"type_in_the_code_instead"="Umjesto toga unesite kôd"
+"youll_find_the_code_on_the_bac"="Kôd ćete naći na stražnjoj strani pristupnika."
+"we_found_the_code"="Pronašli smo kôd."
+"hold_on_while_we_verify_the_co"="Pričekajte da provjerimo kôd…"
+"scan"="SKENIRAJ"
+"now_scan_the_code"="Sada skenirajte kôd"
+"enable_camera"="OMOGUĆI KAMERU"
+"type_in_the_serial_number"="Unesite serijski broj"
+"type_in_the_security_code"="Unesite sigurnosni kôd"
+"serial_number"="Serijski broj"
+"security_code"="Sigurnosni kôd"
+"youll_find_it_on_the_back_of_y"="Naći ćete ga na stražnjoj strani pristupnika."
+"youll_find_them_both_on_the_ba"="Oboje ćete naći na stražnjoj strani pristupnika."
+"this_serial_number_is_incorrec"="Serijski broj nije točan"
+"type_in_the_serial_number_and_"="Unesite serijski broj i sigurnosni kôd"
+"enable_your_camera_to_scan_the"="Omogućite kameru za skeniranje koda."
+"type_in_the_code"="UNESITE KÔD"
+"the_security_key_should_be_dig"="Sigurnosni kôd mora imati 16 znamenki"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Započnite odabirom uređaja koji želite dodati"
+"open_the_back_of_the_remote_co"="1. Otvorite stražnju stranu daljinskog upravljača"
+"reset_the_remote_control"="2. Resetirajte daljinski upravljač"
+"connect_the_remote_control"="3. Povežite daljinski upravljač"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Uključite svjetlo"
+"make_sure_that_your_light_is_i"="Provjerite je li svjetlo ugrađeno i je li uključen glavni strujni prekidač."
+"which_control_device_are_you_u"="2. Koje uređaje za upravljanje upotrebljavate?"
+"remember_to_use_a_control_devi"="Svakako upotrijebite uređaj za upravljanje koji je već povezan."
+"connect_the_light"="3. Povežite svjetlo"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Pronalaženje uređaja u tijeku..."
+"bulb"="Žarulja"
+"door_or_panel"="Vrata ili panel"
+"open_the_back_of_the_motion_se"="1. Otvorite stražnju stranu senzora pokreta"
+"reset_the_motion_sensor"="2. Resetirajte senzor pokreta"
+"connect_the_motion_sensor"="3. Povežite senzor pokreta"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Otvorite stražnju stranu bežičnog prekidača za prigušivanje"
+"reset_the_wireless_dimmer"="2. Resetirajte bežični prekidač za prigušivanje"
+"connect_the_wireless_dimmer"="3. Povežite bežični prekidač za prigušivanje"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Pronalaženje uređaja"
+"which_device_would_you_like_to"="Koji uređaj želite dodati?"
+"now_add_your_lights"="Sada dodajte svjetla"
+"they_can_be_added_after_youve_"="Svjetla je moguće dodati nakon povezivanja uređaja za upravljanje."
+"ill_do_this_later"="Postavit ću kasnije"
+"delete_mood"="Izbriši raspoloženje"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Kako biste potvrdili premještanje uređaja pritisnite bilo koji gumb na uređaju. Možda ćete ga morati pritisnuti nekoliko puta."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="MOJ DOM"
+"add_lights"="DODAJ SVJETLA"
+"no_lights_have_been_added_to_t"="U grupu još nije dodano nijedno svjetlo."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Unesi naziv raspoloženja"
+"please_pick_another_name_this_"="Odaberite drugi naziv, ovaj je već u upotrebi."
+"moods_by_ikea"="IKEA raspoloženja"
+"new_mood"="Novo raspoloženje"
+"please_enter_a_mood_name"="Unesite naziv raspoloženja."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Isključeno"
+"turn_on"="Uključeno"
+"min"="Minimalno"
+"max"="Maksimalno"
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Jedan uređaj nije moguće pronaći"
+"devices_cannot_be_found"="Uređaje %1$s nije moguće pronaći"
+"one_remote_has_a_low_battery"="Baterija je jednog daljinskog upravljača slaba"
+"one_motion_sensor_has_a_low_ba"="Baterija je jednog senzora pokreta slaba"
+"remotes_have_low_batteries"="Baterije su daljinskih upravljača %1$s slabe"
+"devices_have_low_batteries"="Baterije su uređaja %1$s slabe"
+"updating"="Ažuriranje u tijeku…"
+"update_successful"="Ažuriranje uspješno"
+"was_added_to_a_new_group"="Uređaj %1$s dodan je novoj grupi."
+"was_removed"="Uređaj %1$s je uklonjen"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Grupe"
+"rename_group"="Promijeni naziv grupe"
+"add_new_group"="Dodaj novu grupu"
+"add_devices"="Dodaj uređaje"
+"new_group"="Nova grupa"
+"group_name"="Naziv grupe"
+"low_battery"="Slaba baterija"
+"manage_your_devices"="Upravljanje uređajima"
+"devices"="Uređaji"
+"last_seen_ago"="Posljednji put viđeno prije %1$s"
+"move_a_device_to_this_group_by"="Premjesti uređaj u ovu grupu dodirivanjem triju točkica."
+"leaving_will_remove_new_group"="Ako odustanete, grupa će se ukloniti"
+"groups_without_any_devices_wil"="Grupe bez uređaja automatski će se ukloniti"
+"move_to_other_group"="Premjesti u drugu grupu"
+"rename_device"="Promijeni naziv uređaja"
+"remove_device"="Ukloni uređaj"
+"select_destination_group"="Odaberi odredišnu grupu"
+"the_name_is_already_being_used"="Naziv \" %1$s \" već je u upotrebi."
+"remove_accessory"="Ukloniti dodatak?"
+"it_looks_like_there_was_a_prob"="Čini se da je došlo do problema s premještanjem svjetla. Provjerite je li svjetlo uključeno i ponovno ga pokušajte premjestiti."
+"disconnected_devices"="Odspojeni uređaji"
+"add_new"="DODAJ NOVO"
+"device_was_not_moved"="Uređaj nije premješten"
+"unfortunately_you_cant_add_a_m"="Nažalost, ne možete dodati senzor pokreta grupi s bežičnim prekidačima za prigušivanje ili daljinskim upravljačima."
+"press_any_button_on_your_remot"="Pritisnite bilo koji gumb na daljinskom upravljaču."
+"great"="Odlično!"
+"your_was_moved_to"="Uređaj %1$s premješten je u %2$s."
+"are_you_sure_you_want_to_remov"="Želite li doista ukloniti %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="BROJAČI VEMENA"
+"enabled"="omogućeno"
+"disabled"="onemogućeno"
+"every_day"="Svakodnevno"
+"days"="Dani"
+"hours"="Sati"
+"minutes"="Minute"
+"seconds"="Sekunde"
+"mon"="Pon"
+"tue"="Uto"
+"wed"="Sri"
+"thu"="Čet"
+"fri"="Pet"
+"sat"="Sub"
+"sun"="Ned"
+"timer_is_not_set"="Brojač vremena nije postavljen"
+"mon_fri"="Pon – pet"
+"cant_set_time"="Nije moguće postaviti vrijeme"
+"make_sure_you_set_your_timer_b"="Provjerite jeste li postavili brojač vremena prije nego što napustite svoj dom."
+"are_you_sure_you_want_to_delete_this_tim"="Želite li doista izbrisati ovaj brojač vremena?"
+"add"="DODAJ"
+"am"="UJUTRO"
+"pm"="POPODNE"
+"monday"="P"
+"tuesday"="U"
+"wednesday"="S"
+"thursday"="Č"
+"friday"="P"
+"saturday"="S"
+"sunday"="N"
+"set_your_time"="Postavi vrijeme"
+"new_timer"="Novi brojač vremena"
+"what_time"="%1$s U koje vrijeme?"
+"which_lights"="%1$s Koja svjetla?"
+"from"="od"
+"to"="do"
+"should_they_turn_on_or_off"="%1$s Trebaju li se uključiti ili isključiti?"
+"save"="SPREMI"
+"set_your_lights_to_turn_on_or_"="Postavite svjetla kako bi se uključila ili isključila u trenutku u kojem vi to želite."
+"set_your_lights_to_turn_on_or_off_e"="Postavite svjetla kako bi se uključila ili isključila u trenutku u kojem vi to želite.\n\nSvjetla će zapamtiti razinu osvjetljenja i boju postavljenu u posljednjem trenutku kada su upotrijebljena."
+"during_what_time"="%1$s Koliko dugo?"
+"you_cant_set_a_time_with_the_s"="Ne možete postaviti razdoblje s jednakim početnim i završnim vremenom."
+"a_timer_has_been_updated"="Brojač je vremena ažuriran"
+"timers_have_been_updated"="Brojači su vremena ažurirani"
+"view"="Pregled"
+"you_are_now_using_the_maximum_"="Sada upotrebljavate najveći broj brojača vremena."
+"timers_help_you_set_your_light"="Brojači vremena pomažu vam da postavite uključivanje i isključivanje osvjetljenja. Dodajte brojač kako biste započeli!"
+"some_of_your_timers_was_update"="Pojedini brojači vremena ažurirani su s drugog uređaja."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Ponovi"
+"rise_and_shine"="Buđenje"
+"set_your_lights_to_wake_you_up"="Postavite svjetla kako bi vas probudila."
+"your_rise_and_shine_timer_was_"="Brojač vremena za buđenje ažuriran je s drugog uređaja."
+"delete_rise_and_shine"="Izbriši buđenje"
+"your_rise_and_shine_timer_just"="Brojač vremena za buđenje upravo je započeo."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Izvan doma"
+"out_and_about_set_your_lights_"="Nekamo ste se uputili? Postavite svjetla kako bi se uključila i isključila kao da ste kod kuće."
+"set_your_lights_to_slowly_dim_"="Postavite svjetla tako da se polako pojačavaju, 30 minuta prije vremena postavljenog na brojaču. Vaša će se svjetla polako pojačavati\n\n– baš poput jutarnjeg sunca."
+"your_away_from_home_timer_just"="Brojač vremena Izvan doma upravo je započeo."
+"your_away_from_home_timer_was_"="Brojač vremena Izvan doma ažuriran je s drugog uređaja."
+"delete_away_from_home"="Izbriši Izvan doma"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="UKLJUČENO i ISKLJUČENO"
+"on_or_off"="Uključeno ili isključeno"
+"out_and_about_set_your_lights_to_tu"="Nekamo ste se uputili? Postavite svjetla kako bi se uključila i isključila kao da ste kod kuće.\n\nNe zaboravite isključiti svjetla pomoću zidnog prekidača. Svjetla će zapamtiti razinu osvjetljenja i boju postavljenu u posljednjem trenutku kada su upotrijebljena."
+"your_on_or_off_timer_just_star"="Brojač vremena Uključeno ili isključeno upravo je započeo."
+"your_on_or_off_timer_was_updat"="Brojač vremena Uključeno ili isključeno ažuriran je s drugog uređaja."
+"delete_on_or_off"="Izbriši UKLJUČENO ili ISKLJUČENO"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="POSTAVKE"
+"need_help"="Trebate pomoć?"
+"language"="Jezik"
+"default_language"="Zadani jezik"
+"send_in_email"="POŠALJI U OBLIKU E-PORUKE"
+"terms_and_conditions"="Uvjeti i odredbe"
+"privacy_policy"="Izjava o zaštiti privatnosti i osobnih podataka"
+"software_licenses"="Softverske licence"
+"continue_"="Nastavi"
+"youve_selected_as_your_language_"="Odabrali ste %1$s kao svoj jezik."
+"tradfri_terms_and_conditions"="Uvjeti i odredbe sustava TRÅDFRI"
+"tradfri__privacy_policy"="Izjava o zaštiti privatnosti i osobnih podataka u okviru sustava TRÅDFRI"
+"tradfri_is_up_to_date"="Sustav je TRÅDFRI ažuriran"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Ažuriranja su dostupna"
+"update"="AŽURIRAJ"
+"unreachable"="Izvan dosega"
+"update_details"="Pojedinosti o ažuriranju"
+"up_to_date"="Ažurirano"
+"remote_controls"="Daljinski upravljači"
+"motion_sensors"="Senzori pokreta"
+"this_should_only_take_about_mi"="Ovo će potrajati približno 1 minutu."
+"dismiss"="ODBACI"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="ODSPOJI"
+"disconnecting"="ODSPAJANJE U TIJEKU..."
+"disconnected"="ODSPOJENO"
+"disconnecting_allow_you_to_con"="Odspajanje omogućuje povezivanje s drugim pristupnikom. Nećete moći upotrebljavati oba pristupnika istodobno, ali ne brinite, svi vaši prizori i postavke svjetla i dalje su pohranjene na vašem trenutačnom pristupniku."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Novi pristupnik pronađen"
+"gateway_is_rebooting"="Ponovno pokretanje pristupnika u tijeku..."
+"connect_to_new_gateway"="Poveži se s novim pristupnikom"
+"you_cant_connect_to_your_curre"="Ne možete se povezati sa svojim trenutačnim pristupnikom, ali dostupan je drugi pristupnik. Želite li se povezati s novim pristupnikom?"
+"connecting_will_disconnect_you"="Povezivanjem ćete se odspojiti s trenutačnog pristupnika. No ne brinite, sve vaše postavke i dalje su pohranjene na vašem trenutačnom pristupniku."
+"try_again"="POKUŠAJ PONOVNO"
+"oops"="Ups!"
+"youre_about_to_remove_the_last"="Uklonit ćete posljednji uređaj"
+"your_light_needs_to_be_turned_"="Svjetla je potrebno uključiti pomoću prekidača prije nego što ih možete upotrebljavati."
+"remember_to_turn_on_your_light"="Ne zaboravite uključiti svjetla"
+"oops_something_went_wrong"="Ups! Naišli smo na problem."
+"enter_the_gateway_ip_manually"="Ručno unesite IP adresu pristupnika"
+"gateway_is_updating"="Ažuriranje pristupnika u tijeku..."
+"your_gateway_software_is_being"="Softver pristupnika ažurira se kako bi vam pružio najbolje moguće iskustvo. Pristupnik će na nekoliko minuta biti nedostupan, a svoja svjetla i daljinski upravljač možete upotrebljavati na uobičajen način."
+"unable_to_connect_to_tradfri"="Povezivanje sa sustavom TRÅDFRI nije moguće"
+"it_looks_like_you_scanned_the_"="Čini se da ste skenirali pogrešan kôd. Pokušajte skenirati kôd na stražnjoj strani pristupnika."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Žarulja bijelog spektra"
+"bulb_e27_white_spectrum_globe_clear"="Žarulja bijelog spektra"
+"bulb_e27_white_spectrum_globe_opal"="Žarulja bijelog spektra"
+"bulb_e14_white_spectrum_globe_"="Žarulja bijelog spektra"
+"color_white_spectrum_bulb"="Žarulja spektra u boji / bijelog spektra"
+"bulb_e14_color_white_spectrum_"="Žarulja spektra u boji / bijelog spektra"
+"white_spectrum_panel"="Panel bijelog spektra"
+"panel_white_spectrum_30_90"="Panel bijelog spektra"
+"panel_white_spectrum_60_60"="Panel bijelog spektra"
+"color_white_spectrum_panel"="Panel spektra u boji / bijelog spektra"
+"white_spectrum_door"="Vrata bijelog spektra"
+"door_white_spectrum_36_84"="Vrata bijelog spektra"
+"remote_control"="Daljinski upravljač"
+"motion_sensor"="Senzor pokreta"
+"wireless_dimmer"="Bežični prekidač za prigušivanje"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Premjesti"
+"rename"="Promijeni naziv"
+"remove"="Ukloni"
+"off"="Isključeno"
+"done"="GOTOVO"
+"cancel"="ODUSTANI"
+"ok"="U REDU"
+"confirm"="POTVRDI"
+"delete"="Izbriši"
+"proceed"="Nastavi"
+"group"="Grupa"
+"plug"="Priključak"
+"everyday"="Svakodnevno"
+"focus"="Radno"
+"relax"="Opuštajuće"
+"plugs"="Priključci"
+"gateway"="Pristupnik"
+"gateways"="Pristupnici"
+
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Postavi sva svjetla u položaj UKLJUČENO"
+"are_all_your_lights_on_they_mu"="Jesu li sva svjetla %1$s uključena? Za uspješno premještanje prekidača za prigušivanje svjetla moraju biti u položaju UKLJUČENO"
+"press_the_link_button"="Pritisnite gumb s poveznicom"
+"to_control_the_new_group_just_"="Za upravljanje novom grupom jednostavno otvorite bežični prekidač za prigušivanje i pritisnite gumb s poveznicom. Uređaj se tada premješta."
+"i_did_it"="Radnja je izvršena"
+"to_finish_removing_your_remote"="Da biste dovršili uklanjanje daljinskog upravljača, resetirajte ga pritiskom na gumb s poveznicom četiri puta. Time ste završili!"
+"to_finish_removing_your_motion"="Da biste dovršili uklanjanje senzora pokreta, resetirajte ga pritiskom na gumb s poveznicom četiri puta. Time ste završili!"
+"to_finish_removing_your_wirele"="Da biste dovršili uklanjanje prekidača za prigušivanje, resetirajte ga pritiskom na gumb s poveznicom četiri puta. Time ste završili!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Da biste premjestili uređaj, otvorite bežični prekidač za prigušivanje u %1$s i pritisnite gumb s poveznicom."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Za premještanje uređaja otvorite prekidače za prigušivanje u %1$s i %2$s i pritisnite gumbe s poveznicom na objema opcijama"
+"required_update"="Potrebno ažuriranje"
+"update_required_tradfri_needs_"="Potrebno je ažuriranje. Da bi aplikacija TRÅDFRI i dalje neometano radila, potrebno ju je ažurirati. Tijekom ažuriranja aplikacija će biti nedostupna."
+"an_important_update_has_been_p"="Dovršeno je važno ažuriranje, a aplikacija TRÅDFRI ažurirana je na najnoviju verziju"
+"reconnect_to_gateway"="Ponovno povezivanje s pristupnikom"
+"is_your_light_on"="Je li svjetlo uključeno?"
+"if_not_turn_it_on_to_successfu"="Ako nije, uključite ga da biste uspješno uklonili uređaj."
+"to_remove_your_light_open_the_"="Da biste uklonili svjetlo, otvorite bežični prekidač za prigušivanje u %1$s i pritisnite gumb s poveznicom."
+"wireless_motion_sensor"="Bežični senzor pokreta"
+"please_confirm"="Premjestiti %1$s?"
+"gently_rotate_your_wireless_di"="Da biste potvrdili, lagano okrećite prekidač za prigušivanje."
+"we_did_not_detect_any_action_o"="Uređaj ne reagira."
+"wave_your_hand_in_front_of_the"="Da biste potvrdili, mahnite rukom ispred senzora pokreta."
+"enter_group_name"="Unesite naziv za grupu"
+"enter_accessory_name"="Unesite naziv za dodatak"
+"remove_"="Ukloni %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Topla bijela žarulja"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Postavite raspoloženje prije spremanja i raspoloženje će biti uključeno."
+"my_moods"="Moja raspoloženja"
+"create_a_mood_and_save_it_for_"="Stvori raspoloženje i spremi ga za brz pristup"
+"light_unreachable"="Svjetlo izvan dosega"
+"if_you_create_or_edit_a_mood_while"="Ako stvorite ili uredite raspoloženje dok je svjetlo izvan dosega, svjetlo će se za to raspoloženje zanemariti. Prije nego što nastavite provjerite jesu li svjetla uključena"
+"edit_moods"="UREDI RASPOLOŽENJA"
+"edit_mood"="UREDI RASPOLOŽENJE"
+"brightness"="SVJETLINA| %1$s"
+"disconnect_app"="ODSPOJI APLIKACIJU"
+"clear_all_settings"="Izbriši sve postavke"
+"this_will_delete_all_Moods"="Ovom se radnjom brišu sva raspoloženja i programatori i resetiraju se sve postavke. Nakon resetiranja svi se vaši uređaji odspajaju s pristupnika"
+"are_you_sure_you_want_to_clear"="Želite li doista izbrisati sve postavke?"
+"clear"="Izbriši"
+"cleared"="Izbrisano"
+"clearing"="Brisanje u tijeku..."
+"see_details"="Prikaži pojedinosti"
+"update_did_not_complete"="Ažuriranje nije dovršeno"
+"one_or_more_devices_didnt_upda"="Ažuriranje jednog ili više uređaja nije uspjelo. Ne brinite, vaša će svjetla i dalje raditi"
+"your_moods_are_still_loading_"="Raspoloženja se još učitavaju. Pokušajte ponovno za nekoliko sekundi."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Ažuriranje nije uspjelo"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Žarulje"
+"waiting_for_gateway"="Čekanje na pristupnik"
+"wireless_dimmers"="Bežični prekidači za prigušivanje"
+"theres_an_important_new_update"="Za aplikaciju TRÅDFRI dostupno je novo važno ažuriranje."
+"close"="Zatvori"
+"update_pending"="Ažuriranje na čekanju"
+"your_devices_are_being_updated"="Ažuriranje uređaja je u tijeku. Aplikaciju TRÅDFRI možete nastaviti upotrebljavati na uobičajen način."
+"start_update"="Započni ažuriranje"
+"continue_to_use_your_lights_as"="Svoja svjetla nastavite upotrebljavati na uobičajen način – ažuriranja će se odvijati u pozadini. Aplikacija kratko vrijeme može biti nedostupna."
+"panel"="Panel"
+"door"="Vrata"
+"panels"="Paneli"
+"doors"="Vrata"
+"check_for_updates"="Provjeri ažuriranja"
+"update_now"="Ažuriraj sada"
+"view_update_details"="Prikaži pojedinosti o ažuriranju"
+"all_your_devices_are_updated_t"="Svi vaši uređaji ažurirani su na najnoviju verziju."
+"your_gateway_didnt_update_dont"="Ažuriranje pristupnika nije uspjelo. Ne brinite, vaša će svjetla i dalje raditi"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Ne možemo se povezati s vašim pristupnikom"
+"we_couldnt_connect_to_your_dev"="Nismo se uspjeli povezati s vašim uređajima. Ako se problem nastavi, isključite pristupnik i ponovno ga uključite"
+"we_couldnt_find_your_gateway_m"="Ne možemo pronaći vaš pristupnik. Provjerite je li povezan s usmjerivačem putem kabela i je li telefon povezan na istu mrežu."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Hladno nebo"
+"_eaf6fb"="Hladno dnevno svjetlo"
+"_f5faf6"="Hladno bijelo"
+"_f2eccf"="Izlazak sunca"
+"_f1e0b5"="Toplo bijelo"
+"_efd275"="Toplo sjajno"
+"_ebb63e"="Svijeće"
+"_e78834"="Toplo jantarno"
+"_e57345"="Breskva"
+"_da5d41"="Tamna breskva"
+"_dc4b31"="Zasićeno crveno"
+"_e491af"="Ružičasto"
+"_e8bedd"="Svijetloružičasto"
+"_d9337c"="Zasićeno ružičasto"
+"_c984bb"="Svijetloljubičasto"
+"_8f2686"="Zasićeno ljubičasto"
+"_4a418a"="Plavo"
+"_6c83ba"="Svijetloplavo"
+"_a9d62b"="Limeta"
+"_d6e44b"="Žuto"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Četiri puta brzo pritisnite i držite gumb pored %1$s. Na daljinskom upravljaču treperi crveno svjetlo.<br/><br/><b>b.</b> Nakon što svjetlo prestane treperiti pričekajte deset sekundi. Zatim možete nastaviti.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Držite daljinski upravljač na udaljenosti do 2 cm od pristupnika.<br/><br/><b>b.</b> Pritisnite i držite gumb pored %1$s na daljinskom upravljaču sve dok %1$s na pristupniku brzo ne zatreperi četiri puta.<br/><br/><b>c.</b> Pričekajte da se u aplikaciji prikaže potvrda.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Držite senzor pokreta na udaljenosti do 2 cm od pristupnika.<br/><br/><b>b.</b> Pritisnite i držite gumb pored %1$s na senzoru na senzoru pokreta sve dok svjetlo iznad %1$s na pristupniku brzo ne zatreperi četiri puta.<br/><br/><b>c.</b> Pričekajte da se u aplikaciji prikaže potvrda.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Držite bežični prekidač za prigušivanje na udaljenosti do 2 cm od bijelog okvira na stražnjoj strani vrata ili panela.<br/><br/><b>b.</b> Pritisnite i držite gumb pored %1$s deset sekundi. Izvor svjetla pojačava se i prigušuje. Držite gumb pritisnutim sve dok pulsiranje ne prestane.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Držite bežični prekidač za prigušivanje na udaljenosti do 2 cm od žarulje.<br/><br/><b>b.</b> Pritisnite i držite gumb pored %1$s deset sekundi. Izvor svjetla pojačava se i prigušuje. Držite gumb pritisnutim sve dok pulsiranje ne prestane.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Držite senzor pokreta na udaljenosti do 2 cm od žarulje.<br/><br/><b>b.</b> Pritisnite i držite gumb %1$s deset sekundi. Izvor svjetla pojačava se i prigušuje. Držite gumb pritisnutim sve dok pulsiranje ne prestane.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Držite senzor pokreta na udaljenosti do 2 cm od bijelog okvira na stražnjoj strani vrata ili panela.<br/><br/><b>b.</b> Pritisnite i držite gumb %1$s deset sekundi. Izvor svjetla pojačava se i prigušuje. Držite gumb pritisnutim sve dok pulsiranje ne prestane.]]>"
+"found"="Pronađeno %1$s"
+"perfect_is_now_connected_to_tr"="Odlično! %1$s sada je povezan s aplikacijom TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Povezano"
+"disconnected_"="Odspojeno"
+"find_detailed_help_in_our_trou"="Pojedinosti za pomoć potražite u našem vodiču za otklanjanje poteškoća."
+"disconnect_from_your_gateway"="Odspoji se s pristupnika"
+"are_you_sure_you_want_to_disco"="Želite li se doista odspojiti?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Verzija aplikacije Trådfri"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Programatori upotrebljavaju ista svjetla"
+"you_have_two_timers_using_the_"="Dva programatora upotrebljavaju ista svjetla. Resetirajte.\nIli\nDva programatora upotrebljavaju ista vremenska razdoblja. Resetirajte da biste programatore postavili na ispravno vrijeme"
+"your_timers_are_still_loading_"="Programatori se još učitavaju. Pokušajte ponovno za nekoliko sekundi."
+"which_day"="%1$s Dan"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Zatražite pomoć"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Držite daljinski upravljač na udaljenosti do 2 cm od žarulje.<br /><br /><b>b.</b> Pritisnite i držite gumb pored %1$s deset sekundi. Izvor svjetla pojačava se i prigušuje. Držite gumb pritisnutim sve dok pulsiranje ne prestane.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Držite daljinski upravljač na udaljenosti do 2 cm od bijelog okvira na stražnjoj strani vrata ili panela.<br /><br /><b>b.</b> Pritisnite i držite gumb pored %1$s deset sekundi. Izvor svjetla pojačava se i prigušuje. Držite gumb pritisnutim sve dok pulsiranje ne prestane.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Četiri puta brzo pritisnite gumb pored %1$s. Na senzoru pokreta treperi crveno svjetlo.<br /><br /><b>b.</b> Nakon što svjetlo prestane treperiti pričekajte deset sekundi. Zatim možete nastaviti.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Četiri puta brzo pritisnite gumb pored %1$s. Na bežičnom prekidaču za prigušivanje treperi crveno svjetlo.<br /><br /><b>b.</b> Nakon što svjetlo prestane treperiti pričekajte deset sekundi. Zatim možete nastaviti]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Držite bežični prekidač za prigušivanje na udaljenosti do 2 cm od pristupnika.<br /><br /><b>b.</b> Pritisnite i držite gumb pored %1$s na bežičnom prekidaču za prigušivanje sve dok svjetlo iznad %1$s na pristupniku brzo ne zatreperi četiri puta.<br /><br /><b>c.</b> Pričekajte da se u aplikaciji prikaže potvrda.]]>"
+"are_you_sure_you_want_to_delete_mood"="Želite li doista izbrisati \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Topla bijela žarulja"
+"bulb_e27_w_opal_1000lm"="Topla bijela žarulja"
+"bulb_e26_opal_1000lm"="Topla bijela žarulja"
+"bulb_e12_ws_opal_400lm"="Žarulja bijelog spektra"
+"bulb_e26_ws_clear_950lm"="Žarulja bijelog spektra"
+"bulb_e26_ws_opal_980lm"="Žarulja bijelog spektra"
+"bulb_e27_ws_opal_980lm"="Žarulja bijelog spektra"
+
+<!--3rd PARTY DEVICES* -->
+"device"="uređaj"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integracije"
+"eg_amazon_alexa_apple_homekit"="npr. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Glasom upravljaj svjetlima TRÅDFRI s pomoću aplikacije Amazon Alexa.\n\nnpr. „Alexa, upali svjetlo” ili\n„Alexa, priguši svjetlo za 50%”"
+"enable"="Omogući"
+"disable"="Onemogući"
+"you_are_logged_in"="Prijavljen/a si."
+"to_get_started_enable_the_trad"="Za početak omogući značajku TRÅDFRI u aplikaciji Alexa. Zatim reci: „Alexa, pronađi moje uređaje.”"
+"ensure_your_alexa_device_is_s"="Postavi uređaj Alexa"
+"to_continue_your_alexa_device"="Za nastavak tvoj uređaj Alexa mora biti postavljen i uključen. Slijedi upute u vodiču za brzo postavljanje aplikacije Amazon Alexa."
+
+<!-- Whats New Strings* -->
+"whats_new"="Što je novo"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Omogući da svi tvoji povezani uređaji za tebe rade učinkovitije i pametnije. TRÅDFRI sada radi sa sustavom Apple HomeKit."
+"learn_more"="Saznaj više"
+"use_your_voice_to_control_your"="Glasom upravljaj svjetlima TRÅDFRI s pomoću aplikacije Amazon Alexa. Uključi ih i isključi ili prilagodi njihovu jačinu."
+"disable_amazon_alexa"="Onemogućiti aplikaciju Amazon Alexa?"
+"you_will_no_longer_be_able_to_"="Više nećeš moći upravljati uređajima TRÅDFRI iz aplikacije Amazon Alexa."
+"problem_connecting_to_amazon"="Problem pri povezivanju s Amazonom"
+"please_try_again"="Pokušaj ponovno kasnije."
+"accept_the_terms_of_use"="Prihvaćanje uvjeta upotrebe"
+"in_order_to_enable_amazon_alex"="Da bi omogućio/la aplikaciju Amazon Alexa, moraš prihvatiti uvjete upotrebe."
+"cant_connect_to_amazon"="Nije se moguće povezati s Amazonom"
+"check_your_internet_connection"="Provjeri internetsku vezu i pokušaj ponovno."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Svjetla se počinju pojačavati u %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Prikaži pojedinosti o ažuriranju"
+"gateway_update_required"="Potrebno je ažuriranje pristupnika"
+"to_use_this_new_feature_you_ne"="Za upotrebu ove nove značajke moraš ažurirati softver pristupnika na najnoviju verziju."
+"later"="Kasnije"
+"gateway_update_available"="Dostupno je ažuriranje za pristupnik"
+"to_use_new_features_you_need_t"="Za upotrebu novih značajki moraš ažurirati softver pristupnika na najnoviju verziju."
+"new_update_available"="Dostupno je novo ažuriranje"
+"in_order_to_control_your_devic"="Da bi mogao/la upravljati uređajima s telefona, moraš ažurirati aplikaciju TRÅDFRI."
+"as_a_security_precaution_you_h"="Veza s pristupnikom prekinuta je iz sigurnosnih razloga.\n \nZa nastavak se ponovno poveži s pristupnikom."
+"unknown_device"="Nepoznat uređaj"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Višebojne žarulje"
+"now_you_can_decorate_your_home"="Sada svoj dom možeš ukrasiti svjetlom u boji."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Još malo pa gotovo. Otvori aplikaciju Google Home za aktivaciju glasovnog upravljanja uređajima TRÅDFRI."
+"set_up_tradfri_for_voice_contr"="Postavi TRÅDFRI za glasovno upravljanje putem Google asistenta.\n\nnpr. „U redu, Google, upali svjetlo” ili „U redu, Google, priguši svjetlo za 50%”."
+"are_you_using_a_google_home_de"="Koristiš li uređaj Google Home?"
+"if_youre_using_a_google_home_d"="Ako koristiš uređaj Google Home, provjeri je li uključen.\nAko Google asistenta upotrebljavaš samo na telefonu, nastavi."
+"cant_connect_to_google"="Povezivanje s Googleom nije moguće"
+"disable_google_assistant"="Isključiti Google asistenta?"
+"you_will_no_longer_be_able_to_contro"="Više nećeš moći upravljati uređajima TRÅDFRI iz aplikacije Google Home."
+"google_assistant_could_not_be_"="Google asistent ne može se omogućiti"
+"google_assistant"="Google asistent"
+"use_voice_control_to_adjust_yo"="Upotrijebi glasovno upravljanje za prilagodbu uređaja TRÅDFRI s pomoću Google asistenta. Uključi ih, mijenjaj boje ili prilagodi jačinu."
+"you_cant_have_two_timers_on_a"="Ne možeš za ista svjetla istodobno imati uključena dva tajmera."
+"multicolored_bulb_title"="Žarulje u više boja"
+"multicolored_bulb_desc"="Ukrasi svoj dom svjetlima u boji. Obitelj Trådfri upravo se proširila."
+"something_went_wrong"="Došlo je do problema."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Upravljanje uređajima"
+"devices"="uređaj(a)"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Pravne informacije"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="ODSPOJI SE S PRISTUPNIKA"
+"in_progress"="U tijeku…"
+"turn_everything_off"="ISKLJUČI SVE"
+"all_devices_are_off"="Svi su uređaji isključeni."
+"devices_on"="Broj uključenih uređaja: %1$s"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Postavi uključivanje i isključivanje svjetala, čak i kada nisi kod kuće."
+"on_and_off_small"="Uključivanje i isključivanje"
+"group_must_be_empty_to_delete"="Za brisanje grupa mora biti prazna."
+"please_remove_all_devices"="Ukloni sve uređaje iz grupe."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Google asistent ne može se onemogućiti"
+"please_verify_your_internet_co"="Provjeri internetsku vezu i pokušaj ponovno.\n\nAko se aplikacija ne povezuje nakon nekoliko pokušaja, pokušaj ukloniti sve ostale integracije koje su možda omogućene."
+"try_disable_again"="PONOVNO POKUŠAJ ONEMOGUĆITI"
+"remove_integration"="UKLONI INTEGRACIJE"
+"cant_connect"="Povezivanje nije moguće"
+"remove_all_integration"="Želiš li ukloniti sve integracije?"
+"are_you_sure_this_will_remove_"="Jesi li siguran? Time ćeš ukloniti SVE omogućene integracije."
+"amazon_alexa_could_not_be_disa"="Amazon Alexa ne može se onemogućiti"
+"please_verify_your_internet_connect"="Provjeri internetsku vezu i pokušaj ponovno.\n\nAko se aplikacija ne poveže nakon nekoliko pokušaja, odaberi UKLONI INTEGRACIJE kako bi se integracije poništile pa pokušaj ponovno.\nTime ćeš ukloniti SVE omogućene integracije, uključujući aplikaciju Amazon Alexa."
+"eg_amazon_alexa_google_assista"="npr. Amazon Alexa, Google asistent"
+

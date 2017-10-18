@@ -1,0 +1,608 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="Dobrý den!"
+"i_agree_to_the"="Souhlasím s těmito dokumenty"
+"plug_in_your_gateway"="Připojte portál"
+"next"="DALŠÍ"
+"connect"="PŘIPOJIT"
+"terms_conditions"="Podmínky používání"
+"please_agree_to_continue"="Chcete-li pokračovat, musíte souhlasit s těmito podmínkami."
+"connecting_to_your_gateway"="Připojování k portálu…"
+"plug_your_gateway_into_a_power"="Zapojte portál do zásuvky a připojte ho ke směrovači Wi-Fi pomocí dodaného ethernetového kabelu."
+"congrats"="Blahopřejeme!"
+"and"="a"
+"connect_to_wifi"="Připojit k síti Wi-Fi"
+"this_name_is_already_in_use_pl"="Tento název se již používá. Použijte prosím jiný."
+"welcome_to_the_tradfri_lightin"="Vítejte u systému osvětlení TRÅDFRI. Jedná se o nejsnazší způsob, jak si krásně osvětlit domov a zpříjemnit si tak život. Jste připraveni dát se do nastavování?"
+"enter_the_gateway_ip"="Zadejte IP adresu portálu"
+"gateway_ip"="IP adresa portálu"
+"if_the_gateway_is_plugged_in_c"="Jestliže portál nelze nalézt, i když je správně zapojený, možná budete muset jeho IP adresu zadat ručně. Další informace naleznete na stránce podpory."
+"the_gateway_ip_is_incorrect"="IP adresa portálu je nesprávná."
+"you_must_be_connected_to_your_"="Abyste mohli systém TRÅDFRI ovládat z aplikace, musíte být připojení do sítě Wi-Fi."
+"these_are_your_tradfri_devices"="Toto jsou vaše zařízení TRÅDFRI"
+"lets_get_started"="ZAČÍNÁME"
+"get_started"="ZAČÍNÁME"
+"youre_now_connected_to_the_gat"="Nyní jste připojení k portálu. Teď je čas připojit vaše zařízení."
+"add_another_device"="Přidat další zařízení"
+"finding_gateway"="Vyhledávání portálu…"
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Probíhá skenování…"
+"type_in_the_code_instead"="Kód raději zadejte"
+"youll_find_the_code_on_the_bac"="Kód naleznete na zadní stráně portálu."
+"we_found_the_code"="Kód jsme nalezli."
+"hold_on_while_we_verify_the_co"="Počkejte, než kód ověříme…"
+"scan"="NASKENOVAT"
+"now_scan_the_code"="Nyní naskenujte kód"
+"enable_camera"="ZAPNOUT FOTOAPARÁT"
+"type_in_the_serial_number"="Zadejte sériové číslo"
+"type_in_the_security_code"="Zadejte bezpečnostní kód"
+"serial_number"="Sériové číslo"
+"security_code"="Bezpečnostní kód"
+"youll_find_it_on_the_back_of_y"="Naleznete ho na zadní straně portálu."
+"youll_find_them_both_on_the_ba"="Obojí naleznete na zadní straně portálu."
+"this_serial_number_is_incorrec"="Sériové číslo je nesprávné"
+"type_in_the_serial_number_and_"="Zadejte sériové číslo a bezpečnostní kód"
+"enable_your_camera_to_scan_the"="Chcete-li kód naskenovat, musíte zapnout fotoaparát."
+"type_in_the_code"="ZADEJTE KÓD"
+"the_security_key_should_be_dig"="Bezpečnostní kód musí mít 16 číslic"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Začněte zvolením zařízení, které chcete přidat"
+"open_the_back_of_the_remote_co"="1. Otevřete zadní stranu dálkového ovladače"
+"reset_the_remote_control"="2. Resetujte dálkový ovladač"
+"connect_the_remote_control"="3. Připojte dálkový ovladač"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Rozsviťte světlo"
+"make_sure_that_your_light_is_i"="Ujistěte se, že máte namontované světlo a hlavní vypínač je zapnutý."
+"which_control_device_are_you_u"="2. Které ovládací zařízení používáte?"
+"remember_to_use_a_control_devi"="Použijte ovládací zařízení, které je už připojené."
+"connect_the_light"="3. Připojte světlo"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Vyhledávání zařízení…"
+"bulb"="Žárovka"
+"door_or_panel"="Dveře nebo panel"
+"open_the_back_of_the_motion_se"="1. Otevřete zadní stranu pohybového čidla"
+"reset_the_motion_sensor"="2. Resetujte pohybové čidlo"
+"connect_the_motion_sensor"="3. Připojte pohybové čidlo"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Otevřete zadní stranu bezdrátového stmívače"
+"reset_the_wireless_dimmer"="2. Resetujte bezdrátový snímač"
+"connect_the_wireless_dimmer"="3. Připojte bezdrátový snímač"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Vyhledání zařízení"
+"which_device_would_you_like_to"="Které zařízení chcete přidat?"
+"now_add_your_lights"="Nyní přidejte světelné zdroje"
+"they_can_be_added_after_youve_"="Je možné je přidat po připojení ovládacího zařízení."
+"ill_do_this_later"="Udělám to později"
+"delete_mood"="Odstranit náladu"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Chcete-li potvrdit přesunutí zařízení, stiskněte na něm libovolné tlačítko. Možná ho budete muset stisknout několikrát."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="DOMA"
+"add_lights"="PŘIDAT SVĚTLA"
+"no_lights_have_been_added_to_t"="Do této skupiny nebyla zatím přidána žádná světla."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Zadejte název nálady"
+"please_pick_another_name_this_"="Vyberte prosím jiný název, tento se již používá."
+"moods_by_ikea"="Nálady od IKEA"
+"new_mood"="Nová nálada"
+"please_enter_a_mood_name"="Zadejte prosím název nálady."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Zhasnout"
+"turn_on"="Rozsvítit"
+"min"="Min"
+"max"="Max"
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Jedno zařízení se nepodařilo nalézt"
+"devices_cannot_be_found"="Zařízení %1$s se nepodařilo nalézt"
+"one_remote_has_a_low_battery"="Jeden dálkový ovladač má téměř vybitou baterii"
+"one_motion_sensor_has_a_low_ba"="Jedno pohybové čidlo má téměř vybitou baterii"
+"remotes_have_low_batteries"="Dálkové ovladače %1$s mají téměř vybitou baterii"
+"devices_have_low_batteries"="Zařízení %1$s mají téměř vybitou baterii"
+"updating"="Aktualizace…"
+"update_successful"="Aktualizace proběhla úspěšně"
+"was_added_to_a_new_group"="Zařízení %1$s bylo přidáno do nové skupiny."
+"was_removed"="Zařízení %1$s bylo odstraněno."
+
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Skupiny"
+"rename_group"="Přejmenovat skupinu"
+"add_new_group"="Přidat novou skupinu"
+"add_devices"="Přidat zařízení"
+"new_group"="Nová skupina"
+"group_name"="Název skupiny"
+"low_battery"="Dochází baterie"
+"manage_your_devices"="Spravovat zařízení"
+"devices"="Zařízení"
+"last_seen_ago"="Poslední aktivita: před %1$s"
+"move_a_device_to_this_group_by"="Zařízení do této skupiny přesunete klepnutím na tři tečky."
+"leaving_will_remove_new_group"="Ukončením novou skupinu odstraníte"
+"groups_without_any_devices_wil"="Skupiny bez zařízení budou automaticky odstraněny."
+"move_to_other_group"="Přesunout do jiné skupiny"
+"rename_device"="Přejmenovat zařízení"
+"remove_device"="Odstranit zařízení"
+"select_destination_group"="Vybrat cílovou skupinu"
+"the_name_is_already_being_used"="Název \" %1$s \" se již používá."
+"remove_accessory"="Odebrat příslušenství?"
+"it_looks_like_there_was_a_prob"="Zdá se, že došlo k chybě při přesouvání světla. Ujistěte se, že je světlo rozsvícené, a přesuňte ho znovu."
+"disconnected_devices"="Odpojená zařízení"
+"add_new"="PŘIDAT NOVÉ"
+"device_was_not_moved"="Zařízení nebylo přesunuto"
+"unfortunately_you_cant_add_a_m"="Bohužel není možné přidat pohybové čidlo do skupiny s bezdrátovými stmívači a dálkovými ovladači."
+"press_any_button_on_your_remot"="Stiskněte libovolné tlačítko na dálkovém ovladači."
+"great"="Skvěle!"
+"your_was_moved_to"="Zařízení %1$s bylo přesunuto do umístění %2$s."
+"are_you_sure_you_want_to_remov"="Opravdu chcete odstranit zařízení %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="ČASOVAČE"
+"enabled"="zapnuté"
+"disabled"="vypnuté"
+"every_day"="Každý den"
+"days"="Dny"
+"hours"="Hodiny"
+"minutes"="Minuty"
+"seconds"="Sekundy"
+"mon"="Po"
+"tue"="Út"
+"wed"="St"
+"thu"="Čt"
+"fri"="Pá"
+"sat"="So"
+"sun"="Ne"
+"timer_is_not_set"="Časovač není nastavený"
+"mon_fri"="Po–Pá"
+"cant_set_time"="Čas nelze nastavit"
+"make_sure_you_set_your_timer_b"="Nezapomeňte si nastavit časovač, než odejdete."
+"are_you_sure_you_want_to_delete_this_tim"="Opravdu chcete tento časovač odstranit?"
+"add"="PŘIDAT"
+"am"="dop."
+"pm"="odp."
+"monday"="P"
+"tuesday"="Ú"
+"wednesday"="S"
+"thursday"="Č"
+"friday"="P"
+"saturday"="S"
+"sunday"="N"
+"set_your_time"="Nastavte si čas"
+"new_timer"="Nový časovač"
+"what_time"="%1$s V jaký čas?"
+"which_lights"="%1$s Která světla?"
+"from"="od"
+"to"="do"
+"should_they_turn_on_or_off"="%1$s Mají se rozsvítit, nebo zhasnout?"
+"save"="ULOŽIT"
+"set_your_lights_to_turn_on_or_"="Nastavte si rozsvěcení a zhasínání světla přesně v požadovanou chvíli."
+"set_your_lights_to_turn_on_or_off_e"="Nastavte si rozsvěcení a zhasínání světla přesně v požadovanou chvíli.\n\nVaše světla si budou pamatovat jas a barvu při posledním použití."
+"during_what_time"="%1$s Během jaké doby?"
+"you_cant_set_a_time_with_the_s"="Není možné nastavit časovač se stejným počátečním a koncovým časem."
+"a_timer_has_been_updated"="Časovač byl aktualizován"
+"timers_have_been_updated"="Časovače byly aktualizovány"
+"view"="Zobrazit"
+"you_are_now_using_the_maximum_"="Nyní používáte maximální počet časovačů."
+"timers_help_you_set_your_light"="Časovače vám pomáhají nastavovat rozsvěcení a zhasínání osvětlení. Začněte přidáním časovače!"
+"some_of_your_timers_was_update"="Některé časovače byly aktualizovány z jiného zařízení."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Opakovat"
+"rise_and_shine"="Východ slunce"
+"set_your_lights_to_wake_you_up"="Nastavte světla tak, aby vás vzbudila."
+"your_rise_and_shine_timer_was_"="Časovač Východ slunce byl aktualizován na jiném zařízení."
+"delete_rise_and_shine"="Odstranit časovač Východ slunce"
+"your_rise_and_shine_timer_just"="Časovač Východ slunce byl právě zahájen."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Mimo domov"
+"out_and_about_set_your_lights_"="Nejste doma? Nastavte si rozsvěcení a zhasínání světel, jako byste byli doma."
+"set_your_lights_to_slowly_dim_"="Nastavte si světla na pomalé rozsvěcení začínající 30 minut před časem nastaveným v časovači. Světla se začnou pomalu rozsvěcet\n\n– přesně jako ranní slunce."
+"your_away_from_home_timer_just"="Časovač Mimo domov byl právě zahájen."
+"your_away_from_home_timer_was_"="Časovač Mimo domov byl aktualizován na jiném zařízení."
+"delete_away_from_home"="Odstranit časovač Mimo domov"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="Rozsvícení a zhasnutí"
+"on_or_off"="Rozsvícení nebo zhasnutí"
+"out_and_about_set_your_lights_to_tu"="Nejste doma? Nastavte si rozsvěcení a zhasínání světel, jako byste byli doma.\n\nNezapomeňte, že nesmíte světla zhasínat vypínačem na zdi. Budou si pamatovat jas a barvu při posledním použití."
+"your_on_or_off_timer_just_star"="Časovač Rozsvícení nebo zhasnutí byl právě zahájen."
+"your_on_or_off_timer_was_updat"="Časovač Rozsvícení nebo zhasnutí byl aktualizován na jiném zařízení."
+"delete_on_or_off"="Odstranit časovač rozsvícení nebo zhasnutí"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="NASTAVENÍ"
+"need_help"="Potřebujete pomoc?"
+"language"="Jazyk"
+"default_language"="Výchozí jazyk"
+"send_in_email"="POSLAT E-MAILEM"
+"terms_and_conditions"="Podmínky používání"
+"privacy_policy"="Zásady ochrany osobních údajů"
+"software_licenses"="Softwarové licence"
+"continue_"="Pokračovat"
+"youve_selected_as_your_language_"="Jako svůj jazyk jste vybrali %1$s."
+"tradfri_terms_and_conditions"="Podmínky používání TRÅDFRI"
+"tradfri__privacy_policy"="Zásady ochrany osobních údajů TRÅDFRI"
+"tradfri_is_up_to_date"="TRÅDFRI je aktuální"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="K dispozici jsou aktualizace"
+"update"="AKTUALIZOVAT"
+"unreachable"="Nedosažitelný"
+"update_details"="Podrobnosti o aktualizaci"
+"up_to_date"="Aktuální"
+"remote_controls"="Dálkové ovladače"
+"motion_sensors"="Pohybová čidla"
+"this_should_only_take_about_mi"="Za minutu by to mělo být hotové."
+
+"dismiss"="SKRÝT"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="ODPOJIT"
+"disconnecting"="ODPOJOVÁNÍ…"
+"disconnected"="ODPOJENO"
+"disconnecting_allow_you_to_con"="Po odpojení se můžete připojit k jinému portálu. Oba portály není možné používat současně, ale nemějte obavy, všechny vaše scény a nastavení osvětlení se ukládají v aktuálním portálu."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Byl nalezen nový portál"
+"gateway_is_rebooting"="Portál se restartuje…"
+"connect_to_new_gateway"="Připojit k novému portálu"
+"you_cant_connect_to_your_curre"="K aktuálnímu portálu se nelze připojit, ale je k dispozici jiný. Chcete se připojit k novému portálu?"
+"connecting_will_disconnect_you"="Připojením dojde k odpojení od aktuálního portálu. Ale nemějte strach, všechna aktuální nastavení se uloží do aktuálního portálu."
+"try_again"="OPAKOVAT"
+"oops"="Jejda!"
+"youre_about_to_remove_the_last"="Chystáte se odstranit poslední zařízení"
+"your_light_needs_to_be_turned_"="Než budete světlo moci používat, musíte ho rozsvítit vypínačem."
+"remember_to_turn_on_your_light"="Nezapomeňte světla rozsvítit"
+"oops_something_went_wrong"="Jejda! Něco se nepovedlo."
+"enter_the_gateway_ip_manually"="IP adresu portálu zadejte ručně"
+"gateway_is_updating"="Portál se aktualizuje…"
+"your_gateway_software_is_being"="Software portálu se právě aktualizuje, aby jeho používání bylo co nejpohodlnější. Portál nebude několik minut k dispozici, ale osvětlení a dálkový ovladač můžete používat jako normálně."
+"unable_to_connect_to_tradfri"="K systému TRÅDFRI se nepodařilo připojit"
+"it_looks_like_you_scanned_the_"="Zdá se, že jste naskenovali nesprávný kód. Naskenujte ten na zadní straně portálu."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Žárovka s bílým spektrem"
+"bulb_e27_white_spectrum_globe_clear"="Žárovka s bílým spektrem"
+"bulb_e27_white_spectrum_globe_opal"="Žárovka s bílým spektrem"
+"bulb_e14_white_spectrum_globe_"="Žárovka s bílým spektrem"
+"color_white_spectrum_bulb"="Žárovka s barevným/bílým spektrem"
+"bulb_e14_color_white_spectrum_"="Žárovka s barevným/bílým spektrem"
+"white_spectrum_panel"="Panel s bílým spektrem"
+"panel_white_spectrum_30_90"="Panel s bílým spektrem"
+"panel_white_spectrum_60_60"="Panel s bílým spektrem"
+"color_white_spectrum_panel"="Panel s barevným/bílým spektrem"
+"white_spectrum_door"="Dveře s bílým spektrem"
+"door_white_spectrum_36_84"="Dveře s bílým spektrem"
+"remote_control"="Dálkový ovladač"
+"motion_sensor"="Pohybové čidlo"
+"wireless_dimmer"="Bezdrátový stmívač"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Přesunout"
+"rename"="Přejmenovat"
+"remove"="Odstranit"
+"off"="Zhasnuto"
+"done"="HOTOVO"
+"cancel"="STORNO"
+"ok"="OK"
+"confirm"="POTVRDIT"
+"delete"="Odstranit"
+"proceed"="Pokračovat"
+"group"="Skupina"
+"plug"="Zásuvka"
+"everyday"="Všední den"
+"focus"="Soustředění"
+"relax"="Relax"
+"plugs"="Zásuvky"
+"gateway"="Portál"
+"gateways"="Portály"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="ROZSVIŤTE všechna světla"
+"are_all_your_lights_on_they_mu"="Svítí všechna světla %1$s? Chcete-li úspěšně přesunout bezdrátový stmívač, všechna světla musí být ROZSVÍCENA."
+"press_the_link_button"="Stiskněte tlačítko spojení"
+"to_control_the_new_group_just_"="Chcete-li novou skupinu spravovat, otevřete nabídku Bezdrátový stmívač a stiskněte tlačítko spojení. Zařízení se přesune."
+"i_did_it"="Hotovo"
+"to_finish_removing_your_remote"="Chcete-li dálkový ovladač skutečně odstranit, resetujte jej čtverým stisknutím tlačítka spojení. A to je celé!"
+"to_finish_removing_your_motion"="Chcete-li pohybové čidlo skutečně odstranit, resetujte jej čtverým stisknutím tlačítka spojení. A to je celé!"
+"to_finish_removing_your_wirele"="Chcete-li bezdrátový stmívač skutečně odstranit, resetujte jej čtverým stisknutím tlačítka spojení. A to je celé!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Chcete-li zařízení přesunout, otevřete nabídku Bezdrátový stmívač v zařízení %1$s a stiskněte tlačítko spojení."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Chcete-li zařízení přesunout, otevřete nabídku Bezdrátové stmívače v zařízeních %1$s a %2$s a na obou stiskněte tlačítka spojení"
+"required_update"="Nezbytná aktualizace"
+"update_required_tradfri_needs_"="Je zapotřebí aktualizace. Aby aplikace TRÅDFRI fungovala bez problémů dál, je nutné ji aktualizovat. Během aktualizace nebude aplikace dostupná."
+"an_important_update_has_been_p"="Byla provedena důležitá aktualizace a aplikace Trådfri byla aktualizována na nejnovější verzi"
+"reconnect_to_gateway"="Znovu připojit k bráně"
+"is_your_light_on"="Je rozsvíceno světlo?"
+"if_not_turn_it_on_to_successfu"="Pokud ne, rozsviťte jej. Jinak se vám zařízení nepodaří odstranit."
+"to_remove_your_light_open_the_"="Chcete-li světlo odstranit, otevřete nabídku Bezdrátový stmívač v zařízení %1$s a stiskněte tlačítko spojení."
+"wireless_motion_sensor"="Bezdrátové pohybové čidlo"
+"please_confirm"="Přesunout zařízení %1$s?"
+"gently_rotate_your_wireless_di"="Pro potvrzení jemně otočte bezdrátovým stmívačem."
+"we_did_not_detect_any_action_o"="Zařízení nereaguje."
+"wave_your_hand_in_front_of_the"="Pro potvrzení mávněte rukou před pohybovým čidlem."
+"enter_group_name"="Zadejte prosím název skupiny"
+"enter_accessory_name"="Zadejte prosím název příslušenství"
+"remove_"="Odstranit zařízení %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Žárovka s teplým bílým světlem"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Před uložením nastavte náladu. Vaše nálada bude zahrnuta."
+"my_moods"="Mé nálady"
+"create_a_mood_and_save_it_for_"="Vytvořit náladu a uložit ji, aby byla okamžitě přístupná"
+"light_unreachable"="Světlo je mimo dosah"
+"if_you_create_or_edit_a_mood_while"="Pokud náladu tvoříte nebo upravujete ve chvíli, kdy je některé ze světel mimo dosah, nebude toto světlo k navození nálady využito. Než budete pokračovat, zkontrolujte, zda jsou rozsvícena světla"
+"edit_moods"="UPRAVIT NÁLADY"
+"edit_mood"="UPRAVIT NÁLADU"
+"brightness"="JAS | %1$s"
+"disconnect_app"="ODPOJIT APLIKACI"
+"clear_all_settings"="Vymazat všechna nast"
+"this_will_delete_all_Moods"="Vymažou se všechny nálady a časovače a resetují se všechna nastavení. Resetováním se všechna vaše zařízení odpojí od brány"
+"are_you_sure_you_want_to_clear"="Opravdu chcete vymazat všechna nastavení?"
+"clear"="Vymazat"
+"cleared"="VYMAZÁNO"
+"clearing"="PROBÍHÁ MAZÁNÍ…"
+"see_details"="Zobrazit podrobnosti"
+"update_did_not_complete"="Aktualizace nebyla dokončena"
+"one_or_more_devices_didnt_upda"="Jedno nebo více zařízení se neaktualizovalo. Nemějte strach, světla budou fungovat i tak."
+"your_moods_are_still_loading_"="Vaše nálady se stále načítají. Zkuste to prosím znovu za několik sekund."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Aktualizace se nezdařila"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Žárovky"
+"waiting_for_gateway"="Čekání na bránu (gateway)"
+"wireless_dimmers"="Bezdrátové stmívače"
+"theres_an_important_new_update"="Pro aplikaci TRÅDFRI je k dispozici důležitá nová aktualizace."
+"close"="Zavřít"
+"update_pending"="Aktualizace čeká na spuštění"
+"your_devices_are_being_updated"="Vaše zařízení se aktualizují. Aplikaci TRÅDFRI můžete používat jako obvykle."
+"start_update"="Spustit aktualizaci"
+"continue_to_use_your_lights_as"="Používejte světla dál, jak jste zvyklí. Aktualizace proběhne na pozadí. Aplikace může být krátkodobě nedostupná."
+"panel"="Panel"
+"door"="Dveře"
+"panels"="Panely"
+"doors"="Dveře"
+"check_for_updates"="Vyhledat aktualizace"
+"update_now"="Aktualizovat"
+"view_update_details"="Zobrazit podrobnosti o aktualizaci"
+"all_your_devices_are_updated_t"="Všechna zařízení jsou aktualizována na nejnovější verzi."
+"your_gateway_didnt_update_dont"="Brána se neaktualizovala. Nemějte strach, světla budou fungovat i tak."
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="K bráně se nelze připojit."
+"we_couldnt_connect_to_your_dev"="K zařízením se nepodařilo připojit. Pokud problém přetrvává, vypněte bránu a znovu ji zapněte"
+"we_couldnt_find_your_gateway_m"="Portál se nepodařilo nalézt. Zkontrolujte prosím, zda je brána připojena kabelem ke směrovači a zda je telefon připojen ke stejné síti."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Chladné nebe"
+"_eaf6fb"="Studené denní světlo"
+"_f5faf6"="Studená bílá"
+"_f2eccf"="Východ slunce"
+"_f1e0b5"="Teplá bílá"
+"_efd275"="Teplá záře"
+"_ebb63e"="Světlo svíček"
+"_e78834"="Teplá jantarová"
+"_e57345"="Broskvová"
+"_da5d41"="Tmavá broskvová"
+"_dc4b31"="Sytá červená"
+"_e491af"="Růžová"
+"_e8bedd"="Světlá růžová"
+"_d9337c"="Sytá růžová"
+"_c984bb"="Světlá fialová"
+"_8f2686"="Sytá fialová"
+"_4a418a"="Modrá"
+"_6c83ba"="Světlá modrá"
+"_a9d62b"="Limetková"
+"_d6e44b"="Žlutá"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Rychle čtyřikrát stiskněte a podržte tlačítko vedle ikony %1$s. Na dálkovém ovladači zabliká červená kontrolka.<br/><br/><b>b.</b> Až kontrolka přestane blikat, počkejte 10 sekund. Potom můžete pokračovat.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Podržte dálkový ovladač ve vzdálenosti do 2 cm od brány.<br/><br/><b>b.</b> Podržte tlačítko vedle ikony %1$s na dálkovém ovladači, dokud kontrolka %1$s na bráně čtyřikrát rychle nezabliká.<br/><br/><b>c.</b> Počkejte na potvrzení zde v aplikaci.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Podržte pohybové čidlo ve vzdálenosti do 2 cm od brány.<br/><br/><b>b.</b> Podržte tlačítko vedle ikony %1$s na pohybovém čidle, dokud kontrolka nad ikonou %1$s na bráně čtyřikrát rychle nezabliká.<br/><br/><b>c.</b> Počkejte na potvrzení zde v aplikaci.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Podržte bezdrátový stmívač ve vzdálenosti do 2 cm od bílé krabičky na zadní straně dveří nebo panelu.<br/><br/><b>b.</b> Podržte tlačítko vedle ikony %1$s na 10 sekund. Světelný zdroj se začne stmívat a rozsvěcovat. Držte tlačítko stisknuté, dokud světlo nepřestane pulzovat.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Podržte bezdrátový stmívač ve vzdálenosti do 2 cm od žárovky.<br/><br/><b>b.</b> Podržte tlačítko vedle ikony %1$s na 10 sekund. Světelný zdroj se začne stmívat a rozsvěcovat. Držte tlačítko stisknuté, dokud světlo nepřestane pulzovat.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Podržte pohybové čidlo ve vzdálenosti do 2 cm od žárovky.<br/><br/><b>b.</b> Podržte tlačítko %1$s na 10 sekund. Světelný zdroj se začne stmívat a rozsvěcovat. Držte tlačítko stisknuté, dokud světlo nepřestane pulzovat.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Podržte pohybové čidlo ve vzdálenosti do 2 cm od bílé krabičky na zadní straně dveří nebo panelu.<br/><br/><b>b.</b> Podržte tlačítko %1$s na 10 sekund. Světelný zdroj se začne stmívat a rozsvěcovat. Držte tlačítko stisknuté, dokud světlo nepřestane pulzovat.]]>"
+"found"="Zařízení %1$s nalezeno"
+"perfect_is_now_connected_to_tr"="Výborně! Zařízení %1$s je nyní připojeno k aplikaci TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Připojeno"
+"disconnected_"="Odpojeno"
+"find_detailed_help_in_our_trou"="Podrobnou nápovědu najdete v návodu na odstraňování závad."
+"disconnect_from_your_gateway"="Odpojit od brány"
+"are_you_sure_you_want_to_disco"="Opravdu se chcete odpojit?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Verze aplikace Trådfri"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Časovače využívající stejná světla"
+"you_have_two_timers_using_the_"="Máte dva časovače, které využívají stejná světla. Změňte prosím nastavení.\nNebo\nMáte dva časovače, které využívají stejná období. Změňte prosím nastavení, aby světla svítila ve správnou dobu"
+"your_timers_are_still_loading_"="Vaše časovače se stále načítají. Zkuste to prosím znovu za několik sekund."
+"which_day"="%1$s Který den?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Nápověda"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Podržte dálkový ovladač ve vzdálenosti do 2 cm od žárovky.<br /><br /><b>b.</b> Stiskněte tlačítko vedle ikony %1$s a 10 sekund jej podržte. Světelný zdroj se začne stmívat a rozsvěcovat. Držte tlačítko stisknuté, dokud světlo nepřestane pulzovat.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Podržte dálkový ovladač ve vzdálenosti do 2 cm od bílé krabičky na zadní straně dveří nebo panelu.<br /><br /><b>b.</b> Stiskněte tlačítko vedle ikony %1$s a 10 sekund jej podržte. Světelný zdroj se začne stmívat a rozsvěcovat. Držte tlačítko stisknuté, dokud světlo nepřestane pulzovat.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Rychle čtyřikrát stiskněte tlačítko vedle ikony %1$s. Na pohybovém čidle zabliká červená kontrolka.<br /><br /><b>b.</b> Až kontrolka přestane blikat, počkejte 10 sekund. Potom můžete pokračovat.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Rychle čtyřikrát stiskněte tlačítko vedle ikony %1$s. Na bezdrátovém stmívači zabliká červená kontrolka.<br /><br /><b>b.</b> Až kontrolka přestane blikat, počkejte 10 sekund. Potom můžete pokračovat.]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Podržte bezdrátový stmívač ve vzdálenosti do 2 cm od brány (gateway).<br /><br /><b>b.</b> Podržte tlačítko vedle ikony %1$s na bezdrátovém stmívači, dokud kontrolka %1$s na bráně (gateway) čtyřikrát rychle nezabliká.<br /><br /><b>c.</b> Počkejte na potvrzení zde v aplikaci.]]>"
+"are_you_sure_you_want_to_delete_mood"="Opravdu chcete odstranit položku \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Žárovka s teplým bílým světlem"
+"bulb_e27_w_opal_1000lm"="Žárovka s teplým bílým světlem"
+"bulb_e26_opal_1000lm"="Žárovka s teplým bílým světlem"
+"bulb_e12_ws_opal_400lm"="Žárovka s bílým spektrem"
+"bulb_e26_ws_clear_950lm"="Žárovka s bílým spektrem"
+"bulb_e26_ws_opal_980lm"="Žárovka s bílým spektrem"
+"bulb_e27_ws_opal_980lm"="Žárovka s bílým spektrem"
+
+<!--3rd PARTY DEVICES* -->
+"device"="zařízení"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integrace"
+"eg_amazon_alexa_apple_homekit"="Např. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Ovládejte svá světla TRÅDFRI pomocí hlasových příkazů přes aplikaci Amazon Alexa.\n\nNapř. „Alexo, rozsviť“, \n„Alexo, ztlum světlo o 50%“"
+"enable"="Aktivovat"
+"disable"="Deaktivovat"
+"you_are_logged_in"="Jste přihlášeni."
+"to_get_started_enable_the_trad"="Nejprve v aplikaci Alexa aktivujte funkci TRÅDFRI. Potom řekněte: „Alexo, vyhledej moje zařízení.“"
+"ensure_your_alexa_device_is_s"="Ověřte nastavení zařízení Alexa"
+"to_continue_your_alexa_device"="Abyste mohli pokračovat, zařízení Alexa musí fungovat. Řiďte se příručkou Amazon Alexa."
+
+<!-- Whats New Strings* -->
+"whats_new"="Co je nového"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Všechna vaše připojená zařízení mohou fungovat lépe a chytře. Systém TRÅDFRI nově spolupracuje s aplikací Apple HomeKit."
+"learn_more"="Více informací"
+"use_your_voice_to_control_your"="Ovládejte svá světla TRÅDFRI pomocí hlasových příkazů přes aplikaci Amazon Alexa. Můžete je snadno zapnout a vypnout i upravit jas."
+"disable_amazon_alexa"="Deaktivovat aplikaci Amazon Alexa?"
+"you_will_no_longer_be_able_to_"="Svá zařízení TRÅDFRI už nebudete moci ovládat přes aplikaci Amazon Alexa."
+"problem_connecting_to_amazon"="Problém s připojením k aplikaci Amazon"
+"please_try_again"="Zkuste jej zadat znovu."
+"accept_the_terms_of_use"="Přijměte podmínky používání"
+"in_order_to_enable_amazon_alex"="Aplikaci Amazon Alexa lze aktivovat, pouze pokud přijmete podmínky používání."
+"cant_connect_to_amazon"="K aplikaci Amazon se nelze připojit"
+"check_your_internet_connection"="Zkontrolujte internetové připojení a zkuste to znovu."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Světla se rozsvěcejí od %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Zobrazit podrobnosti o aktualizaci"
+"gateway_update_required"="Je zapotřebí aktualizace brány"
+"to_use_this_new_feature_you_ne"="Chcete-li využívat tuto novou funkci, musíte software brány aktualizovat na nejnovější verzi."
+"later"="Později"
+"gateway_update_available"="K dispozici je aktualizace brány"
+"to_use_new_features_you_need_t"="Chcete-li využívat nové funkce, musíte software brány aktualizovat na nejnovější verzi."
+"new_update_available"="K dispozici je nová aktualizace"
+"in_order_to_control_your_devic"="Chcete-li svá zařízení ovládat prostřednictvím telefonu, musíte nejprve aktualizovat aplikaci TRÅDFRI."
+"as_a_security_precaution_you_h"="Z bezpečnostních důvodů jste byli odpojeni od brány.\n \nAbyste mohli pokračovat, znovu se připojte k bráně."
+"unknown_device"="Neznámé zařízení"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Vícebarevné žárovky"
+"now_you_can_decorate_your_home"="Nyní si můžete svůj domov ozdobit barevnými světly."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Téměř hotovo. Povolte hlasové ovládání zařízení TRÅDFRI v Google Home."
+"set_up_tradfri_for_voice_contr"="Nastavte hlasové ovládání osvětlení TRÅDFRI pomocí aplikace Google Assistant.\n\nnapř. „OK, Google, rozsviť“ nebo „OK, Google, ztlum světlo o 50%“."
+"are_you_using_a_google_home_de"="Používáte zařízení Google Home?"
+"if_youre_using_a_google_home_d"="Pokud používáte zařízení Google Home, zapněte jej.\nPokud Google Assistant používáte jen v telefonu, pokračujte."
+"cant_connect_to_google"="K aplikaci Google se nelze připojit."
+"disable_google_assistant"="Deaktivovat aplikaci Google Assistant?"
+"you_will_no_longer_be_able_to_contro"="Svá zařízení TRÅDFRI už nebudete moci ovládat přes aplikaci Google Home."
+"google_assistant_could_not_be_"="Aplikaci Google Assistant nebylo možné aktivovat."
+"google_assistant"="Google Assistant"
+"use_voice_control_to_adjust_yo"="S Google Assistant můžete zařízení TRÅDFRI ovládat hlasem. Můžete tak rozsvítit, upravit jas i změnit barvu světla."
+"you_cant_have_two_timers_on_a"="Není možné, aby se stejnými světly současně pracovaly dva časovače."
+"multicolored_bulb_title"="Vícebarevné žárovky"
+"multicolored_bulb_desc"="Ozdobte svůj domov barevnými světly. Řada Trådfri se rozrostla."
+"something_went_wrong"="Něco se nepovedlo."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Spravovat zařízení"
+"devices"="zařízení"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Právní informace"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="ODPOJIT OD BRÁNY"
+"in_progress"="Probíhá…"
+"turn_everything_off"="VYPNOUT VŠE"
+"all_devices_are_off"="Všechna zařízení jsou vypnutá."
+"devices_on"="%1$s zařízení zapnuto"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Naprogramujte světla, aby se zapínala a vypínala, i když nejste doma."
+"on_and_off_small"="Zapnutí a vypnutí"
+"group_must_be_empty_to_delete"="Skupinu je možné vymazat, pouze pokud je prázdná."
+"please_remove_all_devices"="Odstraňte ze skupiny všechna zařízení."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Aplikaci Google Assistant nebylo možné deaktivovat."
+"please_verify_your_internet_co"="Ověřte internetové připojení a zkuste to znovu.\n\nPokud se aplikace nepřipojí ani po několika pokusech, zkuste odebrat všechny ostatní aktivované integrace."
+"try_disable_again"="ZKUSIT ZNOVU DEAKTIVOVAT"
+"remove_integration"="ODEBRAT INTEGRACE"
+"cant_connect"="Nelze se připojit."
+"remove_all_integration"="Odebrat všechny integrace?"
+"are_you_sure_this_will_remove_"="Jste si jisti? Tímto krokem se odeberou VŠECHNY aktivované integrace."
+"amazon_alexa_could_not_be_disa"="Aplikaci Amazon Alexa nebylo možné deaktivovat."
+"please_verify_your_internet_connect"="Ověřte internetové připojení a zkuste to znovu.\n\nKdyž se aplikace po více pokusech nepřipojí, volbou ODEBRAT INTEGRACE zrušte integrace a zkuste to znovu.\nTo odebere VŠECHNY aktivní integrace vč. Amazon Alexa."
+"eg_amazon_alexa_google_assista"="Např . Amazon Alexa, Google Assistant"
+

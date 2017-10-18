@@ -1,0 +1,595 @@
+ <!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="Hei!"
+"i_agree_to_the"="Hyväksyn"
+"plug_in_your_gateway"="Kytke yhdyskäytävä"
+"next"="SEURAAVA"
+"connect"="LIITÄ"
+"terms_conditions"="Ehdot"
+"please_agree_to_continue"="Hyväksy, niin voit jatkaa."
+"connecting_to_your_gateway"="Muodostetaan yhteys yhdyskäytävään..."
+"plug_your_gateway_into_a_power"="Kytke yhdyskäytävä pistorasiaan ja liitä se Wi-Fi-reitittimeen mukana toimitetulla ethernet-johdolla."
+"congrats"="Onnittelut!"
+"and"="ja"
+"connect_to_wifi"="Muodosta Wi-Fi-yhteys"
+"this_name_is_already_in_use_pl"="Tämä nimi on jo käytössä. Valitse toinen nimi."
+"welcome_to_the_tradfri_lightin"="Tervetuloa TRÅDFRI-valaistusjärjestelmään. Se on helpoin tapa luoda kotiin kaunis ja käytännöllinen valaistus. Oletko valmis aloittamaan sen käytön?"
+"enter_the_gateway_ip"="Näppäile yhdyskäytävän IP-osoite"
+"gateway_ip"="Yhdyskäytävän IP-osoite"
+"if_the_gateway_is_plugged_in_c"="Jos yhdyskäytävä on kytketty oikein mutta ei siitä huolimatta löydy, yhdyskäytävän IP-osoite on näppäiltävä. Lisätietoja löydät tukisivulta."
+"the_gateway_ip_is_incorrect"="Yhdyskäytävän IP-osoite on virheellinen."
+"you_must_be_connected_to_your_"="Sinulla on oltava yhteys Wi-Fi-verkkoon, jotta voit ohjata TRÅDFRI-järjestelmää sovelluksesta."
+"these_are_your_tradfri_devices"="Nämä ovat TRÅDFRI-laitteesi"
+"lets_get_started"="ALOITETAAN"
+"get_started"="ALOITA"
+"youre_now_connected_to_the_gat"="Yhteyden muodostus yhdyskäytävään onnistui. Liitetään seuraavaksi laitteesi."
+"add_another_device"="Lisää uusi laite"
+"finding_gateway"="Etsitään yhdyskäytävää..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Skannataan..."
+"type_in_the_code_instead"="Näppäile koodi skannaamisen sijaan"
+"youll_find_the_code_on_the_bac"="Koodi löytyy yhdyskäytävän takaosasta."
+"we_found_the_code"="Koodi löydetty."
+"hold_on_while_we_verify_the_co"="Odota, kun koodi tarkistetaan..."
+"scan"="SKANNAA"
+"now_scan_the_code"="Skannaa nyt koodi"
+"enable_camera"="OTA KAMERA KÄYTTÖÖN"
+"type_in_the_serial_number"="Näppäile sarjanumero"
+"type_in_the_security_code"="Näppäile suojauskoodi"
+"serial_number"="Sarjanumero"
+"security_code"="Suojauskoodi"
+"youll_find_it_on_the_back_of_y"="Se löytyy yhdyskäytävän takaosasta."
+"youll_find_them_both_on_the_ba"="Molemmat löytyvät yhdyskäytävän takaosasta."
+"this_serial_number_is_incorrec"="Sarjanumero on virheellinen"
+"type_in_the_serial_number_and_"="Näppäile sarjanumero ja suojauskoodi"
+"enable_your_camera_to_scan_the"="Ota kamera käyttöön koodin skannausta varten."
+"type_in_the_code"="NÄPPÄILE KOODI"
+"the_security_key_should_be_dig"="Suojausavaimessa on oltava 16 numeroa"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Aloita valitsemalla laite, jonka haluat lisätä"
+"open_the_back_of_the_remote_co"="1. Avaa kaukosäätimen takaosa"
+"reset_the_remote_control"="2. Nollaa kaukosäädin"
+"connect_the_remote_control"="3. Liitä kaukosäädin"
+"turn_on_your_light"="1. Sytytä valo"
+"make_sure_that_your_light_is_i"="Varmista, että valo on asennettu ja virta kytketty pääkytkimestä."
+"which_control_device_are_you_u"="2. Mitä ohjauslaitetta käytät?"
+"remember_to_use_a_control_devi"="Muista käyttää ohjauslaitetta, joka on jo liitetty."
+"connect_the_light"="3. Liitä valo"
+"finding_your_devices"="Etsitään laitteita..."
+"bulb"="Lamppu"
+"door_or_panel"="Ovi tai paneeli"
+"open_the_back_of_the_motion_se"="1. Avaa liikkeentunnistimen takaosa"
+"reset_the_motion_sensor"="2. Nollaa liikkeentunnistin"
+"connect_the_motion_sensor"="3. Liitä liikkeentunnistin"
+"open_the_back_of_the_wireless_"="1. Avaa langattoman himmentimen takaosa"
+"reset_the_wireless_dimmer"="2. Nollaa langaton himmennin"
+"connect_the_wireless_dimmer"="3. Liitä langaton himmennin"
+"finding_your_device"="Laitteen etsintä"
+"which_device_would_you_like_to"="Minkä laitteen haluat lisätä?"
+"now_add_your_lights"="Lisää nyt valot"
+"they_can_be_added_after_youve_"="Ne voidaan lisätä ohjauslaitteen liitännän jälkeen."
+"ill_do_this_later"="Teen sen myöhemmin"
+"delete_mood"="Poista tunnelma"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Vahvista laitteen siirto painamalla mitä tahansa laitteen painiketta. Painiketta on ehkä painettava useita kertoja."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="OMA KOTI"
+"add_lights"="LISÄÄ VALOJA"
+"no_lights_have_been_added_to_t"="Tähän ryhmään ei ole vielä lisätty valoja."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Anna tunnelman nimi"
+"please_pick_another_name_this_"="Nimi on jo käytössä. Valitse toinen nimi."
+"moods_by_ikea"="Tunnelmat - IKEA"
+"new_mood"="Uusi tunnelma"
+"please_enter_a_mood_name"="Anna tunnelmalle nimi."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Sammuta"
+"turn_on"="Sytytä"
+"min"="Vähint."
+"max"="Enint."
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Yhtä laitetta ei löydy"
+"devices_cannot_be_found"="Laitteita %1$s ei löydy"
+"one_remote_has_a_low_battery"="Yhden kaukosäätimen akun varaus on alhainen"
+"one_motion_sensor_has_a_low_ba"="Yhden liikkeentunnistimen akun varaus on alhainen"
+"remotes_have_low_batteries"="Kaukosäädinten %1$s akkujen varaus on alhainen"
+"devices_have_low_batteries"="Laitteiden %1$s akkujen varaus on alhainen"
+"updating"="Päivitetään…"
+"update_successful"="Päivitys onnistui"
+"was_added_to_a_new_group"="%1$s lisättiin uuteen ryhmään."
+"was_removed"="%1$s poistettiin."
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Ryhmät"
+"rename_group"="Nimeä ryhmä uudelleen"
+"add_new_group"="Lisää uusi ryhmä"
+"add_devices"="Lisää laitteita"
+"new_group"="Uusi ryhmä"
+"group_name"="Ryhmän nimi"
+"low_battery"="Akun alhainen varaus"
+"manage_your_devices"="Hallinnoi laitteita"
+"devices"="Laitteet"
+"last_seen_ago"="Nähty viimeksi %1$s sitten"
+"move_a_device_to_this_group_by"="Siirrä laite tähän ryhmään napauttamalla kolmea pistettä."
+"leaving_will_remove_new_group"="Poistuttaessa uusi ryhmä poistetaan"
+"groups_without_any_devices_wil"="Ryhmät, joissa ei ole laitteita, poistetaan automaattisesti."
+"move_to_other_group"="Siirrä toiseen ryhmään"
+"rename_device"="Nimeä laite uudelleen"
+"remove_device"="Poista laite"
+"select_destination_group"="Valitse kohderyhmä"
+"the_name_is_already_being_used"="Nimi \" %1$s \" on jo käytössä."
+"remove_accessory"="Poistetaanko lisälaite?"
+"it_looks_like_there_was_a_prob"="Valoa siirrettäessä ilmeni ongelma. Varmista, että valo on sytytetty, ja yritä siirtää sitä uudelleen."
+"disconnected_devices"="Irrotetut laitteet"
+"add_new"="LISÄÄ UUSI"
+"device_was_not_moved"="Laitetta ei siirretty"
+"unfortunately_you_cant_add_a_m"="Valitettavasti liikkeentunnistinta ei voi lisätä ryhmään, jossa on langattomia himmentimiä tai kaukosäätimiä."
+"press_any_button_on_your_remot"="Paina mitä tahansa kaukosäätimen painiketta."
+"great"="Hyvä!"
+"your_was_moved_to"="%1$s siirrettiin kohteeseen %2$s."
+"are_you_sure_you_want_to_remov"="Haluatko varmasti poistaa kohteen %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="AJASTIMET"
+"enabled"="käytössä"
+"disabled"="poissa käytöstä"
+"every_day"="joka päivä"
+"days"="päivät"
+"hours"="tunnit"
+"minutes"="minuutit"
+"seconds"="sekunnit"
+"mon"="ma"
+"tue"="ti"
+"wed"="ke"
+"thu"="to"
+"fri"="pe"
+"sat"="la"
+"sun"="su"
+"timer_is_not_set"="Ajastinta ei ole asetettu"
+"mon_fri"="Ma-pe"
+"cant_set_time"="Aikaa ei voi asettaa"
+"make_sure_you_set_your_timer_b"="Muista asettaa ajastin ennen lähtöäsi."
+"are_you_sure_you_want_to_delete_this_tim"="Haluatko varmasti poistaa tämän ajastimen?"
+"add"="LISÄÄ"
+"am"="AP"
+"pm"="IP"
+"monday"="M"
+"tuesday"="T"
+"wednesday"="K"
+"thursday"="T"
+"friday"="P"
+"saturday"="L"
+"sunday"="S"
+"set_your_time"="Aseta aika"
+"new_timer"="Uusi ajastin"
+"what_time"="%1$s Mikä aika?"
+"which_lights"="%1$s Mitkä valot?"
+"from"="alkaen"
+"to"="saakka"
+"should_they_turn_on_or_off"="%1$s Pitäisikö niiden syttyä vai sammua?"
+"save"="TALLENNA"
+"set_your_lights_to_turn_on_or_"="Aseta valot syttymään ja sammumaan juuri haluamaasi aikaan."
+"set_your_lights_to_turn_on_or_off_e"="Aseta valot syttymään ja sammumaan juuri haluamaasi aikaan.\n\nValot muistavat viimeksi käytössä olleet kirkkaus- ja väriasetukset."
+"during_what_time"="%1$s Mihin aikaan?"
+"you_cant_set_a_time_with_the_s"="Aikaa ei voi asettaa, jos käynnistys- ja päättymisaika ovat samat."
+"a_timer_has_been_updated"="Ajastin on päivitetty"
+"timers_have_been_updated"="Ajastimet on päivitetty"
+"view"="Näytä"
+"you_are_now_using_the_maximum_"="Käytössäsi on enimmäismäärä ajastimia."
+"timers_help_you_set_your_light"="Ajastimien avulla voi asettaa valaistuksen syttymis- ja sammumisajan. Aloita lisäämällä yksi!"
+"some_of_your_timers_was_update"="Jotkin ajastimista päivitettiin toiselta laitteelta."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Toista"
+"rise_and_shine"="Herätys"
+"set_your_lights_to_wake_you_up"="Aseta valot herättämään."
+"your_rise_and_shine_timer_was_"="Herätys-ajastin päivitettiin toiselta laitteelta."
+"delete_rise_and_shine"="Poista herätys"
+"your_rise_and_shine_timer_just"="Herätys-ajastin käynnistyi juuri."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Poissa kotoa"
+"out_and_about_set_your_lights_"="Poissa kotoa? Aseta valot syttymään ja sammumaan kuin olisit kotona."
+"set_your_lights_to_slowly_dim_"="Aseta valot kirkastumaan hitaasti alkaen 30 minuuttia ennen ajastimeen määritettyä aikaa. Valot kirkastuvat hitaasti\n\n- aivan kuin aamuaurinko."
+"your_away_from_home_timer_just"="Poissa kotoa -ajastin käynnistyi juuri."
+"your_away_from_home_timer_was_"="Poissa kotoa -ajastin päivitettiin toiselta laitteelta."
+"delete_away_from_home"="Poista Poissa kotoa -asetus"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="PÄÄLLÄ ja POIS"
+"on_or_off"="Päällä tai Pois"
+"out_and_about_set_your_lights_to_tu"="Poissa kotoa? Aseta valot syttymään ja sammumaan kuin olisit kotona.\n\nÄlä sammuta valoja seinäkytkimestä. Valot muistavat viimeksi käytössä olleet kirkkaus- ja väriasetukset."
+"your_on_or_off_timer_just_star"="Päällä tai Pois -ajastin käynnistyi juuri."
+"your_on_or_off_timer_was_updat"="Päällä tai Pois -ajastin päivitettiin toiselta laitteelta."
+"delete_on_or_off"="Poista PÄÄLLÄ tai POIS"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="ASETUKSET"
+"need_help"="Tarvitsetko apua?"
+"language"="Kieli"
+"default_language"="Oletuskieli"
+"send_in_email"="LÄHETÄ SÄHKÖPOSTITSE"
+"terms_and_conditions"="Ehdot"
+"privacy_policy"="Tietosuojakäytäntö"
+"software_licenses"="Ohjelmistolisenssit"
+"continue_"="Jatka"
+"youve_selected_as_your_language_"="Valitsemasi kieli on %1$s."
+"tradfri_terms_and_conditions"="TRÅDFRI-ehdot"
+"tradfri__privacy_policy"="TRÅDFRI-tietosuojakäytäntö"
+"tradfri_is_up_to_date"="TRÅDFRI on ajan tasalla"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Päivityksiä on saatavilla."
+"update"="PÄIVITÄ"
+"unreachable"="Saavuttamaton"
+"update_details"="Päivitystiedot"
+"up_to_date"="Ajan tasalla"
+"remote_controls"="Kaukosäätimet"
+"motion_sensors"="Liikkeentunnistimet"
+"this_should_only_take_about_mi"="Tähän pitäisi kulua vain noin yksi minuutti."
+"dismiss"="HYLKÄÄ"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="KATKAISE YHTEYS"
+"disconnecting"="YHTEYS KATKAISTAAN..."
+"disconnected"="YHTEYS KATKAISTU"
+"disconnecting_allow_you_to_con"="Yhteyden katkaisun jälkeen voidaan muodostaa yhteys toiseen yhdyskäytävään. Molempia ei voi käyttää yhtä aikaa, mutta ei syytä huoleen, sillä kaikki ohjelmat ja valoasetukset pysyvät tallennettuina nykyiseen yhdyskäytävään."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Uusi yhdyskäytävä löytyi"
+"gateway_is_rebooting"="Yhdyskäytävä käynnistetään uudelleen..."
+"connect_to_new_gateway"="Muodosta yhteys uuteen yhdyskäytävään"
+"you_cant_connect_to_your_curre"="Nykyiseen yhdyskäytävään ei voida muodostaa yhteyttä, mutta toinen on käytettävissä. Haluatko muodostaa yhteyden uuteen yhdyskäytävään?"
+"connecting_will_disconnect_you"="Yhteyden muodostus katkaisee yhteyden nykyiseen yhdyskäytävään. Mutta ei syytä huoleen, sillä kaikki asetukset pysyvät tallennettuina nykyiseen yhdyskäytävään."
+"try_again"="YRITÄ UUDELLEEN"
+"oops"="Hups!"
+"youre_about_to_remove_the_last"="Olet poistamassa viimeistä laitetta"
+"your_light_needs_to_be_turned_"="Valo on sytytettävä valokytkimestä, ennen kuin voit käyttää sitä."
+"remember_to_turn_on_your_light"="Muista sytyttää valot"
+"oops_something_went_wrong"="Hups! Jokin meni vikaan."
+"enter_the_gateway_ip_manually"="Näppäile yhdyskäytävän IP-osoite manuaalisesti"
+"gateway_is_updating"="Yhdyskäytävää päivitetään..."
+"your_gateway_software_is_being"="Yhdyskäytävän ohjelmisto päivitetään parhaan mahdollisen käyttökokemuksen varmistamiseksi. Yhdyskäytävä on poissa käytöstä muutaman minuutin ajan, mutta valojen ja kaukosäätimen käyttöä voi jatkaa tavalliseen tapaan."
+"unable_to_connect_to_tradfri"="Yhteyden muodostus TRÅDFRI-järjestelmään ei onnistu"
+"it_looks_like_you_scanned_the_"="Vaikuttaa siltä, että skannasit väärän koodin. Skannaa yhdyskäytävän takaosassa oleva koodi."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Valkoinen spektrilamppu"
+"bulb_e27_white_spectrum_globe_clear"="Valkoinen spektrilamppu"
+"bulb_e27_white_spectrum_globe_opal"="Valkoinen spektrilamppu"
+"bulb_e14_white_spectrum_globe_"="Valkoinen spektrilamppu"
+"color_white_spectrum_bulb"="Värillinen/valkoinen spektrilamppu"
+"bulb_e14_color_white_spectrum_"="Värillinen/valkoinen spektrilamppu"
+"white_spectrum_panel"="Valkoinen spektripaneeli"
+"panel_white_spectrum_30_90"="Valkoinen spektripaneeli"
+"panel_white_spectrum_60_60"="Valkoinen spektripaneeli"
+"color_white_spectrum_panel"="Värillinen/valkoinen spektripaneeli"
+"white_spectrum_door"="Valkoinen spektriovi"
+"door_white_spectrum_36_84"="Valkoinen spektriovi"
+"remote_control"="Kaukosäädin"
+"motion_sensor"="Liikkeentunnistin"
+"wireless_dimmer"="Langaton himmennin"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Siirrä"
+"rename"="Nimeä uudelleen"
+"remove"="Poista"
+"off"="Pois"
+"done"="VALMIS"
+"cancel"="PERUUTA"
+"ok"="OK"
+"confirm"="VAHVISTA"
+"delete"="Poista"
+"proceed"="Jatka"
+"group"="Ryhmä"
+"plug"="Pistoke"
+"everyday"="Jokapäiväinen"
+"focus"="Kohdistus"
+"relax"="Rentoutuminen"
+"plugs"="Pistokkeet"
+"gateway"="Yhdyskäytävä"
+"gateways"="Yhdyskäytävät"
+
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Sytytä kaikki valot"
+"are_all_your_lights_on_they_mu"="Onko kaikki %1$s-valot sytytetty? Niiden on oltava PÄÄLLÄ, jotta langaton himmennin voitaisiin siirtää."
+"press_the_link_button"="Paina linkkipainiketta"
+"to_control_the_new_group_just_"="Voit hallita uutta ryhmää avaamalla langattoman himmentimen ja painamalla linkkipainiketta. Tällöin laite siirretään."
+"i_did_it"="Tehty"
+"to_finish_removing_your_remote"="Kaukosäätimen poistamisen lopuksi nollaa se painamalla linkkipainiketta neljä kertaa. Sitten kaikki on valmista!"
+"to_finish_removing_your_motion"="Liikkeentunnistimen poistamisen lopuksi nollaa se painamalla linkkipainiketta neljä kertaa. Sitten kaikki on valmista!"
+"to_finish_removing_your_wirele"="Langattoman himmentimen poistamisen lopuksi nollaa se painamalla linkkipainiketta neljä kertaa. Sitten kaikki on valmista!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Kun haluat siirtää laitteen, avaa langaton himmennin (%1$s) ja paina linkkipainiketta."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Kun haluat siirtää laitteen, avaa langattomat himmentimet (%1$s ja %2$s) ja paina molempien linkkipainiketta"
+"required_update"="Vaadittu päivitys"
+"update_required_tradfri_needs_"="Päivitys vaaditaan. TRÅDFRI on päivitettävä, jotta se toimii jatkossakin sujuvasti. Sovellus ei ole käytettävissä päivityksen aikana."
+"an_important_update_has_been_p"="Tärkeä päivitys on tehty ja TRÅDFRI on päivitetty uusimpaan versioon"
+"reconnect_to_gateway"="Muodosta yhteys yhdyskäytävään uudelleen"
+"is_your_light_on"="Onko valo sytytetty?"
+"if_not_turn_it_on_to_successfu"="Jos ei ole, sytytä valo, jotta voit poistaa laitteen."
+"to_remove_your_light_open_the_"="Kun haluat poistaa valon, avaa langaton himmennin (%1$s) ja paina linkkipainiketta."
+"wireless_motion_sensor"="Langaton liikkeentunnistin"
+"please_confirm"="Siirretäänkö %1$s?"
+"gently_rotate_your_wireless_di"="Vahvista kääntämällä langatonta himmennintä varovasti."
+"we_did_not_detect_any_action_o"="Laite ei reagoinut."
+"wave_your_hand_in_front_of_the"="Vahvista heiluttamalla kättäsi liikkeentunnistimen edessä."
+"enter_group_name"="Anna ryhmälle nimi"
+"enter_accessory_name"="Anna lisälaitteelle nimi"
+"remove_"="Poista %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Lämmin valkoinen lamppu"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Aseta tunnelma ennen tallennusta. Oma tunnelma sisällytetään."
+"my_moods"="Omat tunnelmat"
+"create_a_mood_and_save_it_for_"="Luo tunnelma ja tallenna se pikakäyttöä varten"
+"light_unreachable"="Valo ei käytettävissä"
+"if_you_create_or_edit_a_mood_while"="Jos jokin valo ei ole käytettävissä, kun luot tai muokkaat tunnelmaa, valoa ei oteta huomioon tunnelmassa. Varmista ennen jatkamista, että kaikki valot on sytytetty"
+"edit_moods"="MUOKKAA TUNNELMIA"
+"edit_mood"="MUOKKAA TUNNELMAA"
+"brightness"="KIRKKAUS | %1$s"
+"disconnect_app"="KATKAISE SOVELLUKSEN YHTEYS"
+"clear_all_settings"="Tyhjennä kaikki asetukset"
+"this_will_delete_all_Moods"="Tämä poistaa kaikki tunnelmat ja ajastimet sekä nollaa kaikki asetukset. Kun asetukset nollataan, kaikkien laitteiden yhteys yhdyskäytävään katkaistaan"
+"are_you_sure_you_want_to_clear"="Haluatko varmasti tyhjentää kaikki asetukset?"
+"clear"="Tyhjennä"
+"cleared"="TYHJENNETTY"
+"clearing"="TYHJENNETÄÄN..."
+"see_details"="Katso tarkemmat tiedot"
+"update_did_not_complete"="Päivitystä ei tehty loppuun"
+"one_or_more_devices_didnt_upda"="Yksi tai useampi laite ei päivittynyt. Ei kuitenkaan syytä huoleen, sillä valot toimivat edelleen."
+"your_moods_are_still_loading_"="Tunnelmia ladataan yhä. Yritä uudelleen muutaman sekunnin kuluttua."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Ei päivitetty"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Lamput"
+"waiting_for_gateway"="Odotetaan yhdyskäytävää"
+"wireless_dimmers"="Langattomat himmentimet"
+"theres_an_important_new_update"="TRÅDFRI-sovellukseen on saatavilla tärkeä uusi päivitys."
+"close"="Sulje"
+"update_pending"="Päivitys odottaa"
+"your_devices_are_being_updated"="Laitteita päivitetään. TRÅDFRI-sovelluksen käyttöä voi jatkaa tavalliseen tapaan."
+"start_update"="Aloita päivitys"
+"continue_to_use_your_lights_as"="Päivitykset tehdään taustalla, joten valoja voi käyttää tavalliseen tapaan. Sovellus saattaa olla poissa käytöstä lyhyen aikaa."
+"panel"="Paneeli"
+"door"="Ovi"
+"panels"="Paneelit"
+"doors"="Ovet"
+"check_for_updates"="Tarkista päivitykset"
+"update_now"="Päivitä heti"
+"view_update_details"="Näytä päivitystiedot"
+"all_your_devices_are_updated_t"="Kaikki laitteesi on päivitetty viimeisimpään versioon."
+"your_gateway_didnt_update_dont"="Yhdyskäytävän päivitys ei onnistunut. Ei kuitenkaan syytä huoleen, sillä valot toimivat edelleen."
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Yhdyskäytävään ei saada yhteyttä."
+"we_couldnt_connect_to_your_dev"="Yhteyttä ei voitu muodostaa laitteisiin. Jos ongelma jatkuu, katkaise yhdyskäytävän virta ja kytke se sitten uudelleen"
+"we_couldnt_find_your_gateway_m"="Yhdyskäytävää ei löytynyt. Varmista, että se on liitetty reitittimeen johdolla ja että puhelin on liitetty samaan verkkoon."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Kylmä taivas"
+"_eaf6fb"="Viileä päivänvalo"
+"_f5faf6"="Viileä valkoinen"
+"_f2eccf"="Auringonnousu"
+"_f1e0b5"="Lämmin valkoinen"
+"_efd275"="Lämmin hehku"
+"_ebb63e"="Kynttilänvalo"
+"_e78834"="Lämmin keltainen"
+"_e57345"="Persikka"
+"_da5d41"="Tumma persikka"
+"_dc4b31"="Voimakas punainen"
+"_e491af"="Pinkki"
+"_e8bedd"="Vaalea pinkki"
+"_d9337c"="Voimakas pinkki"
+"_c984bb"="Vaalea violetti"
+"_8f2686"="Voimakas violetti"
+"_4a418a"="Sininen"
+"_6c83ba"="Vaalea sininen"
+"_a9d62b"="Limetti"
+"_d6e44b"="Keltainen"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Pidä kohdan %1$s vieressä olevaa painiketta nopeasti painettuna neljä kertaa. Punainen valo välähtää kaukosäätimessä.<br/><br/><b>b.</b> Kun valo lakkaa vilkkumasta, odota kymmenen sekunnin ajan. Sitten voit jatkaa.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Pidä kaukosäädintä enintään 2 cm:n päässä yhdyskäytävästä.<br/><br/><b>b.</b> Pidä kaukosäätimessä kohdan %1$s vieressä olevaa painiketta painettuna, kunnes yhdyskäytävän valo %1$s välähtää nopeasti neljä kertaa.<br/><br/><b>c.</b> Odota, kunnes sovellus näyttää vahvistuksen.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Pidä liikkeentunnistinta enintään 2 cm:n päässä yhdyskäytävästä.<br/><br/><b>b.</b> Pidä liikkeentunnistimessa kohdan %1$s vieressä olevaa painiketta painettuna, kunnes yhdyskäytävässä kohdan %1$s yläpuolella oleva valo välähtää nopeasti neljä kertaa.<br/><br/><b>c.</b> Odota, kunnes sovellus näyttää vahvistuksen.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Pidä langatonta himmennintä enintään 2 cm:n päässä oven tai paneelin takana olevasta valkoisesta kotelosta.<br/><br/><b>b.</b> Pidä kohdan %1$s vieressä olevaa painiketta painettuna kymmenen sekunnin ajan. Valonlähde alkaa himmetä ja kirkastua. Pidä painiketta painettuna, kunnes välkyntä lakkaa.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Pidä langatonta himmennintä enintään 2 cm:n päässä lampusta.<br/><br/><b>b.</b> Pidä kohdan %1$s vieressä olevaa painiketta painettuna kymmenen sekunnin ajan. Valonlähde alkaa himmetä ja kirkastua. Pidä painiketta painettuna, kunnes välkyntä lakkaa.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Pidä liikkeentunnistinta enintään 2 cm:n päässä lampusta.<br/><br/><b>b.</b> Pidä painiketta %1$s painettuna kymmenen sekunnin ajan. Valonlähde alkaa himmetä ja kirkastua. Pidä painiketta painettuna, kunnes välkyntä lakkaa.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Pidä liikkeentunnistinta enintään 2 cm:n päässä oven tai paneelin takana olevasta valkoisesta kotelosta.<br/><br/><b>b.</b> Pidä painiketta %1$s painettuna kymmenen sekunnin ajan. Valonlähde alkaa himmetä ja kirkastua. Pidä painiketta painettuna, kunnes välkyntä lakkaa.]]>"
+"found"="%1$s löytyi"
+"perfect_is_now_connected_to_tr"="Hienoa! %1$s on nyt liitetty TRÅDFRI-järjestelmään."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Yhdistetty"
+"disconnected_"="Yhteys katkaistu"
+"find_detailed_help_in_our_trou"="Lisätietoja saa vianmääritysoppaastamme."
+"disconnect_from_your_gateway"="Katkaise yhteys yhdyskäytävään"
+"are_you_sure_you_want_to_disco"="Haluatko varmasti katkaista yhteyden?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="TRÅDFRI-versio"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Samoja valoja käyttävät ajastimet"
+"you_have_two_timers_using_the_"="Sinulla on kaksi ajastinta, jotka käyttävät samoja valoja. Nollaa asetukset.\nTai\nsinulla on kaksi ajastinta, jotka käyttävät samoja aikajaksoja. Nollaa asetukset, jotta valot palaisivat oikeaan aikaan"
+"your_timers_are_still_loading_"="Ajastimia ladataan yhä. Yritä uudelleen muutaman sekunnin kuluttua."
+"which_day"="%1$s Mikä päivä?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Hae ohjeita"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Pidä kaukosäädintä enintään 2 cm:n päässä lampusta.<br /><br /><b>b.</b> Pidä kohdan %1$s vieressä olevaa painiketta painettuna kymmenen sekunnin ajan. Valonlähde alkaa himmetä ja kirkastua. Pidä painiketta painettuna, kunnes välkyntä lakkaa.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Pidä kaukosäädintä enintään 2 cm:n päässä oven tai paneelin takana olevasta valkoisesta kotelosta.<br /><br /><b>b.</b> Pidä kohdan %1$s vieressä olevaa painiketta painettuna kymmenen sekunnin ajan. Valonlähde alkaa himmetä ja kirkastua. Pidä painiketta painettuna, kunnes välkyntä lakkaa.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Paina kohdan %1$s vieressä olevaa painiketta nopeasti neljä kertaa. Punainen valo välähtää liikkeentunnistimessa.<br /><br /><b>b.</b> Kun valo lakkaa vilkkumasta, odota kymmenen sekunnin ajan. Sitten voit jatkaa.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Paina kohdan %1$s vieressä olevaa painiketta nopeasti neljä kertaa. Punainen valo välähtää langattomassa himmentimessä.<br /><br /><b>b.</b> Kun valo lakkaa vilkkumasta, odota kymmenen sekunnin ajan. Sitten voit jatkaa.]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Pidä langatonta himmennintä enintään 2 cm:n päässä tukiasemasta.<br /><br /><b>b.</b> Pidä langattomassa himmentimessä kohdan %1$s vieressä olevaa painiketta painettuna, kunnes tukiasemassa kohdan %1$s yläpuolella oleva valo välähtää nopeasti neljä kertaa.<br /><br /><b>c.</b> Odota, kunnes sovellus näyttää vahvistuksen.]]>"
+"are_you_sure_you_want_to_delete_mood"="Haluatko varmasti poistaa kohteen \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Lämmin valkoinen lamppu"
+"bulb_e27_w_opal_1000lm"="Lämmin valkoinen lamppu"
+"bulb_e26_opal_1000lm"="Lämmin valkoinen lamppu"
+"bulb_e12_ws_opal_400lm"="Valkoinen spektrilamppu"
+"bulb_e26_ws_clear_950lm"="Valkoinen spektrilamppu"
+"bulb_e26_ws_opal_980lm"="Valkoinen spektrilamppu"
+"bulb_e27_ws_opal_980lm"="Valkoinen spektrilamppu"
+
+<!--3rd PARTY DEVICES* -->
+"device"="laite"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integroinnit"
+"eg_amazon_alexa_apple_homekit"="esim. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Ohjaa TRÅDFRI-valoja äänelläsi Amazon Alexa -sovelluksen kautta,\n\nesim. ”Alexa, sytytä valo.”\n”Alexa, himmennä valoa 50%.”"
+"enable"="Ota käyttöön"
+"disable"="Poista käytöstä"
+"you_are_logged_in"="Olet kirjautunut sisään."
+"to_get_started_enable_the_trad"="Aloita ottamalla TRÅDFRI-ominaisuus käyttöön Alexa-sovelluksessa. Sano sitten ääneen: ”Alexa, etsi laitteet.”"
+"ensure_your_alexa_device_is_s"="Varmista, että Alexa-laitteesi on määritetty."
+"to_continue_your_alexa_device"="Alexa-laitteen täytyy olla otettu käyttöön. Noudata Amazon Alexa -pikaopasta."
+
+<!-- Whats New Strings* -->
+"whats_new"="Uutta"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Laita kaikki yhdistetyt laitteesi toimimaan tehokkaammin ja älykkäämmin. TRÅDFRI toimii nyt Apple HomeKitin kanssa."
+"learn_more"="Lue lisää"
+"use_your_voice_to_control_your"="Ohjaa TRÅDFRI-valoja äänelläsi Amazon Alexa -sovelluksen kautta. Kytke ne päälle ja pois tai säädä niiden kirkkautta."
+"disable_amazon_alexa"="Poistetaanko Alexa käytöstä?"
+"you_will_no_longer_be_able_to_"="Et voi enää ohjata TRÅDFRI-laitteitasi Amazon Alexan kautta."
+"problem_connecting_to_amazon"="Ongelma yhdistettäessä Amazoniin."
+"please_try_again"="Yritä uudelleen."
+"accept_the_terms_of_use"="Hyväksy käyttöehdot"
+"in_order_to_enable_amazon_alex"="Sinun täytyy hyväksyä käyttöehdot, jotta voit käyttää Amazon Alexaa."
+"cant_connect_to_amazon"="Amazoniin ei saada yhteyttä."
+"check_your_internet_connection"="Tarkista internetyhteys ja yritä uudelleen."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Valot alkavat kirkastua kello %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Näytä päivitystiedot"
+"gateway_update_required"="Tukiaseman päivitys vaaditaan"
+"to_use_this_new_feature_you_ne"="Päivitä tukiasemaohjelmisto uusimpaan versioon, jotta voit käyttää tätä uutta ominaisuutta."
+"later"="Myöhemmin"
+"gateway_update_available"="Tukiaseman päivitys saatavilla"
+"to_use_new_features_you_need_t"="Päivitä tukiasemaohjelmisto uusimpaan versioon, jotta voit käyttää uusia ominaisuuksia."
+"new_update_available"="Uusi päivitys saatavilla"
+"in_order_to_control_your_devic"="Päivitä TRÅDFRI-sovellus, jotta voit ohjata laitteitasi puhelimen kautta."
+"as_a_security_precaution_you_h"="Yhteytesi tukiasemaan on katkaistu varotoimenpiteenä.\n\nMuodosta yhteys tukiasemaan uudelleen ja jatka käyttöä."
+"unknown_device"="Tuntematon laite"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Moniväriset lamput"
+"now_you_can_decorate_your_home"="Nyt voit valaista kotisi värikkäästi."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Lähes valmista. Avaa Google Home -sovellus, jotta voit ohjata TRÅDFRI-laitteita äänelläsi."
+"set_up_tradfri_for_voice_contr"="Ota TRÅDFRI-ääniohjaus käyttöön Google Assistantin kautta.\n\nEsim. ”OK, Google, sytytä valo”, tai ”OK, Google, himmennä valoa 50%”."
+"are_you_using_a_google_home_de"="Käytätkö Google Home -laitetta?"
+"if_youre_using_a_google_home_d"="Jos käytössäsi on Google Home -laite, varmista, että se on päällä.\nJos käytät Google Assistantia vain puhelimesi kautta, jatka."
+"cant_connect_to_google"="Googleen ei saada yhteyttä"
+"disable_google_assistant"="Poistetaanko Google Assistant?"
+"you_will_no_longer_be_able_to_contro"="Et voi enää ohjata TRÅDFRI-laitteitasi Google Homen kautta."
+"google_assistant_could_not_be_"="Google Assistantia ei voitu ottaa käyttöön"
+"google_assistant"="Google Assistant"
+"use_voice_control_to_adjust_yo"="Säädä TRÅDFRI-laitteita Google Assistant -ääniohjauksen avulla. Sytytä ne, muuta värejä tai säädä kirkkautta."
+"you_cant_have_two_timers_on_a"="Kaksi ajastinta ei voi käyttää samoja valoja samaan aikaan."
+"multicolored_bulb_title"="Moniväriset lamput"
+"multicolored_bulb_desc"="Valaise kotisi värikkäästi. TRÅDFRI-perhe on kasvanut."
+"something_went_wrong"="Jokin meni vikaan."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Hallitse laitteita"
+"devices"="laitteet"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Oikeudelliset tiedot"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="KATKAISE YHTEYS TUKIASEMAAN"
+"in_progress"="Kesken…"
+"turn_everything_off"="SAMMUTA KAIKKI"
+"all_devices_are_off"="Kaikki laitteet ovat pois päältä."
+"devices_on"="%1$s laitetta päällä"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Ajasta valot syttymään ja sammumaan, vaikket olisi kotona."
+"on_and_off_small"="Päällä ja pois"
+"group_must_be_empty_to_delete"="Ryhmän on oltava tyhjä, jotta se voidaan poistaa."
+"please_remove_all_devices"="Poista kaikki ryhmän laitteet."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Google Assistantia ei voitu poistaa käytöstä"
+"please_verify_your_internet_co"="Tarkista internetyhteys ja yritä uudelleen.\n\nJos sovellus ei yhdistä useiden yritysten jälkeenkään, kokeile poistaa kaikki muut mahdollisesti käytössä olevat integraatiot."
+"try_disable_again"="YRITÄ POISTAA UUDELLEEN"
+"remove_integration"="POISTA INTEGRAATIOT"
+"cant_connect"="Ei voi muodostaa yhteyttä"
+"remove_all_integration"="Poistetaanko kaikki integraatiot?"
+"are_you_sure_this_will_remove_"="Oletko varma? Tämä poistaa KAIKKI käytössä olevat integraatiot."
+"amazon_alexa_could_not_be_disa"="Amazon Alexaa ei voitu poistaa käytöstä"
+"please_verify_your_internet_connect"="Tarkista internetyhteys ja yritä uudelleen.\n\nJos sovellus ei yhdistä useiden yritysten jälkeenkään, nollaa integraatiot valitsemalla POISTA INTEGRAATIOT ja yritä uudelleen.\nTämä toiminto poistaa KAIKKI käytössä olevat integraatiot, myös Amazon Alexan."
+"eg_amazon_alexa_google_assista"="esim. Amazon Alexa, Google Assistant"
+

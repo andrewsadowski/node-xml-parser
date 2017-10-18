@@ -1,0 +1,609 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="Здравейте!"
+"i_agree_to_the"="Съгласявам се с"
+"plug_in_your_gateway"="Включете вашия портал"
+"next"="НАПРЕД"
+"connect"="СВЪРЗВАНЕ"
+"terms_conditions"="Правила и условия"
+"please_agree_to_continue"="Съгласете се, за да продължите."
+"connecting_to_your_gateway"="Свързване с вашия портал…"
+"plug_your_gateway_into_a_power"="Включете вашия портал в контакта и го свържете с WiFi рутера с помощта на предоставения Ethernet кабел."
+"congrats"="Честито!"
+"and"="и"
+"connect_to_wifi"="Свързване с WiFi"
+"this_name_is_already_in_use_pl"="Това име вече се използва. Опитайте с друго."
+"welcome_to_the_tradfri_lightin"="Добре дошли в системата за осветление TRÅDFRI. Това е най-лесният начин да създадете осветление, което да озарява живота ви у дома. Готови ли сте да започнете?"
+"enter_the_gateway_ip"="Въведете IP адреса на портала"
+"gateway_ip"="IP адрес на портала"
+"if_the_gateway_is_plugged_in_c"="Ако порталът е включен правилно и все още не може да бъде открит, може да се наложи да въведете IP адреса ръчно. Проверете страницата за повече информация."
+"the_gateway_ip_is_incorrect"="IP адресът на портала е неправилен."
+"you_must_be_connected_to_your_"="Трябва да сте свързани с вашата WiFi мрежа, за да можете да управлявате TRÅDFRI от приложението."
+"these_are_your_tradfri_devices"="Това са вашите устройства TRÅDFRI"
+"lets_get_started"="ДА ЗАПОЧВАМЕ"
+"get_started"="ДА ЗАПОЧВАМЕ"
+"youre_now_connected_to_the_gat"="Вече сте свързани с портала. Сега да свържем вашите устройства."
+"add_another_device"="Добавяне на друго устройство"
+"finding_gateway"="Намиране на вашия портал..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Сканиране..."
+"type_in_the_code_instead"="Вместо това, въведете кода"
+"youll_find_the_code_on_the_bac"="Кодът се намира на гърба на портала."
+"we_found_the_code"="Открихме кода."
+"hold_on_while_we_verify_the_co"="Изчакайте, докато проверим кода..."
+"scan"="СКАНИРАНЕ"
+"now_scan_the_code"="Сега сканирайте кода"
+"enable_camera"="ВКЛЮЧВАНЕ НА КАМЕРА"
+"type_in_the_serial_number"="Въведете серийния номер"
+"type_in_the_security_code"="Въведете кода за защита"
+"serial_number"="Сериен номер"
+"security_code"="Код за защита"
+"youll_find_it_on_the_back_of_y"="Намира се на гърба на вашия портал."
+"youll_find_them_both_on_the_ba"="И двете се намират на гърба на вашия портал."
+"this_serial_number_is_incorrec"="Този сериен номер е неправилен"
+"type_in_the_serial_number_and_"="Въведете серийния номер и кода за защита"
+"enable_your_camera_to_scan_the"="Включете камерата, за да сканирате кода."
+"type_in_the_code"="ВЪВЕДЕТЕ КОДА"
+"the_security_key_should_be_dig"="Кодът за защита трябва да съдържа 16 цифри"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Започнете, като изберете устройството, което искате да добавите"
+"open_the_back_of_the_remote_co"="1. Отворете задната част на дистанционното управление"
+"reset_the_remote_control"="2. Рестартирайте дистанционното управление"
+"connect_the_remote_control"="3. Свържете дистанционното управление"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Включете вашата светлина"
+"make_sure_that_your_light_is_i"="Уверете се, че вашето осветление е инсталирано, и че главният превключвател е включен."
+"which_control_device_are_you_u"="2. Кое устройство за управление използвате?"
+"remember_to_use_a_control_devi"="Не забравяйте да използвайте устройство за управление, което вече е свързано."
+"connect_the_light"="3. Свържете светлината"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Намиране на вашите устройства..."
+"bulb"="Крушка"
+"door_or_panel"="Врата или панел"
+"open_the_back_of_the_motion_se"="1. Отворете задната част на сензора за движение"
+"reset_the_motion_sensor"="2. Рестартирайте сензора за движение"
+"connect_the_motion_sensor"="3. Свържете сензора за движение"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Отворете задната част на безжичния димер"
+"reset_the_wireless_dimmer"="2. Рестартирайте безжичния димер"
+"connect_the_wireless_dimmer"="3. Свържете безжичния димер"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Намиране на вашето устройство"
+"which_device_would_you_like_to"="Кое устройство искате да добавите?"
+"now_add_your_lights"="Добавете вашите светлини"
+"they_can_be_added_after_youve_"="Те могат да се добавят, след като сте свързали устройство за управление."
+"ill_do_this_later"="Ще го направя по-късно"
+"delete_mood"="Изтриване на настроение"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="За да потвърдите преместването на устройството, натиснете произволен бутон на устройството. Може да е нужно да го натиснете няколко пъти."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="МОЯТ ДОМ"
+"add_lights"="ДОБАВЯНЕ НА СВЕТЛИНИ"
+"no_lights_have_been_added_to_t"="В тази група няма добавени светлини."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Въведете име на настроение."
+"please_pick_another_name_this_"="Изберете друго име, това име вече се използва."
+"moods_by_ikea"="Настроения от IKEA"
+"new_mood"="Ново настроение"
+"please_enter_a_mood_name"="Моля, въведете име на настроение."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Изключване"
+"turn_on"="Включване"
+"min"="Мин."
+"max"="Макс."
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Едно устройство не може да бъде намерено"
+"devices_cannot_be_found"="%1$s устройства не могат да бъдат намерени"
+"one_remote_has_a_low_battery"="Едно дистанционно управление е с нисък заряд на батериите"
+"one_motion_sensor_has_a_low_ba"="Един сензор за движение е с нисък заряд на батериите"
+"remotes_have_low_batteries"="%1$s дистанционни управления са с нисък заряд на батериите"
+"devices_have_low_batteries"="%1$s устройства са с нисък заряд на батериите"
+"updating"="Актуализиране..."
+"update_successful"="Успешна актуализация"
+"was_added_to_a_new_group"="Добавихте %1$s към нова група."
+"was_removed"="Премахнахте %1$s"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Групи"
+"rename_group"="Преименуване на група"
+"add_new_group"="Добавяне на нова група"
+"add_devices"="Добавяне на устройства"
+"new_group"="Нова група"
+"group_name"="Име на група"
+"low_battery"="Нисък заряд на батериите"
+"manage_your_devices"="Управление на вашите устройства"
+"devices"="Устройства"
+"last_seen_ago"="Последно видяно преди %1$s"
+"move_a_device_to_this_group_by"="Преместете устройство в тази група, като докоснете трите точки."
+"leaving_will_remove_new_group"="Ако излезете сега, новата групата ще бъде премахната"
+"groups_without_any_devices_wil"="Групи без устройства се премахват автоматично."
+"move_to_other_group"="Преместване в друга група"
+"rename_device"="Преименуване на устройство"
+"remove_device"="Премахване на устройство"
+"select_destination_group"="Изберете целева група"
+"the_name_is_already_being_used"="Името \" %1$s \" вече се използва."
+"remove_accessory"="Премахване на аксесоар?"
+"it_looks_like_there_was_a_prob"="Изглежда има проблем с преместването на вашата светлина. Уверете се, че светлината е включена и опитайте отново да я преместите."
+"disconnected_devices"="Устройства с прекъсната връзка"
+"add_new"="ДОБАВЯНЕ НА НОВИ"
+"device_was_not_moved"="Устройството не е преместено"
+"unfortunately_you_cant_add_a_m"="За съжаление не можете да добавите сензор за движение към група с димери или дистанционни управления."
+"press_any_button_on_your_remot"="Натиснете произволен бутон на дистанционното управление."
+"great"="Страхотно!"
+"your_was_moved_to"="Преместихте %1$s в %2$s."
+"are_you_sure_you_want_to_remov"="Наистина ли искате да премахнете устройството %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="ТАЙМЕРИ"
+"enabled"="включено"
+"disabled"="изключено"
+"every_day"="Всеки ден"
+"days"="Дни"
+"hours"="Часове"
+"minutes"="Минути"
+"seconds"="Секунди"
+"mon"="Пон"
+"tue"="Вт"
+"wed"="Ср"
+"thu"="Четв"
+"fri"="Пет"
+"sat"="Съб"
+"sun"="Нед"
+"timer_is_not_set"="Таймерът не е настроен"
+"mon_fri"="Пон – Пет"
+"cant_set_time"="Часът не може да се настрои"
+"make_sure_you_set_your_timer_b"="Настройте таймера преди да излезете."
+"are_you_sure_you_want_to_delete_this_tim"="Наистина ли искате да изтриете този таймер?"
+"add"="ДОБАВЯНЕ"
+"am"="AM"
+"pm"="PM"
+"monday"="П"
+"tuesday"="В"
+"wednesday"="С"
+"thursday"="Ч"
+"friday"="П"
+"saturday"="С"
+"sunday"="Н"
+"set_your_time"="Задаване на час"
+"new_timer"="Нов таймер"
+"what_time"="%1$s В колко часа?"
+"which_lights"="%1$s Кои светлини?"
+"from"="от"
+"to"="до"
+"should_they_turn_on_or_off"="%1$s Да се включват или изключват?"
+"save"="ЗАПИШИ"
+"set_your_lights_to_turn_on_or_"="Настройте светлините да се включват и изключват точно когато искате."
+"set_your_lights_to_turn_on_or_off_e"="Настройте светлините да се включват и изключват точно когато искате.\n\nВашите светлини ще запомнят яркостта и цвета от последния път, когато са били използвани."
+"during_what_time"="%1$s По кое време?"
+"you_cant_set_a_time_with_the_s"="Не можете да настроите часа с еднакъв начален и краен час."
+"a_timer_has_been_updated"="Вашият таймер е актуализиран"
+"timers_have_been_updated"="Таймерите са актуализирани"
+"view"="Преглед"
+"you_are_now_using_the_maximum_"="Използвате максималния брой таймери."
+"timers_help_you_set_your_light"="Таймерите ви помагат да настроите кога осветлението да се включва и изключва. Добавете един, за да започнете!"
+"some_of_your_timers_was_update"="Някои от вашите таймери са актуализирани от друго устройство."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Да се повтаря"
+"rise_and_shine"="Добро утро!"
+"set_your_lights_to_wake_you_up"="Настройте светлините така, че да ви събуждат."
+"your_rise_and_shine_timer_was_"="Вашият таймер \"Добро утро!\" е актуализиран от друго устройство."
+"delete_rise_and_shine"="Изтриване на \"Добро утро!\""
+"your_rise_and_shine_timer_just"="Вашият таймер \"Добро утро!\" е включен."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Далеч от дома"
+"out_and_about_set_your_lights_"="Ще пътувате? Настройте светлините да се включват и изключват така, все едно сте си у дома."
+"set_your_lights_to_slowly_dim_"="Настройте светлините така, че бавно да започнат да се усилват 30 минути преди часа, който сте задали на таймера. Светлините бавно ще станат по-ярки\n\n– точно като сутрешното слънце."
+"your_away_from_home_timer_just"="Вашият таймер \"Далеч от дома\" е включен."
+"your_away_from_home_timer_was_"="Вашият таймер \"Далеч от дома\" е актуализиран от друго устройство."
+"delete_away_from_home"="Изтриване на \"Далеч от дома\""
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="ВКЛ. и ИЗКЛ."
+"on_or_off"="Вкл. или Изкл."
+"out_and_about_set_your_lights_to_tu"="Ще пътувате? Настройте светлините да се включват и изключват така, все едно сте си у дома.\n\nЗапомнете, че не трябва да изключвате светлините от ключа на стената. Те ще запомнят яркостта и цвета от последния път, когато са били използвани."
+"your_on_or_off_timer_just_star"="Вашият таймер \"Вкл. или Изкл.\" е включен."
+"your_on_or_off_timer_was_updat"="Вашият таймер \"Вкл. или Изкл.\" е актуализиран от друго устройство."
+"delete_on_or_off"="Изтриване на \"ВКЛ. или ИЗКЛ.\""
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="НАСТРОЙКИ"
+"need_help"="Трябва ви помощ?"
+"language"="Език"
+"default_language"="Език по подразбиране"
+"send_in_email"="ИЗПРАЩАНЕ ПО ИМЕЙЛ"
+"terms_and_conditions"="Правила и условия"
+"privacy_policy"="Политика за поверителност"
+"software_licenses"="Софтуерни лицензи"
+"continue_"="Продължи"
+"youve_selected_as_your_language_"="Избрахте %1$s за ваш език."
+"tradfri_terms_and_conditions"="Правила и условия на TRÅDFRI"
+"tradfri__privacy_policy"="Политика за поверителност на TRÅDFRI"
+"tradfri_is_up_to_date"="TRÅDFRI е актуализиран"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Има налични актуализации"
+"update"="АКТУАЛИЗАЦИЯ"
+"unreachable"="Недостъпно"
+"update_details"="Подробности за актуализацията"
+"up_to_date"="Актуализирано"
+"remote_controls"="Дистанционни управления"
+"motion_sensors"="Сензори за движение"
+"this_should_only_take_about_mi"="Това ще отнеме само 1 минута."
+"dismiss"="ПРЕКРАТИ"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="ПРЕКЪСВАНЕ НА ВРЪЗКА"
+"disconnecting"="ПРЕКЪСВАНЕ НА ВРЪЗКАТА..."
+"disconnected"="ПРЕКЪСНАТА ВРЪЗКА"
+"disconnecting_allow_you_to_con"="Прекъсването на връзката ви позволява да се свържете с друг портал. Няма да можете да използвате двата едновременно, но не се тревожете, всички ваши настройки за осветление са записани в настоящия портал."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Открит е нов портал"
+"gateway_is_rebooting"="Порталът се рестартира..."
+"connect_to_new_gateway"="Свързване с нов портал"
+"you_cant_connect_to_your_curre"="Не можете да се свържете с настоящия портал, но има друг наличен. Искате ли да се свържете с новия портал?"
+"connecting_will_disconnect_you"="Свързването ще прекъсне връзката с настоящия портал. Но не се тревожете, всички настройки са записани в настоящия портал."
+"try_again"="ОПИТАЙТЕ ОТНОВО"
+"oops"="Опа!"
+"youre_about_to_remove_the_last"="Ще премахнете последното устройство"
+"your_light_needs_to_be_turned_"="Светлината трябва да бъде включена от превключвателя, преди да можете да я използвате."
+"remember_to_turn_on_your_light"="Не забравяйте да включите светлините"
+"oops_something_went_wrong"="Опа! Нещо се обърка."
+"enter_the_gateway_ip_manually"="Въведете IP адреса на портала ръчно"
+"gateway_is_updating"="Порталът се актуализира..."
+"your_gateway_software_is_being"="Софтуерът на вашия портал се актуализира, за да можете да работите най-добре с него. Порталът няма да е наличен за няколко минути, но можете да продължите да използвате светлините и дистанционното управление както обикновено."
+"unable_to_connect_to_tradfri"="Неуспешно свързване с TRÅDFRI"
+"it_looks_like_you_scanned_the_"="Изглежда сте сканирали неправилен код. Опитайте да сканирате този, който се намира на гърба на вашия портал."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Крушка бял спектър"
+"bulb_e27_white_spectrum_globe_clear"="Крушка бял спектър"
+"bulb_e27_white_spectrum_globe_opal"="Крушка бял спектър"
+"bulb_e14_white_spectrum_globe_"="Крушка бял спектър"
+"color_white_spectrum_bulb"="Крушка цветен/бял спектър"
+"bulb_e14_color_white_spectrum_"="Крушка цветен/бял спектър"
+"white_spectrum_panel"="Панел бял спектър"
+"panel_white_spectrum_30_90"="Панел бял спектър"
+"panel_white_spectrum_60_60"="Панел бял спектър"
+"color_white_spectrum_panel"="Панел цветен/бял спектър"
+"white_spectrum_door"="Врата бял спектър"
+"door_white_spectrum_36_84"="Врата бял спектър"
+"remote_control"="Дистанционно управление"
+"motion_sensor"="Сензор за движение"
+"wireless_dimmer"="Безжичен димер"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Преместване"
+"rename"="Преименуване"
+"remove"="Премахване"
+"off"="Изкл."
+"done"="ГОТОВО"
+"cancel"="ОТКАЗ"
+"ok"="ОК"
+"confirm"="ПОТВЪРЖДАВАМ"
+"delete"="Изтриване"
+"proceed"="Продължи"
+"group"="Група"
+"plug"="Щепсел"
+"everyday"="Ежедневно"
+"focus"="Фокус"
+"relax"="Релакс"
+"plugs"="Щепсели"
+"gateway"="Портал"
+"gateways"="Портали"
+
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Включете всичките си светлини."
+"are_all_your_lights_on_they_mu"="Включени ли са %1$s светлините?Трябва да са включени, за да преместите успешно безжичния димер"
+"press_the_link_button"="Натиснете бутона за свързване"
+"to_control_the_new_group_just_"="За да управлявате новата група, просто отворете безжичния димер и натиснете бутона за свързване. След това устройството ви ще бъде преместено."
+"i_did_it"="Направих го"
+"to_finish_removing_your_remote"="За да завършите премахването на своето дистанционно управление, го върнете в начално състояние, като натиснете бутона за свързване 4 пъти. След това сте готови!"
+"to_finish_removing_your_motion"="За да завършите премахването на своя сензор за движение, го върнете в начално състояние, като натиснете бутона за свързване 4 пъти. След това сте готови!"
+"to_finish_removing_your_wirele"="За да завършите премахването на своя безжичен димер, го върнете в начално състояние, като натиснете бутона за свързване 4 пъти. След това сте готови!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="За да преместите устройството си, отворете безжичния димер в %1$s и натиснете бутона за свързване."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="За да преместите устройството си, отворете безжичните димери в %1$s и %2$s и натиснете бутоните за свързване и на двете"
+"required_update"="Необходима е актуализация"
+"update_required_tradfri_needs_"="Необходима е актуализация. TRÅDFRI се нуждае от актуализация, за да продължи да работи гладко. Приложението няма да е налично, докато се актуализира."
+"an_important_update_has_been_p"="Извършена е важна актуализация на Trådfri до най-новата версия"
+"reconnect_to_gateway"="Повторно свързване към портала"
+"is_your_light_on"="Включено ли е осветлението?"
+"if_not_turn_it_on_to_successfu"="Ако не е, включете го, за да премахнете успешно своето устройство."
+"to_remove_your_light_open_the_"="За да преместите устройството си, отворете безжичния димер в %1$s и натиснете бутона за свързване."
+"wireless_motion_sensor"="Безжичен сензор за движение"
+"please_confirm"="Преместване на %1$s?"
+"gently_rotate_your_wireless_di"="За да потвърдите, леко завъртете безжичния димер."
+"we_did_not_detect_any_action_o"="Вашето устройство не отговори."
+"wave_your_hand_in_front_of_the"="За да потвърдите, махнете с ръка пред сензора за движение."
+"enter_group_name"="Въведете име за своята група"
+"enter_accessory_name"="Въведете име за своя аксесоар"
+"remove_"="Премахване на %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Крушка в топло бяло"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Настройте настроението, преди да го запишете. То ще бъде включено в списъка."
+"my_moods"="Моите настроения"
+"create_a_mood_and_save_it_for_"="Създаване на настроение и запазване за незабавен достъп"
+"light_unreachable"="Светлината не е достижима"
+"if_you_create_or_edit_a_mood_while"="Ако създадете или редактирате настроение, докато има светлина, която не е достижима, светлината ще бъде игнорирана за това настроение. Преди да продължите, се уверете, че че светлините ви са включени"
+"edit_moods"="РЕДАКТИРАНЕ НА НАСТРОЕНИЯ"
+"edit_mood"="РЕДАКТИРАНЕ НА НАСТРОЕНИЕ"
+"brightness"="ЯРКОСТ | %1$s"
+"disconnect_app"="ПРЕКЪСВАНЕ НА ВРЪЗКАТА С ПРИЛОЖЕНИЕТО"
+"clear_all_settings"="Изчисти всички настройки"
+"this_will_delete_all_Moods"="Това ще изтрие всички настроения и таймери и ще върне всички настройки в начално състояние. Когато върнете всички настройки в начално състояние, връзката на всичките ви устройства към портала ще се прекъсне"
+"are_you_sure_you_want_to_clear"="Наистина ли искате да изтриете всичките си настройки?"
+"clear"="Изчисти"
+"cleared"="ИЗЧИСТЕНО"
+"clearing"="ИЗЧИСТВАНЕ..."
+"see_details"="Вижте подробности"
+"update_did_not_complete"="Актуализацията не е завършена"
+"one_or_more_devices_didnt_upda"="Едно или повече устройства не се актуализираха. Не се тревожете – вашите светлини все още работят."
+"your_moods_are_still_loading_"="Вашите настроения все още се зареждат. Опитайте отново след няколко секунди."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Не е актуализиран"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Крушки"
+"waiting_for_gateway"="Изчакване на портала"
+"wireless_dimmers"="Безжични димери"
+"theres_an_important_new_update"="Налична е важна нова актуализация за TRÅDFRI."
+"close"="Затвори"
+"update_pending"="Чакаща актуализация"
+"your_devices_are_being_updated"="Вашите устройства се актуализират. Можете да продължите да използвате TRÅDFRI както обикновено."
+"start_update"="Начало на актуализацията"
+"continue_to_use_your_lights_as"="Продължавате да използвате светлините си както обикновено – актуализациите ще се извършват във фонов режим. Приложението може да не е налично за кратко."
+"panel"="Панел"
+"door"="Врата"
+"panels"="Панели"
+"doors"="Врати"
+"check_for_updates"="Проверка за актуализации"
+"update_now"="Актуализиране сега"
+"view_update_details"="Показване на подробности за актуализацията"
+"all_your_devices_are_updated_t"="Всички ваши устройства са актуализирани до последната версия."
+"your_gateway_didnt_update_dont"="Вашият портал не се е актуализирал. Не се тревожете – вашите светлини все още работят."
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Не можем да се свържем с вашия портал."
+"we_couldnt_connect_to_your_dev"="Не успяхме да се свържем с вашите устройства. Ако проблемът продължи, изключете и включете отново вашия портал"
+"we_couldnt_find_your_gateway_m"="Не успяхме да намерим вашия портал. Уверете се, че е свързан с рутера ви чрез кабела и че телефонът е свързан към същата мрежа."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Студено небе"
+"_eaf6fb"="Хладна дневна светлина"
+"_f5faf6"="Хладно бяло"
+"_f2eccf"="Изгрев"
+"_f1e0b5"="Топло бяло"
+"_efd275"="Топъл блясък"
+"_ebb63e"="Светлина на свещ"
+"_e78834"="Топъл кехлибар"
+"_e57345"="Праскова"
+"_da5d41"="Тъмна праскова"
+"_dc4b31"="Наситено червено"
+"_e491af"="Розово"
+"_e8bedd"="Светлорозово"
+"_d9337c"="Наситено розово"
+"_c984bb"="Светловиолетово"
+"_8f2686"="Наситено виолетово"
+"_4a418a"="Синьо"
+"_6c83ba"="Светлосиньо"
+"_a9d62b"="Жълтозелено"
+"_d6e44b"="Жълто"
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Бързо натиснете и задръжте бутона до %1$s 4 пъти. На дистанционното управление ще премигне червена светлина.<br/><br/><b>b.</b> След като светлината спре да мига, изчакайте 10 секунди. След това можете да продължите.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Задръжте дистанционното управление на 2 cm или по-близо до от портала.<br/><br/><b>b.</b> Натиснете и задръжте бутона до %1$s на дистанционното управление, докато %1$s на портала бързо премигне 4 пъти.<br/><br/><b>c.</b> Изчакайте потвърждение тук, в приложението.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Задръжте сензора за движение на 2 cm или по-близо до портала.<br/><br/><b>b.</b> Натиснете и задръжте бутона до %1$s на сензора за движение, докато светлината над %1$s на сензора за движение бързо премигне 4 пъти.<br/><br/><b>c.</b> Изчакайте потвърждение тук, в приложението.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Задръжте безжичния димер на 2 cm или по-близо до бялата кутия на гърба на вратичката или панела.<br/><br/><b>b.</b> Натиснете и задръжте бутона до %1$s за 10 секунди. Светлината ще започне да се усилва и да отслабва. Задръжте бутона натиснат, докато пулсирането спре.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Задръжте безжичния димер на 2 cm или по-близо до крушката.<br/><br/><b>b.</b> Натиснете и задръжте бутона до %1$s за 10 секунди. Светлината ще започне да се усилва и да отслабва. Задръжте бутона натиснат, докато пулсирането спре.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Задръжте сензора за движение на 2 cm или по-близо до крушката.<br/><br/><b>b.</b> Натиснете и задръжте бутона %1$s за 10 секунди. Светлината ще започне да се усилва и да отслабва. Задръжте бутона натиснат, докато пулсирането спре.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Задръжте сензора за движение на 2 cm или по-близо до бялата кутия на гърба на вратичката или панела.<br/><br/><b>b.</b> Натиснете и задръжте бутона %1$s за 10 секунди. Светлината ще започне да се усилва и да отслабва. Задръжте бутона натиснат, докато пулсирането спре.]]>"
+"found"="%1$s намерен"
+"perfect_is_now_connected_to_tr"="Отлично! %1$s сега е свързано с TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Свързване"
+"disconnected_"="Връзката е прекъсната"
+"find_detailed_help_in_our_trou"="Намерете подробна помощ в нашето ръководство за отстраняване на неизправности."
+"disconnect_from_your_gateway"="Прекъсване на връзката с портал"
+"are_you_sure_you_want_to_disco"="Наистина ли искате да прекъснете връзката?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Версия на Trådfri"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Таймери, използващи едни и същи светлини"
+"you_have_two_timers_using_the_"="Имате два таймера, използващи едни и същи светлини. Върнете в начално състояние.\nИли\nИмате два таймера, използващи едни и същи периоди от време. Върнете в начално състояние, за да запазите светлините в правилното време"
+"your_timers_are_still_loading_"="Вашите таймери все още се зареждат. Опитайте отново след няколко секунди."
+"which_day"="%1$s Кой ден?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Помощ"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Задръжте дистанционното управление на 2 cm или по-близо до крушката.<br /><br /><b>b.</b> Натиснете и задръжте бутона до %1$s за 10 секунди. Светлината ще започне да се усилва и да отслабва. Задръжте бутона натиснат, докато пулсирането спре.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Задръжте безжичния димер на 2 cm или по-близо до бялата кутия на гърба на вратичката или панела.<br /><br /><b>b.</b> Натиснете и задръжте бутона до %1$s за 10 секунди. Светлината ще започне да се усилва и да отслабва. Задръжте бутона натиснат, докато пулсирането спре.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Натиснете бутона до %1$s 4 пъти бързо. На сензора за движение ще премигне червена светлина.<br /><br /><b>b.</b> След като светлината спре да мига, изчакайте 10 секунди. След това можете да продължите.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Натиснете бутона до %1$s 4 пъти бързо. На безжичния димер ще премигне червена светлина.<br /><br /><b>b.</b> След като светлината спре да мига, изчакайте 10 секунди. След това можете да продължите.]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Задръжте безжичния димер на 2 cm или по-близо до портала.<br /><br /><b>b.</b> Натиснете и задръжте бутона до %1$s на безжичния димер, докато светлината над %1$s на сензора за движение бързо премигне 4 пъти.<br /><br /><b>c.</b> Изчакайте потвърждение тук, в приложението.]]>"
+"are_you_sure_you_want_to_delete_mood"="Наистина ли искате да изтриете \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Крушка в топло бяло"
+"bulb_e27_w_opal_1000lm"="Крушка в топло бяло"
+"bulb_e26_opal_1000lm"="Крушка в топло бяло"
+"bulb_e12_ws_opal_400lm"="Крушка бял спектър"
+"bulb_e26_ws_clear_950lm"="Крушка бял спектър"
+"bulb_e26_ws_opal_980lm"="Крушка бял спектър"
+"bulb_e27_ws_opal_980lm"="Крушка бял спектър"
+
+<!--3rd PARTY DEVICES* -->
+"device"="устройство"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Интегриране"
+"eg_amazon_alexa_apple_homekit"="Напр. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="С помощта на Amazon Alexa можете да управлявате светлините TRÅDFRI с гласа си.\n\nНапр. \"Alexa, включи светлината.\" \n\"Alexa, намали светлината с 50%.\""
+"enable"="Активирай"
+"disable"="Деактивирай"
+"you_are_logged_in"="Успешно влизане."
+"to_get_started_enable_the_trad"="За да започнете, активирайте \"умението\" TRÅDFRI в приложението Alexa. След това кажете: \"Alexa, открий моите устройства.\""
+"ensure_your_alexa_device_is_s"="Уверете се, че вашето устройство Alexa е настроено"
+"to_continue_your_alexa_device"="За да продължите, вашето устройство Alexa трябва да е настроено и включено. Моля, следвайте ръководството за бърз старт на Amazon Alexa."
+
+<!-- Whats New Strings* -->
+"whats_new"="Какво ново"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Всички ваши свързани устройства ще работят по-добре и по-интелигентно. TRÅDFRI вече работи с Apple HomeKit."
+"learn_more"="Научете повече"
+"use_your_voice_to_control_your"="С помощта на Amazon Alexa можете да управлявате светлините TRÅDFRI с гласа си. Можете да ги включвате, изключвате и да регулирате силата им."
+"disable_amazon_alexa"="Деактивиране на Amazon Alexa?"
+"you_will_no_longer_be_able_to_"="Вече няма да можете да управлявате своите устройства TRÅDFRI с Amazon Alexa."
+"problem_connecting_to_amazon"="Проблем при свързване с Amazon"
+"please_try_again"="Моля, опитайте отново."
+"accept_the_terms_of_use"="Приемете условията за използване"
+"in_order_to_enable_amazon_alex"="Трябва да приемете условията за използване, за да активирате Amazon Alexa."
+"cant_connect_to_amazon"="Неуспешно свързване с Amazon"
+"check_your_internet_connection"="Проверете връзката с интернет и опитайте отново."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Светлините започват да се усилват в %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Покажи подробности за актуализацията"
+"gateway_update_required"="Нужна е актуализация на портала"
+"to_use_this_new_feature_you_ne"="Трябва да актуализирате софтуера на портала до най-новата версия, за да използвате тази нова функция."
+"later"="По-късно"
+"gateway_update_available"="Има нова актуализация за портала"
+"to_use_new_features_you_need_t"="Трябва да актуализирате софтуера на портала до най-новата версия, за да използвате новите функции."
+"new_update_available"="Има нова актуализация"
+"in_order_to_control_your_devic"="Трябва да актуализирате приложението TRÅDFRI, за да управлявате устройства от телефона."
+"as_a_security_precaution_you_h"="От съображения за сигурност връзката ви с портала е прекъсната.\n \nСвържете се с портала отново, за да продължите."
+"unknown_device"="Неизвестно устройство"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Многоцветни крушки"
+"now_you_can_decorate_your_home"="Вече можете да украсите дома си с цветни светлини."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Почти сте готови. Отворете приложението Google Home, за да активирате гласово управление на вашите TRÅDFRI устройства."
+"set_up_tradfri_for_voice_contr"="Настройте TRÅDFRI за гласово управление чрез Google Assistant.\n\nнапр. Добре, Google, изключи светлината, или добре, Google, намали светлината с 50%."
+"are_you_using_a_google_home_de"="Използвате ли устройство с Google Home?"
+"if_youre_using_a_google_home_d"="Ако използвате устройство с Google Home, се уверете, че е включено сега.\nАко използвате Google Assistant само на телефона си, продължете."
+"cant_connect_to_google"="Неуспешно свързване с Google"
+"disable_google_assistant"="Деактивиране на Google Assistant?"
+"you_will_no_longer_be_able_to_contro"="Вече няма да можете да управлявате своите устройства TRÅDFRI с Google Home."
+"google_assistant_could_not_be_"="Неуспешно активиране на Google Assistant"
+"google_assistant"="Google Assistant"
+"use_voice_control_to_adjust_yo"="Използвайте гласово управление, за да регулирате своите TRÅDFRI устройства с Google Assistant. Можете да ги включвате, да променяте цветовете или да регулирате яркостта."
+"you_cant_have_two_timers_on_a"="При използването на едни и същи светлини не могат да бъдат включени едновременно два таймера."
+"multicolored_bulb_title"="Многоцветни крушки"
+"multicolored_bulb_desc"="Украсете дома си с цветни светлини. Продуктовото семейство Trådfri се разрасна."
+"something_went_wrong"="Нещо се обърка."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Управление на устройствата"
+"devices"="устройства"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Правна информация"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="ПРЕКЪСВАНЕ НА ВРЪЗКАТА С ПОРТАЛА"
+"in_progress"="Протича…"
+"turn_everything_off"="ИЗКЛЮЧВАНЕ НА ВСИЧКО"
+"all_devices_are_off"="Всички устройства са изключени."
+"devices_on"="%1$s устройства са включени"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Настройте светлините да се включват и изключват, дори когато не сте у дома."
+"on_and_off_small"="Включване и изключване"
+"group_must_be_empty_to_delete"="Групата трябва да е празна, за да може да се изтрие."
+"please_remove_all_devices"="Изтрийте всички устройства в групата."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Неуспешно деактивиране на Google Assistant"
+"please_verify_your_internet_co"="Проверете връзката с интернет и опитайте отново.\n\nАко приложението не се свърже след няколко опита, опитайте да премахнете всички други интеграции, които може да са активирани."
+"try_disable_again"="ОПИТАЙТЕ ДА ДЕАКТИВИРАТЕ ОТНОВО"
+"remove_integration"="ПРЕМАХВАНЕ НА ИНТЕГРАЦИИТЕ"
+"cant_connect"="Неуспешно свързване"
+"remove_all_integration"="Премахване на всички интеграции?"
+"are_you_sure_this_will_remove_"="Сигурни ли сте? Това ще премахне ВСИЧКИ интеграции, които може да сте активирали."
+"amazon_alexa_could_not_be_disa"="Неуспешно деактивиране на Amazon Alexa"
+"please_verify_your_internet_connect"="Проверете връзката с интернет и опитайте отново.\n\nАко приложението не се свърже след няколко опита, изберете ПРЕМАХВАНЕ НА ИНТЕГРАЦИИТЕ, за да нулирате интеграциите и опитате отново.\nТова ще премахне ВСИЧКИ интеграции, които може да сте активирали, включително Amazon Alexa."
+"eg_amazon_alexa_google_assista"="Напр . Amazon Alexa, Google Assistant"
+

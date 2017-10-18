@@ -1,0 +1,660 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="大家好！"
+"i_agree_to_the"="我同意遵守"
+"plug_in_your_gateway"="插入网关插头"
+"next"="下一步"
+"connect"="连接"
+"terms_conditions"="条款和条件"
+"please_agree_to_continue"="请单击“同意”继续。"
+"connecting_to_your_gateway"="正在连接到你的网关……"
+"plug_your_gateway_into_a_power"="将网关插头插入电源插座中并使用所提供的
+以太网电缆将网关连接到 WiFi 路由器。"
+"congrats"="恭喜！"
+"and"="和"
+"connect_to_wifi"="连接到 WiFi"
+"this_name_is_already_in_use_pl"="该名称已在使用。请试用其他名称。"
+"welcome_to_the_tradfri_lightin"="欢迎使用 TRÅDFRI 照明系统。它是
+营造唯美灯光效果，改善家居生活的最简单方式。准备好
+设置它了吗？"
+"enter_the_gateway_ip"="输入网关 IP"
+"gateway_ip"="网关 IP"
+"if_the_gateway_is_plugged_in_c"="如果网关插入正确但仍然
+找不到网关，则可能需要手动输入网关 IP 地址。请查看支持
+页面，了解更多信息。"
+"the_gateway_ip_is_incorrect"="网关 IP 不正确。"
+"you_must_be_connected_to_your_"="你必须连接到 WiFi 网络才能
+通过应用来控制 TRÅDFRI。"
+"these_are_your_tradfri_devices"="这些是你的 TRÅDFRI 设备"
+"lets_get_started"="我们开始吧"
+"get_started"="开始操作"
+"youre_now_connected_to_the_gat"="现已连接到网关。现在，我们将
+连接你的设备。"
+"add_another_device"="添加另一台设备"
+"finding_gateway"="正在查找你的网关……"
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="正在扫描……"
+"type_in_the_code_instead"="请改为键入代码"
+"youll_find_the_code_on_the_bac"="在网关背面可以找到
+代码。"
+"we_found_the_code"="代码已找到。"
+"hold_on_while_we_verify_the_co"="正在验证代码，请稍候……"
+"scan"="扫描"
+"now_scan_the_code"="现在扫描代码"
+"enable_camera"="启用相机"
+"type_in_the_serial_number"="键入序列号"
+"type_in_the_security_code"="键入安全代码"
+"serial_number"="序列号"
+"security_code"="安全代码"
+"youll_find_it_on_the_back_of_y"="在网关背面可以找到序列号。"
+"youll_find_them_both_on_the_ba"="在网关背面可以找到
+序列号和安全代码。"
+"this_serial_number_is_incorrec"="此序列号不正确"
+"type_in_the_serial_number_and_"="键入序列号和安全代码"
+"enable_your_camera_to_scan_the"="启用相机以扫描代码。"
+"type_in_the_code"="键入代码"
+"the_security_key_should_be_dig"="安全密钥应为 16 位数"
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="首先选择要添加的设备"
+"open_the_back_of_the_remote_co"="1.打开遥控器的背面"
+"reset_the_remote_control"="2.重置遥控器"
+"connect_the_remote_control"="3.连接遥控器"
+"turn_on_your_light"="1.开灯"
+"make_sure_that_your_light_is_i"="确保灯已安装完毕且
+已打开主电源开关。"
+"which_control_device_are_you_u"="2.你使用的是哪个控制器？"
+"remember_to_use_a_control_devi"="切记使用已经连接的
+控制器。"
+"connect_the_light"="3.连接灯"
+"finding_your_devices"="正在查找你的设备……"
+"bulb"="灯泡"
+"door_or_panel"="仓门或面板"
+"open_the_back_of_the_motion_se"="1.打开运动传感器的背面"
+"reset_the_motion_sensor"="2.重置运动传感器"
+"connect_the_motion_sensor"="3.连接运动传感器"
+"open_the_back_of_the_wireless_"="1.打开无线调光器的背面"
+"reset_the_wireless_dimmer"="2.重置无线调光器"
+"connect_the_wireless_dimmer"="3.连接无线调光器"
+"finding_your_device"="查找你的设备"
+"which_device_would_you_like_to"="你要添加哪个设备？"
+"now_add_your_lights"="立即添加灯"
+"they_can_be_added_after_youve_"="连接到控制器后即可
+添加灯。"
+"ill_do_this_later"="我稍后执行此操作"
+"to_confirm_moving_the_device_p"="要确认移动设备，请按设备上的
+任意按钮。你可能需要多按几次。"
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="我的家"
+"add_lights"="添加灯"
+"no_lights_have_been_added_to_t"="尚未向此小组中添加任何灯。"
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="输入氛围名称"
+"please_pick_another_name_this_"="此名称已在使用，请选择另一个
+名称。"
+"moods_by_ikea"="宜家氛围"
+"new_mood"="新氛围"
+"please_enter_a_mood_name"="请输入氛围名称。"
+"delete_mood"="删除氛围"
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="关闭"
+"turn_on"="打开"
+"min"="最小"
+"max"="最大"
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="有一台设备找不到"
+"devices_cannot_be_found"="找不到 %1$s 设备"
+"one_remote_has_a_low_battery"="一个遥控器的电池电量较低"
+"one_motion_sensor_has_a_low_ba"="一个运动传感器的电池电量较低"
+"remotes_have_low_batteries"="%1$s 遥控器的电池电量较低"
+"devices_have_low_batteries"="%1$s 设备的电池电量较低"
+"updating"="正在更新……"
+"update_successful"="更新成功"
+"was_added_to_a_new_group"="已将 %1$s 添加到新组中。"
+"was_removed"="已删除 %1$s"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="小组"
+"rename_group"="重命名小组"
+"add_new_group"="添加新组"
+"add_devices"="添加设备"
+"new_group"="新小组"
+"group_name"="小组名称"
+"low_battery"="电池电量较低"
+"manage_your_devices"="管理你的设备"
+"devices"="设备"
+"last_seen_ago"="上次发生时间：%1$s 以前"
+"move_a_device_to_this_group_by"="点击三个点，将设备移动到此
+小组中。"
+"leaving_will_remove_new_group"="如果不向新小组中添加设备，则将移除该小组"
+"groups_without_any_devices_wil"="系统将自动移除不含任何设备的
+小组。"
+"move_to_other_group"="移到其他小组中"
+"rename_device"="重命名设备"
+"remove_device"="移除设备"
+"select_destination_group"="选择目标小组"
+"the_name_is_already_being_used"="名称 \" %1$s \" 已在使用。"
+"remove_accessory"="移除配件？"
+"it_looks_like_there_was_a_prob"="灯在移动时似乎出现了
+问题。确保已将灯打开并尝试再次移动它。"
+"disconnected_devices"="设备断开连接"
+"add_new"="添加新项"
+"device_was_not_moved"="设备未移动"
+"unfortunately_you_cant_add_a_m"="很遗憾，你不能将运动传感器添加到
+含无线调光器或遥控器的小组中。"
+"press_any_button_on_your_remot"="按遥控器上的任意按钮。"
+"great"="太棒了！"
+"your_was_moved_to"="你的 %1$s 已移到 %2$s 中。"
+"are_you_sure_you_want_to_remov"="确定要移除 %1$s 吗?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="定时器"
+"enabled"="已启用"
+"disabled"="已禁用"
+"every_day"="每天响铃"
+"days"="天"
+"hours"="小时"
+"minutes"="分钟"
+"seconds"="秒"
+"mon"="周一"
+"tue"="周二"
+"wed"="周三"
+"thu"="周四"
+"fri"="周五"
+"sat"="周六"
+"sun"="周日"
+"timer_is_not_set"="未设置定时器"
+"mon_fri"="周一到周五"
+"cant_set_time"="无法设置时间"
+"make_sure_you_set_your_timer_b"="务必在离开之前设置定时器。"
+"are_you_sure_you_want_to_delete_this_tim"="确定要删除此
+定时器吗？"
+"add"="添加"
+"am"="上午"
+"pm"="下午"
+"monday"="M"
+"tuesday"="T"
+"wednesday"="W"
+"thursday"="T"
+"friday"="F"
+"saturday"="S"
+"sunday"="S"
+"set_your_time"="设置时间"
+"new_timer"="新定时器"
+"what_time"="%1$s 什么时间？"
+"which_lights"="%1$s 哪些灯？"
+"from"="开始时间"
+"to"="结束时间"
+"should_they_turn_on_or_off"="%1$s 它们是应该打开还是关闭？"
+"save"="保存"
+"set_your_lights_to_turn_on_or_"="根据需要将灯设置为亮起
+或熄灭。"
+"set_your_lights_to_turn_on_or_off_e"="根据需要将灯设置为
+亮起或熄灭。\n\n你的灯会记住上次使用的灯光
+亮度和色彩。"
+"during_what_time"="%1$s 什么时间段？"
+"you_cant_set_a_time_with_the_s"="不能将开始时间和结束时间设置为同一
+时间。"
+"a_timer_has_been_updated"="已更新一个定时器"
+"timers_have_been_updated"="定时器已更新"
+"view"="视图"
+"you_are_now_using_the_maximum_"="现在使用的定时器已达最大数量。"
+"timers_help_you_set_your_light"="定时器可帮助你将灯光设置为亮起和
+熄灭。添加一个定时器以开始操作！"
+"some_of_your_timers_was_update"="已在另一台设备上更新了你的一些
+定时器。"
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="重复"
+"rise_and_shine"="起床"
+"set_your_lights_to_wake_you_up"="设置灯来叫你起床。"
+"your_rise_and_shine_timer_was_"="已在另一台上设备更新了你的起床
+定时器。"
+"delete_rise_and_shine"="删除起床定时器"
+"your_rise_and_shine_timer_just"="你的起床定时器刚已启动。"
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="出门"
+"out_and_about_set_your_lights_"="外出时怎么办？像在家中一样将灯设置为
+亮起和熄灭。"
+"set_your_lights_to_slowly_dim_"="将灯设置为慢慢变亮，使其在定时器
+所设定的时间前 30 分钟开始亮起。灯将慢慢变亮\n-
+犹如早晨的太阳。"
+"your_away_from_home_timer_just"="你的外出定时器刚已启动。"
+"your_away_from_home_timer_was_"="已在另一台设备上更新了你的外出
+定时器。"
+"delete_away_from_home"="删除外出定时器"
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="打开和关闭"
+"on_or_off"="打开或关闭"
+"out_and_about_set_your_lights_to_tu"="外出时怎么办？像在家中一样将灯设置为
+亮起和熄灭。\n\n切记不要使用墙壁开关来关灯。这些灯
+会记住上次使用的灯光亮度和色彩。"
+"your_on_or_off_timer_just_star"="你的定时器打开或关闭设置刚已启动。"
+"your_on_or_off_timer_was_updat"="已在另一台设备上更新了你的开关
+定时器。"
+"delete_on_or_off"="删除打开或关闭设置"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="设置"
+"need_help"="需要帮助？"
+"language"="语言"
+"default_language"="默认语言"
+"send_in_email"="通过电子邮件发送"
+"terms_and_conditions"="条款和条件"
+"privacy_policy"="隐私政策"
+"software_licenses"="软件许可证"
+"continue_"="继续"
+"youve_selected_as_your_language_"="你已选择 %1$s 作为你的语言。"
+"tradfri_terms_and_conditions"="TRÅDFRI 条款和条件"
+"tradfri__privacy_policy"="TRÅDFRI 隐私政策"
+"tradfri_is_up_to_date"="TRÅDFRI 已是最新状态"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="更新现已推出"
+"update"="更新"
+"unreachable"="无法连接"
+"update_details"="更新详细信息"
+"up_to_date"="最新"
+"remote_controls"="遥控器"
+"motion_sensors"="运动传感器"
+"plugs"="插头"
+"gateways"="网关"
+"this_should_only_take_about_mi"="这应该只需大约 1 分钟时间。"
+"dismiss"="关闭"
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="断开连接"
+"disconnecting"="正在断开连接……"
+"disconnected"="已经断开连接"
+"disconnecting_allow_you_to_con"="断开连接将使你能够连接到其他
+网关。
+你无法同时使用两个网关，但是请别担心，你的所有场景和
+灯光设置仍将存储在当前网关中。"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="发现新网关"
+"gateway_is_rebooting"="网关正在重启……"
+"connect_to_new_gateway"="连接到新网关"
+"you_cant_connect_to_your_curre"="无法连接到当前网关，但
+存在另一个可用网关。想要连接到新网关吗？"
+"connecting_will_disconnect_you"="连接新网关将会使你断开与当前网关的
+连接。但是请别担心，所有设置仍将存储在你的当前
+网关中。"
+"try_again"="重试"
+"oops"="糟糕！"
+"youre_about_to_remove_the_last"="你将移除最后一台设备"
+"your_light_needs_to_be_turned_"="你需要先使用灯开关将灯打开，
+然后才能使用灯。"
+"remember_to_turn_on_your_light"="切记将灯打开"
+"oops_something_went_wrong"="糟糕！出错了。"
+"enter_the_gateway_ip_manually"="手动输入网关 IP"
+"gateway_is_updating"="网关正在更新……"
+"your_gateway_software_is_being"="正在更新网关软件，以便为你
+提供最佳体验。网关将在几分钟内不可用，但你可以
+继续正常使用灯和遥控器。"
+"unable_to_connect_to_tradfri"="无法连接到 TRÅDFRI"
+"it_looks_like_you_scanned_the_"="你扫描的代码似乎不正确。尝试
+扫描网关背面的代码。"
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="白色光谱灯泡"
+"bulb_e27_white_spectrum_globe_clear"="白色光谱灯泡"
+"bulb_e27_white_spectrum_globe_opal"="白色光谱灯泡"
+"bulb_e14_white_spectrum_globe_"="白色光谱灯泡"
+"color_white_spectrum_bulb"="彩色/白色光谱灯泡"
+"bulb_e14_color_white_spectrum_"="彩色/白色光谱灯泡"
+"white_spectrum_panel"="白色光谱面板"
+"panel_white_spectrum_30_90"="白色光谱面板"
+"panel_white_spectrum_60_60"="白色光谱面板"
+"color_white_spectrum_panel"="彩色/白色光谱面板"
+"white_spectrum_door"="白色光谱仓门"
+"door_white_spectrum_36_84"="白色光谱仓门"
+"remote_control"="遥控器"
+"motion_sensor"="运动传感器"
+"wireless_dimmer"="无线调光器"
+
+<!--GENERIC_NAMES * -->
+"move"="移动"
+"rename"="重命名"
+"remove"="移除"
+"off"="关闭"
+"done"="完成"
+"cancel"="取消"
+"ok"="确定"
+"confirm"="确认"
+"delete"="删除"
+"proceed"="继续"
+"group"="小组"
+"plug"="插头"
+"everyday"="日常"
+"focus"="主题"
+"relax"="轻松"
+"gateway"="网关"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="打开所有灯"
+"are_all_your_lights_on_they_mu"="所有 %1$s 台灯都打开了吗？要成功移动无线调光器，
+所有台灯都必须打开"
+"press_the_link_button"="按“链路”按钮"
+"to_control_the_new_group_just_"="要控制新组，只需打开无线
+调光器并按“链路”按钮即可。然后就可以移动设备了。"
+"i_did_it"="我做到了"
+"to_finish_removing_your_remote"="要完成移除遥控器的操作，请按
+“链路”按钮 4 次，以对其进行重置。操作完成！"
+"to_finish_removing_your_motion"="要完成移除运动传感器的操作，请按
+“链路”按钮 4 次，以对其进行重置。操作完成！"
+"to_finish_removing_your_wirele"="要完成移除无线调光器的操作，请按
+“链路”按钮 4 次，以对其进行重置。操作完成！"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="要移动设备，
+请打开 %1$s 中的无线调光器，然后按“链路”按钮。"
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="要移动设备，
+请打开
+ %1$s 和 %2$s 中的无线调光器，然后按其上的“链路”按钮。"
+"required_update"="必需更新"
+"update_required_tradfri_needs_"="需要更新。TRÅDFRI 需要更新以确保
+顺畅运行。
+更新过程中应用将不可用。"
+"an_important_update_has_been_p"="已执行一项重要更新，Trådfri
+已更新至最新版本"
+"reconnect_to_gateway"="重新连接到网关"
+"is_your_light_on"="你的灯打开了吗？"
+"if_not_turn_it_on_to_successfu"="如果没有，请将其打开，以成功移除
+定时器。"
+"to_remove_your_light_open_the_"="要移动灯，请打开
+%1$s 中的无线调光器，然后按“链路”按钮。"
+"wireless_motion_sensor"="无线运动传感器"
+"please_confirm"="移动 %1$s？"
+"gently_rotate_your_wireless_di"="要进行确认，请轻轻地旋转无线调光器。"
+"we_did_not_detect_any_action_o"="你的设备未响应。"
+"wave_your_hand_in_front_of_the"="要进行确认，请在运动传感器前面
+挥手。"
+"enter_group_name"="请为组输入一个名称"
+"enter_accessory_name"="请为配件输入一个名称"
+"remove_"="移除 %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="暖白色灯泡"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="如果在保存之前设置氛围，也会将此氛围包含
+在内。"
+"my_moods"="我的氛围"
+"create_a_mood_and_save_it_for_"="创建一个氛围并保存，以用于即时访问"
+"light_unreachable"="灯无法连接"
+"if_you_create_or_edit_a_mood_while"="如果你在无法连接某个灯时
+创建或编辑氛围，将会针对此灯忽略该氛围。继续操作之前，
+请确保灯已打开。"
+"edit_moods"="编辑氛围"
+"edit_mood"="编辑氛围"
+"brightness"="亮度 | %1$s"
+"disconnect_app"="断开应用"
+"clear_all_settings"="清除所有设置"
+"this_will_delete_all_Moods"="这将删除所有氛围和定时器，并重置所有
+设置。重置过程中，你的所有设备将从网关断开连接。"
+"are_you_sure_you_want_to_clear"="确定要清除所有
+设置吗？"
+"clear"="清除"
+"cleared"="已清除"
+"clearing"="正在清除..."
+"see_details"="查看详细信息"
+"update_did_not_complete"="更新未完成"
+"one_or_more_devices_didnt_upda"="一台或多台设备未更新。
+请别担心，你的灯仍会正常工作"
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="未更新"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="灯泡"
+"waiting_for_gateway"="等待网关"
+"wireless_dimmers"="无线调光器"
+"theres_an_important_new_update"="TRÅDFRI 有重要
+更新。"
+"your_moods_are_still_loading_"="你的氛围仍在加载，请在几秒钟后
+重试。"
+"your_timers_are_still_loading_"="你的定时器仍在加载，请在几秒钟后
+重试。"
+"close"="关闭"
+"update_pending"="正在等待更新"
+"your_devices_are_being_updated"="你的设备正在更新。你可以继续
+照常使用 TRÅDFRI。"
+"start_update"="开始更新"
+"continue_to_use_your_lights_as"="你可以继续照常用灯，更新将
+在后台进行。可能有很短的一段时间，应用无法使用。"
+"panel"="面板"
+"door"="仓门"
+"panels"="面板"
+"doors"="仓门"
+"check_for_updates"="检查更新"
+"update_now"="立即更新"
+"view_update_details"="查看更新详细信息"
+"all_your_devices_are_updated_t"="你的所有设备均已更新为最新
+版本。"
+"your_gateway_didnt_update_dont"="你的网关未更新。请别担心，你的
+灯仍会正常工作"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="我们无法连接到你的网关"
+"we_couldnt_connect_to_your_dev"="我们无法连接到你的设备。如果
+问题仍然存在，请关闭网关，然后再重新打开。"
+"we_couldnt_find_your_gateway_m"="我们找不到你的网关。请确保
+已使用电缆将其连接到路由器，
+并且手机也已连接到同一网络。"
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="寒冷的天空"
+"_eaf6fb"="寒冷的日光"
+"_f5faf6"="冷白色"
+"_f2eccf"="日出"
+"_f1e0b5"="暖白色"
+"_efd275"="温暖的光辉"
+"_ebb63e"="烛光"
+"_e78834"="温暖的琥珀色"
+"_e57345"="蜜桃色"
+"_da5d41"="深蜜桃色"
+"_dc4b31"="饱和红色"
+"_e491af"="粉色"
+"_e8bedd"="淡粉色"
+"_d9337c"="饱和粉色"
+"_c984bb"="淡紫色"
+"_8f2686"="饱和紫色"
+"_4a418a"="蓝色"
+"_6c83ba"="淡蓝色"
+"_a9d62b"="绿黄色"
+"_d6e44b"="黄色"
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"=" <![CDATA[<b>a.</b>快速按住 %1$s 旁边的按钮 4 次。遥控器上将会闪烁红灯。<br/><br/><b>b.</b>灯停止闪烁后，等待 10 秒，然后即可继续操作。]]>"
+"hold_the_remote_control_within_of_t"=" <![CDATA[<b>a.</b>确保遥控器位于距网关 2 厘米的范围内。<br/><br/><b>b.</b>按住遥控器上 %1$s 旁边的按钮，直到网关上的 %1$s 快速闪烁 4 次。<br/><br/><b>c.</b>等待该应用中显示确认消息。]]>"
+"hold_the_motion_sensor_within_of_th"=" <![CDATA[<b>a.</b>确保运动传感器位于距网关 2 厘米的范围内。<br/><br/><b>b.</b>按住运动传感器上 %1$s 旁边的按钮，直到网关上 %1$s 上方的灯光闪烁 4 次。<br/><br/><b>c.</b>等待该应用中显示确认消息。]]>"
+"hold_your_wireless_dimmer_within_of_the_"=" <![CDATA[<b>a.</b>确保无线调光器位于距仓门或面板背部白盒子 2 厘米的范围内。<br/><br/><b>b.</b>按住 %1$s 旁边的按钮 10 秒钟。灯源将明暗闪烁。按住按钮，直到闪烁停止。]]>"
+"hold_your_wireless_dimmer_within_of_bulb"=" <![CDATA[<b>a.</b>确保无线调光器位于距灯泡 2 厘米的范围内。<br/><br/><b>b.</b>按住 %1$s 旁边的按钮 10 秒钟。灯源将明暗闪烁。按住按钮，直到闪烁停止。]]>"
+"hold_your_motion_sensor_within_of_the_bu"=" <![CDATA[<b>a.</b>确保运动传感器位于距灯泡 2 厘米的范围内。<br/><br/><b>b.</b>按住 %1$s 按钮 10 秒钟。灯源将明暗闪烁。按住按钮，直到闪烁停止。]]>"
+"hold_your_motion_sensor_within_of_the_wh"=" <![CDATA[<b>a.</b>确保运动传感器位于距仓门或面板背部白盒子 2 厘米的范围内。<br/><br/><b>b.</b>按住 %1$s 按钮 10 秒钟。灯源将明暗闪烁。按住按钮，直到闪烁停止。]]>"
+"found"="已找到 %1$s"
+"perfect_is_now_connected_to_tr"="太棒了！%1$s 现在已经连接到 TRÅDFRI。"
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="已连接"
+"disconnected_"="已断开连接"
+"find_detailed_help_in_our_trou"="请在我们的故障排除指南中查看详细的帮助信息。"
+"disconnect_from_your_gateway"="断开网关连接"
+"are_you_sure_you_want_to_disco"="确定要断开连接吗？"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Trådfri 版本"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="定时器使用相同的灯"
+"you_have_two_timers_using_the_"="你有两个定时器在使用相同的灯。请
+重置\n或者\n你有两个定时器在使用相同的时段。请重置，以确保
+灯的时间正确。"
+"which_day"="%1$s 哪一天？"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="获取帮助"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b>确保遥控器位于距灯泡 2 厘米的范围内。<br/><br/><b>b.</b>按住 %1$s 旁边的按钮 10 秒。灯源将明暗闪烁。按住按钮，直到闪烁停止。]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b>确保遥控器位于距仓门或面板背部白盒子 2 厘米的范围内。<br/><br/><b>b.</b>按住 %1$s 旁边的按钮 10 秒。灯源将明暗闪烁。按住按钮，直到闪烁停止。]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b>快速按 %1$s 旁边的按钮 4 次。运动传感器上将会闪烁红灯。<br/><br/><b>b.</b>灯停止闪烁后，等待 10 秒，然后即可继续操作。]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b>快速按 %1$s 旁边的按钮 4 次。无线调光器上将会闪烁红灯。<br/><br/><b>b.</b>灯停止闪烁后，等待 10 秒，然后即可继续操作]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b>确保无线调光器位于距网关 2 厘米的范围内。<br/><br/><b>b.</b>按住无线调光器上 %1$s 旁边的按钮，直到网关上 %1$s 上方的灯快速闪烁 4 次。<br/><br/><b>c.</b>等待确认消息显示在此应用程序中。]]>"
+"are_you_sure_you_want_to_delete_mood"="确定要删除吗 \'%1$s\'"
+
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="暖白色灯泡"
+"bulb_e27_w_opal_1000lm"="暖白色灯泡"
+"bulb_e26_opal_1000lm"="暖白色灯泡"
+"bulb_e12_ws_opal_400lm"="白色光谱灯泡"
+"bulb_e26_ws_clear_950lm"="白色光谱灯泡"
+"bulb_e26_ws_opal_980lm"="白色光谱灯泡"
+"bulb_e27_ws_opal_980lm"="白色光谱灯泡"
+
+
+<!--Newer text-->
+"inter_ikea_systems_b_v_2017"="© Inter IKEA Systems B.V.2017"
+
+<!--3rd PARTY DEVICES* -->
+"device"="设备"
+
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="集成"
+"eg_amazon_alexa_apple_homekit"="例如，Amazon Alexa、Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="借助 Amazon Alexa，利用声音控制 TRÅDFRI 灯。\n\n例如，“Alexa，关灯。”\n“Alexa，将灯光调暗 50%。”"
+"enable"="启用"
+"disable"="禁用"
+"you_are_logged_in"="你已登录。"
+"to_get_started_enable_the_trad"="要开始使用，请在 Alexa 应用程序中启用 TRÅDFRI 功能。然后说：“Alexa，查找我的设备。”"
+"ensure_your_alexa_device_is_s"="确保已设置 Alexa 设备"
+"to_continue_your_alexa_device"="要继续操作，需要启动并运行 Alexa 设备。请按照《Amazon Alexa 快速入门指南》进行操作。"
+
+<!-- Whats New Strings* -->
+"whats_new"="新增功能"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="使所有联网设备都更加努力和智能地为你服务。TRÅDFRI 现在可与 Apple HomeKit 结合使用。"
+"learn_more"="了解更多"
+"use_your_voice_to_control_your"="借助 Amazon Alexa，利用声音控制 TRÅDFRI 灯。打开、关闭或调节亮度。"
+"disable_amazon_alexa"="是否禁用 Amazon Alexa？"
+"you_will_no_longer_be_able_to_"="你将不能再使用 Amazon Alexa 控制 TRÅDFRI 设备。"
+"problem_connecting_to_amazon"="连接至 Amazon 时遇到问题"
+"please_try_again"="请重试。"
+"accept_the_terms_of_use"="接受使用条款"
+"in_order_to_enable_amazon_alex"="要启用 Amazon Alexa，你需要接受使用条款。"
+"cant_connect_to_amazon"="无法连接至 Amazon"
+"check_your_internet_connection"="检查你的互联网连接，然后重试。"
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="灯开始的亮度为 %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="显示更新详细信息"
+"gateway_update_required"="需要更新网关"
+"to_use_this_new_feature_you_ne"="要使用这项新功能，你需要将网关软件更新为最新版本。"
+"later"="稍后"
+"gateway_update_available"="现已提供网关更新"
+"to_use_new_features_you_need_t"="要使用新功能，你需要将网关软件更新为最新版本。"
+"new_update_available"="现已提供新的更新"
+"in_order_to_control_your_devic"="要通过手机控制你的设备，你需要更新 TRÅDFRI 应用程序。"
+"as_a_security_precaution_you_h"="作为安全防范措施，你已与网关断开连接。\n \n请重新连接至网关以继续。"
+"unknown_device"="未知设备"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="五颜六色的灯泡"
+"now_you_can_decorate_your_home"="现在，你可以使用彩灯来装饰你的家了！"
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="差不多了。打开 Google Home 应用以启用 TRÅDFRI 设备的语音控制功能。"
+"set_up_tradfri_for_voice_contr"="设置 TRÅDFRI，通过 Google Home 实现语音控制。\n\n例如，好的，Google，把灯打开；好的，Google，把灯的亮度调暗 50%。"
+"are_you_using_a_google_home_de"="你使用的是 Google Home 设备吗？"
+"if_youre_using_a_google_home_d"="如果你使用的是 Google Home 设备，请确保它现在已经打开。\n如果你只是在手机上使用 Google Assistant，请继续。"
+"cant_connect_to_google"="无法连接到 Google"
+"disable_google_assistant"="禁用 Google Assistant？"
+"you_will_no_longer_be_able_to_contro"="你再也无法通过 Google Home 控制你的 TRÅDFRI 设备了。"
+"google_assistant_could_not_be_"="无法启用 Google Assistant"
+"google_assistant"="Google Assistant"
+"use_voice_control_to_adjust_yo"="借助 Google Assistant 用语音控制功能调整你的 TRÅDFRI 设备。打开它们、变换颜色或调整亮度。"
+"you_cant_have_two_timers_on_a"="使用相同的灯时，无法同时打开两个定时器。"
+"multicolored_bulb_title"="五颜六色的灯泡"
+"multicolored_bulb_desc"="使用彩灯装饰你的家！Trådfri 家族已经壮大了！"
+"something_went_wrong"="出错了。"
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="管理设备"
+"devices"="设备"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="法律信息"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="断开网关连接"
+"in_progress"="进行中…"
+"turn_everything_off"="关闭所有设备"
+"all_devices_are_off"="所有设备均已关闭。"
+"devices_on"="%1$s 台设备处于打开状态"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="甚至是在你外出时，也能安排将灯打开和熄灭。"
+"on_and_off_small"="打开和熄灭"
+"group_must_be_empty_to_delete"="小组必须为空，才能删除。"
+"please_remove_all_devices"="请删除小组中的所有设备。"
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="无法禁用 Google Assistant"
+"please_verify_your_internet_co"="请验证你的 Internet 连接并重试。\n\n如果应用在多次尝试后仍无法建立连接，请尝取消你已经启用的所有其他集成。"
+"try_disable_again"="重新尝试禁用"
+"remove_integration"="取消集成"
+"cant_connect"="无法连接"
+"remove_all_integration"="取消所有集成？"
+"are_you_sure_this_will_remove_"="你确定吗？这将取消你已经启用的所有集成。"
+"amazon_alexa_could_not_be_disa"="无法禁用 Amazon Alexa"
+"please_verify_your_internet_connect"="请验证你的 Internet 连接并重试。\n\n如果多次尝试后仍无法连接应用，请选择“取消集成”以重置集成并重试。\n这将取消你已经启用的所有集成，其中包括对 Amazon Alexa 的集成。"
+"eg_amazon_alexa_google_assista"="例如，Amazon Alexa、Google Assistant"
+

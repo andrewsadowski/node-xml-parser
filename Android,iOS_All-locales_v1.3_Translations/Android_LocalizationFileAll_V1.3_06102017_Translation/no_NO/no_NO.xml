@@ -1,0 +1,607 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="Hei!"
+"i_agree_to_the"="Jeg samtykker i"
+"plug_in_your_gateway"="Koble til din gateway"
+"next"="NESTE"
+"connect"="KOBLE TIL"
+"terms_conditions"="Vilkår og betingelser"
+"please_agree_to_continue"="Du må samtykke for å fortsette."
+"connecting_to_your_gateway"="Kobler til din gateway ..."
+"plug_your_gateway_into_a_power"="Plugg din gateway i en stikkontakt, og koble den til Wi-Fi-ruteren med ethernet-kabelen som følger med."
+"congrats"="Gratulerer!"
+"and"="og"
+"connect_to_wifi"="Koble til Wi-Fi"
+"this_name_is_already_in_use_pl"="Navnet er allerede i bruk. Prøv et annet navn."
+"welcome_to_the_tradfri_lightin"="Velkommen til TRÅDFRI belysningssystem. Med TRÅDFRI får du enkelt vakker belysning som gjør livet hjemme bedre. Klar til å begynne å konfigurere?"
+"enter_the_gateway_ip"="Skriv inn gateway-IP"
+"gateway_ip"="Gateway-IP"
+"if_the_gateway_is_plugged_in_c"="Hvis gateway-en er koblet til riktig, og fremdeles ikke blir funnet, kan det hende du må skrive inn gateway-IP-adressen manuelt. Sjekk støttesiden for mer informasjon."
+"the_gateway_ip_is_incorrect"="Gateway-IP-en er feil."
+"you_must_be_connected_to_your_"="Du må være koblet til et Wi-Fi-nettverk for å kontrollere TRÅDFRI fra appen."
+"these_are_your_tradfri_devices"="Dette er dine TRÅDFRI-enheter"
+"lets_get_started"="LA OSS KOMME I GANG"
+"get_started"="KOM I GANG"
+"youre_now_connected_to_the_gat"="Du er nå koblet til gateway-en. La oss koble sammen enhetene dine."
+"add_another_device"="Legg til en annen enhet"
+"finding_gateway"="Finner din gateway ..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Skanner ..."
+"type_in_the_code_instead"="Skriv inn koden i stedet"
+"youll_find_the_code_on_the_bac"="Du finner koden på baksiden av din gateway."
+"we_found_the_code"="Vi fant koden."
+"hold_on_while_we_verify_the_co"="Vent mens vi bekrefter koden ..."
+"scan"="SKANN"
+"now_scan_the_code"="Nå kan du skanne koden"
+"enable_camera"="AKTIVER KAMERAET"
+"type_in_the_serial_number"="Skriv inn serienummer"
+"type_in_the_security_code"="Skriv inn sikkerhetskoden"
+"serial_number"="Serienummer"
+"security_code"="Sikkerhetskode"
+"youll_find_it_on_the_back_of_y"="Du finner det på baksiden av din gateway."
+"youll_find_them_both_on_the_ba"="Du finner dem begge på baksiden av din gateway."
+"this_serial_number_is_incorrec"="Dette serienummeret er feil"
+"type_in_the_serial_number_and_"="Skriv inn serienummeret og sikkerhetskoden"
+"enable_your_camera_to_scan_the"="Aktiver kameraet ditt for å skanne koden."
+"type_in_the_code"="SKRIV INN KODEN"
+"the_security_key_should_be_dig"="Sikkerhetskoden skal bestå av 16 siffer"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Begynn ved å velge enheten du vil legge til"
+"open_the_back_of_the_remote_co"="1. Åpne baksiden av fjernkontrollen"
+"reset_the_remote_control"="2. Tilbakestill fjernkontrollen"
+"connect_the_remote_control"="3. Koble til fjernkontroll"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Slå på lyset"
+"make_sure_that_your_light_is_i"="Sørg for at lyset er installert, og at hovedbryteren er slått på."
+"which_control_device_are_you_u"="2. Hvilken kontrollenhet bruker du?"
+"remember_to_use_a_control_devi"="Husk å bruke en kontrollenhet som allerede er koblet til."
+"connect_the_light"="3. Koble til lyset"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Finner dine enheter ..."
+"bulb"="Lyspære"
+"door_or_panel"="Dør eller panel"
+"open_the_back_of_the_motion_se"="1. Åpne baksiden av bevegelsessensoren"
+"reset_the_motion_sensor"="2. Tilbakestill bevegelsessensoren"
+"connect_the_motion_sensor"="3. Koble til bevegelsessensoren"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Åpne baksiden av den trådløse dimmeren"
+"reset_the_wireless_dimmer"="2. Tilbakestill den trådløse dimmeren"
+"connect_the_wireless_dimmer"="3. Koble til den trådløse dimmeren"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Finner enheten din"
+"which_device_would_you_like_to"="Hvilken enhet vil du legge til?"
+"now_add_your_lights"="Legg til lysene"
+"they_can_be_added_after_youve_"="De kan legges til etter at du har koblet til en kontrollenhet."
+"ill_do_this_later"="Jeg gjør dette senere"
+"delete_mood"="Slett stemning"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="For å bekrefte flytting av enheten, trykk på hvilken som helst knapp på enheten. Du må kanskje trykke et par ganger."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="MITT HJEM"
+"add_lights"="LEGG TIL LYS"
+"no_lights_have_been_added_to_t"="Ingen lys er lagt til denne gruppen ennå."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Skriv inn et stemningsnavn"
+"please_pick_another_name_this_"="Du må velge et annet navn – dette er allerede i bruk."
+"moods_by_ikea"="Stemninger fra IKEA"
+"new_mood"="Ny stemning"
+"please_enter_a_mood_name"="Du må skrive inn et stemningsnavn."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Slå av"
+"turn_on"="Slå på"
+"min"="Min."
+"max"="Maks."
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Én enhet ble ikke funnet"
+"devices_cannot_be_found"="«%1$s» enheter ble ikke funnet"
+"one_remote_has_a_low_battery"="Én fjernkontroll har lavt batteri"
+"one_motion_sensor_has_a_low_ba"="Én bevegelsessensor har lavt batteri"
+"remotes_have_low_batteries"="«%1$s» fjernkontroller har lavt batteri"
+"devices_have_low_batteries"="«%1$s» enheter har lavt batteri"
+"updating"="Oppdaterer ..."
+"update_successful"="Oppdateringen var vellykket"
+"was_added_to_a_new_group"="«%1$s» ble lagt til en ny gruppe."
+"was_removed"="«%1$s» er fjernet"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Grupper"
+"rename_group"="Gi gruppen nytt navn"
+"add_new_group"="Legg til ny gruppe"
+"add_devices"="Legg til enheter"
+"new_group"="Ny gruppe"
+"group_name"="Gruppenavn"
+"low_battery"="Lavt batteri"
+"manage_your_devices"="Administrer enheter"
+"devices"="Enheter"
+"last_seen_ago"="Sist sett for «%1$s» siden"
+"move_a_device_to_this_group_by"="Flytt en enhet til denne gruppen ved å trykke på de tre prikkene."
+"leaving_will_remove_new_group"="Dersom du lukker nå, vil gruppen bli slettet"
+"groups_without_any_devices_wil"="Grupper uten enheter fjernes automatisk."
+"move_to_other_group"="Flytt til en annen gruppe"
+"rename_device"="Gi enheten nytt navn"
+"remove_device"="Fjern enhet"
+"select_destination_group"="Velg målgruppe"
+"the_name_is_already_being_used"="Navnet \" %1$s \" er allerede i bruk."
+"remove_accessory"="Vil du fjerne tilbehør?"
+"it_looks_like_there_was_a_prob"="Det ser ut til at det oppstod et problem med å flytte lyset ditt. Sørg for at lyset er slått på, og prøv å flytte det på nytt."
+"disconnected_devices"="Frakoblede enheter"
+"add_new"="LEGG TIL NY"
+"device_was_not_moved"="Enheten ble ikke flyttet"
+"unfortunately_you_cant_add_a_m"="Beklager, du kan ikke legge en bevegelsessensor til en gruppe trådløse dimmere eller fjernkontroller."
+"press_any_button_on_your_remot"="Trykk på hvilken som helst knapp på fjernkontrollen."
+"great"="Flott!"
+"your_was_moved_to"="Din «%1$s» ble flyttet til «%2$s»."
+"are_you_sure_you_want_to_remov"="Er du sikker på at du vil fjerne %1$s din?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="TIDSUR"
+"enabled"="aktivert"
+"disabled"="deaktivert"
+"every_day"="Hver dag"
+"days"="Dager"
+"hours"="Timer"
+"minutes"="Minutter"
+"seconds"="Sekunder"
+"mon"="man"
+"tue"="tirs"
+"wed"="ons"
+"thu"="tors"
+"fri"="fre"
+"sat"="lør"
+"sun"="søn"
+"timer_is_not_set"="Tidsuret er ikke stilt inn"
+"mon_fri"="Man–fre"
+"cant_set_time"="Kan ikke angi tid"
+"make_sure_you_set_your_timer_b"="Sørg for at du stiller inn tidsuret før du lukker."
+"are_you_sure_you_want_to_delete_this_tim"="Vil du slette dette tidsuret?"
+"add"="LEGG TIL"
+"am"="FORMIDDAG"
+"pm"="ETTERMIDDAG"
+"monday"="M"
+"tuesday"="T"
+"wednesday"="O"
+"thursday"="T"
+"friday"="F"
+"saturday"="L"
+"sunday"="S"
+"set_your_time"="Angi klokkeslett"
+"new_timer"="Nytt tidsur"
+"what_time"="%1$s Når?"
+"which_lights"="%1$s Hvilke lys?"
+"from"="fra"
+"to"="til"
+"should_they_turn_on_or_off"="%1$s Skal de slå seg på eller av?"
+"save"="LAGRE"
+"set_your_lights_to_turn_on_or_"="Still inn lysene til å slå seg på eller av, akkurat når du vil."
+"set_your_lights_to_turn_on_or_off_e"="Still inn lysene til å slå seg på eller av, akkurat når du vil.\n\nLysene vil huske styrken og fargen fra forrige gang de var i bruk."
+"during_what_time"="%1$s På hvilket tidspunkt?"
+"you_cant_set_a_time_with_the_s"="Du kan ikke angi et tidspunkt med samme start- og sluttid."
+"a_timer_has_been_updated"="Et tidsur er oppdatert"
+"timers_have_been_updated"="Tidsur er oppdatert"
+"view"="Vis"
+"you_are_now_using_the_maximum_"="Nå bruker du det maksimale antallet tidsur"
+"timers_help_you_set_your_light"="Tidsur hjelper deg med å angi når lysene skal slås av og på. Legg til ett for å komme i gang!"
+"some_of_your_timers_was_update"="Noen av dine tidsur ble oppdatert fra en annen enhet."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Gjenta"
+"rise_and_shine"="Opp og hopp"
+"set_your_lights_to_wake_you_up"="Still inn lysene til å vekke deg."
+"your_rise_and_shine_timer_was_"="Ditt Opp og hopp-tidsur ble oppdatert fra en annen enhet."
+"delete_rise_and_shine"="Slett Opp og hopp"
+"your_rise_and_shine_timer_just"="Ditt Opp og hopp-tidsur ble nettopp satt i gang."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Hjemmefra"
+"out_and_about_set_your_lights_"="Ut på tur? Still inn lysene til slå seg på og av, som om du var hjemme."
+"set_your_lights_to_slowly_dim_"="Still inn lyset til å sakte bli sterkere, fra 30 minutter før tidspunktet du har angitt tidsuret for. Lysene blir sakte sterkere\n\ni likhet med morgensolen."
+"your_away_from_home_timer_just"="Ditt Hjemmefra-tidsur ble nettopp satt i gang."
+"your_away_from_home_timer_was_"="Ditt Hjemmefra-tidsur ble oppdatert fra en annen enhet."
+"delete_away_from_home"="Slett Hjemmefra"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="PÅ og AV"
+"on_or_off"="På eller Av"
+"out_and_about_set_your_lights_to_tu"="Ut på tur? Still inn lysene til slå seg på og av, som om du var hjemme.\n\nHusk å ikke slå av lysene ved hjelp av lysbryteren. De vil huske styrken og fargen fra forrige gang de var i bruk."
+"your_on_or_off_timer_just_star"="Ditt På eller Av-tidsur ble nettopp satt i gang."
+"your_on_or_off_timer_was_updat"="Ditt På eller Av-tidsur ble oppdatert fra en annen enhet."
+"delete_on_or_off"="Slett PÅ eller AV"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="INNSTILLINGER"
+"need_help"="Trenger du hjelp?"
+"language"="Språk"
+"default_language"="Standardspråk"
+"send_in_email"="SEND INN E-POST"
+"terms_and_conditions"="Vilkår og betingelser"
+"privacy_policy"="Personvern"
+"software_licenses"="Programvarelisenser"
+"continue_"="Fortsett"
+"youve_selected_as_your_language_"="Du har valgt «%1$s» som språk."
+"tradfri_terms_and_conditions"="Vilkår og betingelser for TRÅDFRI"
+"tradfri__privacy_policy"="Personvernbestemmelser for TRÅDFRI"
+"tradfri_is_up_to_date"="TRÅDFRI er oppdatert"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Oppdateringer er tilgjengelige"
+"update"="OPPDATER"
+"unreachable"="Umulig å nå"
+"update_details"="Oppdater informasjon"
+"up_to_date"="Oppdatert"
+"remote_controls"="Fjernkontroller"
+"motion_sensors"="Bevegelsessensorer"
+"this_should_only_take_about_mi"="Dette tar bare ca. ett minutt."
+"dismiss"="AVVIS"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="KOBLE FRA"
+"disconnecting"="KOBLER FRA ..."
+"disconnected"="FRAKOBLET"
+"disconnecting_allow_you_to_con"="Frakobling gir deg muligheten til å koble til en annen gateway. Du kan ikke bruke begge samtidig, men frykt ikke, alle scenene og lysinnstillingene dine vil fortsatt være lagret på din gjeldende gateway."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Ny gateway er funnet"
+"gateway_is_rebooting"="Gateway starter på nytt ..."
+"connect_to_new_gateway"="Koble til ny gateway"
+"you_cant_connect_to_your_curre"="Du kan ikke koble til gjeldende gateway, men en annen er tilgjengelig. Ønsker du å koble til den nye gateway-en?"
+"connecting_will_disconnect_you"="Dersom du kobler til, vil det koble deg fra din gjeldende gateway. Men frykt ikke, alle innstillingene dine vil fortsatt være lagret på din gjeldende gateway."
+"try_again"="PRØV PÅ NYTT"
+"oops"="Au da."
+"youre_about_to_remove_the_last"="Du er i ferd med å fjerne den siste enheten"
+"your_light_needs_to_be_turned_"="Lyset må slås på med lysbryteren før du kan bruke det."
+"remember_to_turn_on_your_light"="Husk å slå på lysene"
+"oops_something_went_wrong"="Au da. Noe gikk galt."
+"enter_the_gateway_ip_manually"="Skriv inn gateway-IP manuelt"
+"gateway_is_updating"="Gateway oppdaterer ..."
+"your_gateway_software_is_being"="Programvaren for din gateway blir oppdatert for å gi deg best mulig brukeropplevelse. Gateway-en vil være utilgjengelig i et par minutter, men du kan fortsette å bruke lysene og fjernkontrollen som normal."
+"unable_to_connect_to_tradfri"="Kunne ikke koble til TRÅDFRI"
+"it_looks_like_you_scanned_the_"="Det ser ut til at du skannet feil kode. Prøv å skanne den som finnes på baksiden av gateway-en din."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Hvitspektrumpære"
+"bulb_e27_white_spectrum_globe_clear"="Hvitspektrumpære"
+"bulb_e27_white_spectrum_globe_opal"="Hvitspektrumpære"
+"bulb_e14_white_spectrum_globe_"="Hvitspektrumpære"
+"color_white_spectrum_bulb"="Farge-/hvitspektrumpære"
+"bulb_e14_color_white_spectrum_"="Farge-/hvitspektrumpære"
+"white_spectrum_panel"="Hvitspektrumpanel"
+"panel_white_spectrum_30_90"="Hvitspektrumpanel"
+"panel_white_spectrum_60_60"="Hvitspektrumpanel"
+"color_white_spectrum_panel"="Farge-/hvitspektrumpanel"
+"white_spectrum_door"="Hvitspektrumsdør"
+"door_white_spectrum_36_84"="Hvitspektrumsdør"
+"remote_control"="Fjernkontroll"
+"motion_sensor"="Bevegelsessensor"
+"wireless_dimmer"="Trådløs dimmer"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Flytt"
+"rename"="Gi nytt navn"
+"remove"="Fjern"
+"off"="Av"
+"done"="FERDIG"
+"cancel"="Avbryt"
+"ok"="OK"
+"confirm"="BEKREFT"
+"delete"="Slett"
+"proceed"="Fortsett"
+"group"="Gruppe"
+"plug"="Plugg"
+"everyday"="Hverdags"
+"focus"="Fokus"
+"relax"="Avslapping"
+"plugs"="Plugger"
+"gateway"="Gateway"
+"gateways"="Gatewayer"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Slå alle lysene dine PÅ"
+"are_all_your_lights_on_they_mu"="Er alle %1$s-lysene på? De må være PÅ for vellykket flytting av den trådløse dimmeren"
+"press_the_link_button"="Trykk på koblingsknappen"
+"to_control_the_new_group_just_"="Hvis du vil kontrollere den nye gruppen, åpner du den trådløse dimmeren og trykker på koblingsknappen. Dermed er enheten din flyttet."
+"i_did_it"="Jeg gjorde det"
+"to_finish_removing_your_remote"="Hvis du vil fullføre fjerningen av fjernkontrollen, nullstiller du den ved å trykke på koblingsknappen fire ganger. Så er du ferdig!"
+"to_finish_removing_your_motion"="Hvis du vil fullføre fjerningen av bevegelsessensoren, nullstiller du den ved å trykke på koblingsknappen fire ganger. Så er du ferdig!"
+"to_finish_removing_your_wirele"="Hvis du vil fullføre fjerningen av den trådløse dimmeren, nullstiller du den ved å trykke på koblingsknappen fire ganger. Så er du ferdig!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Hvis du vil flytte enheten din, åpner du den trådløse dimmeren i %1$s og trykker på koblingsknappen."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Hvis du vil flytte enheten din, åpner du de trådløse dimmerne i %1$s og %2$s og trykker på koblingsknappen på begge"
+"required_update"="Påkrevd oppdatering"
+"update_required_tradfri_needs_"="Oppdatering påkrevd. Du må oppdatere TRÅDFRI for at den skal fungere som normalt. Appen er utilgjengelig mens den oppdateres."
+"an_important_update_has_been_p"="En viktig oppdatering ble utført, og Trådfri ble oppdatert til den nyeste versjonen"
+"reconnect_to_gateway"="Koble til gateway på nytt"
+"is_your_light_on"="Er lyset ditt på?"
+"if_not_turn_it_on_to_successfu"="Hvis ikke det er på, slår du det på for å flytte enheten."
+"to_remove_your_light_open_the_"="Hvis du vil fjerne lyset ditt, åpner du den trådløse dimmeren i %1$s og trykker på koblingsknappen."
+"wireless_motion_sensor"="Trådløs bevegelsessensor"
+"please_confirm"="Flytte %1$s?"
+"gently_rotate_your_wireless_di"="Roter den trådløse dimmeren din forsiktig for å bekrefte."
+"we_did_not_detect_any_action_o"="Enheten din responderte ikke."
+"wave_your_hand_in_front_of_the"="Bekreft ved å veive hånden foran bevegelsessensoren."
+"enter_group_name"="Skriv inn et navn for gruppen din"
+"enter_accessory_name"="Skriv inn et navn for tilbehøret ditt"
+"remove_"="Fjern %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Varm hvit pære"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Angi Stemning før du lagrer. Stemningen din blir inkludert."
+"my_moods"="Mine stemninger"
+"create_a_mood_and_save_it_for_"="Opprett en Stemning og lagre den for umiddelbar tilgang"
+"light_unreachable"="Kan ikke nå lys"
+"if_you_create_or_edit_a_mood_while"="Hvis du oppretter eller redigerer en Stemning mens et lys er utenfor rekkevidde, blir lyset utelatt fra stemningen. Sørg for at lysene er på før du fortsetter"
+"edit_moods"="REDIGER STEMNINGER"
+"edit_mood"="REDIGER STEMNING"
+"brightness"="LYSSTYRKE | %1$s"
+"disconnect_app"="KOBLE FRA APP"
+"clear_all_settings"="Slett alle innstillinger"
+"this_will_delete_all_Moods"="Dette sletter alle Stemninger og Tidsur og nullstiller alle innstillinger. Når du nullstiller, kobles alle enhetene dine fra gatewayen"
+"are_you_sure_you_want_to_clear"="Er du sikker på at du vil slette alle innstillingene dine?"
+"clear"="Slett"
+"cleared"="SLETTET"
+"clearing"="SLETTER ..."
+"see_details"="Se detaljer"
+"update_did_not_complete"="Oppdateringen ble ikke fullført"
+"one_or_more_devices_didnt_upda"="Én eller flere enheter ble ikke oppdatert. Men ikke bekymre deg, lyset virker likevel"
+"your_moods_are_still_loading_"="Stemningene dine laster fortsatt. Prøv på nytt om noen få sekunder."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Ikke oppdatert"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Lyspærer"
+"waiting_for_gateway"="Venter på gateway"
+"wireless_dimmers"="Trådløse dimmere"
+"theres_an_important_new_update"="Det finnes en viktig ny oppdatering tilgjengelig for TRÅDFRI."
+"close"="Lukk"
+"update_pending"="Oppdatering venter"
+"your_devices_are_being_updated"="Enhetene dine blir oppdatert. Du kan fortsette å bruke TRÅDFRI som vanlig."
+"start_update"="Start oppdatering"
+"continue_to_use_your_lights_as"="Fortsett å bruke lysene dine som vanlig – oppdateringer skjer i bakgrunnen. Appen kan være utilgjengelig i en kort periode."
+"panel"="Panel"
+"door"="Dør"
+"panels"="Paneler"
+"doors"="Dører"
+"check_for_updates"="Se etter oppdateringer"
+"update_now"="Oppdater nå"
+"view_update_details"="Vis oppdateringsinformasjon"
+"all_your_devices_are_updated_t"="Alle enhetene dine er oppdatert til nyeste versjon."
+"your_gateway_didnt_update_dont"="Gatewayen din ble ikke oppdatert. Men ikke bekymre deg, lyset virker likevel"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Vi kan ikke koble til gatewayen din"
+"we_couldnt_connect_to_your_dev"="Vi kunne dessverre ikke koble til enhetene dine. Hvis problemet vedvarer, slår du av gatewayen og slår den på igjen"
+"we_couldnt_find_your_gateway_m"="Vi finner ikke din gateway. Sørg for at den er koblet til ruteren din med kabelen, og at telefonen er koblet til det samme nettverket."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Kald himmel"
+"_eaf6fb"="Kjølig dagslys"
+"_f5faf6"="Kjølig hvit"
+"_f2eccf"="Soloppgang"
+"_f1e0b5"="Varm hvit"
+"_efd275"="Varm glød"
+"_ebb63e"="Levende lys"
+"_e78834"="Varm ravgul"
+"_e57345"="Fersken"
+"_da5d41"="Mørk fersken"
+"_dc4b31"="Mettet rød"
+"_e491af"="Rosa"
+"_e8bedd"="Lys rosa"
+"_d9337c"="Mettet rosa"
+"_c984bb"="Lys lilla"
+"_8f2686"="Mettet lilla"
+"_4a418a"="Blå"
+"_6c83ba"="Lys blå"
+"_a9d62b"="Limegrønn"
+"_d6e44b"="Gul"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Trykk og hold knappen ved siden av %1$s raskt fire ganger. En rød lampe blinker på fjernkontrollen din.<br/><br/><b>b.</b> Når lampen slutter å blinke, venter du i ti sekunder. Deretter kan du fortsette.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Hold fjernkontrollen ikke lenger enn 2 cm fra gatewayen din.<br/><br/><b>b.</b> Trykk og hold knappen ved siden av %1$s på fjernkontrollen til %1$s på gatewayen blinker raskt fire ganger.<br/><br/><b>c.</b> Vent på å motta en bekreftelse her i denne appen.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Hold bevegelsessensoren ikke lenger enn 2 cm fra gatewayen.<br/><br/><b>b.</b> Trykk og hold knappen ved siden av %1$s på bevegelsessensoren til lampen over %1$s på gatewayen blinker raskt fire ganger.<br/><br/><b>c.</b> Vent på å motta en bekreftelse her i denne appen.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Hold den trådløse dimmeren ikke lenger enn 2 cm fra den hvite boksen på baksiden av døren eller panelet.<br/><br/><b>b.</b> Trykk og hold knappen ved siden av %1$s inne i ti sekunder. Lyskilden dimmes opp og ned. Hold knappen inne til pulseringen stopper.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Hold den trådløse dimmeren ikke lenger enn 2 cm fra lyspæren.<br/><br/><b>b.</b> Trykk og hold knappen ved siden av %1$s inne i ti sekunder. Lyskilden dimmes opp og ned. Hold knappen inne til pulseringen stopper.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Hold bevegelsessensoren ikke lenger enn 2 cm fra lyspæren.<br/><br/><b>b.</b> Trykk og hold %1$s-knappen inne i ti sekunder. Lyskilden dimmes opp og ned. Hold knappen inne til pulseringen stopper.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Hold bevegelsessensoren ikke lenger enn 2 cm fra den hvite boksen på baksiden av døren eller panelet.<br/><br/><b>b.</b> Trykk og hold %1$s-knappen inne i ti sekunder. Lyskilden dimmes opp og ned. Hold knappen inne til pulseringen stopper.]]>"
+"found"="%1$s funnet"
+"perfect_is_now_connected_to_tr"="Perfekt! %1$s er nå koblet til TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Tilkoblet"
+"disconnected_"="Frakoblet"
+"find_detailed_help_in_our_trou"="Finn mer detaljert hjelp i feilsøkingsveiledningen din."
+"disconnect_from_your_gateway"="Koble fra gateway"
+"are_you_sure_you_want_to_disco"="Er du sikker på at du vil koble fra?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Trådfri-versjon"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Tidsur som bruker samme lys"
+"you_have_two_timers_using_the_"="Du har to tidsur som bruker de samme lysene. Nullstill tidsurene.\nEller\nDu har to tidsur som bruker de samme tidsperiodene. Nullstill for å holde lysene på riktig tid"
+"your_timers_are_still_loading_"="Tidsurene dine laster fortsatt. Prøv på nytt om noen få sekunder."
+"which_day"="%1$s Hvilken dag?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Få hjelp"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Hold fjernkontrollen maks 2 cm fra lyspæra.<br /><br /><b>b.</b> Trykk på og hold inne knappen ved siden av %1$s i ti sekunder. Lyskilden lyser sterkere og svakere. Hold knappen inne til pulseringen stopper.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Hold fjernkontrollen maks 2 cm fra den hvite boksen på baksiden av døra eller panelet.<br /><br /><b>b.</b> Trykk på og hold inne knappen ved siden av %1$s i ti sekunder. Lyskilden lyser sterkere og svakere. Hold knappen inne til pulseringen stopper.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Trykk raskt på knappen ved siden av %1$s fire ganger. Ei rød lampe blinker på bevegelsessensoren din.<br /><br /><b>b.</b> Når lampa slutter å blinke, venter du i ti sekunder. Deretter kan du fortsette.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Trykk raskt på knappen ved siden av %1$s fire ganger. Ei rød lampe blinker på den trådløse dimmeren din.<br /><br /><b>b.</b> Når lampa slutter å blinke, venter du i ti sekunder. Deretter kan du fortsette]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Hold den trådløse dimmeren maks 2 cm fra gatewayen.<br /><br /><b>b.</b> Trykk på og hold inne knappen ved siden av %1$s på den trådløse dimmeren, til %1$s på gatewayen blinker raskt fire ganger.<br /><br /><b>c.</b> Vent på å motta en bekreftelse her i denne appen.]]>"
+"are_you_sure_you_want_to_delete_mood"="Er du sikker på at du vil slette \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Varm hvit pære"
+"bulb_e27_w_opal_1000lm"="Varm hvit pære"
+"bulb_e26_opal_1000lm"="Varm hvit pære"
+"bulb_e12_ws_opal_400lm"="Hvitspektrumpære"
+"bulb_e26_ws_clear_950lm"="Hvitspektrumpære"
+"bulb_e26_ws_opal_980lm"="Hvitspektrumpære"
+"bulb_e27_ws_opal_980lm"="Hvitspektrumpære"
+
+<!--3rd PARTY DEVICES* -->
+"device"="enhet"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integreringer"
+"eg_amazon_alexa_apple_homekit"="f.eks. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Bruk stemmen din til å kontrollere dine TRÅDFRI-lys ved hjelp av Amazon Alexa.\n\nf.eks. \"Alexa, slå på lyset.\" \n\"Alexa, dimme lyset med 50%.\""
+"enable"="Aktiver"
+"disable"="Deaktiver"
+"you_are_logged_in"="Du er logget på."
+"to_get_started_enable_the_trad"="For å komme i gang aktiverer du TRÅDFRI-funksjonen i Alexa-appen. Deretter si: \"Alexa, finn enhetene mine.\""
+"ensure_your_alexa_device_is_s"="Sørg for at Alexa-enheten er konfigurert"
+"to_continue_your_alexa_device"="For å fortsette må Alexa-enheten din være oppe og kjøre. Følg Amazon Alexa-hurtigveiledningen."
+
+<!-- Whats New Strings* -->
+"whats_new"="Hva er nytt"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Få alle tilkoblede enheter til å jobbe mer effektivt og smartere. TRÅDFRI fungerer nå med Apple HomeKit."
+"learn_more"="Finn ut mer"
+"use_your_voice_to_control_your"="Bruk stemmen din til å kontrollere dine TRÅDFRI-lys ved hjelp av Amazon Alexa. Slå dem av og på, eller juster lysstyrken."
+"disable_amazon_alexa"="Deaktiver Amazon Alexa?"
+"you_will_no_longer_be_able_to_"="Du vil ikke lenger kunne kontrollere dine TRÅDFRI-enheter fra Amazon Alexa."
+"problem_connecting_to_amazon"="Problem med tilkoblingen til Amazon"
+"please_try_again"="Prøv på nytt."
+"accept_the_terms_of_use"="Godta vilkårene for bruk"
+"in_order_to_enable_amazon_alex"="For å aktivere Amazon Alexa må du godta vilkårene for bruk."
+"cant_connect_to_amazon"="Kan ikke koble til Amazon"
+"check_your_internet_connection"="Sjekk internett-tilkoblingen og prøv på nytt."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Lys begynner å lyse opp ved %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Vis oppdateringsinformasjon"
+"gateway_update_required"="Gateway-oppdatering påkrevd"
+"to_use_this_new_feature_you_ne"="Hvis du vil bruke denne nye funksjonen, må du oppdatere gateway-programvaren til den nyeste versjonen."
+"later"="Senere"
+"gateway_update_available"="Gateway-oppdatering tilgjengelig"
+"to_use_new_features_you_need_t"="Hvis du vil bruke nye funksjoner, må du oppdatere gateway-programvaren til den nyeste versjonen."
+"new_update_available"="Ny oppdatering tilgjengelig"
+"in_order_to_control_your_devic"="For å kontrollere enhetene dine fra mobilen må du oppdatere TRÅDFRI-appen."
+"as_a_security_precaution_you_h"="Som en forholdsregel, har du blitt koblet fra gatewayen din.\n \nKoble til gatewayen din på nytt for å fortsette."
+"unknown_device"="Ukjent enhet"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Lyspærer med flere farger"
+"now_you_can_decorate_your_home"="Nå kan du dekorere i hjemmet ditt med fargede lyspærer."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Nesten ferdig. Åpne Google Home-appen for å aktivere talestyring av dine TRÅDFRI-enheter."
+"set_up_tradfri_for_voice_contr"="Konfigurer TRÅDFRI for talestyring via Google Assistant.\n\nf.eks. Ok, Google, slå på lyset, eller, Ok, Google, demp lyset med 50%."
+"are_you_using_a_google_home_de"="Bruker du en Google Home-enhet?"
+"if_youre_using_a_google_home_d"="Hvis du bruker en Google Home-enhet, sørg for at den er slått på nå.\nHvis du kun bruker Google Assistant på mobilen, fortsetter du."
+"cant_connect_to_google"="Kan ikke koble til Google"
+"disable_google_assistant"="Deaktivere Google Assistant?"
+"you_will_no_longer_be_able_to_contro"="Du vil ikke lenger kunne kontrollere dine TRÅDFRI-enheter fra Google Home."
+"google_assistant_could_not_be_"="Google Assistant kunne ikke aktiveres"
+"google_assistant"="Google Assistant"
+"use_voice_control_to_adjust_yo"="Bruk talestyring til å justere dine TRÅDFRI-enheter med Google Assistant. Slå dem på, endre farger eller juster lysstyrken."
+"you_cant_have_two_timers_on_a"="Du kan ikke ha to tidsur som bruker de samme lysene, på samtidig."
+"multicolored_bulb_title"="Lyspærer med flere farger"
+"multicolored_bulb_desc"="Dekorer i hjemmet ditt med fargede lyspærer. TRÅDFRI-familien ble nettopp større."
+"something_went_wrong"="Noe gikk galt."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Administrer enheter"
+"devices"="enheter"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Juridisk informasjon"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="KOBLE FRA GATEWAY"
+"in_progress"="Pågår …"
+"turn_everything_off"="SLÅ AV ALT"
+"all_devices_are_off"="Alle enheter er av."
+"devices_on"="%1$s enheter på"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Planlegg at lysene skal slå seg på og av, selv når du er borte."
+"on_and_off_small"="På og av"
+"group_must_be_empty_to_delete"="Gruppe må være tom for å slette."
+"please_remove_all_devices"="Fjern alle enheter i gruppen."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Google Assistant kunne ikke deaktiveres"
+"please_verify_your_internet_co"="Kontroller internett-tilkoblingen og prøv på nytt.\n\nHvis appen ikke kan koble til etter flere forsøk, prøv å fjerne alle andre integreringer som kan være aktivert."
+"try_disable_again"="PRØV Å DEAKTIVERE IGJEN"
+"remove_integration"="FJERN INTEGRERINGER"
+"cant_connect"="Kan ikke koble til"
+"remove_all_integration"="Fjerne alle integreringer?"
+"are_you_sure_this_will_remove_"="Er du sikker? Dette vil fjerne ALLE integreringer du kan ha aktivert."
+"amazon_alexa_could_not_be_disa"="Amazon Alexa kunne ikke deaktiveres"
+"please_verify_your_internet_connect"="Kontroller internett-tilkoblingen og prøv på nytt.\n\nHvis appen ikke kan koble til etter flere forsøk, velg FJERN INTEGRERINGER for å tilbakestille integreringer, og prøv på nytt.\nDette vil fjerne ALLE integreringer du kan ha aktivert, inkludert Amazon Alexa."
+"eg_amazon_alexa_google_assista"="f. eks. Amazon Alexa, Google Assistant"
+

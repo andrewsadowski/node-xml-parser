@@ -1,0 +1,607 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="HÆ!"
+"i_agree_to_the"="Ég samþykki þessa"
+"plug_in_your_gateway"="Stingdu gáttinni í samband"
+"next"="ÁFRAM"
+"connect"="TENGJAST"
+"terms_conditions"="Skilmálar"
+"please_agree_to_continue"="Samþykktu til að halda áfram."
+"connecting_to_your_gateway"="Tengist gáttinni ..."
+"plug_your_gateway_into_a_power"="Stingdu gáttinni í samband við rafmagnsinnstungu og tengdu hana við internetbeininn þinn með meðfylgjandi Ethernet-snúru."
+"congrats"="Til hamingju!"
+"and"="og"
+"connect_to_wifi"="Tengjast WiFi"
+"this_name_is_already_in_use_pl"="Þetta heiti er þegar í notkun. Prófaðu annað heiti."
+"welcome_to_the_tradfri_lightin"="Velkomin(n) í TRÅDFRI-ljósakerfið, einföldustu leiðina til að skapa fallega lýsingu á heimilinu. Viltu hefja uppsetningu?"
+"enter_the_gateway_ip"="Sláðu inn IP-tölu gáttarinnar"
+"gateway_ip"="IP-tala gáttarinnar"
+"if_the_gateway_is_plugged_in_c"="Ef gáttin er rétt tengd en finnst ekki gætirðu þurft að slá inn IP-töluna handvirkt. Frekari upplýsingar er að finna á hjálparsíðunni."
+"the_gateway_ip_is_incorrect"="IP-tala gáttarinnar er röng."
+"you_must_be_connected_to_your_"="Þú þarft að tengjast WiFi-netinu til að stjórna TRÅDFRI úr forritinu."
+"these_are_your_tradfri_devices"="Þetta eru TRÅDFRI-tækin þín"
+"lets_get_started"="HEFJUMST HANDA"
+"get_started"="HEFJAST HANDA"
+"youre_now_connected_to_the_gat"="Gáttin er núna tengd. Nú skulum við tengja tækin."
+"add_another_device"="Bæta við öðru tæki"
+"finding_gateway"="Leitar að gátt ..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Skannar ..."
+"type_in_the_code_instead"="Sláðu inn kóðann í staðinn"
+"youll_find_the_code_on_the_bac"="Þú finnur kóðann aftan á gáttinni."
+"we_found_the_code"="Kóðinn fannst."
+"hold_on_while_we_verify_the_co"="Hinkraðu á meðan við staðfestum kóðann ..."
+"scan"="SKANNA"
+"now_scan_the_code"="Skannaðu nú kóðann"
+"enable_camera"="KVEIKJA Á MYNDAVÉL"
+"type_in_the_serial_number"="Sláðu inn raðnúmerið"
+"type_in_the_security_code"="Sláðu inn öryggiskóðann"
+"serial_number"="Raðnúmer"
+"security_code"="Öryggiskóði"
+"youll_find_it_on_the_back_of_y"="Þú finnur hann aftan á gáttinni."
+"youll_find_them_both_on_the_ba"="Þú finnur hvort tveggja aftan á gáttinni."
+"this_serial_number_is_incorrec"="Rangt raðnúmer"
+"type_in_the_serial_number_and_"="Sláðu inn raðnúmerið og öryggiskóðann"
+"enable_your_camera_to_scan_the"="Kveiktu á myndavélinni til að skanna kóðann."
+"type_in_the_code"="SLÁÐU INN KÓÐANN"
+"the_security_key_should_be_dig"="Öryggiskóðinn ætti að vera 16 tölustafir"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Byrjaðu á því að velja tækið sem þú vilt bæta við"
+"open_the_back_of_the_remote_co"="1. Opnaðu bakhlutann á fjarstýringunni"
+"reset_the_remote_control"="2. Endurstilltu fjarstýringuna"
+"connect_the_remote_control"="3. Tengdu fjarstýringuna"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Kveiktu á ljósinu"
+"make_sure_that_your_light_is_i"="Gakktu úr skugga um að ljósið sé sett upp og kveikt á aðalrofanum."
+"which_control_device_are_you_u"="2. Hvaða stjórntæki ertu að nota?"
+"remember_to_use_a_control_devi"="Mundu að nota stjórntæki sem er þegar tengt."
+"connect_the_light"="3. Tengdu ljósið"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Leitar að tækjum ..."
+"bulb"="Ljósapera"
+"door_or_panel"="Hurð eða þil"
+"open_the_back_of_the_motion_se"="1. Opnaðu bakhlutann á hreyfiskynjaranum"
+"reset_the_motion_sensor"="2. Endurstilltu hreyfiskynjarann"
+"connect_the_motion_sensor"="3. Tengdu hreyfiskynjarann"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Opnaðu bakhlutann á þráðlausa ljósdeyfinum"
+"reset_the_wireless_dimmer"="2. Endurstilltu þráðlausa ljósdeyfinn"
+"connect_the_wireless_dimmer"="3. Tengdu þráðlausa ljósdeyfinn"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Leitar að tæki"
+"which_device_would_you_like_to"="Hvaða tæki viltu bæta við?"
+"now_add_your_lights"="Bættu nú við ljósum"
+"they_can_be_added_after_youve_"="Þú getur bætt þeim við eftir tengingu stjórntækis."
+"ill_do_this_later"="Framkvæma seinna"
+"delete_mood"="Eyða ljósbrigði"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Til að staðfesta að tækið hafi verið flutt skaltu ýta á hvaða hnapp sem er á tækinu. Þú þarft hugsanlega að ýta nokkrum sinnum."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="HEIMA"
+"add_lights"="BÆTA VIÐ LJÓSUM"
+"no_lights_have_been_added_to_t"="Enn hefur engum ljósum verið bætt við hópinn."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Sláðu inn heiti á ljósbrigði"
+"please_pick_another_name_this_"="Veldu annað heiti, þetta er þegar í notkun."
+"moods_by_ikea"="IKEA-ljósbrigði"
+"new_mood"="Nýtt ljósbrigði"
+"please_enter_a_mood_name"="Sláðu inn heiti á ljósbrigði."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Slökkva"
+"turn_on"="Kveikja"
+"min"="Lágm."
+"max"="Hám."
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Eitt tæki finnst ekki"
+"devices_cannot_be_found"="%1$s tæki finnast ekki"
+"one_remote_has_a_low_battery"="Lítil hleðsla er á rafhlöðu einnar fjarstýringar"
+"one_motion_sensor_has_a_low_ba"="Lítil hleðsla er á rafhlöðu eins hreyfiskynjara"
+"remotes_have_low_batteries"="Lítil hleðsla er á rafhlöðum %1$s fjarstýringa"
+"devices_have_low_batteries"="Lítil hleðsla er á rafhlöðum %1$s tækja"
+"updating"="Uppfærir ..."
+"update_successful"="Uppfærslunni er lokið"
+"was_added_to_a_new_group"="%1$s var bætt við nýjan hóp."
+"was_removed"="%1$s var fjarlægt"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Hópar"
+"rename_group"="Endurnefna hóp"
+"add_new_group"="Bæta við nýjum hóp"
+"add_devices"="Bæta við tækjum"
+"new_group"="Nýr hópur"
+"group_name"="Heiti hóps"
+"low_battery"="Lítil hleðsla á rafhlöðu"
+"manage_your_devices"="Stjórna tækjum"
+"devices"="Tæki"
+"last_seen_ago"="Síðasta virkni fyrir %1$s"
+"move_a_device_to_this_group_by"="Færðu tæki yfir í þennan hóp með því að pikka á punktana þrjá."
+"leaving_will_remove_new_group"="Ef þú ferð verður nýi hópurinn fjarlægður"
+"groups_without_any_devices_wil"="Hópar án nokkurra tækja verða fjarlægðir sjálfkrafa."
+"move_to_other_group"="Færa yfir í annan hóp"
+"rename_device"="Endurnefna tæki"
+"remove_device"="Fjarlægja tæki"
+"select_destination_group"="Velja viðtökuhóp"
+"the_name_is_already_being_used"="Heitið \" %1$s \" er þegar í notkun."
+"remove_accessory"="Fjarlægja aukabúnað?"
+"it_looks_like_there_was_a_prob"="Eitthvað vandamál virðist vera við að færa ljósið. Gakktu úr skugga um að kveikt sé á ljósinu og reyndu að færa það aftur."
+"disconnected_devices"="Ótengd tæki"
+"add_new"="BÆTA VIÐ NÝJUM"
+"device_was_not_moved"="Tækið var ekki fært"
+"unfortunately_you_cant_add_a_m"="Því miður er ekki hægt að bæta hreyfiskynjara við hóp með þráðlausum ljósdeyfum eða fjarstýringum."
+"press_any_button_on_your_remot"="Ýttu á hvaða hnapp fjarstýringarinnar sem er."
+"great"="Glæsilegt!"
+"your_was_moved_to"="%1$s var fært yfir í %2$s."
+"are_you_sure_you_want_to_remov"="Viltu örugglega fjarlægja %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="TÍMASTILLINGAR"
+"enabled"="virkt"
+"disabled"="óvirkt"
+"every_day"="Á hverjum degi"
+"days"="Dagar"
+"hours"="Klukkustundir"
+"minutes"="Mínútur"
+"seconds"="Sekúndur"
+"mon"="Mán."
+"tue"="Þri."
+"wed"="Mið."
+"thu"="Fim."
+"fri"="Fös."
+"sat"="Lau."
+"sun"="Sun."
+"timer_is_not_set"="Tímastilling hefur ekki verið stillt"
+"mon_fri"="Mán. – fös."
+"cant_set_time"="Ekki er hægt að stilla tíma"
+"make_sure_you_set_your_timer_b"="Ekki gleyma að stilla tímann áður en þú ferð."
+"are_you_sure_you_want_to_delete_this_tim"="Viltu örugglega eyða þessari tímastillingu?"
+"add"="BÆTA VIÐ"
+"am"="f.h."
+"pm"="e.h."
+"monday"="M"
+"tuesday"="Þ"
+"wednesday"="M"
+"thursday"="F"
+"friday"="F"
+"saturday"="L"
+"sunday"="S"
+"set_your_time"="Stilla tíma"
+"new_timer"="Ný tímastilling"
+"what_time"="%1$s Hvenær?"
+"which_lights"="%1$s Hvaða ljós?"
+"from"="frá"
+"to"="til"
+"should_they_turn_on_or_off"="%1$s Eiga þau að kveikja eða slökkva?"
+"save"="VISTA"
+"set_your_lights_to_turn_on_or_"="Stilltu ljósin til að kveikja eða slökkva á nákvæmlega þeim tíma sem þú kýst."
+"set_your_lights_to_turn_on_or_off_e"="Stilltu ljósin til að kveikja eða slökkva á nákvæmlega þeim tíma sem þú kýst.\n\nLjósin muna birtustig og lit frá síðustu notkun."
+"during_what_time"="%1$s Á hvaða tíma?"
+"you_cant_set_a_time_with_the_s"="Ekki er hægt að stilla tíma með sama upphafs- og lokatíma."
+"a_timer_has_been_updated"="Tímastilling var uppfærð"
+"timers_have_been_updated"="Tímastillingar voru uppfærðar"
+"view"="Sýna"
+"you_are_now_using_the_maximum_"="Hámarksfjöldi tímastillinga er í notkun."
+"timers_help_you_set_your_light"="Tímastillingar hjálpa þér að stilla lýsinguna til að kveikja og slökkva. Bættu einni við til að hefjast handa!"
+"some_of_your_timers_was_update"="Einhverjar tímastillingar voru uppfærðar úr öðru tæki."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Endurtaka"
+"rise_and_shine"="Vakna"
+"set_your_lights_to_wake_you_up"="Stilltu ljósin til að vekja þig."
+"your_rise_and_shine_timer_was_"="Tímastillingin „Vakna“ var uppfærð í öðru tæki."
+"delete_rise_and_shine"="Eyða „Vakna“"
+"your_rise_and_shine_timer_just"="Tímastillingin „Vakna“ var að hefjast."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Að heiman"
+"out_and_about_set_your_lights_"="Enginn heima? Stilltu ljósin til að kveikja og slökkva eins og þú sért heima."
+"set_your_lights_to_slowly_dim_"="Stilltu ljósin á að kvikna hægt hálftíma fyrir innstilltan tíma. Ljósin verða hægt og rólega bjartari\n\n- eins og morgunsólin."
+"your_away_from_home_timer_just"="Tímastillingin „Að heiman“ var að hefjast."
+"your_away_from_home_timer_was_"="Tímastillingin „Að heiman“ var uppfærð í öðru tæki."
+"delete_away_from_home"="Eyða „Að heiman“"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="KVEIKJA og SLÖKKVA"
+"on_or_off"="Kveikja eða slökkva"
+"out_and_about_set_your_lights_to_tu"="Enginn heima? Stilltu ljósin til að kveikja og slökkva eins og þú sért heima.\n\nMundu að slökkva ekki ljósin með veggrofanum. Ljósin muna birtustig og lit frá síðustu notkun."
+"your_on_or_off_timer_just_star"="Tímastillingin „Kveikja eða slökkva“ var að hefjast."
+"your_on_or_off_timer_was_updat"="Tímastillingin „Kveikja eða slökkva“ var uppfærð í öðru tæki."
+"delete_on_or_off"="Eyða KVEIKJA eða SLÖKKVA"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="STILLINGAR"
+"need_help"="Þarftu hjálp?"
+"language"="Tungumál"
+"default_language"="Sjálfgefið tungumál"
+"send_in_email"="SENDA Í TÖLVUPÓSTI"
+"terms_and_conditions"="Skilmálar"
+"privacy_policy"="Persónuverndarstefna"
+"software_licenses"="Hugbúnaðarleyfi"
+"continue_"="Halda áfram"
+"youve_selected_as_your_language_"="Þú hefur valið %1$s sem tungumál."
+"tradfri_terms_and_conditions"="Skilmálar TRÅDFRI"
+"tradfri__privacy_policy"="Persónuverndarstefna TRÅDFRI"
+"tradfri_is_up_to_date"="TRÅDFRI hefur verið uppfært"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Uppfærslur eru í boði"
+"update"="UPPFÆRA"
+"unreachable"="Næst ekki í"
+"update_details"="Uppfærsluupplýsingar"
+"up_to_date"="Allt uppfært"
+"remote_controls"="Fjarstýringar"
+"motion_sensors"="Hreyfiskynjarar"
+"this_should_only_take_about_mi"="Þetta ætti aðeins að taka um 1 mínútu."
+"dismiss"="HAFNA"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="AFTENGJA"
+"disconnecting"="AFTENGIST ..."
+"disconnected"="AFTENGT"
+"disconnecting_allow_you_to_con"="Með því að aftengjast geturðu tengst annarri gátt. Þú getur ekki notað tvenns konar gáttir í einu en þú þarft ekki að hafa áhyggjur, allar ljósastillingarnar þínar verða geymdar áfram í núverandi gátt."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Ný gátt fannst"
+"gateway_is_rebooting"="Gáttin endurræsist ..."
+"connect_to_new_gateway"="Tengja við nýja gátt"
+"you_cant_connect_to_your_curre"="Ekki er hægt að tengjast núverandi gátt en önnur er í boði. Viltu tengjast nýju gáttinni?"
+"connecting_will_disconnect_you"="Með því að tengjast verður núverandi gátt aftengd. Engar áhyggjur, allar stillingarnar þínar verða geymdar áfram í núverandi gátt."
+"try_again"="REYNDU AFTUR"
+"oops"="Æ, æ!"
+"youre_about_to_remove_the_last"="Þú ert að fara að fjarlægja síðasta tækið"
+"your_light_needs_to_be_turned_"="Þú verður að kveikja á ljósinu með ljósarofanum áður en þú getur notað það."
+"remember_to_turn_on_your_light"="Mundu að kveikja á ljósunum"
+"oops_something_went_wrong"="Æ, æ! Eitthvað fór úrskeiðis."
+"enter_the_gateway_ip_manually"="Slá IP-tölu gáttarinnar inn handvirkt"
+"gateway_is_updating"="Gáttin uppfærist ..."
+"your_gateway_software_is_being"="Verið er uppfæra hugbúnað gáttarinnar til að veita þér sem besta upplifun. Gáttin verður ekki í boði í nokkrar mínútur en þú getur haldið áfram að nota ljósin og fjarstýringuna eins og venjulega."
+"unable_to_connect_to_tradfri"="Ekki er hægt að tengjast TRÅDFRI"
+"it_looks_like_you_scanned_the_"="Þú hefur líklega skannað inn rangan kóða. Reyndu að skanna kóðann aftan á gáttinni."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Hvít ljósapera"
+"bulb_e27_white_spectrum_globe_clear"="Hvít ljósapera"
+"bulb_e27_white_spectrum_globe_opal"="Hvít ljósapera"
+"bulb_e14_white_spectrum_globe_"="Hvít ljósapera"
+"color_white_spectrum_bulb"="Lituð/hvít ljósapera"
+"bulb_e14_color_white_spectrum_"="Lituð/hvít ljósapera"
+"white_spectrum_panel"="Hvítt þil"
+"panel_white_spectrum_30_90"="Hvítt þil"
+"panel_white_spectrum_60_60"="Hvítt þil"
+"color_white_spectrum_panel"="Litað/hvítt þil"
+"white_spectrum_door"="Hvít hurð"
+"door_white_spectrum_36_84"="Hvít hurð"
+"remote_control"="Fjarstýring"
+"motion_sensor"="Hreyfiskynjari"
+"wireless_dimmer"="Þráðlaus ljósdeyfir"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Færa"
+"rename"="Endurnefna"
+"remove"="Fjarlægja"
+"off"="Slökkt"
+"done"="LOKIÐ"
+"cancel"="HÆTTA VIÐ"
+"ok"="Í LAGI"
+"confirm"="STAÐFESTA"
+"delete"="Eyða"
+"proceed"="Halda áfram"
+"group"="Hópur"
+"plug"="Innstunga"
+"everyday"="Hversdags"
+"focus"="Fókus"
+"relax"="Róandi"
+"plugs"="Innstungur"
+"gateway"="Gátt"
+"gateways"="Gáttir"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="KVEIKTU á öllum ljósunum"
+"are_all_your_lights_on_they_mu"="Er kveikt á öllum %1$s ljósunum? Það verður að vera KVEIKT á þeim til að færa þráðlausa ljósdeyfinn"
+"press_the_link_button"="Ýttu á hnappinn til að tengjast"
+"to_control_the_new_group_just_"="Til að stjórna nýja hópnum skaltu opna þráðlausa ljósdeyfinn og ýta á hnappinn til að tengjast. Þá verður tækið þitt fært."
+"i_did_it"="Þetta tókst"
+"to_finish_removing_your_remote"="Til að ljúka við að fjarlægja fjarstýringuna skaltu endurstilla hana með því að ýta á hnappinn til að tengjast fjórum sinnum. Þá er þessu lokið!"
+"to_finish_removing_your_motion"="Til að ljúka við að fjarlægja hreyfiskynjarann skaltu endurstilla hann með því að ýta á hnappinn til að tengjast fjórum sinnum. Þá er þessu lokið!"
+"to_finish_removing_your_wirele"="Til að ljúka við að fjarlægja þráðlausa ljósdeyfinn skaltu endurstilla hann með því að ýta á hnappinn til að tengjast fjórum sinnum. Þá er þessu lokið!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Til að færa tækið þitt skaltu opna þráðlausa ljósdeyfinn í %1$s og ýta á hnappinn til að tengja."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Til að færa tækið þitt skaltu opna þráðlausu ljósdeyfana í %1$s og %2$s og ýta á hnappinn til að tengja á báðum"
+"required_update"="Nauðsynleg uppfærsla"
+"update_required_tradfri_needs_"="Uppfærslu er krafist. Nauðsynlegt er að uppfæra TRÅDFRI svo það virki áfram sem skyldi. Forritið verður ekki tiltækt á meðan það er uppfært."
+"an_important_update_has_been_p"="Mikilvægri uppfærslu er lokið og Trådfri hefur verið uppfært í nýjustu útgáfu"
+"reconnect_to_gateway"="Endurtengja við gáttarbúnað"
+"is_your_light_on"="Er kveikt á ljósinu?"
+"if_not_turn_it_on_to_successfu"="Ef ekki skaltu kveikja á því til að fjarlægja tækið."
+"to_remove_your_light_open_the_"="Til að fjarlægja ljósið skaltu opna þráðlausa ljósdeyfinn í %1$s og ýta á hnappinn til að tengja."
+"wireless_motion_sensor"="Þráðlaus hreyfiskynjari"
+"please_confirm"="Færa %1$s?"
+"gently_rotate_your_wireless_di"="Til að staðfesta þetta skaltu snúa þráðlausa ljósdeyfinum varlega."
+"we_did_not_detect_any_action_o"="Tækið þitt svaraði ekki."
+"wave_your_hand_in_front_of_the"="Til að staðfesta skaltu veifa hendinni fyrir framan hreyfiskynjarann."
+"enter_group_name"="Sláðu inn heiti fyrir hópinn"
+"enter_accessory_name"="Sláðu inn heiti fyrir aukabúnaðinn"
+"remove_"="Fjarlægja %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Hlý, hvít ljósapera"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Stilltu ljósbrigðið áður en þú vistar og ljósbrigðið verður talið með."
+"my_moods"="Ljósbrigðin mín"
+"create_a_mood_and_save_it_for_"="Búðu til ljósbrigði og vistaðu það til að fá samstundis aðgang"
+"light_unreachable"="Næst ekki í ljós"
+"if_you_create_or_edit_a_mood_while"="Ef þú stofnar eða breytir ljósbrigði á meðan ekki næst í ljósið verður ljósið hunsað í ljósbrigðinu. Gakktu úr skugga um að kveikt sé á ljósunum áður en þú heldur áfram"
+"edit_moods"="BREYTA LJÓSBRIGÐUM"
+"edit_mood"="BREYTA LJÓSBRIGÐI"
+"brightness"="BIRTUSTIG | %1$s"
+"disconnect_app"="AFTENGJA FORRIT"
+"clear_all_settings"="Hreinsa allar stillingar"
+"this_will_delete_all_Moods"="Þetta mun eyða öllum ljósbrigðum og tímastillingum og endurstilla allar stillingar. Þegar þú endurstillir verða öll tækin þín aftengd gáttabúnaðinum"
+"are_you_sure_you_want_to_clear"="Ertu viss um að þú viljir hreinsa allar stillingar?"
+"clear"="Hreinsa"
+"cleared"="HREINSAÐ"
+"clearing"="HREINSAR …"
+"see_details"="Sjá upplýsingar"
+"update_did_not_complete"="Uppfærslu er ekki lokið"
+"one_or_more_devices_didnt_upda"="Eitt eða fleiri tæki voru ekki uppfærð. Engar áhyggjur, ljósið heldur áfram að virka"
+"your_moods_are_still_loading_"="Enn er verið að sækja ljósbrigðin þín. Reyndu aftur eftir nokkrar sekúndur."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Ekki uppfært"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Ljósaperur"
+"waiting_for_gateway"="Bíður eftir gáttarbúnaði"
+"wireless_dimmers"="Þráðlausir ljósdeyfar"
+"theres_an_important_new_update"="Það er mikilvæg ný uppfærsla í boði fyrir TRÅDFRI."
+"close"="Loka"
+"update_pending"="Uppfærsla í bið"
+"your_devices_are_being_updated"="Verið er að uppfæra tækin þín. Þú getur haldið áfram að nota TRÅDFRI eins og venjulega."
+"start_update"="Hefja uppfærslu"
+"continue_to_use_your_lights_as"="Haltu áfram að nota ljósin eins og venjulega – uppfærslur fara fram í bakgrunni. Forritið gæti verið ótiltækt í skamman tíma."
+"panel"="Þil"
+"door"="Hurð"
+"panels"="Þil"
+"doors"="Hurðir"
+"check_for_updates"="Leita að uppfærslum"
+"update_now"="Uppfæra núna"
+"view_update_details"="Skoða uppfærsluupplýsingar"
+"all_your_devices_are_updated_t"="Öll tæki hafa verið uppfærð í nýjustu útgáfuna."
+"your_gateway_didnt_update_dont"="Gáttarbúnaðurinn var ekki uppfærður. Engar áhyggjur, ljósið heldur áfram að virka"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Ekki er hægt að tengjast gáttarbúnaði"
+"we_couldnt_connect_to_your_dev"="Mistókst að tengjast tækjum. Ef vandamálið er viðvarandi skaltu slökkva á gáttarbúnaðinum og kveikja svo aftur á honum"
+"we_couldnt_find_your_gateway_m"="Gáttin fannst ekki. Gakktu úr skugga um að þetta sé tengt við beininn með snúrunni og að síminn sé tengdur sama netkerfi."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Kaldur himinn"
+"_eaf6fb"="Köld dagsbirta"
+"_f5faf6"="Kaldur hvítur"
+"_f2eccf"="Sólarupprás"
+"_f1e0b5"="Hlýr hvítur"
+"_efd275"="Hlýr bjarmi"
+"_ebb63e"="Kertaljós"
+"_e78834"="Hlý, gullin birta"
+"_e57345"="Ferskjulitað"
+"_da5d41"="Dökkferskjulitað"
+"_dc4b31"="Mattur rauður"
+"_e491af"="Bleikur"
+"_e8bedd"="Ljósbleikur"
+"_d9337c"="Mattur bleikur"
+"_c984bb"="Ljósfjólublár"
+"_8f2686"="Mattur fjólublár"
+"_4a418a"="Blár"
+"_6c83ba"="Ljósblár"
+"_a9d62b"="Límóna"
+"_d6e44b"="Gulur"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Ýttu fjórum sinnum snöggt og haltu inni hnappnum við hliðina á %1$s. Rautt ljós mun blikka á fjarstýringunni.<br/><br/><b>b.</b> Bíddu í 10 sekúndur eftir að ljósið hættir að blikka. Síðan geturðu haldið áfram.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Haltu fjarstýringunni í mest 2 cm fjarlægð frá gáttarbúnaðinum.<br/><br/><b>b.</b> Ýttu og haltu hnappnum við hliðina á %1$s á fjarstýringunni inni þar til %1$s á gáttarbúnaðinum blikkar hratt fjórum sinnum.<br/><br/><b>c.</b> Hinkraðu eftir staðfestingunni hér í forritinu.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Haltu hreyfiskynjaranum í mest 2 cm fjarlægð frá gáttarbúnaðinum.<br/><br/><b>b.</b> Ýttu og haltu hnappnum við hliðina á %1$s á hreyfiskynjaranum inni þar til ljósið fyrir ofan %1$s á gáttarbúnaðinum blikkar hratt fjórum sinnum.<br/><br/><b>c.</b> Hinkraðu eftir staðfestingunni hér í forritinu.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Haltu þráðlausa ljósdeyfinum í mest 2 cm fjarlægð frá hvíta kassanum aftan á hurðinni eða þilinu.<br/><br/><b>b.</b> Ýttu og haltu hnappinum við hliðina á %1$s inni í 10 sekúndur. Lýsingin byrjar að flökta. Haltu hnappnum inni þar til lýsingin hættir að flökta.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Haltu þráðlausa ljósdeyfinum í mest 2 cm fjarlægð frá ljósaperunni.<br/><br/><b>b.</b> Ýttu og haltu hnappinum við hliðina á %1$s inni í 10 sekúndur. Lýsingin byrjar að flökta. Haltu hnappnum inni þar til lýsingin hættir að flökta.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Haltu hreyfiskynjaranum í mest 2 cm fjarlægð frá ljósaperunni.<br/><br/><b>b.</b> Ýttu og haltu hnappnum %1$s inni í 10 sekúndur. Lýsingin byrjar að flökta. Haltu hnappnum inni þar til lýsingin hættir að flökta.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Haltu hreyfiskynjaranum í mest 2 cm fjarlægð frá hvíta kassanum aftan á hurðinni eða þilinu.<br/><br/><b>b.</b> Ýttu og haltu hnappnum %1$s inni í 10 sekúndur. Lýsingin byrjar að flökta. Haltu hnappinum inni þar til lýsingin hættir að flökta.]]>"
+"found"="%1$s fannst"
+"perfect_is_now_connected_to_tr"="Fullkomið! %1$s er nú tengt við TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Tengt"
+"disconnected_"="Aftengt"
+"find_detailed_help_in_our_trou"="Ítarlega aðstoð má finna í leiðarvísinum okkar."
+"disconnect_from_your_gateway"="Aftengjast gátt"
+"are_you_sure_you_want_to_disco"="Viltu örugglega aftengjast?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Útgáfa Trådfri"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Tímastillingar nota sömu ljós"
+"you_have_two_timers_using_the_"="Þú ert með tvær tímastillingar fyrir sömu ljós. Endurstilltu þetta.\nEða\nÞú ert með tvær tímastillingar fyrir sömu tímasetningar. Endurstilltu þetta til að ljósin kveiki á sér á réttum tíma"
+"your_timers_are_still_loading_"="Enn er verið að sækja tímastillingarnar þínar. Reyndu aftur eftir nokkrar sekúndur."
+"which_day"="%1$s Hvaða dag?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Fá aðstoð"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Haltu fjarstýringunni í mest 2 cm fjarlægð frá ljósaperunni.<br /><br /><b>b.</b> Haltu hnappinum við hliðina á %1$s inni í 10 sekúndur. Lýsingin byrjar að flökta. Haltu hnappinum inni þar til lýsingin hættir að flökta.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Haltu fjarstýringunni í mest 2 cm fjarlægð frá hvíta kassanum aftan á hurðinni eða þilinu.<br /><br /><b>b.</b> Haltu hnappinum við hliðina á %1$s inni í 10 sekúndur. Lýsingin byrjar að flökta. Haltu hnappinum inni þar til lýsingin hættir að flökta.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Ýttu fjórum sinnum snöggt á hnappinn við hliðina á %1$s. Rautt ljós blikkar á hreyfiskynjaranum.<br /><br /><b>b.</b> Bíddu í 10 sekúndur eftir að ljósið hættir að blikka. Síðan geturðu haldið áfram.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Ýttu fjórum sinnum snöggt á hnappinn við hliðina á %1$s. Rautt ljós blikkar á þráðlausa ljósdeyfinum.<br /><br /><b>b.</b> Bíddu í 10 sekúndur eftir að ljósið hættir að blikka. Síðan geturðu haldið áfram]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Haltu þráðlausa ljósdeyfinum í mest 2 cm fjarlægð frá gáttinni.<br /><br /><b>b.</b> Haltu hnappinum við hliðina á %1$s á þráðlausa ljósdeyfinum inni þar til ljósið fyrir ofan %1$s á gáttinni blikkar hratt fjórum sinnum.<br /><br /><b>c.</b> Hinkraðu eftir staðfestingunni hér í forritinu.]]>"
+"are_you_sure_you_want_to_delete_mood"="Viltu örugglega eyða \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Hlý, hvít ljósapera"
+"bulb_e27_w_opal_1000lm"="Hlý, hvít ljósapera"
+"bulb_e26_opal_1000lm"="Hlý, hvít ljósapera"
+"bulb_e12_ws_opal_400lm"="Hvít ljósapera"
+"bulb_e26_ws_clear_950lm"="Hvít ljósapera"
+"bulb_e26_ws_opal_980lm"="Hvít ljósapera"
+"bulb_e27_ws_opal_980lm"="Hvít ljósapera"
+
+<!--3rd PARTY DEVICES* -->
+"device"="tæki"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Samþætting"
+"eg_amazon_alexa_apple_homekit"="t.d. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Notaðu röddina til að stjórna TRÅDFRI ljósum með Amazon Alexa.\n\nt.d. „Alexa, kveiktu á ljósinu.“\n„Alexa, deyfðu ljósið um 50%.“"
+"enable"="Gera virkt"
+"disable"="Gera óvirkt"
+"you_are_logged_in"="Þú ert skráð(ur) inn."
+"to_get_started_enable_the_trad"="Til að hefjast handa skaltu virkja TRÅDFRI eiginleikann í forriti Alexa. Segðu síðan: „Alexa, leitaðu að tækjunum mínum.“"
+"ensure_your_alexa_device_is_s"="Gakktu úr skugga um að Alexa-tækið sé uppsett"
+"to_continue_your_alexa_device"="Alexa-tækið þitt þarf að vera uppsett svo að hægt sé að halda áfram. Farðu eftir leiðarvísi Amazon Alexa."
+
+<!-- Whats New Strings* -->
+"whats_new"="Nýjungar"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Láttu tengdu tækin þín virka betur. TRÅDFRI virkar betur með Apple HomeKit."
+"learn_more"="Frekari upplýsingar"
+"use_your_voice_to_control_your"="Notaðu röddina til að stjórna TRÅDFRI ljósum með Amazon Alexa. Kveiktu og slökktu á þeim eða breyttu birtustiginu."
+"disable_amazon_alexa"="Viltu gera Amazon Alexa óvirkt?"
+"you_will_no_longer_be_able_to_"="Þú verður ófær um að stjórna TRÅDFRI tækjunum þínum úr Amazon Alexa."
+"problem_connecting_to_amazon"="Vandamál við að tengjast Amazon"
+"please_try_again"="Reyndu aftur."
+"accept_the_terms_of_use"="Samþykktu notkunarskilmálana"
+"in_order_to_enable_amazon_alex"="Þú þarft að samþykkja notkunarskilmálana til að nota Amazon Alexa."
+"cant_connect_to_amazon"="Ekki hægt að tengjast Amazon"
+"check_your_internet_connection"="Athugaðu nettenginguna og reyndu aftur."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Ljós byrja að verða bjartari við %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Sýna uppfærsluupplýsingar"
+"gateway_update_required"="Gáttaruppfærslu krafist"
+"to_use_this_new_feature_you_ne"="Til að nota þennan nýja eiginleika þarftu að uppfæra hugbúnað gáttarinnar í nýjustu útgáfuna."
+"later"="Síðar"
+"gateway_update_available"="Gáttaruppfærsla í boði"
+"to_use_new_features_you_need_t"="Þú þarft að uppfæra hugbúnað gáttarinnar í nýjustu útgáfu til að nota nýja eiginleika."
+"new_update_available"="Ný uppfærsla í boði"
+"in_order_to_control_your_devic"="Þú þarft að uppfæra forrit TRÅDFRI til að stjórna tækjunum úr símanum."
+"as_a_security_precaution_you_h"="Þú hefur aftengst gáttinni af öryggisástæðum.\n \nTengstu gáttinni aftur til að halda áfram."
+"unknown_device"="Óþekkt tæki"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Marglita ljósaperur"
+"now_you_can_decorate_your_home"="Nú er hægt að skreyta heimilið með lituðum ljósum."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Næstum búið. Opnaðu Google Home-forr. til að virkja raddstýr. f. TRÅDFRI-tæki."
+"set_up_tradfri_for_voice_contr"="Settu upp TRÅDFRI fyrir raddstýringu gegnum Google Assistant.\n\nDæmi Jæja, Google, kveiktu ljósið, eða, Jæja, Google, deyfðu ljósið um 50%."
+"are_you_using_a_google_home_de"="Notar þú Google Home-tæki?"
+"if_youre_using_a_google_home_d"="Ef þú notar Google Home-tæki skaltu hafa það kveikt.\nEf þú notar Google Assistant bara á síma skaltu halda áfr."
+"cant_connect_to_google"="Tekst ekki að tengjast Google"
+"disable_google_assistant"="Á að slökkva á Google Assistant?"
+"you_will_no_longer_be_able_to_contro"="Þá getur þú ekki lengur stjórnað TRÅDFRI-búnaðinum þínum með Google Home."
+"google_assistant_could_not_be_"="Ekki tókst að kveikja á Google Assistant"
+"google_assistant"="Google Assistant"
+"use_voice_control_to_adjust_yo"="Notaðu raddst. til að breyta still. TRÅDFRI-tækja með Google Assistant. Kveiktu ljós, breyttu litum eða stilltu birtust."
+"you_cant_have_two_timers_on_a"="Ekki er hægt að hafa kveikt á tveimur tímastillum samtímis sem eru tengdir sömu ljósum."
+"multicolored_bulb_title"="Marglitar ljósaperur"
+"multicolored_bulb_desc"="Skreyttu heimilið með lituðum ljósum. Trådfri-fjölskyldan er orðin stærri."
+"something_went_wrong"="Eitthvað fór úrskeiðis."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Stjórna tækjum"
+"devices"="tæki"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Lagaleg atriði"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="AFTENGJAST GÁTT"
+"in_progress"="Í vinnslu ..."
+"turn_everything_off"="SLÖKKVA Á ÖLLU"
+"all_devices_are_off"="Slökkt á öllum tækjum."
+"devices_on"="Kveikt á %1$s tækjum"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Stilltu tíma þegar það á að kvikna og slokkna á ljósum, jafnvel þótt þú sért ekki heima."
+"on_and_off_small"="Kveikt og slökkt"
+"group_must_be_empty_to_delete"="Hópur þarf að vera auður til að hægt sé að eyða honum."
+"please_remove_all_devices"="Fjarlægðu öll tæki úr hópnum."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Ekki tókst að slökkva á Google Assistant"
+"please_verify_your_internet_co"="Athugaðu netteng. og reyndu aftur.\n\nEf forritið getur ekki tengst eftir nokkrar tilraunir skaltu prófa að fjarlægja allar aðrar samþættingar sem hugsanlega er kveikt á."
+"try_disable_again"="PRÓFA AFTUR AÐ SLÖKKVA"
+"remove_integration"="FJARLÆGJA SAMÞÆTTINGAR"
+"cant_connect"="Ekki hægt að tengja"
+"remove_all_integration"="Á að fjarlægja allar samþættingar?"
+"are_you_sure_this_will_remove_"="Ertu viss? Með því fjarlægir þú ALLAR samþættingar sem kann að hafa verið kveikt á."
+"amazon_alexa_could_not_be_disa"="Ekki tókst að slökkva á Amazon Alexa"
+"please_verify_your_internet_connect"="Athugaðu netteng. og reyndu aftur.\n\nEf forritið getur ekki tengst e. nokkrar tilraun. skaltu velja „FJARLÆGJA SAMÞÆTTINGAR“ til að endurst. samþætt. og reyna aftur.\nMeð því fjarl. þú ALLAR samþætt. sem kann að hafa verið kveikt á, þ. á m. Amazon Alexa."
+"eg_amazon_alexa_google_assista"="t. d. Amazon Alexa, Google Assistant"
+

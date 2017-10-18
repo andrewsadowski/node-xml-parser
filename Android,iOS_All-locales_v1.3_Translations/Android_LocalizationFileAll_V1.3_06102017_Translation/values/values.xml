@@ -1,0 +1,589 @@
+
+<!--This is the name of the application. It should not be localised -->
+"tradfri" translatable="false"="TRÅDFRI"
+"tradfri_version_1_2" translatable="false"="1.2"
+"tradfri_version_1_3" translatable="false"="1.3"
+
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="HI!"
+"i_agree_to_the"="I agree to the"
+"plug_in_your_gateway"="Plug in your gateway"
+"next"="NEXT"
+"connect"="CONNECT"
+"terms_conditions"="Terms &amp; Conditions"
+"please_agree_to_continue"="Please agree to continue."
+"connecting_to_your_gateway"="Connecting to your gateway..."
+"plug_your_gateway_into_a_power"="Plug your gateway into a power outlet and connect it to your WiFi router with the provided ethernet cable"
+"congrats"="Congrats!"
+"and"="and"
+"connect_to_wifi"="Connect to WiFi"
+"this_name_is_already_in_use_pl"="This name is already in use. Please try another"
+"welcome_to_the_tradfri_lightin"="Welcome to the TRÅDFRI lighting system. It\'s the easiest way to create beautiful light that supports your life at home. Ready to begin setting it up?"
+"enter_the_gateway_ip"="Enter the gateway IP"
+"gateway_ip"="Gateway IP"
+"if_the_gateway_is_plugged_in_c"="If the gateway is plugged in correctly and still can\'t be found, you may need to enter the gateway IP address manually. Check the support page for more information"
+"the_gateway_ip_is_incorrect"="The gateway IP is incorrect."
+"you_must_be_connected_to_your_"="You must be connected to your WiFi network to control TRÅDFRI from your app"
+"these_are_your_tradfri_devices"="These are your TRÅDFRI devices"
+"lets_get_started"="LET\'S GET STARTED"
+"get_started"="GET STARTED"
+"youre_now_connected_to_the_gat"="You\'re now connected to the gateway. Now let\'s connect your devices"
+"add_another_device"="Add another device"
+"finding_gateway"="Finding your gateway..."
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Scanning..."
+"type_in_the_code_instead"="Type in the code instead"
+"youll_find_the_code_on_the_bac"="You\'ll find the code on the back of the gateway"
+"we_found_the_code"="We found the code."
+"hold_on_while_we_verify_the_co"="Hold on while we verify the code..."
+"scan"="SCAN"
+"now_scan_the_code"="Now scan the code"
+"enable_camera"="ENABLE CAMERA"
+"type_in_the_serial_number"="Type in the serial number"
+"type_in_the_security_code"="Type in the security code"
+"serial_number"="Serial Number"
+"security_code"="Security code"
+"youll_find_it_on_the_back_of_y"="You\'ll find it on the back of your gateway"
+"youll_find_them_both_on_the_ba"="You\'ll find them both on the back of your gateway"
+"this_serial_number_is_incorrec"="This serial number is incorrect"
+"type_in_the_serial_number_and_"="Type in the serial number and the security code"
+"enable_your_camera_to_scan_the"="Enable your camera to scan the code."
+"type_in_the_code"="TYPE IN THE CODE"
+"the_security_key_should_be_dig"="The security key should be 16 digits"
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Start by choosing the device you want to add"
+"open_the_back_of_the_remote_co"="1. Open the back of the remote control"
+"reset_the_remote_control"="2. Reset the remote control"
+"connect_the_remote_control"="3. Connect the remote control"
+"turn_on_your_light"="1. Turn on your light"
+"make_sure_that_your_light_is_i"="Make sure that your light is installed and the main power switch is turned on"
+"which_control_device_are_you_u"="2. Which control device are you using?"
+"remember_to_use_a_control_devi"="Remember to use a control device that is already connected"
+"connect_the_light"="3. Connect the light"
+"finding_your_devices"="Finding your devices..."
+"bulb"="Bulb"
+"door_or_panel"="Door or panel"
+"open_the_back_of_the_motion_se"="1. Open the back of the motion sensor"
+"reset_the_motion_sensor"="2. Reset the motion sensor"
+"connect_the_motion_sensor"="3. Connect the Motion sensor"
+"open_the_back_of_the_wireless_"="1. Open the back of the wireless dimmer"
+"reset_the_wireless_dimmer"="2. Reset the wireless dimmer"
+"connect_the_wireless_dimmer"="3. Connect the wireless dimmer"
+"finding_your_device"="Finding your device"
+"which_device_would_you_like_to"="Which device would you like to add?"
+"now_add_your_lights"="Now add your lights"
+"they_can_be_added_after_youve_"="They can be added after you\'ve connected a control device"
+"ill_do_this_later"="I\'ll do this later"
+"to_confirm_moving_the_device_p"="To confirm moving the device please press any button on the device. You may have to press a few times."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="MY HOME"
+"add_lights"="ADD LIGHTS"
+"no_lights_have_been_added_to_t"="No lights have been added to this group yet."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Enter a Mood name"
+"please_pick_another_name_this_"="Please pick another name, this one is already in use"
+"moods_by_ikea"="Moods by IKEA"
+"new_mood"="New Mood"
+"please_enter_a_mood_name"="Please enter a mood name."
+"delete_mood"="Delete mood"
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Turn Off"
+"turn_on"="Turn On"
+"min"="Min"
+"max"="Max"
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="One device cannot be found"
+"devices_cannot_be_found"="%1$s devices cannot be found"
+"one_remote_has_a_low_battery"="One remote has a low battery"
+"one_motion_sensor_has_a_low_ba"="One motion sensor has a low battery"
+"remotes_have_low_batteries"="%1$s remotes have low batteries"
+"devices_have_low_batteries"="%1$s devices have low batteries"
+"updating"="Updating..."
+"update_successful"="Update successful"
+"was_added_to_a_new_group"="%1$s was added to a new group."
+"was_removed"="%1$s was removed"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Groups"
+"rename_group"="Rename Group"
+"add_new_group"="Add New Group"
+"add_devices"="Add devices"
+"new_group"="New Group"
+"group_name"="Group Name"
+"low_battery"="Low battery"
+"last_seen_ago"="Last seen %1$s ago"
+"move_a_device_to_this_group_by"="Move a device to this group by tapping the three dots"
+"leaving_will_remove_new_group"="Leaving will remove new group"
+"groups_without_any_devices_wil"="Groups without any devices will automatically be removed"
+"move_to_other_group"="Move to other group"
+"rename_device"="Rename device"
+"remove_device"="Remove device"
+"select_destination_group"="Select destination group"
+"the_name_is_already_being_used"="The name \" %1$s \" is already being used"
+"remove_accessory"="Remove accessory?"
+"it_looks_like_there_was_a_prob"="It looks like there was a problem moving your light. Make sure the light is turned on and try to move it again"
+"disconnected_devices"="Disconnected devices"
+"add_new"="ADD NEW"
+"device_was_not_moved"="Device was not moved"
+"unfortunately_you_cant_add_a_m"="Unfortunately, you can\'t add a motion sensor to a group with wireless dimmers or remote controls"
+"press_any_button_on_your_remot"="Press any button on your Remote control."
+"great"="Great!"
+"your_was_moved_to"="Your %1$s was moved to %2$s."
+"are_you_sure_you_want_to_remov"="Are you sure you want to remove your %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="TIMERS"
+"enabled"="enabled"
+"disabled"="disabled"
+"every_day"="Every day"
+"days"="Days"
+"hours"="Hours"
+"minutes"="Minutes"
+"seconds"="Seconds"
+"mon"="Mon"
+"tue"="Tue"
+"wed"="Wed"
+"thu"="Thu"
+"fri"="Fri"
+"sat"="Sat"
+"sun"="Sun"
+"timer_is_not_set"="Timer is not set"
+"mon_fri"="Mon - Fri"
+"cant_set_time"="Can\'t set time"
+"make_sure_you_set_your_timer_b"="Make sure you set your timer before you leave"
+"are_you_sure_you_want_to_delete_this_tim"="Are you sure you want to delete this timer?"
+"add"="ADD"
+"am"="AM"
+"pm"="PM"
+"monday"="M"
+"tuesday"="T"
+"wednesday"="W"
+"thursday"="T"
+"friday"="F"
+"saturday"="S"
+"sunday"="S"
+"set_your_time"="Set your time"
+"new_timer"="New Timer"
+"what_time"="%1$s What time?"
+"which_lights"="%1$s Which lights?"
+"from"="from"
+"to"="to"
+"should_they_turn_on_or_off"="%1$s Should they turn on or off?"
+"save"="SAVE"
+"set_your_lights_to_turn_on_or_"="Set your lights to turn on or off exactly when you want them to"
+"set_your_lights_to_turn_on_or_off_e"="Set your lights to turn on or off exactly when you want them to.\n\nYour lights will remember the brightness and colour from the last time they were used"
+"during_what_time"="%1$s During what time?"
+"you_cant_set_a_time_with_the_s"="You can\'t set a time with the same start and end time"
+"a_timer_has_been_updated"="A timer has been updated"
+"timers_have_been_updated"="Timers have been updated"
+"view"="View"
+"you_are_now_using_the_maximum_"="You are now using the maximum number of timers"
+"timers_help_you_set_your_light"="Timers help you set your lighting to turn on and off. Add one to get started!"
+"some_of_your_timers_was_update"="Some of your timers were updated from another device."
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Repeat"
+"rise_and_shine"="Rise and Shine"
+"set_your_lights_to_wake_you_up"="Set your lights to wake you up."
+"your_rise_and_shine_timer_was_"="Your Rise and Shine timer was updated from another device"
+"delete_rise_and_shine"="Delete Rise and Shine"
+"your_rise_and_shine_timer_just"="Your Rise and Shine timer just started."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Away from Home"
+"out_and_about_set_your_lights_"="Out and about? Set your lights to turn on and off as if you were home"
+"set_your_lights_to_slowly_dim_"="Set your lights to slowly dim up, starting 30 minutes before the time you\'ve set your timer to. Your lights will slowly get brighter\n- just like the morning sun"
+"your_away_from_home_timer_just"="Your Away from Home timer just started."
+"your_away_from_home_timer_was_"="Your Away from Home timer was updated from another device"
+"delete_away_from_home"="Delete Away from Home"
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="ON and OFF"
+"on_or_off"="On or Off"
+"out_and_about_set_your_lights_to_tu"="Out and about? Set your lights to turn on and off as if you were home.\n\nRemember not to turn off your lights using the wall switch. They will remember the brightness and colour from the last time they were used"
+"your_on_or_off_timer_just_star"="Your On or Off timer just started."
+"your_on_or_off_timer_was_updat"="Your On or Off timer was updated from another device"
+"delete_on_or_off"="Delete ON or OFF"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="SETTINGS"
+"need_help"="Need help?"
+"language"="Language"
+"default_language"="Default language"
+"send_in_email"="SEND IN EMAIL"
+"terms_and_conditions"="Terms and conditions"
+"privacy_policy"="Privacy policy"
+"software_licenses"="Software licenses"
+"continue_"="Continue"
+"youve_selected_as_your_language_"="You\'ve selected %1$s as your language"
+"tradfri_terms_and_conditions"="TRÅDFRI Terms and Conditions"
+"tradfri__privacy_policy"="TRÅDFRI Privacy Policy"
+"tradfri_is_up_to_date"="TRÅDFRI is up to date"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Updates are available"
+"update"="UPDATE"
+"unreachable"="Unreachable"
+"update_details"="Update Details"
+"up_to_date"="Up to date"
+"remote_controls"="Remote controls"
+"motion_sensors"="Motion sensors"
+"plugs"="Plugs"
+"gateways"="Gateways"
+"this_should_only_take_about_mi"="This should only take about 1 minute."
+"dismiss"="DISMISS"
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="DISCONNECT"
+"disconnecting"="DISCONNECTING..."
+"disconnected"="DISCONNECTED"
+"disconnecting_allow_you_to_con"="Disconnecting allows you to connect to another gateway. You won\'t be able to use both at the same time, but don\'t worry, all of your scenes and light settings will still be stored on your current gateway."
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="New gateway found"
+"gateway_is_rebooting"="Gateway is rebooting..."
+"connect_to_new_gateway"="Connect to new gateway"
+"you_cant_connect_to_your_curre"="You can\'t connect to your current gateway, but another is available. Would you like to connect to the new gateway?"
+"connecting_will_disconnect_you"="Connecting will disconnect you from your current gateway. But don\'t worry, all of your settings will still be stored on your current gateway"
+"try_again"="TRY AGAIN"
+"oops"="Oops!"
+"youre_about_to_remove_the_last"="You\'re about to remove the last device"
+"your_light_needs_to_be_turned_"="Your light needs to be turned on with the light switch before you can use it"
+"remember_to_turn_on_your_light"="Remember to turn on your lights"
+"oops_something_went_wrong"="Oops! Something went wrong."
+"enter_the_gateway_ip_manually"="Enter the gateway IP manually"
+"gateway_is_updating"="Gateway is updating..."
+"your_gateway_software_is_being"="Your gateway software is being updated to give you the best possible experience.The gateway will be unavailable for a few minutes, but you can continue using your lights and remote control as normal"
+"unable_to_connect_to_tradfri"="Unable to connect to TRÅDFRI"
+"it_looks_like_you_scanned_the_"="It looks like you scanned the wrong code. Try scanning the one on the back of your gateway."
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="White spectrum bulb"
+"bulb_e27_white_spectrum_globe_clear"="White spectrum bulb"
+"bulb_e27_white_spectrum_globe_opal"="White spectrum bulb"
+"bulb_e14_white_spectrum_globe_"="White spectrum bulb"
+"color_white_spectrum_bulb"="Colour/white spectrum bulb"
+"bulb_e14_color_white_spectrum_"="Colour/white spectrum bulb"
+"white_spectrum_panel"="White spectrum panel"
+"panel_white_spectrum_30_90"="White spectrum panel"
+"panel_white_spectrum_60_60"="White spectrum panel"
+"color_white_spectrum_panel"="Colour/white spectrum panel"
+"white_spectrum_door"="White spectrum door"
+"door_white_spectrum_36_84"="White spectrum door"
+"remote_control"="Remote control"
+"motion_sensor"="Motion sensor"
+"wireless_dimmer"="Wireless dimmer"
+
+<!--GENERIC_NAMES * -->
+"move"="Move"
+"rename"="Rename"
+"remove"="Remove"
+"off"="Off"
+"done"="DONE"
+"cancel"="CANCEL"
+"ok"="OK"
+"confirm"="CONFIRM"
+"delete"="Delete"
+"proceed"="Proceed"
+"group"="Group"
+"plug"="Plug"
+"everyday"="Everyday"
+"focus"="Focus"
+"relax"="Relax"
+"gateway"="Gateway"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Turn all your lights ON"
+"are_all_your_lights_on_they_mu"="Are all your %1$s lights on?They must be ON to successfully move the Wireless Dimmer"
+"press_the_link_button"="Press the link button"
+"to_control_the_new_group_just_"="To control the new group, just open the Wireless Dimmer and press the link button. Then your device will be moved"
+"i_did_it"="I did it"
+"to_finish_removing_your_remote"="To finish removing your Remote Control, reset it by pressing the link button 4 times. Then you\'re done!"
+"to_finish_removing_your_motion"="To finish removing your Motion Sensor, reset it by pressing the link button 4 times. Then you\'re done!"
+"to_finish_removing_your_wirele"="To finish removing your Wireless Dimmer, reset it by pressing the link button 4 times. Then you\'re done!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="To move your device, open the Wireless Dimmer in %1$s and press the link button"
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="To move your device, open the Wireless Dimmers in %1$s and %2$s and press the link buttons on both"
+"required_update"="Required update"
+"update_required_tradfri_needs_"="Update required. TRÅDFRI needs an update to keep running smoothly. The app will be unavailable as it updates"
+"an_important_update_has_been_p"="An important update has been performed and Trådfri has been updated to the latest version"
+"reconnect_to_gateway"="Reconnect to gateway"
+"is_your_light_on"="Is your light on?"
+"if_not_turn_it_on_to_successfu"="If not, turn it on to successfully remove your device"
+"to_remove_your_light_open_the_"="To remove your light, open the Wireless Dimmer in %1$s and press the link button"
+"wireless_motion_sensor"="Wireless motion sensor"
+"please_confirm"="Move %1$s?"
+"gently_rotate_your_wireless_di"="To confirm, gently rotate your Wireless Dimmer"
+"we_did_not_detect_any_action_o"="Your device didn\'t respond."
+"wave_your_hand_in_front_of_the"="To confirm, please wave your hand in front of the Motion Sensor"
+"enter_group_name"="Please enter a name for your group"
+"enter_accessory_name"="Please enter a name for your accessory"
+"remove_"="Remove %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Warm white bulb"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Set your Mood before saving, Your Mood will be included"
+"my_moods"="My Moods"
+"create_a_mood_and_save_it_for_"="Create a Mood and save it for instant access"
+"light_unreachable"="Light unreachable"
+"if_you_create_or_edit_a_mood_while"="If you create or edit a Mood while a light is unreachable, the light will be ignored for the Mood. Make sure your lights are on before continuing"
+"edit_moods"="EDIT MOODS"
+"edit_mood"="EDIT MOOD"
+"brightness"="BRIGHTNESS | %1$s"
+"clear_all_settings"="Clear all settings"
+"this_will_delete_all_Moods"="This will delete all Moods and Timers and reset all settings. When you reset, all your devices will be disconnected from the Gateway"
+"are_you_sure_you_want_to_clear"="Are you sure you want to clear all your settings?"
+"clear"="Clear"
+"cleared"="CLEARED"
+"clearing"="CLEARING..."
+"see_details"="See details"
+"update_did_not_complete"="Update didn\'t complete"
+"one_or_more_devices_didnt_upda"="One or more devices didn\'t update. Don\'t worry—your light will still work"
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Not updated"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Bulbs"
+"waiting_for_gateway"="Waiting for Gateway"
+"wireless_dimmers"="Wireless Dimmers"
+"theres_an_important_new_update"="There\'s an important new update available for TRÅDFRI"
+"your_moods_are_still_loading_"="Your Moods are still loading, please try again in a few seconds"
+"your_timers_are_still_loading_"="Your Timers are still loading, please try again in a few seconds"
+"close"="Close"
+"update_pending"="Update pending"
+"your_devices_are_being_updated"="Your devices are being updated. You can continue using TRÅDFRI as usual"
+"start_update"="Start update"
+"continue_to_use_your_lights_as"="Continue to use your lights as usual—updates will happen in the background. The app may be unavailable for a short time"
+"panel"="Panel"
+"door"="Door"
+"panels"="Panels"
+"doors"="Doors"
+"check_for_updates"="Check for updates"
+"update_now"="Update now"
+"view_update_details"="View update details"
+"all_your_devices_are_updated_t"="All your devices are updated to the latest version"
+"your_gateway_didnt_update_dont"="Your Gateway didn\'t update. Don\'t worry—your light will still work"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="We can\'t connect to your gateway"
+"we_couldnt_connect_to_your_dev"="We couldn\'t connect to your devices. If the problem persists, turn off your gateway and turn it back on"
+"we_couldnt_find_your_gateway_m"="We couldn\'t find your gateway. Please make sure it\'s connected to your router with the cable, and that the phone is connected to the same network."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Cold sky"
+"_eaf6fb"="Cool daylight"
+"_f5faf6"="Cool white"
+"_f2eccf"="Sunrise"
+"_f1e0b5"="Warm white"
+"_efd275"="Warm glow"
+"_ebb63e"="Candlelight"
+"_e78834"="Warm Amber"
+"_e57345"="Peach"
+"_da5d41"="Dark Peach"
+"_dc4b31"="Saturated Red"
+"_e491af"="Pink"
+"_e8bedd"="Light Pink"
+"_d9337c"="Saturated Pink"
+"_c984bb"="Light Purple"
+"_8f2686"="Saturated Purple"
+"_4a418a"="Blue"
+"_6c83ba"="Light Blue"
+"_a9d62b"="Lime"
+"_d6e44b"="Yellow"
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"=" <![CDATA[<b>a.</b> Quickly press and hold the button beside %1$s 4 times. A red light will flash on your Remote Control.<br/><br/><b>b.</b> After the light stops flashing, wait 10 seconds. Then you can continue.]]>"
+"hold_the_remote_control_within_of_t"=" <![CDATA[<b>a.</b> Hold the Remote Control within 2 cm of the Gateway.<br/><br/><b>b.</b> Press and hold the button next to %1$s on the Remote Control until the %1$s on the Gateway quickly flashes 4 times.<br/><br/><b>c.</b> Wait for your confirmation here in this app.]]>"
+"hold_the_motion_sensor_within_of_th"=" <![CDATA[<b>a.</b> Hold the Motion Sensor within 2 cm of the Gateway.<br/><br/><b>b.</b> Press and hold the button next to %1$s on the Motion Sensor until the light above the %1$s on the Gateway quickly flashes 4 times.<br/><br/><b>c.</b> Wait for your confirmation here in this app.]]>"
+"hold_your_wireless_dimmer_within_of_the_"=" <![CDATA[<b>a.</b> Hold your Wireless Dimmer within 2 cm of the white box on the back of your door or panel.<br/><br/><b>b.</b> Press and hold the button next to %1$s for 10 seconds. Your light source will dim and brighten. Keep the button pressed until the pulsing stops.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"=" <![CDATA[<b>a.</b> Hold your Wireless Dimmer within 2 cm of the bulb.<br/><br/><b>b.</b> Press and hold the button next to %1$s for 10 seconds. Your light source will dim and brighten. Keep the button pressed until the pulsing stops.]]>"
+"hold_your_motion_sensor_within_of_the_bu"=" <![CDATA[<b>a.</b> Hold your Motion Sensor within 2 cm of the bulb.<br/><br/><b>b.</b> Press and hold the %1$s button for 10 seconds. Your light source will dim and brighten. Keep the button pressed until the pulsing stops.]]>"
+"hold_your_motion_sensor_within_of_the_wh"=" <![CDATA[<b>a.</b> Hold your Motion Sensor within 2 cm of the white box on the back of your door or panel.<br/><br/><b>b.</b> Press and hold the %1$s button for 10 seconds. Your light source will dim and brighten. Keep the button pressed until the pulsing stops.]]>"
+"found"="%1$s found"
+"perfect_is_now_connected_to_tr"="Perfect! %1$s is now connected to TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Connected"
+"disconnected_"="DisConnected"
+"find_detailed_help_in_our_trou"="Find detailed help in our troubleshooting guide"
+"disconnect_from_your_gateway"="Disconnect from gateway"
+"are_you_sure_you_want_to_disco"="Are you sure you want to disconnect?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Trådfri version"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Timers using same lights"
+"you_have_two_timers_using_the_"="You have two timers using the same lights. Please reset.\nOr\nYou have two timers using the same time periods. Please reset to keep your lights on the correct time"
+"which_day"="%1$s Which day?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Get help"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Hold your Remote Control within 2 cm of the bulb.<br/><br/><b>b.</b> Press and hold the button next to the %1$s for 10 seconds. Your light source will dim and brighten. Keep the button pressed until the pulsing stops.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Hold your Remote Control within 2 cm of the white box on the back of your door or panel.<br/><br/><b>b.</b> Press and hold the button next to the %1$s for 10 seconds. Your light source will dim and brighten. Keep the button pressed until the pulsing stops.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Quickly press the button next to the %1$s 4 times. A red light will flash on your Motion Sensor.<br/><br/><b>b.</b> After the light stops flashing, wait 10 seconds. Then you can continue.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Quickly press the button next to the %1$s 4 times. A red light will flash on your Wireless Dimmer.<br/><br/><b>b.</b> After the light stops flashing, wait 10 seconds. Then you can continue]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Hold the Wireless Dimmer within 2 cm of the Gateway.<br/><br/><b>b.</b> Press and hold the button next to the %1$s on the Wireless Dimmer until the light above the %1$s on the Gateway quickly flashes 4 times.<br/><br/><b>c.</b> Wait for your confirmation here in this app.]]>"
+"are_you_sure_you_want_to_delete_mood"="Are you sure you want to delete \'%1$s\'"
+
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Warm white bulb"
+"bulb_e27_w_opal_1000lm"="Warm white bulb"
+"bulb_e26_opal_1000lm"="Warm white bulb"
+"bulb_e12_ws_opal_400lm"="White spectrum bulb"
+"bulb_e26_ws_clear_950lm"="White spectrum bulb"
+"bulb_e26_ws_opal_980lm"="White spectrum bulb"
+"bulb_e27_ws_opal_980lm"="White spectrum bulb"
+
+
+<!--Newer text-->
+"inter_ikea_systems_b_v_2017"="© Inter IKEA Systems B. V. 2017"
+
+<!--3rd PARTY DEVICES* -->
+"device"="device"
+
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integrations"
+"eg_amazon_alexa_apple_homekit"="e.g. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Use your voice to control your TRÅDFRI lights with the help of Amazon Alexa.\n\ne.g. “Alexa, turn on the light.” or\n“Alexa, dim the light by 50%.”"
+"enable"="Enable"
+"disable"="Disable"
+"you_are_logged_in"="You are logged in."
+"to_get_started_enable_the_trad"="To get started, enable the TRÅDFRI skill in the Alexa app. Then say: “Alexa, discover my devices.”"
+"ensure_your_alexa_device_is_s"="Ensure your Alexa device is set up"
+"to_continue_your_alexa_device"="To continue, your Alexa device needs to be up and running. Please follow the Amazon Alexa Quick Start guide."
+
+<!-- Whats New Strings* -->
+"whats_new"="What\'s new"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Make all of your connected devices work harder and smarter for you. TRÅDFRI now works with Apple HomeKit."
+"learn_more"="Learn more"
+"use_your_voice_to_control_your"="Use your voice to control your TRÅDFRI lights with the help of Amazon Alexa. Turn them on and off or adjust the brightness."
+"disable_amazon_alexa"="Disable Amazon Alexa?"
+"you_will_no_longer_be_able_to_"="You will no longer be able to control your TRÅDFRI devices from Amazon Alexa."
+"problem_connecting_to_amazon"="Problem connecting to Amazon"
+"please_try_again"="Please try again."
+"accept_the_terms_of_use"="Accept the terms of use"
+"in_order_to_enable_amazon_alex"="In order to enable Amazon Alexa, you need to accept the terms of use."
+"cant_connect_to_amazon"="Can\'t connect to Amazon"
+"check_your_internet_connection"="Check your internet connection and try again."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Lights start to brighten at %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Show update details"
+"gateway_update_required"="Gateway update required"
+"to_use_this_new_feature_you_ne"="To use this new feature, you need to update your gateway software to the latest version."
+"later"="Later"
+"gateway_update_available"="Gateway update available"
+"to_use_new_features_you_need_t"="To use new features, you need to update your gateway software to the latest version."
+"new_update_available"="New update available"
+"in_order_to_control_your_devic"="In order to control your devices from your phone, you need to update the TRÅDFRI app."
+"as_a_security_precaution_you_h"="As a security precaution, you have been disconnected from your gateway.\n \nPlease reconnect to your gateway to continue."
+"unknown_device"="Unknown Device"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Multicoloured bulbs"
+"now_you_can_decorate_your_home"="Now you can decorate your home with coloured lights."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Almost done. Open the Google Home app to enable voice steering of your TRÅDFRI devices."
+"set_up_tradfri_for_voice_contr"="Set up TRÅDFRI for voice control via Google Assistant.\n\ne.g. Ok, Google, turn on the light, or, Ok, Google, dim the light by 50%."
+"are_you_using_a_google_home_de"="Are you using a Google Home device?"
+"if_youre_using_a_google_home_d"="If you\'re using a Google Home device, make sure it\'s turned on now.\nIf you use Google Assistant on your phone only, please continue."
+"cant_connect_to_google"="Can\'t connect to Google"
+"disable_google_assistant"="Disable Google Assistant?"
+"you_will_no_longer_be_able_to_contro"="You will no longer be able to control your TRÅDFRI devices from Google Home."
+"google_assistant_could_not_be_"="Google Assistant could not be enabled"
+
+"google_assistant"="Google Assistant"
+"use_voice_control_to_adjust_yo"="Use voice control to adjust your TRÅDFRI devices with Google Assistant. Turn them on, change colours or adjust brightness."
+"you_cant_have_two_timers_on_a"="You can\'t have two timers on at the same time using the same lights."
+"multicolored_bulb_title"="Multicoloured bulbs"
+"multicolored_bulb_desc"="Decorate your home with coloured lights. The Trådfri family just got bigger."
+"something_went_wrong"="Something went wrong."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Manage devices"
+"devices"="devices"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Legal information"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="DISCONNECT FROM GATEWAY"
+"in_progress"="In progress…"
+"turn_everything_off"="TURN EVERYTHING OFF"
+"all_devices_are_off"="All devices are off."
+"devices_on"="%1$s devices on"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Schedule lights to turn on and off, even when you\'re away."
+"on_and_off_small"="On and off"
+"group_must_be_empty_to_delete"="Group must be empty to delete."
+"please_remove_all_devices"="Please remove all devices in the group."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Google Assistant could not be disabled"
+"please_verify_your_internet_co"="Please verify your internet connection and try again.\n\nIf the app doesn\'t connect after multiple attempts, try removing all other integrations that may be enabled."
+"try_disable_again"="TRY DISABLE AGAIN"
+"remove_integration"="REMOVE INTEGRATIONS"
+"cant_connect"="Can\'t Connect"
+"remove_all_integration"="Remove all integrations?"
+"are_you_sure_this_will_remove_"="Are you sure? This will remove ALL integrations that you may have enabled."
+"amazon_alexa_could_not_be_disa"="Amazon Alexa could not be disabled"
+"please_verify_your_internet_connect"="Please verify your internet connection and try again.\n\nIf the app doesn\'t connect after multiple attempts, select REMOVE INTEGRATIONS to reset integrations and try again.\nThis will remove ALL integrations that you may have enabled, including Amazon Alexa."
+"eg_amazon_alexa_google_assista"="e. g. Amazon Alexa, Google Assistant"
+

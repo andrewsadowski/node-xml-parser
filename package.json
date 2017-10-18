@@ -1,0 +1,15 @@
+{
+  "name": "xml-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xml-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.11.4",
+    "xml-js": "^1.5.1"
+  }
+}

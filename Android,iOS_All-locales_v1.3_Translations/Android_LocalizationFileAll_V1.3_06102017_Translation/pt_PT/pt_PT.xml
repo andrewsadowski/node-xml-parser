@@ -1,0 +1,607 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="OLÁ!"
+"i_agree_to_the"="Aceito os"
+"plug_in_your_gateway"="Ligue o seu gateway"
+"next"="SEGUINTE"
+"connect"="LIGAR"
+"terms_conditions"="Termos e Condições"
+"please_agree_to_continue"="Para continuar, tem de aceitar."
+"connecting_to_your_gateway"="A ligar ao seu gateway…"
+"plug_your_gateway_into_a_power"="Ligue o seu gateway a uma tomada e depois ligue-o ao router WiFi com o cabo Ethernet fornecido."
+"congrats"="Parabéns!"
+"and"="e"
+"connect_to_wifi"="Ligar ao WiFi"
+"this_name_is_already_in_use_pl"="Este nome já está a ser utilizado. Tente outro."
+"welcome_to_the_tradfri_lightin"="Bem-vindo ao sistema de iluminação TRÅDFRI. É a maneira mais fácil de criar uma luz bonita para desfrutar da sua casa. Está pronto para iniciar a configuração?"
+"enter_the_gateway_ip"="Introduza o IP do gateway"
+"gateway_ip"="IP do gateway"
+"if_the_gateway_is_plugged_in_c"="Se, apesar de ligado corretamente, não for possível detetar o gateway, poderá ser necessário introduzir manualmente o endereço IP do gateway. Para obter mais informações, consulte a página de apoio."
+"the_gateway_ip_is_incorrect"="O IP do gateway está incorreto."
+"you_must_be_connected_to_your_"="Para poder controlar o TRÅDFRI com a aplicação, tem de estar ligado à sua rede WiFi."
+"these_are_your_tradfri_devices"="Estes são os seus dispositivos TRÅDFRI"
+"lets_get_started"="VAMOS COMEÇAR"
+"get_started"="COMEÇAR"
+"youre_now_connected_to_the_gat"="Está ligado ao gateway. Agora vamos ligar os seus dispositivos."
+"add_another_device"="Adicionar outro dispositivo"
+"finding_gateway"="A procurar o seu gateway..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="A ler..."
+"type_in_the_code_instead"="Introduza manualmente o código"
+"youll_find_the_code_on_the_bac"="O código está na parte de trás do seu gateway."
+"we_found_the_code"="Encontrámos o código."
+"hold_on_while_we_verify_the_co"="Aguarde enquanto verificamos o código..."
+"scan"="LER"
+"now_scan_the_code"="Agora, leia o código"
+"enable_camera"="ATIVAR CÂMARA"
+"type_in_the_serial_number"="Introduza o número de série"
+"type_in_the_security_code"="Introduza o código de segurança"
+"serial_number"="Número de Série"
+"security_code"="Código de segurança"
+"youll_find_it_on_the_back_of_y"="Está na parte de trás do seu gateway."
+"youll_find_them_both_on_the_ba"="Estão ambos na parte de trás do seu gateway."
+"this_serial_number_is_incorrec"="Este número de série está incorreto"
+"type_in_the_serial_number_and_"="Introduza o número de série e o código de segurança"
+"enable_your_camera_to_scan_the"="Ative a sua câmara para ler o código."
+"type_in_the_code"="INTRODUZA O CÓDIGO"
+"the_security_key_should_be_dig"="O código de segurança tem de ter 16 dígitos"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Comece por escolher o dispositivo que quer adicionar"
+"open_the_back_of_the_remote_co"="1. Abra a parte de trás do comando"
+"reset_the_remote_control"="2. Redefina o comando"
+"connect_the_remote_control"="3. Ligue o comando"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Acenda a luz"
+"make_sure_that_your_light_is_i"="Certifique-se de que a sua luz está instalada e o interruptor principal está ligado."
+"which_control_device_are_you_u"="2. Que dispositivo de controlo utiliza?"
+"remember_to_use_a_control_devi"="Não se esqueça de utilizar um dispositivo de controlo que já esteja ligado."
+"connect_the_light"="3. Ligue a luz"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="A procurar os seus dispositivos..."
+"bulb"="Lâmpada"
+"door_or_panel"="Porta ou painel"
+"open_the_back_of_the_motion_se"="1. Abra a parte de trás do sensor de movimento"
+"reset_the_motion_sensor"="2. Redefina o detetor de movimento"
+"connect_the_motion_sensor"="3. Ligue o Detetor de movimento"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Abra a parte de trás do regulador de luz sem fios"
+"reset_the_wireless_dimmer"="2. Redefina o regulador de luz sem fios"
+"connect_the_wireless_dimmer"="3. Ligue o regulador de luz sem fios"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Procurar o seu dispositivo"
+"which_device_would_you_like_to"="Que dispositivo quer adicionar?"
+"now_add_your_lights"="Agora adicione as suas luzes"
+"they_can_be_added_after_youve_"="Pode adicioná-las depois de ligar um dispositivo de controlo."
+"ill_do_this_later"="Trato disto mais tarde"
+"delete_mood"="Eliminar ambiente"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Para confirmar que quer mover o dispositivo, prima qualquer botão no dispositivo. Poderá ser necessário premir várias vezes."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="A MINHA CASA"
+"add_lights"="ADICIONAR LUZES"
+"no_lights_have_been_added_to_t"="Ainda não foram adicionadas luzes a este grupo."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Introduza o nome do ambiente"
+"please_pick_another_name_this_"="Escolha outro nome, este já está a ser utilizado."
+"moods_by_ikea"="Ambientes IKEA"
+"new_mood"="Novo Ambiente"
+"please_enter_a_mood_name"="Por favor, introduza o nome do ambiente."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Apagar"
+"turn_on"="Acender"
+"min"="Mín."
+"max"="Máx."
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Não foi encontrado um dispositivo"
+"devices_cannot_be_found"="Não foram encontrados %1$s dispositivos"
+"one_remote_has_a_low_battery"="Um comando tem a pilha fraca"
+"one_motion_sensor_has_a_low_ba"="Um sensor de movimento tem a pilha fraca"
+"remotes_have_low_batteries"="%1$s comandos têm a pilha fraca"
+"devices_have_low_batteries"="%1$s dispositivos têm a pilha fraca"
+"updating"="A atualizar..."
+"update_successful"="Atualização com êxito"
+"was_added_to_a_new_group"="%1$s foi adicionado a um novo grupo."
+"was_removed"="%1$s foi removido"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Grupos"
+"rename_group"="Alterar o nome do grupo"
+"add_new_group"="Adicionar novo grupo"
+"add_devices"="Adicionar dispositivos"
+"new_group"="Novo grupo"
+"group_name"="Nome do grupo"
+"low_battery"="Pilha fraca"
+"manage_your_devices"="Gerir dispositivos"
+"devices"="Dispositivos"
+"last_seen_ago"="Visto pela última vez há %1$s"
+"move_a_device_to_this_group_by"="Para mover um dispositivo para este grupo, toque nos três pontos."
+"leaving_will_remove_new_group"="Se sair, o novo grupo será removido"
+"groups_without_any_devices_wil"="Os grupos sem dispositivos serão removidos automaticamente."
+"move_to_other_group"="Mover para outro grupo"
+"rename_device"="Alterar nome do dispositivo"
+"remove_device"="Remover dispositivo"
+"select_destination_group"="Selecionar grupo de destino"
+"the_name_is_already_being_used"="O nome \" %1$s \" já está a ser utilizado."
+"remove_accessory"="Remover acessório?"
+"it_looks_like_there_was_a_prob"="Parece que ocorreu um problema ao mover a luz. Certifique-se de que a luz está acesa e tente movê-la novamente."
+"disconnected_devices"="Dispositivos desligados"
+"add_new"="ADICIONAR NOVO(A)"
+"device_was_not_moved"="O dispositivo não foi movido"
+"unfortunately_you_cant_add_a_m"="Infelizmente, não pode adicionar um detetor de movimento a um grupo com reguladores de luz sem fios ou comandos."
+"press_any_button_on_your_remot"="Prima qualquer botão no Comando."
+"great"="Ótimo!"
+"your_was_moved_to"="%1$s foi movido para %2$s."
+"are_you_sure_you_want_to_remov"="Tem a certeza de que quer remover o seu %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="TEMPORIZADORES"
+"enabled"="ativar"
+"disabled"="desativar"
+"every_day"="Todos os dias"
+"days"="Dias"
+"hours"="Horas"
+"minutes"="Minutos"
+"seconds"="Segundos"
+"mon"="Seg"
+"tue"="Ter"
+"wed"="Qua"
+"thu"="Qui"
+"fri"="Sex"
+"sat"="Sáb"
+"sun"="Dom"
+"timer_is_not_set"="O temporizador não está configurado"
+"mon_fri"="Seg. - Sex."
+"cant_set_time"="Não é possível configurar a hora"
+"make_sure_you_set_your_timer_b"="Certifique-se de que configura o temporizador antes de sair."
+"are_you_sure_you_want_to_delete_this_tim"="Tem a certeza de que quer eliminar este temporizador?"
+"add"="ADICIONAR"
+"am"="AM"
+"pm"="PM"
+"monday"="S"
+"tuesday"="T"
+"wednesday"="Q"
+"thursday"="Q"
+"friday"="S"
+"saturday"="S"
+"sunday"="D"
+"set_your_time"="Configure a hora"
+"new_timer"="Novo Temporizador"
+"what_time"="%1$s A que horas?"
+"which_lights"="%1$s Que luzes?"
+"from"="das"
+"to"="às"
+"should_they_turn_on_or_off"="%1$s Quer acender ou apagar as luzes?"
+"save"="GUARDAR"
+"set_your_lights_to_turn_on_or_"="Configure as suas luzes para que se acendam ou apaguem exatamente quando quiser."
+"set_your_lights_to_turn_on_or_off_e"="Configure as suas luzes para que se acendam ou apaguem exatamente quando quiser.\n\nA luminosidade e a cor da última utilização são memorizadas."
+"during_what_time"="%1$s Durante quanto tempo?"
+"you_cant_set_a_time_with_the_s"="Não pode configurar uma hora com a mesma hora de início e de fim."
+"a_timer_has_been_updated"="Foi atualizado um temporizador"
+"timers_have_been_updated"="Os temporizadores foram atualizados"
+"view"="Ver"
+"you_are_now_using_the_maximum_"="Está a utilizar o número máximo de temporizadores."
+"timers_help_you_set_your_light"="Os temporizadores ajudam-no a configurar a hora de acender e de apagar as luzes. Para começar, adicione um!"
+"some_of_your_timers_was_update"="Alguns dos seus temporizadores foram atualizados a partir de outro dispositivo."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Repetir"
+"rise_and_shine"="Toca a acordar"
+"set_your_lights_to_wake_you_up"="Configure as suas luzes para que o acordem."
+"your_rise_and_shine_timer_was_"="O seu temporizador Toca a acordar foi atualizado a partir de outro dispositivo."
+"delete_rise_and_shine"="Eliminar Toca a acordar"
+"your_rise_and_shine_timer_just"="O seu temporizador Toca a acordar começou agora."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Fora de casa"
+"out_and_about_set_your_lights_"="Vai sair? Configure as suas luzes para que se acendam e apaguem como se estivesse em casa."
+"set_your_lights_to_slowly_dim_"="Configure as luzes para que a intensidade aumente lentamente 30 minutos antes da hora definida no temporizador. As luzes irão ficar lentamente mais intensas\n\n-tal como o sol da manhã."
+"your_away_from_home_timer_just"="O seu temporizador Fora de casa começou agora."
+"your_away_from_home_timer_was_"="O seu temporizador Fora de casa foi atualizado a partir de outro dispositivo."
+"delete_away_from_home"="Eliminar Fora de casa"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="ACENDER e APAGAR"
+"on_or_off"="Acender ou Apagar"
+"out_and_about_set_your_lights_to_tu"="Vai sair? Configure as suas luzes para que se acendam e apaguem como se estivesse em casa.\n\nNão se esqueça de não apagar as luzes no interruptor de parede. A luminosidade e a cor da última utilização são memorizadas."
+"your_on_or_off_timer_just_star"="O seu temporizador Acender ou Apagar começou agora."
+"your_on_or_off_timer_was_updat"="O seu temporizador Acender ou Apagar foi atualizado a partir de outro dispositivo."
+"delete_on_or_off"="Eliminar ACENDER ou APAGAR"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="DEFINIÇÕES"
+"need_help"="Necessita de ajuda?"
+"language"="Idioma"
+"default_language"="Idioma predefinido"
+"send_in_email"="ENVIAR POR EMAIL"
+"terms_and_conditions"="Termos e condições"
+"privacy_policy"="Política de privacidade"
+"software_licenses"="Licenças de software"
+"continue_"="Continuar"
+"youve_selected_as_your_language_"="Selecionou %1$s como idioma."
+"tradfri_terms_and_conditions"="Termos e Condições TRÅDFRI"
+"tradfri__privacy_policy"="Política de Privacidade TRÅDFRI"
+"tradfri_is_up_to_date"="O TRÅDFRI está atualizado"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Estão disponíveis atualizações"
+"update"="ATUALIZAR"
+"unreachable"="Inacessível"
+"update_details"="Detalhes da atualização"
+"up_to_date"="Atualizado"
+"remote_controls"="Comandos"
+"motion_sensors"="Sensores de movimento"
+"this_should_only_take_about_mi"="A operação demora apenas cerca de 1 minuto."
+"dismiss"="DISPENSAR"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="DESLIGAR"
+"disconnecting"="A DESLIGAR..."
+"disconnected"="DESLIGADO"
+"disconnecting_allow_you_to_con"="Quando se desliga, pode ligar-se depois a outro gateway. Não poderá utilizar os dois ao mesmo tempo, mas não se preocupe, todas as suas cenas e configurações de luzes continuam guardadas no gateway atual."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Foi encontrado um novo gateway"
+"gateway_is_rebooting"="O gateway está a reiniciar..."
+"connect_to_new_gateway"="Ligar a novo gateway"
+"you_cant_connect_to_your_curre"="Não é possível fazer a ligação ao seu gateway, mas está disponível um outro gateway. Pretende fazer a ligação ao novo gateway?"
+"connecting_will_disconnect_you"="Se fizer a ligação, irá desligar do gateway atual. Mas não se preocupe, todas as suas definições continuarão guardadas no gateway atual."
+"try_again"="TENTE NOVAMENTE"
+"oops"="Ups!"
+"youre_about_to_remove_the_last"="Vai remover o último dispositivo"
+"your_light_needs_to_be_turned_"="Para poder utilizar a luz tem de a acender no interruptor."
+"remember_to_turn_on_your_light"="Não se esqueça de acender as luzes"
+"oops_something_went_wrong"="Ups! Ocorreu um erro."
+"enter_the_gateway_ip_manually"="Introduzir manualmente o IP do gateway"
+"gateway_is_updating"="O gateway está a ser atualizado..."
+"your_gateway_software_is_being"="O software do seu gateway está a ser atualizado para lhe proporcionar a melhor experiência possível. O gateway irá ficar indisponível durante alguns minutos, mas pode continuar a utilizar as luzes e o comando como habitualmente."
+"unable_to_connect_to_tradfri"="Não é possível ligar ao TRÅDFRI"
+"it_looks_like_you_scanned_the_"="Parece que leu o código errado. Tente ler o que está na parte de trás do gateway."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Lâmpada de espectro branco"
+"bulb_e27_white_spectrum_globe_clear"="Lâmpada de espectro branco"
+"bulb_e27_white_spectrum_globe_opal"="Lâmpada de espectro branco"
+"bulb_e14_white_spectrum_globe_"="Lâmpada de espectro branco"
+"color_white_spectrum_bulb"="Lâmpada de espectro branco/de cores"
+"bulb_e14_color_white_spectrum_"="Lâmpada de espectro branco/de cores"
+"white_spectrum_panel"="Painel de espectro branco"
+"panel_white_spectrum_30_90"="Painel de espectro branco"
+"panel_white_spectrum_60_60"="Painel de espectro branco"
+"color_white_spectrum_panel"="Painel de espectro branco/de cores"
+"white_spectrum_door"="Porta de espectro branco"
+"door_white_spectrum_36_84"="Porta de espectro branco"
+"remote_control"="Comando"
+"motion_sensor"="Detetor de movimento"
+"wireless_dimmer"="Regulador de luz sem fios"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Mover"
+"rename"="Alterar nome"
+"remove"="Remover"
+"off"="Apagar"
+"done"="CONCLUÍDO"
+"cancel"="CANCELAR"
+"ok"="OK"
+"confirm"="CONFIRMAR"
+"delete"="Eliminar"
+"proceed"="Continuar"
+"group"="Grupo"
+"plug"="Ficha"
+"everyday"="Todos os dias"
+"focus"="Foco"
+"relax"="Descontrair"
+"plugs"="Fichas"
+"gateway"="Gateway"
+"gateways"="Gateways"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Acenda todas as luzes (ON)"
+"are_all_your_lights_on_they_mu"="As luzes no %1$s já estão todas acesas? Têm de estar acesas (ON) para poder mover o Regulador de iluminação sem fios"
+"press_the_link_button"="Prima o botão de ligação"
+"to_control_the_new_group_just_"="Para controlar o novo grupo, abra o Regulador de iluminação sem fios e prima o botão de ligação. O seu dispositivo será movido."
+"i_did_it"="Feito"
+"to_finish_removing_your_remote"="Para terminar de remover o seu Comando, redefina-o, premindo o botão de ligação 4 vezes. E já está!"
+"to_finish_removing_your_motion"="Para terminar de remover o seu Sensor de movimento, redefina-o, premindo o botão de ligação 4 vezes. E já está!"
+"to_finish_removing_your_wirele"="Para terminar de remover o seu Regulador de iluminação sem fios, redefina-o, premindo o botão de ligação 4 vezes. E já está!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Para mover o seu dispositivo, abra o Regulador de iluminação sem fios em %1$s e prima o botão de ligação."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Para mover o seu dispositivo, abra os Reguladores de iluminação sem fios em %1$s e em %2$s e prima os botões de ligação em ambos"
+"required_update"="Atualização necessária"
+"update_required_tradfri_needs_"="Atualização necessária. TRÅDFRI precisa de uma atualização para continuar a funcionar sem problemas. A aplicação não estará disponível durante a atualização."
+"an_important_update_has_been_p"="Foi efetuada uma atualização importante e Trådfri foi atualizada para a versão mais recente"
+"reconnect_to_gateway"="Voltar a ligar ao Gateway"
+"is_your_light_on"="A luz está acesa?"
+"if_not_turn_it_on_to_successfu"="Se não estiver, acenda-a para remover o seu dispositivo."
+"to_remove_your_light_open_the_"="Para remover a luz, abra o Regulador de iluminação sem fios no %1$s e prima o botão de ligação."
+"wireless_motion_sensor"="Sensor de movimento sem fios"
+"please_confirm"="Mover %1$s?"
+"gently_rotate_your_wireless_di"="Para confirmar, rode cuidadosamente o Regulador de iluminação sem fios."
+"we_did_not_detect_any_action_o"="O seu dispositivo não respondeu."
+"wave_your_hand_in_front_of_the"="Para confirmar, acene a mão em frente do Sensor de movimento."
+"enter_group_name"="Introduza um nome para o grupo"
+"enter_accessory_name"="Introduza um nome para o seu acessório"
+"remove_"="Remover %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Lâmpada branca quente"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Defina o Ambiente antes de guardar. O seu Ambiente será incluído."
+"my_moods"="Os meus ambientes"
+"create_a_mood_and_save_it_for_"="Crie um Ambiente e guarde-o para acesso imediato"
+"light_unreachable"="Luz inacessível"
+"if_you_create_or_edit_a_mood_while"="Se criar ou editar um Ambiente quando uma luz estiver inacessível, essa luz não será incluída nesse Ambiente. Certifique-se de que as suas luzes estão acesas antes de continuar"
+"edit_moods"="EDITAR AMBIENTES"
+"edit_mood"="EDITAR AMBIENTE"
+"brightness"="LUMINOSIDADE | %1$s"
+"disconnect_app"="DESLIGAR APLICAÇÃO"
+"clear_all_settings"="Limpar todas as definições"
+"this_will_delete_all_Moods"="Esta ação irá eliminar todas as definições de Ambiente e Temporizador e repor todas as definições de origem. Se o fizer, todos os seus dispositivos serão desligados do Gateway"
+"are_you_sure_you_want_to_clear"="Tem a certeza de que quer limpar todas as definições?"
+"clear"="Limpar"
+"cleared"="DEFINIÇÕES LIMPAS"
+"clearing"="A LIMPAR..."
+"see_details"="Ver detalhes"
+"update_did_not_complete"="A atualização não foi concluída"
+"one_or_more_devices_didnt_upda"="Um, ou mais, dos dispositivos não foram atualizados. Não se preocupe, as suas luzes vão continuar a funcionar."
+"your_moods_are_still_loading_"="Os seus Ambientes ainda estão a ser carregados. Tente novamente dentro de alguns segundos."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Não atualizado"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Lâmpadas"
+"waiting_for_gateway"="A aguardar pelo Gateway"
+"wireless_dimmers"="Reguladores de iluminação sem fios"
+"theres_an_important_new_update"="Está disponível uma atualização nova importante da aplicação TRÅDFRI."
+"close"="Fechar"
+"update_pending"="Atualização pendente"
+"your_devices_are_being_updated"="Os seus dispositivos estão a ser atualizados. Pode continuar a usar TRÅDFRI como habitualmente."
+"start_update"="Iniciar atualização"
+"continue_to_use_your_lights_as"="Continue a usar as suas luzes como habitualmente. As atualizações são efetuadas em segundo plano. A aplicação poderá não estar disponível durante um breve período."
+"panel"="Painel"
+"door"="Porta"
+"panels"="Painéis"
+"doors"="Portas"
+"check_for_updates"="Procurar atualizações"
+"update_now"="Atualizar agora"
+"view_update_details"="Ver detalhes da atualização"
+"all_your_devices_are_updated_t"="Todos os seus dispositivos estão atualizados com a versão mais recente."
+"your_gateway_didnt_update_dont"="O seu Gateway não foi atualizado. Não se preocupe, as suas luzes vão continuar a funcionar."
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Não é possível fazer a ligação ao seu Gateway"
+"we_couldnt_connect_to_your_dev"="Não foi possível fazer a ligação aos seus dispositivos. Se o problema continuar, desligue e volte a ligar o Gateway"
+"we_couldnt_find_your_gateway_m"="Não encontrámos o seu Gateway. Certifique-se de que o mesmo está ligado ao router com o cabo e que o telemóvel está ligado à mesma rede."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Céu frio"
+"_eaf6fb"="Luz diurna fria"
+"_f5faf6"="Branca fria"
+"_f2eccf"="Nascer do sol"
+"_f1e0b5"="Branca quente"
+"_efd275"="Brilho quente"
+"_ebb63e"="Luz das velas"
+"_e78834"="Âmbar quente"
+"_e57345"="Pêssego"
+"_da5d41"="Pêssego escuro"
+"_dc4b31"="Vermelha saturada"
+"_e491af"="Rosa"
+"_e8bedd"="Rosa clara"
+"_d9337c"="Rosa saturada"
+"_c984bb"="Púrpura clara"
+"_8f2686"="Púrpura saturada"
+"_4a418a"="Azul"
+"_6c83ba"="Azul clara"
+"_a9d62b"="Lima"
+"_d6e44b"="Amarela"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Prima, sem soltar, o botão junto de %1$s rapidamente 4 vezes. No Comando, acende-se uma luz vermelha de forma intermitente.<br/><br/><b>b.</b> Quando a luz deixar de estar intermitente, aguarde 10 segundos. Em seguida, pode continuar.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Mantenha o Comando a 2 cm do Gateway.<br/><br/><b>b.</b> Prima, sem soltar, o botão junto de %1$s no Comando até o indicador luminoso %1$s no Gateway piscar rapidamente 4 vezes.<br/><br/><b>c.</b> Aguarde a confirmação aqui, nesta aplicação.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Mantenha o Sensor de movimento a 2 cm do Gateway.<br/><br/><b>b.</b> Prima, sem soltar, o botão junto de %1$s no Sensor de movimento até o indicador luminoso acima de %1$s no Gateway piscar rapidamente 4 vezes.<br/><br/><b>c.</b> Aguarde a confirmação aqui, nesta aplicação.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Mantenha o Regulador de iluminação sem fios a 2 cm da caixa branca na parte de trás da porta ou do painel.<br/><br/><b>b.</b> Prima, sem soltar, o botão junto de %1$s durante 10 segundos. A intensidade da fonte de luz irá diminuir e aumentar. Mantenha o botão premido até a luz deixar de piscar.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Mantenha o Regulador de iluminação sem fios a 2 cm da lâmpada.<br/><br/><b>b.</b> Prima, sem soltar, o botão junto de %1$s durante 10 segundos. A intensidade da fonte de luz irá diminuir e aumentar. Mantenha o botão premido até a luz deixar de piscar.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Mantenha o Sensor de movimento a 2 cm da lâmpada.<br/><br/><b>b.</b> Prima, sem soltar, o botão %1$s durante 10 segundos. A intensidade da fonte de luz irá diminuir e aumentar. Mantenha o botão premido até a luz deixar de piscar.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Mantenha o Sensor de movimento a 2 cm da caixa branca na parte de trás da porta ou do painel.<br/><br/><b>b.</b> Prima, sem soltar, o botão %1$s durante 10 segundos. A intensidade da fonte de luz irá diminuir e aumentar. Mantenha o botão premido até a luz deixar de piscar.]]>"
+"found"="%1$s encontrado"
+"perfect_is_now_connected_to_tr"="Perfeito! %1$s já está ligado à aplicação TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Ligado"
+"disconnected_"="Desligado"
+"find_detailed_help_in_our_trou"="Localizar ajuda detalhada no guia de resolução de problemas."
+"disconnect_from_your_gateway"="Desligar do Gateway"
+"are_you_sure_you_want_to_disco"="Tem a certeza de que se quer desligar?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Versão Trådfri"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Temporizadores usam as mesmas luzes"
+"you_have_two_timers_using_the_"="Dois temporizadores estão a usar as mesmas luzes. Redefina-os.\nOu\nDois temporizadores estão a usar os mesmos períodos de tempo. Redefina-os para manter as luzes na hora correta"
+"your_timers_are_still_loading_"="Os seus Temporizadores ainda estão a ser carregados. Tente novamente dentro de alguns segundos."
+"which_day"="%1$s Em que dia?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Obter ajuda"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Mantenha o Comando a 2 cm da lâmpada.<br /><br /><b>b.</b> Prima, sem soltar, o botão junto de %1$s durante 10 segundos. A intensidade da fonte de luz irá diminuir e aumentar. Mantenha o botão premido até deixar de pulsar.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Mantenha o Comando a 2 cm da caixa branca na parte de trás da porta ou do painel.<br /><br /><b>b.</b> Prima, sem soltar, o botão junto de %1$s durante 10 segundos. A intensidade da fonte de luz irá diminuir e aumentar. Mantenha o botão premido até deixar de pulsar.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Prima rapidamente 4 vezes o botão junto de %1$s. Acende-se uma luz vermelha intermitente no Sensor de movimento.<br /><br /><b>b.</b> Quando a luz deixar de estar intermitente, aguarde 10 segundos. Em seguida, prossiga.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Prima rapidamente 4 vezes o botão junto de %1$s. Acende-se uma luz vermelha intermitente no Regulador de iluminação sem fios.<br /><br /><b>b.</b> Quando a luz deixar de estar intermitente, aguarde 10 segundos. Em seguida, prossiga.]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Mantenha o Regulador de iluminação sem fios a 2 cm do Gateway.<br /><br /><b>b.</b> Prima, sem soltar, o botão junto de %1$s no Regulador de iluminação sem fios até a luz sobre %1$s no Gateway acender 4 vezes de forma rápida intermitente.<br /><br /><b>c.</b> Aguarde a confirmação na aplicação.]]>"
+"are_you_sure_you_want_to_delete_mood"="Tem a certeza de que pretende eliminar \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Lâmpada branca quente"
+"bulb_e27_w_opal_1000lm"="Lâmpada branca quente"
+"bulb_e26_opal_1000lm"="Lâmpada branca quente"
+"bulb_e12_ws_opal_400lm"="Lâmpada de espectro branco"
+"bulb_e26_ws_clear_950lm"="Lâmpada de espectro branco"
+"bulb_e26_ws_opal_980lm"="Lâmpada de espectro branco"
+"bulb_e27_ws_opal_980lm"="Lâmpada de espectro branco"
+
+<!--3rd PARTY DEVICES* -->
+"device"="dispositivo"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integrações"
+"eg_amazon_alexa_apple_homekit"="Por exemplo: Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Utilize a sua voz para controlar as luzes TRÅDFRI com a ajuda do Amazon Alexa.\n\nPor exemplo: “Alexa, liga a luz” \n“Alexa, reduz a luz a 50%.”"
+"enable"="Ativar"
+"disable"="Desativar"
+"you_are_logged_in"="Tem sessão iniciada."
+"to_get_started_enable_the_trad"="Para começar, ative a funcionalidade TRÅDFRI na aplicação do Alexa. Em seguida diga: “Alexa, localiza os meus dispositivos.”"
+"ensure_your_alexa_device_is_s"="Verifique se o dispositivo Alexa está configurado"
+"to_continue_your_alexa_device"="Para continuar, o seu dispositivo Alexa tem de estar operacional. Consulte o Guia de Iniciação Rápida do Amazon Alexa."
+
+<!-- Whats New Strings* -->
+"whats_new"="Novidades"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Ponha todos os seus dispositivos ligados a trabalhar melhor e de forma mais inteligente para si. O TRÅDFRI agora funciona com o Apple HomeKit."
+"learn_more"="Obter mais informações"
+"use_your_voice_to_control_your"="Utilize a sua voz para controlar as luzes TRÅDFRI com a ajuda do Amazon Alexa. Ligue e desligue ou ajuste a luminosidade."
+"disable_amazon_alexa"="Desativar o Amazon Alexa?"
+"you_will_no_longer_be_able_to_"="Deixará de conseguir controlar os seus dispositivos TRÅDFRI a partir do Amazon Alexa."
+"problem_connecting_to_amazon"="Ocorreu um problema ao estabelecer ligação à Amazon"
+"please_try_again"="Tente novamente."
+"accept_the_terms_of_use"="Aceitar os termos de utilização"
+"in_order_to_enable_amazon_alex"="Para ativar o Amazon Alexa, tem de aceitar os termos de utilização."
+"cant_connect_to_amazon"="Não é possível estabelecer ligação à Amazon"
+"check_your_internet_connection"="Verifique a sua ligação à Internet e tente novamente."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="As luzes ficam mais intensas às %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Ver detalhes da atualização"
+"gateway_update_required"="Atualização necessária do gateway"
+"to_use_this_new_feature_you_ne"="Para utilizar esta nova funcionalidade tem de atualizar o software do seu gateway para a versão mais recente."
+"later"="Mais tarde"
+"gateway_update_available"="Atualização disponível para o gateway"
+"to_use_new_features_you_need_t"="Para utilizar as novas funcionalidades tem de atualizar o software do seu gateway para a versão mais recente."
+"new_update_available"="Nova atualização disponível"
+"in_order_to_control_your_devic"="Para controlar os seus dispositivos a partir do seu telefone é necessário atualizar a aplicação TRÅDFRI."
+"as_a_security_precaution_you_h"="Como medida de precaução, a sua ligação ao gateway foi interrompida.\n\nVolte a ligar ao seu gateway para continuar."
+"unknown_device"="Dispositivo desconhecido"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Lâmpadas de várias cores"
+"now_you_can_decorate_your_home"="Agora pode decorar a sua casa com luzes coloridas."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Está quase. Abra a aplicação Google Home para ativar o controlo por voz dos seus dispositivos TRÅDFRI."
+"set_up_tradfri_for_voice_contr"="Defina a TRÅDFRI para controlo por voz com o Assistente do Google.\n\nPor ex.: OK, Google, liga a luz, ou, OK, Google, reduz a luz a 50%."
+"are_you_using_a_google_home_de"="Está a utilizar um dispositivo Google Home?"
+"if_youre_using_a_google_home_d"="Se estiver a utilizar um dispositivo Google Home, certifique-se de que o mesmo está ligado agora.\nSe só utilizar o Assistente do Google no telefone, continue."
+"cant_connect_to_google"="Não é possível estabelecer ligação ao Google"
+"disable_google_assistant"="Desativar o Assistente do Google?"
+"you_will_no_longer_be_able_to_contro"="Deixará de conseguir controlar os seus dispositivos TRÅDFRI a partir do Google Home."
+"google_assistant_could_not_be_"="Não foi possível ativar o Assistente do Google"
+"google_assistant"="Assistente do Google"
+"use_voice_control_to_adjust_yo"="Use o controlo por voz para regular os dispositivos TRÅDFRI com o Assistente do Google. Ligue, mude a cor ou ajuste a luminosidade."
+"you_cant_have_two_timers_on_a"="Não pode ter dois temporizadores a usar as mesmas luzes em simultâneo."
+"multicolored_bulb_title"="Lâmpadas de cores"
+"multicolored_bulb_desc"="Decore a sua casa com lâmpadas de cores. A família Trådfri aumentou."
+"something_went_wrong"="Ocorreu um erro."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Gerir dispositivos"
+"devices"="dispositivos"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Informação legal"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="DESLIGAR DO GATEWAY"
+"in_progress"="Em curso…"
+"turn_everything_off"="APAGAR TUDO"
+"all_devices_are_off"="Todos os dispositivos estão apagados."
+"devices_on"="%1$s dispositivos ligados"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Agende quando pretende que as luzes se acendam ou apaguem, mesmo quando está fora de casa."
+"on_and_off_small"="Acender e apagar"
+"group_must_be_empty_to_delete"="O grupo tem de estar vazio para poder ser eliminado."
+"please_remove_all_devices"="Remova todos os dispositivos do grupo."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Não foi possível desativar o Assistente do Google"
+"please_verify_your_internet_co"="Verifique a sua ligação à Internet e tente novamente.\n\nSe a aplicação não se ligar após várias tentativas, remova todas as outras integrações que possam estar ativas."
+"try_disable_again"="TENTE DESATIVAR NOVAMENTE"
+"remove_integration"="REMOVER INTEGRAÇÕES"
+"cant_connect"="Não é possível efetuar a ligação"
+"remove_all_integration"="Remover todas as integrações?"
+"are_you_sure_this_will_remove_"="Tem a certeza? Serão removidas TODAS as integrações que possa ter ativado."
+"amazon_alexa_could_not_be_disa"="Não foi possível desativar o Amazon Alexa"
+"please_verify_your_internet_connect"="Verifique a sua ligação à Internet e tente novamente.\n\nSe a aplicação não se ligar após várias tentativas, selecione REMOVER INTEGRAÇÕES para redefini-las e tentar.\nSerão removidas TODAS as integrações, incluindo o Amazon Alexa."
+"eg_amazon_alexa_google_assista"="Por exemplo: Amazon Alexa, Assistente do Google"
+

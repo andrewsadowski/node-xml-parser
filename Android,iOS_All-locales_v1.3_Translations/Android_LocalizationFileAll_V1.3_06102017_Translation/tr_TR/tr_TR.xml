@@ -1,0 +1,608 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="MERHABA!"
+"i_agree_to_the"="Şunları kabul ediyorum:"
+"plug_in_your_gateway"="Ağ geçidinizi prize takın"
+"next"="İLERİ"
+"connect"="BAĞLAN"
+"terms_conditions"="Şartlar ve Koşullar"
+"please_agree_to_continue"="Lütfen devam etmek için kabul edin."
+"connecting_to_your_gateway"="Ağ geçidinize bağlanıyor…"
+"plug_your_gateway_into_a_power"="Ağ geçidinizi elektrik prizine takın ve temin edilen ethernet kablosu aracılığıyla WiFi yönlendiricinize bağlayın."
+"congrats"="Tebrikler!"
+"and"="ve"
+"connect_to_wifi"="WiFi’ya bağlan"
+"this_name_is_already_in_use_pl"="Bu isim zaten kullanılmış. Lütfen başka bir isim deneyin."
+"welcome_to_the_tradfri_lightin"="TRÅDFRI ışıklandırma sistemine hoş geldiniz.. Evdeki yaşamınızı destekleyen güzel bir ışıklandırma yaratmanın en kolay yoludur. Kuruluma başlamaya hazır mısınız?"
+"enter_the_gateway_ip"="Ağ geçidi IP’sini girin"
+"gateway_ip"="Ağ geçidi IP’si"
+"if_the_gateway_is_plugged_in_c"="Ağ geçidi düzgün bir şekilde takılmış olmasına rağmen hala bulunamıyorsa ağ geçidi IP adresini manuel olarak girmeniz gerekebilir. Daha fazla bilgi için destek sayfasını kontrol edin."
+"the_gateway_ip_is_incorrect"="Ağ geçidi IP’si yanlış."
+"you_must_be_connected_to_your_"="TRÅDFRI’yi uygulamanızdan kontrol etmek için WiFi ağınıza bağlı olmanız gerekir."
+"these_are_your_tradfri_devices"="Bunlar TRÅDFRI cihazlarınızdır"
+"lets_get_started"="BAŞLAYALIM"
+"get_started"="BAŞLAYIN"
+"youre_now_connected_to_the_gat"="Şu anda ağ geçidine bağlandınız. Şimdi cihazlarınıza bağlanalım."
+"add_another_device"="Bir cihaz daha ekle"
+"finding_gateway"="Ağ geçidiniz bulunuyor..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Taranıyor..."
+"type_in_the_code_instead"="Kodu yazarak girin"
+"youll_find_the_code_on_the_bac"="Kod, ağ geçidinizin arkasında yer alır."
+"we_found_the_code"="Kodu bulmayı başardık."
+"hold_on_while_we_verify_the_co"="Kod doğrulaması yapılırken bekleyin..."
+"scan"="TARA"
+"now_scan_the_code"="Şimdi kodu tarayın"
+"enable_camera"="KAMERAYI ETKİNLEŞTİR"
+"type_in_the_serial_number"="Seri numarasını girin"
+"type_in_the_security_code"="Güvenlik kodunu girin"
+"serial_number"="Seri numarası"
+"security_code"="Güvenlik kodu"
+"youll_find_it_on_the_back_of_y"="Ağ geçidinizin arkasında yer alır."
+"youll_find_them_both_on_the_ba"="İkisi de ağ geçidinizin arkasında yer alır."
+"this_serial_number_is_incorrec"="Hatalı seri numarası"
+"type_in_the_serial_number_and_"="Seri numarası ve güvenlik kodunu girin"
+"enable_your_camera_to_scan_the"="Kodu taramak için kameranızı etkinleştirin."
+"type_in_the_code"="KODU YAZARAK GİR"
+"the_security_key_should_be_dig"="Güvenlik anahtarı 16 haneli olmalıdır"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Eklemek istediğiniz cihazı seçerek başlayın"
+"open_the_back_of_the_remote_co"="1. Uzaktan kumandanın arkasını açın"
+"reset_the_remote_control"="2. Uzaktan kumandayı sıfırlayın"
+"connect_the_remote_control"="3. Uzaktan kumandayı bağlayın"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Işığınızı açın"
+"make_sure_that_your_light_is_i"="Işığınızın kurulu olduğundan ve ana güç anahtarının açık olduğundan emin olun."
+"which_control_device_are_you_u"="2. Hangi kontrol cihazını kullanıyorsunuz?"
+"remember_to_use_a_control_devi"="Bağlı olan bir kontrol cihazını kullanmayı unutmayın."
+"connect_the_light"="3. Işığı bağlayın"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Cihazlarınızı bulma..."
+"bulb"="Lamba"
+"door_or_panel"="Kapak veya panel"
+"open_the_back_of_the_motion_se"="1. Hareket sensörünün arkasını açın"
+"reset_the_motion_sensor"="2. Hareket sensörünü sıfırlayın"
+"connect_the_motion_sensor"="3. Hareket sensörünü bağlayın"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Kablosuz ışık azaltıcının arkasını açın"
+"reset_the_wireless_dimmer"="2. Kablosuz ışık azaltıcıyı sıfırlayın"
+"connect_the_wireless_dimmer"="3. Kablosuz ışık azaltıcıyı bağlayın"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Cihazınızı bulma"
+"which_device_would_you_like_to"="Hangi cihazı eklemek istiyorsunuz?"
+"now_add_your_lights"="Şimdi ışıklarınızı ekleyin"
+"they_can_be_added_after_youve_"="Kontrol cihazını bağladıktan sonra eklenebilir."
+"ill_do_this_later"="Bunu sonra yapacağım"
+"delete_mood"="Stili sil"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Cihazın taşınmasını onaylamak için cihazdaki herhangi bir düğmeye basın. Birkaç defa basmanız gerekebilir."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="EVİM"
+"add_lights"="IŞIK EKLE"
+"no_lights_have_been_added_to_t"="Bu gruba henüz hiçbir ışık eklenmedi."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Stil adı girin"
+"please_pick_another_name_this_"="Lütfen farklı bir isim seçin, bu isim zaten kullanılmış."
+"moods_by_ikea"="IKEA stilleri"
+"new_mood"="Yeni Stil"
+"please_enter_a_mood_name"="Lütfen bir stil adı girin."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Kapat"
+"turn_on"="Aç"
+"min"="Min"
+"max"="Maks"
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Bir cihaz bulunamıyor"
+"devices_cannot_be_found"="%1$s cihaz bulunamıyor"
+"one_remote_has_a_low_battery"="Uzaktan kumandalardan birinin pili zayıf"
+"one_motion_sensor_has_a_low_ba"="Hareket sensörlerinden birinin pili zayıf"
+"remotes_have_low_batteries"="%1$s uzaktan kumandanın pili zayıf"
+"devices_have_low_batteries"="%1$s cihazın pili zayıf"
+"updating"="Güncelleniyor..."
+"update_successful"="Güncelleme başarılı"
+"was_added_to_a_new_group"="%1$s yeni bir gruba eklendi."
+"was_removed"="%1$s kaldırıldı"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Gruplar"
+"rename_group"="Grubu Yeniden Adlandır"
+"add_new_group"="Yeni Grup Ekle"
+"add_devices"="Cihaz ekle"
+"new_group"="Yeni Grup"
+"group_name"="Grup Adı"
+"low_battery"="Zayıf pil"
+"manage_your_devices"="Cihazlarınızı yönetin"
+"devices"="Cihazlar"
+"last_seen_ago"="En son %1$s önce görüldü"
+"move_a_device_to_this_group_by"="Üç noktaya dokunarak bu gruba bir cihaz taşıyın."
+"leaving_will_remove_new_group"="Ayrılırsanız yeni grup kaldırılır"
+"groups_without_any_devices_wil"="Hiçbir cihazı olmayan gruplar otomatik olarak kaldırılır."
+"move_to_other_group"="Diğer gruba taşı"
+"rename_device"="Cihazı yeniden adlandır"
+"remove_device"="Cihazı kaldır"
+"select_destination_group"="Hedef grubu seçin"
+"the_name_is_already_being_used"="\" %1$s \" ismi zaten kullanılıyor."
+"remove_accessory"="Aksesuar kaldırılsın mı?"
+"it_looks_like_there_was_a_prob"="Işığın taşınmasıyla ilgili bir sorun oluştu. Işığın açık olduğundan emin olun ve yeniden taşımayı deneyin."
+"disconnected_devices"="Bağlantısı kesilmiş cihazlar"
+"add_new"="YENİ EKLE"
+"device_was_not_moved"="Cihaz taşınmadı"
+"unfortunately_you_cant_add_a_m"="Ne yazık ki hareket sensörünü, kablosuz ışık azaltıcılar veya uzaktan kumandaların bulunduğu bir gruba ekleyemezsiniz."
+"press_any_button_on_your_remot"="Uzaktan kumandanızdaki herhangi bir düğmeye basın."
+"great"="Harika!"
+"your_was_moved_to"="%1$s, %2$s öğesine taşındı."
+"are_you_sure_you_want_to_remov"="%1$s cihazınızı kaldırmak istediğinizden emin misiniz?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="ZAMANLAYICILAR"
+"enabled"="etkin"
+"disabled"="devre dışı"
+"every_day"="Her gün"
+"days"="Gün"
+"hours"="Saat"
+"minutes"="Dakika"
+"seconds"="Saniye"
+"mon"="Pzt"
+"tue"="Salı"
+"wed"="Çarş"
+"thu"="Perş"
+"fri"="Cuma"
+"sat"="Cts"
+"sun"="Paz"
+"timer_is_not_set"="Zamanlayıcı ayarlanmadı"
+"mon_fri"="Pzt - Cum"
+"cant_set_time"="Zaman ayarlanamıyor"
+"make_sure_you_set_your_timer_b"="Ayrılmadan önce zamanlayıcınızı ayarladığınızdan emin olun."
+"are_you_sure_you_want_to_delete_this_tim"="Bu zamanlayıcıyı silmek istediğinize emin misiniz?"
+"add"="EKLE"
+"am"="Sabah"
+"pm"="Akşam"
+"monday"="P"
+"tuesday"="S"
+"wednesday"="Ç"
+"thursday"="P"
+"friday"="C"
+"saturday"="Ct"
+"sunday"="P"
+"set_your_time"="Saatinizi ayarlayın"
+"new_timer"="Yeni Zamanlayıcı"
+"what_time"="%1$s Hangi saatte?"
+"which_lights"="%1$s Hangi ışıklar?"
+"from"="başlangıç"
+"to"="bitiş"
+"should_they_turn_on_or_off"="%1$s Açılsın mı kapansın mı?"
+"save"="KAYDET"
+"set_your_lights_to_turn_on_or_"="Işıklarınızı tam olarak istediğiniz zamanlarda açılıp kapanacak şekilde ayarlayın."
+"set_your_lights_to_turn_on_or_off_e"="Işıklarınızı tam olarak istediğiniz zamanlarda açılıp kapanacak şekilde ayarlayın.\n\nIşıklarınız, en son kullanıldıkları zamanki parlaklığı ve rengi hatırlayacaktır."
+"during_what_time"="%1$s Hangi saatler sırasında?"
+"you_cant_set_a_time_with_the_s"="Başlangıç ve bitiş saati aynı olan bir zaman dilimi ayarlayamazsınız."
+"a_timer_has_been_updated"="Bir zamanlayıcı güncellendi"
+"timers_have_been_updated"="Zamanlayıcılar güncellendi"
+"view"="Görüntüle"
+"you_are_now_using_the_maximum_"="Şu anda maksimum sayıda zamanlayıcı kullanıyorsunuz."
+"timers_help_you_set_your_light"="Zamanlayıcılar, ışıklandırmanızın açılıp kapanmasını ayarlamanıza yardımcı olur. Başlamak için hemen bir tane ekleyin!"
+"some_of_your_timers_was_update"="Bazı zamanlayıcılarınız başka bir cihazdan güncellendi."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Tekrarla"
+"rise_and_shine"="Uyanma Vakti"
+"set_your_lights_to_wake_you_up"="Işıklarınızı sizi uyandıracak şekilde ayarlayın."
+"your_rise_and_shine_timer_was_"="Uyanma Vakti zamanlayıcınız başka bir cihazdan güncellendi."
+"delete_rise_and_shine"="Uyanma Vakti’ni Sil"
+"your_rise_and_shine_timer_just"="Uyanma Vakti zamanlayıcınız az önce başladı."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Dışarıda"
+"out_and_about_set_your_lights_"="Dışarıda mı? Işıklarınızın evdeymişsiniz gibi açılıp kapanmasını sağlayın."
+"set_your_lights_to_slowly_dim_"="Işıklarınızı, zamanlayıcınızı ayarladığınız saatten 30 dakika önce yavaş bir şekilde sönmeye başlayacak şekilde ayarlayın. Işıklarınız yavaş bir şekilde parlaklaşır\n\ntıpkı sabah güneşi gibi."
+"your_away_from_home_timer_just"="Evden Uzakta zamanlayıcınız az önce başladı."
+"your_away_from_home_timer_was_"="Dışarıda zamanlayıcınız başka bir cihazdan güncellendi."
+"delete_away_from_home"="Evden Uzakta’yı Sil"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="AÇ KAPA"
+"on_or_off"="Aç Kapa"
+"out_and_about_set_your_lights_to_tu"="Dışarıda mı? Işıklarınızı evdeymişsiniz gibi açılıp kapanmasını sağlayın.\n\nIşıklarınızın duvar anahtarını kapalı bırakmamayı unutmayın. En son kullanıldıkları zamanki parlaklığı ve rengi hatırlayacaktır."
+"your_on_or_off_timer_just_star"="Aç Kapa zamanlayıcınız az önce başladı."
+"your_on_or_off_timer_was_updat"="Aç Kapa zamanlayıcınız başka bir cihazdan güncellendi."
+"delete_on_or_off"="AÇ KAPA’yı Sil"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="AYARLAR"
+"need_help"="Yardıma ihtiyacınız mı var?"
+"language"="Dil"
+"default_language"="Varsayılan dil"
+"send_in_email"="E-POSTA OLARAK GÖNDERİN"
+"terms_and_conditions"="Şartlar ve koşullar"
+"privacy_policy"="Gizlilik politikası"
+"software_licenses"="Yazılım lisansları"
+"continue_"="Devam Et"
+"youve_selected_as_your_language_"="Diliniz olarak %1$s seçeneğini belirlediniz."
+"tradfri_terms_and_conditions"="TRÅDFRI Şartlar ve Koşullar"
+"tradfri__privacy_policy"="TRÅDFRI Gizlilik Politikası"
+"tradfri_is_up_to_date"="TRÅDFRI güncel"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Güncellemeler mevcut"
+"update"="GÜNCELLEME"
+"unreachable"="Ulaşılamıyor"
+"update_details"="Güncelleme Ayrıntıları"
+"up_to_date"="Güncel"
+"remote_controls"="Uzaktan kumandalar"
+"motion_sensors"="Hareket sensörleri"
+"this_should_only_take_about_mi"="Bu işlem yalnızca 1 dakika sürer."
+"dismiss"="SONLANDIR"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="BAĞLANTIYI KES"
+"disconnecting"="BAĞLANTI KESİLİYOR..."
+"disconnected"="BAĞLANTI KESİLDİ"
+"disconnecting_allow_you_to_con"="Bağlantıyı kesme, başka bir ağ geçidine bağlanmanıza olanak sağlar. İki ağ geçidini aynı anda kullanamazsınız ancak merak etmeyin, tüm sahne ve ışık ayarlarınız mevcut ağ geçidinde saklanır."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Yeni ağ geçidi bulundu"
+"gateway_is_rebooting"="Ağ geçidi yeniden başlatılıyor..."
+"connect_to_new_gateway"="Yeni ağ geçidinize bağlan"
+"you_cant_connect_to_your_curre"="Mevcut ağ geçidinize bağlanamazsanız başka bir tane mevcut. Yeni ağ geçidine bağlanmak istiyor musunuz?"
+"connecting_will_disconnect_you"="Buna bağlandığınızda mevcut ağ geçidinizle olan bağlantınız kesilir. Ancak merak etmeyin, tüm ayarlarınız mevcut ağ geçidinizde saklanır."
+"try_again"="YENİDEN DENEYİN"
+"oops"="Üzgünüz!"
+"youre_about_to_remove_the_last"="Son cihazı kaldırmak üzeresiniz"
+"your_light_needs_to_be_turned_"="Devam etmeden önce ışığınız, ışık anahtarıyla açılmalıdır."
+"remember_to_turn_on_your_light"="Işıklarınızı açmayı unutmayın"
+"oops_something_went_wrong"="Üzgünüz! Bir şeyler yanlış gitti."
+"enter_the_gateway_ip_manually"="Ağ geçidi IP’sini manuel olarak girin"
+"gateway_is_updating"="Ağ geçidi güncelleniyor..."
+"your_gateway_software_is_being"="Mümkün olan en iyi deneyimin sunulabilmesi için ağ geçidi yazılımınız güncelleniyor. Ağ geçidi birkaç dakika boyunca kullanılamayacak ancak ışıklarınızı ve uzaktan kumandanızı normal bir şekilde kullanmaya devam edebilirsiniz."
+"unable_to_connect_to_tradfri"="TRÅDFRI’ya bağlanılamıyor"
+"it_looks_like_you_scanned_the_"="Taradığınız kod hatalı. Ağ geçidinizin arkasındakini taramayı deneyin."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Beyaz spektrum lambası"
+"bulb_e27_white_spectrum_globe_clear"="Beyaz spektrum lambası"
+"bulb_e27_white_spectrum_globe_opal"="Beyaz spektrum lambası"
+"bulb_e14_white_spectrum_globe_"="Beyaz spektrum lambası"
+"color_white_spectrum_bulb"="Renkli/beyaz spektrumlu lamba"
+"bulb_e14_color_white_spectrum_"="Renkli/beyaz spektrumlu lamba"
+"white_spectrum_panel"="Beyaz spektrum paneli"
+"panel_white_spectrum_30_90"="Beyaz spektrum paneli"
+"panel_white_spectrum_60_60"="Beyaz spektrum paneli"
+"color_white_spectrum_panel"="Renkli/beyaz spektrumlu panel"
+"white_spectrum_door"="Beyaz spektrum kapağı"
+"door_white_spectrum_36_84"="Beyaz spektrum kapağı"
+"remote_control"="Uzaktan kumanda"
+"motion_sensor"="Hareket sensörü"
+"wireless_dimmer"="Kablosuz ışık azaltıcı"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Taşı"
+"rename"="Yeniden Adlandır"
+"remove"="Kaldır"
+"off"="Kapalı"
+"done"="TAMAMLANDI"
+"cancel"="İPTAL"
+"ok"="TAMAM"
+"confirm"="ONAYLA"
+"delete"="Sil"
+"proceed"="İlerle"
+"group"="Grup"
+"plug"="Priz"
+"everyday"="Everyday"
+"focus"="Focus"
+"relax"="Relax"
+"plugs"="Prizler"
+"gateway"="Ağ Geçidi"
+"gateways"="Ağ Geçitleri"
+
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Tüm ışıklarınızı AÇIK duruma getirin"
+"are_all_your_lights_on_they_mu"="%1$s ışığınızın tümü açık mı? Kablosuz Işık Azaltıcıyı başarıyla taşımak için tümü AÇIK olmalıdır"
+"press_the_link_button"="Bağlantı düğmesine basın"
+"to_control_the_new_group_just_"="Yeni grubu kontrol etmek için Kablosuz Işık Azaltıcıyı açın ve bağlantı düğmesine basın. Ardından cihazınız taşınır."
+"i_did_it"="Yaptım"
+"to_finish_removing_your_remote"="Uzaktan Kumandanızı kaldırmayı tamamlamak için bağlantı düğmesine 4 defa basarak sıfırlayın. Tamamladınız!"
+"to_finish_removing_your_motion"="Hareket Sensörünüzü kaldırmayı tamamlamak için bağlantı düğmesine 4 defa basarak sıfırlayın. Tamamladınız!"
+"to_finish_removing_your_wirele"="Kablosuz Işık Azaltıcınızı kaldırmayı tamamlamak için bağlantı düğmesine 4 defa basarak sıfırlayın. Tamamladınız!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Cihazınızı taşımak için %1$s konumundaki Kablosuz Işık Azaltıcıyı açın ve bağlantı düğmesine basın."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Cihazınızı taşımak için, %1$s ve %2$s konumundaki Kablosuz Işık Azaltıcıları açın ve her ikisindeki bağlantı düğmelerine basın"
+"required_update"="Gerekli güncelleme"
+"update_required_tradfri_needs_"="Güncelleme gerekli. TRÅDFRI\'nin sorunsuz çalışabilmesi için güncellenmesi gerekiyor. Uygulama güncellenirken kullanılamayacaktır."
+"an_important_update_has_been_p"="Önemli bir güncelleme gerçekleştirildi ve Trådfri en son sürümüne güncellendi"
+"reconnect_to_gateway"="Ağ geçidine yeniden bağlan"
+"is_your_light_on"="Işığınız açık mı?"
+"if_not_turn_it_on_to_successfu"="Değilse, cihazınızı başarılı bir şekilde kaldırmak için açın."
+"to_remove_your_light_open_the_"="Işığınızı kaldırmak için %1$s konumundaki Kablosuz Işık Azaltıcıyı açın ve bağlantı düğmesine basın."
+"wireless_motion_sensor"="Kablosuz hareket sensörü"
+"please_confirm"="%1$s öğesi taşınsın mı?"
+"gently_rotate_your_wireless_di"="Onaylamak için Kablosuz Işık Azaltıcınızı hafifçe döndürün."
+"we_did_not_detect_any_action_o"="Cihazınız yanıt vermedi."
+"wave_your_hand_in_front_of_the"="Onaylamak için lütfen Hareket Sensörünün önünde elinizi sallayın."
+"enter_group_name"="Lütfen grubunuz için bir ad girin"
+"enter_accessory_name"="Lütfen aksesuarınız için bir ad girin"
+"remove_"="%1$s öğesini kaldır"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Sıcak beyaz lamba"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Kaydetmeden önce Hissinizi ayarlayın. Hissiniz dahil edilecektir."
+"my_moods"="Hislerim"
+"create_a_mood_and_save_it_for_"="Bir His oluşturun ve anında erişim için kaydedin"
+"light_unreachable"="Işığa ulaşılamıyor"
+"if_you_create_or_edit_a_mood_while"="Bir ışığa ulaşılamıyorken bir His oluşturur veya düzenlerseniz, His için bu ışık yok sayılır. Devam etmeden önce ışıklarınızın açık olduğundan emin olun"
+"edit_moods"="HİSLERİ DÜZENLE"
+"edit_mood"="HİSSİ DÜZENLE"
+"brightness"="PARLAKLIK | %1$s"
+"disconnect_app"="UYGULAMA BAĞLANTISINI KES"
+"clear_all_settings"="Tüm ayarları temizle"
+"this_will_delete_all_Moods"="Bu işlem, tüm Hisleri ve Zamanlayıcıları silecek ve tüm ayarları sıfırlayacaktır. Sıfırladığınızda, tüm cihazlarınızın Ağ geçidi ile bağlantısı kesilir"
+"are_you_sure_you_want_to_clear"="Tüm ayarlarınızı temizlemek istediğinizden emin misiniz?"
+"clear"="Temizle"
+"cleared"="TEMİZLENDİ"
+"clearing"="TEMİZLENİYOR…"
+"see_details"="Ayrıntılara bakın"
+"update_did_not_complete"="Güncelleme tamamlanmadı"
+"one_or_more_devices_didnt_upda"="Bir veya daha fazla cihaz güncellenmedi. Merak etmeyin, ışığınız çalışmaya devam edecek"
+"your_moods_are_still_loading_"="Hisleriniz hala yükleniyor. Lütfen birkaç saniye içinde yeniden deneyin."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Güncellenmedi"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Lambalar"
+"waiting_for_gateway"="Ağ Geçidi Bekleniyor"
+"wireless_dimmers"="Kablosuz Işık Azaltıcılar"
+"theres_an_important_new_update"="TRÅDFRI için önemli yeni bir güncelleme mevcut."
+"close"="Kapat"
+"update_pending"="Güncelleme bekleniyor"
+"your_devices_are_being_updated"="Cihazlarınız güncelleniyor. TRÅDFRI\'yi normal bir şekilde kullanmaya devam edebilirsiniz."
+"start_update"="Güncellemeyi başlat"
+"continue_to_use_your_lights_as"="Işıklarınızı normal bir şekilde kullanmaya devam edebilirsiniz, güncellemeler arka planda gerçekleştirilir. Uygulama kısa bir süreliğine kullanılamayabilir."
+"panel"="Panel"
+"door"="Kapak"
+"panels"="Paneller"
+"doors"="Kapaklar"
+"check_for_updates"="Güncellemeleri denetle"
+"update_now"="Şimdi güncelle"
+"view_update_details"="Güncelleme ayrıntılarını görüntüle"
+"all_your_devices_are_updated_t"="Tüm cihazlarınız en son sürümüne güncellendi."
+"your_gateway_didnt_update_dont"="Ağ geçidiniz güncellenmedi. Merak etmeyin, ışığınız çalışmaya devam edecek"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Ağ geçidinize bağlanamadık"
+"we_couldnt_connect_to_your_dev"="Cihazlarınıza bağlanamadık. Sorun devam ederse, ağ geçidinizi kapatın ve yeniden açın"
+"we_couldnt_find_your_gateway_m"="Ağ geçidinizi bulamadık. Lütfen kabloyla yönlendiricinize bağlı olduğundan ve telefonun aynı ağa bağlı olduğundan emin olun."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Soğuk gökyüzü"
+"_eaf6fb"="Serin gün ışığı"
+"_f5faf6"="Serin beyaz"
+"_f2eccf"="Gündoğumu"
+"_f1e0b5"="Sıcak beyaz"
+"_efd275"="Sıcak parıltı"
+"_ebb63e"="Mum ışığı"
+"_e78834"="Sıcak Kehribar"
+"_e57345"="Şeftali"
+"_da5d41"="Koyu Şeftali"
+"_dc4b31"="Doygun Kırmızı"
+"_e491af"="Pembe"
+"_e8bedd"="Açık Pembe"
+"_d9337c"="Doygun Pembe"
+"_c984bb"="Açık Mor"
+"_8f2686"="Doygun Mor"
+"_4a418a"="Mavi"
+"_6c83ba"="Açık Mavi"
+"_a9d62b"="Limon Yeşili"
+"_d6e44b"="Sarı"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Şunun yanındaki düğmeyi 4 defa basılı tutun: %1$s. Uzaktan Kumandanızda kırmızı bir ışık yanıp sönecektir.<br/><br/><b>b.</b> Işığın yanıp sönmesi durduktan sonra 10 saniye boyunca bekleyin. Sonra devam edebilirsiniz.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Uzaktan Kumandayı Ağ Geçidinin 2 cm’lik mesafesinde tutun.<br/><br/><b>b.</b> Ağ Geçidindeki %1$s ışığı hızlı bir şekilde 4 defa yanıp sönene kadar %1$s yanındaki düğmeyi basılı tutun.<br/><br/><b>c.</b> Uygulamadaki onayı bekleyin.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Hareket sensörünü ağ geçidinin 2 cm’lik mesafesinde tutun.<br/><br/><b>b.</b> Ağ Geçidinde bulunan %1$s cihazının üzerindeki ışık hızlı bir şekilde 4 defa yanın sönene kadar %1$s cihazının yanındaki düğmeyi basılı tutun.<br/><br/><b>c.</b> Uygulamadaki onayı bekleyin.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Kablosuz Işık Azaltıcınızı, kapınızın veya panelinizin arkasındaki beyaz kutunun 2 cm’lik mesafesinde tutun.<br/><br/><b>b.</b> %1$s işaretinin yanındaki düğmeyi 10 saniye boyunca basılı tutun. Işık kaynağınız yanıp sönecektir. Yanıp sönme durana kadar düğmeyi basılı tutun.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Kablosuz ışık azaltıcınızı lambanın 2 cm’lik mesafesinde tutun.<br/><br/><b>b.</b> Şunun yanındaki düğmeyi 10 saniye boyunca basılı tutun: %1$s. Işık kaynağınız yanıp sönecektir. Yanıp sönme durana kadar düğmeyi basılı tutun.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Hareket Sensörünüzü lambanın 2 cm’lik mesafesinde tutun.<br/><br/><b>b.</b> %1$s düğmesini 10 saniye boyunca basılı tutun. Işık kaynağınız yanıp sönecektir. Yanıp sönme durana kadar düğmeyi basılı tutun.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Hareket Sensörünüzü, kapınızın veya panelinizin arkasındaki beyaz kutunun 2 cm’lik mesafesinde tutun.<br/><br/><b>b.</b> %1$s düğmesini 10 saniye boyunca basılı tutun. Işık kaynağınız yanıp sönecektir. Yanıp sönme durana kadar düğmeyi basılı tutun.]]>"
+"found"="%1$s bulundu"
+"perfect_is_now_connected_to_tr"="Harika! %1$s şu anda TRÅDFRI\'ye bağlandı."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Bağlantı"
+"disconnected_"="Bağlantı kesildi"
+"find_detailed_help_in_our_trou"="Sorun giderme kılavuzumuzda ayrıntılı yardım bulabilirsiniz."
+"disconnect_from_your_gateway"="Ağ geçidi ile bağlantıyı kes"
+"are_you_sure_you_want_to_disco"="Bağlantıyı kesmek istediğinize emin misiniz?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Trådfri sürümü"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Aynı ışıkları kullanan zamanlayıcılar"
+"you_have_two_timers_using_the_"="Aynı ışıkları kullanan iki zamanlayıcınız var. Lütfen sıfırlayın.\nYa da\nAynı zaman dilimlerini kullanan iki zamanlayıcınız var. Işıklarınızı doğru zamanda tutmak için lütfen sıfırlayın"
+"your_timers_are_still_loading_"="Zamanlayıcılarınız hala yükleniyor. Lütfen birkaç saniye içinde yeniden deneyin."
+"which_day"="%1$s Hangi günde?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Yardım alın"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Uzaktan Kumandanızı lambanın 2 cm’lik mesafesinde tutun.<br /><br /><b>b.</b> %1$s öğesinin yanındaki düğmeyi 10 saniye boyunca basılı tutun. Işık kaynağınız yanıp sönecektir. Yanıp sönme durana kadar düğmeyi basılı tutun.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Uzaktan Kumandanızı, kapınızın veya panelinizin arkasındaki beyaz kutunun 2 cm’lik mesafesinde tutun.<br /><br /><b>b.</b> %1$s öğesinin yanındaki düğmeyi 10 saniye boyunca basılı tutun. Işık kaynağınız yanıp sönecektir. Yanıp sönme durana kadar düğmeyi basılı tutun.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> %1$s öğesinin yanındaki düğmeye hızlı bir şekilde 4 defa basın. Hareket Sensörünüzde kırmızı bir ışık yanıp sönecektir.<br /><br /><b>b.</b> Işığın yanıp sönmesi durduktan sonra 10 saniye boyunca bekleyin. Sonra devam edebilirsiniz.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> %1$s öğesinin yanındaki düğmeye hızlı bir şekilde 4 defa basın. Kablosuz Işık Azaltıcınızda kırmızı bir ışık yanıp sönecektir.<br /><br /><b>b.</b> Işığın yanıp sönmesi durduktan sonra 10 saniye boyunca bekleyin. Sonra devam edebilirsiniz]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Kablosuz ışık azaltıcıyı Ağ Geçidinin 2 cm’lik mesafesinde tutun.<br /><br /><b>b.</b> Kablosuz Işık Azaltıcıda bulunan %1$s öğesinin yanındaki düğmeyi Ağ Geçidindeki %1$s ışığı hızlı bir şekilde 4 defa yanıp sönene kadar basılı tutun.<br /><br /><b>c.</b> Lütfen, uygulamadan gelecek onayı bekleyin.]]>"
+"are_you_sure_you_want_to_delete_mood"="\'%1$s\' öğesini silmek istediğinizden emin misiniz?"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Sıcak beyaz lamba"
+"bulb_e27_w_opal_1000lm"="Sıcak beyaz lamba"
+"bulb_e26_opal_1000lm"="Sıcak beyaz lamba"
+"bulb_e12_ws_opal_400lm"="Beyaz spektrum lambası"
+"bulb_e26_ws_clear_950lm"="Beyaz spektrum lambası"
+"bulb_e26_ws_opal_980lm"="Beyaz spektrum lambası"
+"bulb_e27_ws_opal_980lm"="Beyaz spektrum lambası"
+
+<!--3rd PARTY DEVICES* -->
+"device"="cihaz"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Tümleştirmeler"
+"eg_amazon_alexa_apple_homekit"="ör. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Amazon Alexa\'nın yardımıyla TRÅDFRI ampullerini sesinizle kontrol edin.\n\nör. “Alexa, ışığı aç.” veya\n“Alexa, ışığı 50% oranında kıs.”"
+"enable"="Etkinleştir"
+"disable"="Devre Dışı"
+"you_are_logged_in"="Oturum açtınız."
+"to_get_started_enable_the_trad"="Öncelikle, Alexa uygulamasında TRÅDFRI yeteneğini etkinleştirin. Ardından şunu söyleyin:“Alexa, cihazlarımı bul.”"
+"ensure_your_alexa_device_is_s"="Alexa kurulumunu tamamlamayın"
+"to_continue_your_alexa_device"="Devam etmeniz için Alexa hazır ve çalışır durumda olmalıdır. Lütfen Amazon Alexa Hızlı Başlangıç Kılavuzu\'ndaki talimatları takip edin."
+
+<!-- Whats New Strings* -->
+"whats_new"="Yenilikler"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="İlişkilendirdiğiniz tüm cihazlarınızın daha iyi ve daha akıllı çalışmasını sağlayın. Artık, TRÅDFRI\'yi Apple HomeKit ile kullanabilirsiniz."
+"learn_more"="Daha fazla bilgi"
+"use_your_voice_to_control_your"="Amazon Alexa\'nın yardımıyla TRÅDFRI ampullerini sesinizle kontrol edin. Ampulleri açıp kapayın ya da parlaklığı ayarlayın."
+"disable_amazon_alexa"="Amazon Alexa devre dışı bırakılsın mı?"
+"you_will_no_longer_be_able_to_"="Artık, TRÅDFRI cihazlarınızı Amazon Alexa ile kontrol edemeyeceksiniz."
+"problem_connecting_to_amazon"="Amazon\'a bağlanma sorunu var"
+"please_try_again"="Lütfen yeniden deneyin."
+"accept_the_terms_of_use"="Kullanım koşullarını kabul edin"
+"in_order_to_enable_amazon_alex"="Amazon Alexa\'yı etkinleştirmek için koşullar onaylanmalıdır."
+"cant_connect_to_amazon"="Amazon\'a bağlanamıyorum"
+"check_your_internet_connection"="İnternet bağlantınızı kontrol edin ve yeniden deneyin."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Ampuller şu saatte parlamaya başlıyor: %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Güncelleme ayrıntılarını göster"
+"gateway_update_required"="Ağ geçidi güncellemesi gerekli"
+"to_use_this_new_feature_you_ne"="Bu yeni özelliği kullanabilmek için ağ geçidi yazılımınızı en son sürüme yükseltmeniz gerekiyor."
+"later"="Sonra"
+"gateway_update_available"="Ağ geçidi güncellemesi mevcut"
+"to_use_new_features_you_need_t"="Yeni özellikleri kullanabilmek için ağ geçidi yazılımınızı en son sürüme yükseltmeniz gerekiyor."
+"new_update_available"="Yeni güncelleme mevcut"
+"in_order_to_control_your_devic"="Cihazlarınızı telefonunuzdan kontrol edebilmeniz için TRÅDFRI uygulamanızı güncellemeniz gerekiyor."
+"as_a_security_precaution_you_h"="Güvenlik önlemi olarak ağ geçidinizle bağlantınız kesildi.\n\nİşleme devam etmek için lütfen ağ geçidinize yeniden bağlanın."
+"unknown_device"="Bilinmeyen Cihaz"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Çok renkli lambalar"
+"now_you_can_decorate_your_home"="Artık, evinizi renkli ışıklarla süsleyebilirsiniz."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Neredeyse bitti. TRÅDFRI cihazlarınızın sesinizle kontrol etme özelliğini etkinleştirmek için Google Home uygulamasını açın."
+"set_up_tradfri_for_voice_contr"="Google Asistan kullanarak sesinizle kontrol edebilmek için TRÅDFRI kurulumunu yapın.\n\nör. Tamam, Google, ışığı aç veya Tamam, Google, ışığı 50% kıs."
+"are_you_using_a_google_home_de"="Google Home cihazı kullanıyor musunuz?"
+"if_youre_using_a_google_home_d"="Google Home cihazı kullanıyorsanız lütfen cihazın şu anda açık olduğundan emin olun.\nGoogle Asistan\'ı yalnızca telefonunuzda kullanıyorsanız lütfen işleme devam edin."
+"cant_connect_to_google"="Google\'a bağlanılamıyor"
+"disable_google_assistant"="Google Asistan devre dışı bırakılsın mı?"
+"you_will_no_longer_be_able_to_contro"="Artık, TRÅDFRI cihazlarınızı Google Home üzerinden kontrol edemeyeceksiniz."
+"google_assistant_could_not_be_"="Google Asistan etkinleştirilemedi"
+"google_assistant"="Google Asistan"
+"use_voice_control_to_adjust_yo"="TRÅDFRI cihazlarınızı Google Asistan\'a uygun olarak ayarlamak için sesinizle kontrol etme özelliğini kullanın. Açın, rengi değiştirin veya parlaklığı ayarlayın."
+"you_cant_have_two_timers_on_a"="Aynı ışığa bağlı iki zamanlayıcıyı aynı anda kullanamazsınız."
+"multicolored_bulb_title"="Çok Renkli Lambalar"
+"multicolored_bulb_desc"="Evinizi renkli ışıklarla süsleyin. Trådfri ailesi şimdi daha da büyüdü."
+"something_went_wrong"="Bir şeyler yanlış gitti."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Cihazları Yönet"
+"devices"="cihazlar"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Yasal bilgi"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="AĞ GEÇİDİ BAĞLANTISINI KESİN"
+"in_progress"="İşlem devam ediyor..."
+"turn_everything_off"="HER ŞEYİ KAPATIN"
+"all_devices_are_off"="Tüm cihazlar kapalı."
+"devices_on"="%1$s cihaz açık"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Uzaktayken bile, ışıkları açma ve kapatma işlemi için zamanlayın."
+"on_and_off_small"="Açık ve kapalı"
+"group_must_be_empty_to_delete"="Silinecek grup boş olmalıdır."
+"please_remove_all_devices"="Lütfen bu gruptaki tüm cihazları kaldırın."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Google Asistan devre dışı bırakılamadı"
+"please_verify_your_internet_co"="Lütfen internet bağlantınızı kontrol edin ve yeniden deneyin.\n\nBirden çok denemenin ardından uygulama hâlâ bağlanmıyorsa etkin olabilecek bütün diğer tümleştirmeleri kaldırmayı deneyin."
+"try_disable_again"="TEKRAR DEVRE DIŞI BIRAKMAYI DENEYİN"
+"remove_integration"="TÜMLEŞTİRMELERİ KALDIR"
+"cant_connect"="Bağlanılamıyor"
+"remove_all_integration"="Tümleştirmelerin hepsi kaldırılsın mı?"
+"are_you_sure_this_will_remove_"="Emin misiniz? Bu işlem etkinleştirmiş olabileceğiniz tümleştirmelerin HEPSİNİ kaldıracak."
+"amazon_alexa_could_not_be_disa"="Amazon Alexa devre dışı bırakılamaz"
+"please_verify_your_internet_connect"="Lütfen internet bağlantınızı kontrol edin ve yeniden deneyin. \n\nBirden çok denemenin ardından uygulama hâlâ bağlanmıyorsa TÜMLEŞTİRMELERİ KALDIR\'ı seçerek tümleştirmeleri sıfırlayın ve yeniden deneyin.\nBu işlem etkinleştirmiş olabileceğiniz tümleştirmelerin HEPSİNİ, Amazon Alexa da dahil olmak üzere, kaldıracak."
+"eg_amazon_alexa_google_assista"="ör. g. Amazon Alexa, Google Asistan"
+

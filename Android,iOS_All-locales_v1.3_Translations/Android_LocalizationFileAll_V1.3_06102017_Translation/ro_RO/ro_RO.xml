@@ -1,0 +1,607 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="BUNĂ!"
+"i_agree_to_the"="Sunt de acord cu"
+"plug_in_your_gateway"="Conectează gateway-ul"
+"next"="ÎNAINTE"
+"connect"="CONECTEAZĂ-TE"
+"terms_conditions"="Termeni şi condiţii"
+"please_agree_to_continue"="Trebuie să fii de acord pentru a continua."
+"connecting_to_your_gateway"="În curs de conectare la gateway…"
+"plug_your_gateway_into_a_power"="Conectează gateway-ul la o sursă de alimentare cu curent electric, apoi conectează-l la ruterul Wi-Fi cu ajutorul cablului de ethernet furnizat."
+"congrats"="Felicitări!"
+"and"="şi"
+"connect_to_wifi"="Conectează-te la Wi-Fi"
+"this_name_is_already_in_use_pl"="Acest nume este deja utilizat. Încearcă altul."
+"welcome_to_the_tradfri_lightin"="Bun venit la sistemul de iluminat TRÅDFRI. Acesta este cel mai simplu mod de a aduce o lumină plăcută în locuinţa ta. Eşti gata să începi configurarea?"
+"enter_the_gateway_ip"="Introdu IP-ul gateway-ului"
+"gateway_ip"="IP gateway"
+"if_the_gateway_is_plugged_in_c"="Dacă gateway-ul este conectat corect, dar totuşi nu poate fi găsit, îţi recomandăm să introduci manual adresa de IP a gateway-ului. Pentru mai multe informaţii, consultă pagina de asistenţă tehnică."
+"the_gateway_ip_is_incorrect"="IP-ul gateway-ului este incorect."
+"you_must_be_connected_to_your_"="Trebuie să fii conectat la reţeaua Wi-Fi pentru a comanda TRÅDFRI din aplicaţie."
+"these_are_your_tradfri_devices"="Acestea sunt dispozitivele tale TRÅDFRI"
+"lets_get_started"="SĂ ÎNCEPEM"
+"get_started"="ÎNCEPE"
+"youre_now_connected_to_the_gat"="Acum eşti conectat la gateway. Să conectăm acum dispozitivele tale."
+"add_another_device"="Adaugă alt dispozitiv"
+"finding_gateway"="Se caută gateway-ul..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="În curs de scanare..."
+"type_in_the_code_instead"="Tastează codul în schimb"
+"youll_find_the_code_on_the_bac"="Codul se află pe spatele gateway-ului."
+"we_found_the_code"="Am găsit codul."
+"hold_on_while_we_verify_the_co"="Aşteaptă în timp ce verificăm codul..."
+"scan"="SCANEAZĂ"
+"now_scan_the_code"="Acum scanează codul"
+"enable_camera"="ACTIVEAZĂ CAMERA"
+"type_in_the_serial_number"="Tastează numărul de serie"
+"type_in_the_security_code"="Tastează codul de securitate"
+"serial_number"="Număr de serie"
+"security_code"="Cod de securitate"
+"youll_find_it_on_the_back_of_y"="Acesta se află pe spatele gateway-ului."
+"youll_find_them_both_on_the_ba"="Ambele se află pe spatele gateway-ului."
+"this_serial_number_is_incorrec"="Acest număr de serie este incorect"
+"type_in_the_serial_number_and_"="Tastează numărul de serie şi codul de securitate"
+"enable_your_camera_to_scan_the"="Activează camera pentru a scana codul."
+"type_in_the_code"="TASTEAZĂ CODUL"
+"the_security_key_should_be_dig"="Cheia de securitate trebuie să conţină 16 cifre"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Începe prin alegerea dispozitivului pe care doreşti să-l adaugi"
+"open_the_back_of_the_remote_co"="1. Deschide capacul de pe spatele telecomenzii"
+"reset_the_remote_control"="2. Resetează telecomanda"
+"connect_the_remote_control"="3. Conectează telecomanda"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Porneşte lumina"
+"make_sure_that_your_light_is_i"="Asigură-te că lumina a fost instalată şi că ai pornit comutatorul sursei de alimentare cu energie electrică."
+"which_control_device_are_you_u"="2. Ce dispozitiv de comandă utilizezi?"
+"remember_to_use_a_control_devi"="Reţine că trebuie să utilizezi un dispozitiv de comandă deja conectat."
+"connect_the_light"="3. Conectează lumina"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Se caută dispozitivele..."
+"bulb"="Bec"
+"door_or_panel"="Uşă ori panou"
+"open_the_back_of_the_motion_se"="1. Deschide capacul din spate al senzorului de mişcare"
+"reset_the_motion_sensor"="2. Resetează senzorul de mişcare"
+"connect_the_motion_sensor"="3. Conectează senzorul de mişcare"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Deschide capacul de pe spatele reostatului wireless"
+"reset_the_wireless_dimmer"="2. Resetează reostatul wireless"
+"connect_the_wireless_dimmer"="3. Conectează reostatul wireless"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Se caută dispozitivul"
+"which_device_would_you_like_to"="Ce dispozitiv doreşti să adaugi?"
+"now_add_your_lights"="Acum adaugă luminile"
+"they_can_be_added_after_youve_"="Acestea pot fi adăugate după ce aţi conectat un dispozitiv de comandă."
+"ill_do_this_later"="Voi face acest lucru mai târziu"
+"delete_mood"="Şterge starea"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Apasă orice buton de pe dispozitiv pentru a confirma mutarea acestuia. Poate fi necesar să apeşi de mai multe ori."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="CASA MEA"
+"add_lights"="ADAUGĂ LUMINI"
+"no_lights_have_been_added_to_t"="Nicio lumină nu a fost adăugată încă la acest grup."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Introdu numele unei stări"
+"please_pick_another_name_this_"="Alege alt nume, acesta este deja utilizat."
+"moods_by_ikea"="Stările IKEA"
+"new_mood"="Stare nouă"
+"please_enter_a_mood_name"="Introdu numele unei stări."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Opreşte"
+"turn_on"="Porneşte"
+"min"="Min."
+"max"="Max."
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Un dispozitiv nu poate fi găsit"
+"devices_cannot_be_found"="%1$s dispozitive nu pot fi găsite"
+"one_remote_has_a_low_battery"="O telecomandă are bateria descărcată"
+"one_motion_sensor_has_a_low_ba"="Un senzor de mişcare are bateria descărcată"
+"remotes_have_low_batteries"="%1$s telecomenzi au bateriile descărcate"
+"devices_have_low_batteries"="%1$s dispozitive au bateriile descărcate"
+"updating"="În curs de actualizare…"
+"update_successful"="Actualizarea a reuşit"
+"was_added_to_a_new_group"="%1$s a fost adăugat la un grup nou."
+"was_removed"="%1$s a fost eliminat"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Grupuri"
+"rename_group"="Redenumeşte grupul"
+"add_new_group"="Adaugă un grup nou"
+"add_devices"="Adaugă dispozitive"
+"new_group"="Grup nou"
+"group_name"="Nume grup"
+"low_battery"="Baterie descărcată"
+"manage_your_devices"="Gestionează dispozitivele"
+"devices"="Dispozitive"
+"last_seen_ago"="Văzut ultima dată în urmă cu %1$s"
+"move_a_device_to_this_group_by"="Mută un dispozitiv în acest grup, atingând cele trei puncte."
+"leaving_will_remove_new_group"="Dacă ieşi, noul grup va fi eliminat"
+"groups_without_any_devices_wil"="Grupurile fără dispozitive vor fi eliminate automat."
+"move_to_other_group"="Mută în alt grup"
+"rename_device"="Redenumeşte dispozitivul"
+"remove_device"="Elimină dispozitivul"
+"select_destination_group"="Selectează grupul de destinaţie"
+"the_name_is_already_being_used"="Numele \" %1$s \" este deja utilizat."
+"remove_accessory"="Elimini accesoriul?"
+"it_looks_like_there_was_a_prob"="Se pare că a apărut o problemă la mutarea luminii. Asigură-te că lumina este pornită şi încearcă să o muţi din nou."
+"disconnected_devices"="Dispozitive deconectate"
+"add_new"="ADAUGĂ NOU"
+"device_was_not_moved"="Dispozitivul nu a fost mutat"
+"unfortunately_you_cant_add_a_m"="Din păcate, nu poţi să adaugi un senzor de mişcare la un grup cu reostate wireless sau telecomenzi."
+"press_any_button_on_your_remot"="Apasă orice buton de pe telecomandă."
+"great"="Excelent!"
+"your_was_moved_to"="%1$s a fost mutat la %2$s."
+"are_you_sure_you_want_to_remov"="Sigur doreşti să elimini %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="TEMPORIZATOARE"
+"enabled"="activat"
+"disabled"="dezactivat"
+"every_day"="În fiecare zi"
+"days"="Zile"
+"hours"="Ore"
+"minutes"="Minute"
+"seconds"="Secunde"
+"mon"="Lun"
+"tue"="Mar"
+"wed"="Mie"
+"thu"="Joi"
+"fri"="Vin"
+"sat"="Sâm"
+"sun"="Dum"
+"timer_is_not_set"="Temporizatorul nu este setat"
+"mon_fri"="Lun – Vin"
+"cant_set_time"="Imposibil de setat ora"
+"make_sure_you_set_your_timer_b"="Asigură-te că ai setat temporizatorul înainte de a pleca."
+"are_you_sure_you_want_to_delete_this_tim"="Sigur doreşti să ştergi acest temporizator?"
+"add"="ADAUGĂ"
+"am"="AM"
+"pm"="PM"
+"monday"="L"
+"tuesday"="M"
+"wednesday"="M"
+"thursday"="J"
+"friday"="V"
+"saturday"="S"
+"sunday"="D"
+"set_your_time"="Setează ora"
+"new_timer"="Temporizator nou"
+"what_time"="%1$s Ce oră?"
+"which_lights"="%1$s Care lumini?"
+"from"="de la"
+"to"="la"
+"should_they_turn_on_or_off"="%1$s Doreşti să le porneşti ori să le opreşti?"
+"save"="SALVEAZĂ"
+"set_your_lights_to_turn_on_or_"="Setează luminile astfel încât să se aprindă şi să se închidă exact atunci când doreşti."
+"set_your_lights_to_turn_on_or_off_e"="Setează luminile astfel încât să se aprindă şi să se închidă exact atunci când doreşti.\n\nLuminile vor memora intensitatea şi culoarea de la ultima utilizare."
+"during_what_time"="%1$s Pentru cât timp?"
+"you_cant_set_a_time_with_the_s"="Ora setată pentru pornire nu poate fi aceeaşi cu ora setată pentru oprire."
+"a_timer_has_been_updated"="Un temporizator a fost actualizat"
+"timers_have_been_updated"="Temporizatoarele au fost actualizate"
+"view"="Vizualizează"
+"you_are_now_using_the_maximum_"="În acest moment utilizezi numărul maxim de temporizatoare."
+"timers_help_you_set_your_light"="Temporizatoarele te ajută să setezi luminile să se deschidă şi să se închidă. Adaugă unul pentru a începe!"
+"some_of_your_timers_was_update"="Unele temporizatoare au fost actualizate de pe alt dispozitiv."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Repetă"
+"rise_and_shine"="Trezeşte-te şi fii în formă"
+"set_your_lights_to_wake_you_up"="Setează luminile ca să te trezească."
+"your_rise_and_shine_timer_was_"="Temporizatorul \"Trezeşte-te şi fii în formă\" a fost actualizat de pe alt dispozitiv."
+"delete_rise_and_shine"="Şterge setarea \"Trezeşte-te şi fii în formă\""
+"your_rise_and_shine_timer_just"="Temporizatorul \"Trezeşte-te şi fii în formă\" a pornit."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Plecat de acasă"
+"out_and_about_set_your_lights_"="Plecat, dar totuşi prezent? Setează luminile să se deschidă şi să se închidă ca şi când ai fi acasă."
+"set_your_lights_to_slowly_dim_"="Setează luminile să crească lent în intensitate, începând cu 30 de minute înainte de ora la care ai setat temporizatorul. Luminile vor deveni din ce în ce mai intense\n\n– precum soarele de dimineaţă."
+"your_away_from_home_timer_just"="Temporizatorul \"Plecat de acasă\" a pornit."
+"your_away_from_home_timer_was_"="Temporizatorul \"Plecat de acasă\" a fost actualizat de pe alt dispozitiv."
+"delete_away_from_home"="Şterge setarea \"Plecat de acasă\""
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="PORNIT şi OPRIT"
+"on_or_off"="Pornit sau oprit"
+"out_and_about_set_your_lights_to_tu"="Plecat, dar totuşi prezent? Setează luminile să se deschidă şi să se închidă ca şi când ai fi acasă.\n\nReţine că nu trebuie să închizi luminile de la comutatorul de perete. Acestea vor memora intensitatea şi culoarea de la ultima utilizare."
+"your_on_or_off_timer_just_star"="Temporizatorul \"Pornit sau Oprit\" a pornit."
+"your_on_or_off_timer_was_updat"="Temporizatorul \"Pornit sau Oprit\" a fost actualizat de pe alt dispozitiv."
+"delete_on_or_off"="Şterge setarea \"PORNIT sau OPRIT\""
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="SETĂRI"
+"need_help"="Ai nevoie de ajutor?"
+"language"="Limbă"
+"default_language"="Limba implicită"
+"send_in_email"="TRIMITE E-MAIL"
+"terms_and_conditions"="Termeni şi condiţii"
+"privacy_policy"="Politica de confidențialitate"
+"software_licenses"="Licenţe de software"
+"continue_"="Continuă"
+"youve_selected_as_your_language_"="Ai selectat %1$s pentru limbă."
+"tradfri_terms_and_conditions"="Termenii şi condiţiile pentru TRÅDFRI"
+"tradfri__privacy_policy"="Politica de confidenţialitate pentru TRÅDFRI"
+"tradfri_is_up_to_date"="TRÅDFRI este actualizat"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Sunt disponibile actualizări"
+"update"="ACTUALIZEAZĂ"
+"unreachable"="Nu poate fi atins"
+"update_details"="Detalii actualizare"
+"up_to_date"="Actualizat"
+"remote_controls"="Telecomenzi"
+"motion_sensors"="Senzori de mişcare"
+"this_should_only_take_about_mi"="Ar trebui să dureze aproximativ 1 minut."
+"dismiss"="ANULEAZĂ"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="DECONECTEAZĂ-TE"
+"disconnecting"="ÎN CURS DE DECONECTARE..."
+"disconnected"="DECONECTAT"
+"disconnecting_allow_you_to_con"="Dacă te deconectezi, te poţi conecta la alt gateway. Nu vei putea să le utilizezi pe ambele în acelaşi timp, dar stai liniştit, toate scenariile şi setările vor fi stocate pe gateway-ul curent."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="S-a găsit un nou gateway"
+"gateway_is_rebooting"="Gateway în curs de repornire..."
+"connect_to_new_gateway"="Conectează-te la noul gateway"
+"you_cant_connect_to_your_curre"="Nu te poţi conecta la gateway-ul curent, dar un alt gateway este disponibil. Vrei să te conectezi la noul gateway?"
+"connecting_will_disconnect_you"="Dacă te conectezi la acesta, te vei deconecta de la gateway-ul curent. Stai liniştit, toate setările vor fi în continuare stocate pe gateway-ul curent."
+"try_again"="ÎNCEARCĂ DIN NOU"
+"oops"="Ne cerem scuze!"
+"youre_about_to_remove_the_last"="Eşti pe cale de a elimina ultimul dispozitiv"
+"your_light_needs_to_be_turned_"="Trebuie să aprinzi lumina de la comutator înainte de a putea să o utilizezi."
+"remember_to_turn_on_your_light"="Nu uita să porneşti luminile"
+"oops_something_went_wrong"="Ne cerem scuze! A apărut o eroare."
+"enter_the_gateway_ip_manually"="Introdu manual IP-ul gateway-ului"
+"gateway_is_updating"="Gateway-ul este în curs de actualizare..."
+"your_gateway_software_is_being"="Software-ul gateway-ului se actualizează pentru a-ţi oferi cea mai bună experienţă. Gateway-ul nu va fi disponibil pentru câteva minute, dar poţi continua să utilizezi luminile şi telecomanda ca de obicei."
+"unable_to_connect_to_tradfri"="Imposibil de conectat la TRÅDFRI"
+"it_looks_like_you_scanned_the_"="Se pare că ai scanat codul incorect. Încearcă să-l scanezi pe cel aflat pe spatele gateway-ului."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Bec cu spectru alb"
+"bulb_e27_white_spectrum_globe_clear"="Bec cu spectru alb"
+"bulb_e27_white_spectrum_globe_opal"="Bec cu spectru alb"
+"bulb_e14_white_spectrum_globe_"="Bec cu spectru alb"
+"color_white_spectrum_bulb"="Bec cu spectru color/alb"
+"bulb_e14_color_white_spectrum_"="Bec cu spectru color/alb"
+"white_spectrum_panel"="Panou cu spectru alb"
+"panel_white_spectrum_30_90"="Panou cu spectru alb"
+"panel_white_spectrum_60_60"="Panou cu spectru alb"
+"color_white_spectrum_panel"="Panou cu spectru color/alb"
+"white_spectrum_door"="Uşă cu spectru alb"
+"door_white_spectrum_36_84"="Uşă cu spectru alb"
+"remote_control"="Telecomandă"
+"motion_sensor"="Senzor de mişcare"
+"wireless_dimmer"="Reostat wireless"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Mută"
+"rename"="Redenumeşte"
+"remove"="Elimină"
+"off"="Oprit"
+"done"="EFECTUAT"
+"cancel"="ANULEAZĂ"
+"ok"="OK"
+"confirm"="CONFIRMĂ"
+"delete"="Şterge"
+"proceed"="Începe"
+"group"="Grup"
+"plug"="Conector"
+"everyday"="Obişnuit"
+"focus"="Concentrat"
+"relax"="Relaxat"
+"plugs"="Conectori"
+"gateway"="Gateway"
+"gateways"="Gateway-uri"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="PORNEŞTE toate luminile"
+"are_all_your_lights_on_they_mu"="Toate luminile %1$s sunt pornite?Trebuie să fie PORNITE pentru a muta reostatul wireless"
+"press_the_link_button"="Apasă butonul „link”"
+"to_control_the_new_group_just_"="Pentru a controla noul grup, deschide reostatul wireless şi apasă butonul „link”. Dispozitivul tău va fi mutat."
+"i_did_it"="Efectuat"
+"to_finish_removing_your_remote"="Pentru a termina de eliminat telecomanda, resetează apăsând butonul „link” de 4 ori. Apoi ai terminat!"
+"to_finish_removing_your_motion"="Pentru a termina de eliminat senzorul de mişcare, resetează apăsând butonul „link” de 4 ori. Apoi ai terminat!"
+"to_finish_removing_your_wirele"="Pentru a termina de eliminat reostatul wireless, resetează apăsând butonul „link” de 4 ori. Apoi ai terminat!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Pentru a muta dispozitivul, deschide reostatul wireless în %1$s, apoi apasă butonul „link”."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Pentru a muta dispozitivul, deschide reostatele wireless în %1$s şi %2$s, apoi apasă butonul „link” de pe ambele"
+"required_update"="Actualizare necesară"
+"update_required_tradfri_needs_"="Actualizare necesară. TRÅDFRI are nevoie de o actualizare pentru a funcţiona bine în continuare. Aplicaţia nu va fi disponibilă în timpul actualizării."
+"an_important_update_has_been_p"="S-a efectuat o actualizare importantă, iar Trådfri a fost a actualizat cu ultima versiune"
+"reconnect_to_gateway"="Reconectează-te la gateway"
+"is_your_light_on"="Lumina este pornită?"
+"if_not_turn_it_on_to_successfu"="Dacă nu, porneşte-o pentru a elimina dispozitivul."
+"to_remove_your_light_open_the_"="Pentru a elimina lumina, deschide reostatul wireless în %1$s şi apasă butonul „link”."
+"wireless_motion_sensor"="Senzor de mişcare wireless"
+"please_confirm"="Muţi %1$s?"
+"gently_rotate_your_wireless_di"="Pentru a confirma, roteşte uşor reostatul wireless."
+"we_did_not_detect_any_action_o"="Dispozitivul nu a răspuns."
+"wave_your_hand_in_front_of_the"="Pentru a confirma, mişcă mâna în faţa senzorului de mişcare."
+"enter_group_name"="Introdu un nume pentru grup"
+"enter_accessory_name"="Introdu un nume pentru accesoriu"
+"remove_"="Elimină %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Bec cu spectru alb cald"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Setează starea înainte de a salva, iar starea ta va fi inclusă."
+"my_moods"="Stările mele"
+"create_a_mood_and_save_it_for_"="Creează o stare, apoi salveaz-o pentru acces instantaneu"
+"light_unreachable"="Lumina nu poate fi accesată"
+"if_you_create_or_edit_a_mood_while"="Dacă creezi sau modifici o stare, dar o lumină nu poate fi accesată, aceasta va fi ignorată pentru stare. Asigură-te că luminile sunt pornite înainte de a continua"
+"edit_moods"="MODIFICĂ STĂRILE"
+"edit_mood"="MODIFICĂ STAREA"
+"brightness"="INTENSITATE | %1$s"
+"disconnect_app"="DECONECTEAZĂ APLICAŢIA"
+"clear_all_settings"="Şterge toate setările"
+"this_will_delete_all_Moods"="În acest fel vei şterge toate stările şi temporizatoarele şi vei reseta toate setările. În timpul resetării, toate dispozitivele se vor deconecta de la gateway"
+"are_you_sure_you_want_to_clear"="Sigur doreşti să ştergi toate setările?"
+"clear"="Şterge"
+"cleared"="ŞTERS"
+"clearing"="ÎN CURS DE ŞTERGERE..."
+"see_details"="Vezi detaliile"
+"update_did_not_complete"="Actualizarea nu s-a finalizat"
+"one_or_more_devices_didnt_upda"="Unul sau mai multe dispozitive nu s-au actualizat. Stai liniştit, lumina va funcţiona în continuare"
+"your_moods_are_still_loading_"="Stările încă se încarcă. Încearcă din nou peste câteva secunde."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Nu s-a actualizat"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Becuri"
+"waiting_for_gateway"="Se aşteaptă gateway-ul"
+"wireless_dimmers"="Reostate wireless"
+"theres_an_important_new_update"="Există o nouă actualizare importantă pentru TRÅDFRI."
+"close"="Închide"
+"update_pending"="Actualizare în aşteptare"
+"your_devices_are_being_updated"="Dispozitivele sunt în curs de actualizare. Poţi continua să utilizezi TRÅDFRI ca de obicei."
+"start_update"="Începe actualizarea"
+"continue_to_use_your_lights_as"="Continuă să foloseşti luminile ca de obicei; actualizările se vor efectua în fundal. Este posibil ca aplicaţia să nu fie disponibilă pentru o scurtă perioadă de timp."
+"panel"="Panou"
+"door"="Uşă"
+"panels"="Panouri"
+"doors"="Uşi"
+"check_for_updates"="Verifică dacă există actualizări"
+"update_now"="Actualizează acum"
+"view_update_details"="Vezi detaliile actualizării"
+"all_your_devices_are_updated_t"="Toate dispozitivele sunt actualizate cu cea mai recentă versiune."
+"your_gateway_didnt_update_dont"="Gateway-ul tău nu s-a actualizat. Stai liniştit, lumina va funcţiona în continuare"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Nu reuşim să ne conectăm la gateway-ul tău"
+"we_couldnt_connect_to_your_dev"="Nu am reuşit să ne conectăm la dispozitivele tale. Dacă problema persistă, opreşte gateway-ul şi reporneşte-l"
+"we_couldnt_find_your_gateway_m"="Nu am reuşit să găsim gateway-ul tău. Asigură-te că este conectat la ruter prin cablu şi că telefonul este conectat la aceeaşi reţea."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Cer rece"
+"_eaf6fb"="Lumină de zi rece"
+"_f5faf6"="Alb rece"
+"_f2eccf"="Răsărit de soare"
+"_f1e0b5"="Alb cald"
+"_efd275"="Strălucire caldă"
+"_ebb63e"="Lumină de lumânare"
+"_e78834"="Chihlimbar cald"
+"_e57345"="Piersică"
+"_da5d41"="Piersică închisă"
+"_dc4b31"="Roşu pur"
+"_e491af"="Roz"
+"_e8bedd"="Roz pal"
+"_d9337c"="Roz pur"
+"_c984bb"="Violet deschis"
+"_8f2686"="Violet pur"
+"_4a418a"="Albastru"
+"_6c83ba"="Albastru deschis"
+"_a9d62b"="Lime"
+"_d6e44b"="Galben"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Apasă rapid şi ţine apăsat butonul de lângă %1$s de 4 ori. O lumină roşie va clipi pe telecomandă.<br/><br/><b>b.</b> Aşteaptă 10 secunde după ce lumina s-a oprit din clipit. Apoi poţi continua.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Ţine telecomanda la 2 cm de gateway.<br/><br/><b>b.</b> Apasă şi ţine apăsat butonul de lângă %1$s de pe telecomandă până când %1$s de pe gateway va clipi rapid de 4 ori.<br/><br/><b>c.</b> Aşteaptă confirmarea aici în aplicaţie.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Ţine senzorul de mişcare la 2 cm de gateway.<br/><br/><b>b.</b> Apasă şi ţine apăsat butonul de lângă %1$s de pe senzorul de mişcare până când lumina de deasupra %1$s de pe gateway va clipi rapid de 4 ori.<br/><br/><b>c.</b> Aşteaptă confirmarea aici în aplicaţie.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Ţine reostatul wireless la 2 cm de caseta albă de pe spatele uşii ori panoului.<br/><br/><b>b.</b> Apasă şi ţine apăsat butonul de lângă %1$s timp de 10 secunde. Sursa de lumină va începe să scadă şi să crească în intensitate. Ţine butonul apăsat până când variaţia se opreşte.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Ţine reostatul wireless la 2 cm de bec.<br/><br/><b>b.</b> Apasă şi ţine apăsat butonul de lângă %1$s timp de 10 secunde. Sursa de lumină va începe să scadă şi să crească în intensitate. Ţine butonul apăsat până când variaţia se opreşte.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Ţine senzorul de mişcare la 2 cm de bec.<br/><br/><b>b.</b> Apasă şi ţine apăsat butonul %1$s timp de 10 secunde. Sursa de lumină va începe să scadă şi să crească în intensitate. Ţine butonul apăsat până când variaţia se opreşte.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Ţine senzorul de mişcare la 2 cm de caseta albă de pe spatele uşii ori panoului.<br/><br/><b>b.</b> Apasă şi ţine apăsat butonul %1$s timp de 10 secunde. Sursa de lumină va începe să scadă şi să crească în intensitate. Ţine butonul apăsat până când variaţia se opreşte.]]>"
+"found"="S-a găsit %1$s"
+"perfect_is_now_connected_to_tr"="Perfect! %1$s este acum conectat la TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Conectat"
+"disconnected_"="Deconectat"
+"find_detailed_help_in_our_trou"="Caută ajutor detaliat în ghidul nostru de depanare."
+"disconnect_from_your_gateway"="Deconectează-te de la gateway"
+"are_you_sure_you_want_to_disco"="Sigur doreşti să te deconectezi?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Versiunea Trådfri"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Temporizatoarele utilizează aceleaşi lumini"
+"you_have_two_timers_using_the_"="Ai două temporizatoare care utilizează aceleaşi lumini. Resetează.\nsau\nAi două temporizatoare care utilizează aceleaşi perioade de timp. Resetează pentru a menţine luminile pe intervalul corect"
+"your_timers_are_still_loading_"="Temporizatoarele încă se încarcă. Încearcă din nou peste câteva secunde."
+"which_day"="%1$s Ce zi?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Caută ajutor"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Ţine telecomanda la 2 cm de bec.<br /><br /><b>b.</b> Apasă şi ţine apăsat butonul de lângă %1$s timp de 10 secunde. Sursa de lumină va începe să scadă şi să crească în intensitate. Ţine butonul apăsat până când variaţia se opreşte.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Ţine telecomanda la 2 cm de caseta albă de pe spatele uşii ori panoului.<br /><br /><b>b.</b> Apasă şi ţine apăsat butonul de lângă %1$s timp de 10 secunde. Sursa de lumină va începe să scadă şi să crească în intensitate. Ţine butonul apăsat până când variaţia se opreşte.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Apasă rapid butonul de lângă %1$s de 4 ori. O lumină roşie va clipi pe senzorul de mişcare.<br /><br /><b>b.</b> Aşteaptă 10 secunde după ce lumina s-a oprit din clipit. Apoi poţi continua.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Apasă rapid butonul de lângă %1$s de 4 ori. O lumină roşie va clipi pe reostatul wireless.<br /><br /><b>b.</b> Aşteaptă 10 secunde după ce lumina s-a oprit din clipit. Apoi poţi continua]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Ţine reostatul wireless la 2 cm de gateway.<br /><br /><b>b.</b> Apasă şi ţine apăsat butonul de lângă %1$s de pe reostatul wireless până când lumina de deasupra %1$s de pe gateway va clipi rapid de 4 ori.<br /><br /><b>c.</b> Aşteaptă confirmarea aici în aplicaţie.]]>"
+"are_you_sure_you_want_to_delete_mood"="Sigur doreşti să ştergi \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Bec cu spectru alb cald"
+"bulb_e27_w_opal_1000lm"="Bec cu spectru alb cald"
+"bulb_e26_opal_1000lm"="Bec cu spectru alb cald"
+"bulb_e12_ws_opal_400lm"="Bec cu spectru alb"
+"bulb_e26_ws_clear_950lm"="Bec cu spectru alb"
+"bulb_e26_ws_opal_980lm"="Bec cu spectru alb"
+"bulb_e27_ws_opal_980lm"="Bec cu spectru alb"
+
+<!--3rd PARTY DEVICES* -->
+"device"="dispozitiv"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integrări"
+"eg_amazon_alexa_apple_homekit"="De exemplu: Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Utilizează-ţi vocea pentru a trimite comenzi sistemului de lumini TRÅDFRI cu Amazon Alexa.\n\nDe exemplu: „Alexa, aprinde lumina”\n„Alexa, redu lumina cu 50%.”"
+"enable"="Activează"
+"disable"="Dezactivează"
+"you_are_logged_in"="Eşti conectat."
+"to_get_started_enable_the_trad"="Pentru a începe, activează TRÅDFRI în aplicaţia Alexa. Apoi spune: „Alexa, găseşte dispozitivele mele.”"
+"ensure_your_alexa_device_is_s"="Verifică dacă dispozitivul Alexa este configurat"
+"to_continue_your_alexa_device"="Pentru a continua, dispozitivul Alexa trebuie să fie pornit şi să funcţioneze. Urmează instrucţiunile din Ghidul de pornire rapidă pentru Amazon Alexa."
+
+<!-- Whats New Strings* -->
+"whats_new"="Noutăţi"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Configurează-ţi toate dispozitivele conectate pentru a funcţiona mai bine şi mai inteligent pentru tine. TRÅDFRI funcţionează acum cu Apple HomeKit."
+"learn_more"="Află mai multe"
+"use_your_voice_to_control_your"="Utilizează-ţi vocea pentru a trimite comenzi sistemului de lumini TRÅDFRI cu Amazon Alexa. Aprinde şi stinge luminile sau reglează intensitatea."
+"disable_amazon_alexa"="Doreşti să dezactivezi Amazon Alexa?"
+"you_will_no_longer_be_able_to_"="Nu vei mai putea controla dispozitivele TRÅDFRI cu Amazon Alexa."
+"problem_connecting_to_amazon"="Problemă la conectarea la Amazon"
+"please_try_again"="Încearcă din nou."
+"accept_the_terms_of_use"="Acceptă termenii de utilizare"
+"in_order_to_enable_amazon_alex"="Pentru a activa Amazon Alexa, trebuie să accepţi termenii de utilizare."
+"cant_connect_to_amazon"="Imposibil de conectat la Amazon"
+"check_your_internet_connection"="Verifică conexiunea la internet şi încearcă din nou."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Luminile încep să devină mai intense la %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Afişează detaliile actualizării"
+"gateway_update_required"="Este necesară actualizarea gateway-ului"
+"to_use_this_new_feature_you_ne"="Pentru a utiliza această funcţie nouă, trebuie să actualizezi software-ul gateway-ului la ultima versiune."
+"later"="Mai târziu"
+"gateway_update_available"="Este disponibilă o actualizare pentru gateway"
+"to_use_new_features_you_need_t"="Pentru a utiliza noile funcţii, trebuie să actualizezi software-ul gateway-ului la ultima versiune."
+"new_update_available"="Este disponibilă o nouă actualizare"
+"in_order_to_control_your_devic"="Pentru a controla dispozitivele din telefon, trebuie să actualizezi aplicaţia TRÅDFRI."
+"as_a_security_precaution_you_h"="Ca măsură de precauţie, ai fost deconectat de la gateway.\n \nReconectează-te la gateway pentru a continua."
+"unknown_device"="Dispozitiv necunoscut"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Becuri color"
+"now_you_can_decorate_your_home"="Acum îţi poţi decora casa cu lumină colorată."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Aproape ai terminat. Deschide aplicaţia Google Home pentru a activa comanda vocală pe dispozitivele tale TRÅDFRI."
+"set_up_tradfri_for_voice_contr"="Configurează TRÅDFRI pentru comenzi vocale prin Asistentul Google.\n\nDe exemplu: Ok, Google, aprinde lumina sau ok, Google, redu lumina cu 50%."
+"are_you_using_a_google_home_de"="Foloseşti un dispozitiv Google Home?"
+"if_youre_using_a_google_home_d"="Dacă foloseşti un dispozitiv Google Home, asigură-te că este pornit în acest moment.\nDacă foloseşti Asistentul Google doar pe telefonul tău, continuă."
+"cant_connect_to_google"="Nu mă pot conecta la Google"
+"disable_google_assistant"="Doreşti să dezactivezi Asistentul Google?"
+"you_will_no_longer_be_able_to_contro"="Nu vei mai putea controla dispozitivele TRÅDFRI cu Google Home."
+"google_assistant_could_not_be_"="Asistentul Google nu poate fi activat"
+"google_assistant"="Asistent Google"
+"use_voice_control_to_adjust_yo"="Foloseşte comanda vocală pentru a regla dispozitivele TRÅDFRI cu Asistentul Google. Porneşte-le, schimbă culorile sau reglează intensitatea luminii."
+"you_cant_have_two_timers_on_a"="Nu poţi avea două temporizatoare pornite în acelaşi timp atunci când foloseşti aceleaşi lumini."
+"multicolored_bulb_title"="Becuri multicolore"
+"multicolored_bulb_desc"="Decorează-ţi casa cu lumini colorate. Familia Trådfri a crescut."
+"something_went_wrong"="A apărut o eroare."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Gestionează dispozitivele"
+"devices"="dispozitive"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Informaţii juridice"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="DECONECTEAZĂ-TE DE LA GATEWAY"
+"in_progress"="În curs…"
+"turn_everything_off"="OPREŞTE TOATE DISPOZITIVELE"
+"all_devices_are_off"="Toate dispozitivele sunt oprite."
+"devices_on"="Dispozitivele %1$s sunt pornite"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Programează luminile să se aprindă şi să se stingă, chiar şi atunci când nu eşti acasă."
+"on_and_off_small"="Pornit şi oprit"
+"group_must_be_empty_to_delete"="Grupul trebuie golit înainte de a-l şterge."
+"please_remove_all_devices"="Elimină toate dispozitivele din grup."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Asistentul Google nu poate fi dezactivat"
+"please_verify_your_internet_co"="Verifică conexiunea la internet şi încearcă din nou.\n\nDacă aplicaţia nu se conectează după mai multe încercări, încearcă să elimini toate celelalte integrări pe care le-ai activat."
+"try_disable_again"="ÎNCEARCĂ DIN NOU SĂ DEZACTIVEZI"
+"remove_integration"="ELIMINĂ INTEGRĂRILE"
+"cant_connect"="Nu mă pot conecta"
+"remove_all_integration"="Doreşti să elimini toate integrările?"
+"are_you_sure_this_will_remove_"="Eşti sigur? Această acţiune va elimina TOATE integrările pe care le-ai activat."
+"amazon_alexa_could_not_be_disa"="Amazon Alexa nu poate fi dezactivat"
+"please_verify_your_internet_connect"="Verifică conexiunea la internet şi încearcă din nou.\n\nDacă aplicaţia nu se conectează după mai multe încercări, selectează ELIMINĂ INTEGRĂRILE pentru a le reseta şi pentru a încerca din nou.\nAceastă acţiune va elimina TOATE integrările pe care le-ai activat, inclusiv Amazon Alexa."
+"eg_amazon_alexa_google_assista"="De exemplu, Amazon Alexa, Asistent Google"
+

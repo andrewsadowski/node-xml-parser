@@ -1,0 +1,607 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="Dzień dobry!"
+"i_agree_to_the"="Akceptuję"
+"plug_in_your_gateway"="Podłącz bramkę"
+"next"="DALEJ"
+"connect"="POŁĄCZ"
+"terms_conditions"="Regulamin"
+"please_agree_to_continue"="Zaakceptuj, aby kontynuować."
+"connecting_to_your_gateway"="Łączenie z bramką…"
+"plug_your_gateway_into_a_power"="Podłącz bramkę do gniazdka zasilania i połącz ją z ruterem WiFi za pomocą przewodu Ethernet znajdującego się w zestawie."
+"congrats"="Gratulujemy!"
+"and"="i"
+"connect_to_wifi"="Połącz z WiFi"
+"this_name_is_already_in_use_pl"="Ta nazwa jest już używana. Spróbuj podać inną."
+"welcome_to_the_tradfri_lightin"="Witamy w systemie oświetleniowym TRÅDFRI. To najprostszy sposób, aby uzyskać w domu piękne światło. Chcesz rozpocząć konfigurację systemu?"
+"enter_the_gateway_ip"="Wprowadź adres IP bramki"
+"gateway_ip"="Adres IP bramki"
+"if_the_gateway_is_plugged_in_c"="Jeśli bramka jest podłączona prawidłowo, a mimo to nadal nie można jej odnaleźć, konieczne może być ręczne wpisanie adresu IP bramki. Więcej informacji znajdziesz na stronie wsparcia."
+"the_gateway_ip_is_incorrect"="Adres IP bramki jest nieprawidłowy."
+"you_must_be_connected_to_your_"="Musisz nawiązać połączenie z siecią WiFi, aby sterować systemem TRÅDFRI za pomocą aplikacji."
+"these_are_your_tradfri_devices"="Oto twoje urządzenia TRÅDFRI"
+"lets_get_started"="ZATEM ZACZYNAJMY"
+"get_started"="ROZPOCZNIJ"
+"youre_now_connected_to_the_gat"="Nastąpiło połączenie z bramką. Teraz podłączmy twoje urządzenia."
+"add_another_device"="Dodaj inne urządzenie"
+"finding_gateway"="Wyszukiwanie bramki..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Skanowanie..."
+"type_in_the_code_instead"="Zamiast tego wpisz kod"
+"youll_find_the_code_on_the_bac"="Kod znajdziesz z tyłu bramki."
+"we_found_the_code"="Znaleźliśmy kod."
+"hold_on_while_we_verify_the_co"="Trwa weryfikacja kodu..."
+"scan"="SKANUJ"
+"now_scan_the_code"="Teraz zeskanuj kod"
+"enable_camera"="WŁĄCZ APARAT"
+"type_in_the_serial_number"="Wpisz numer seryjny"
+"type_in_the_security_code"="Wpisz kod zabezpieczający"
+"serial_number"="Numer seryjny"
+"security_code"="Kod zabezpieczający"
+"youll_find_it_on_the_back_of_y"="Znajdziesz go z tyłu bramki."
+"youll_find_them_both_on_the_ba"="Oba znajdziesz z tyłu bramki."
+"this_serial_number_is_incorrec"="Numer seryjny jest nieprawidłowy"
+"type_in_the_serial_number_and_"="Wpisz numer seryjny i kod zabezpieczający"
+"enable_your_camera_to_scan_the"="Włącz aparat, aby zeskanować kod."
+"type_in_the_code"="WPISZ KOD"
+"the_security_key_should_be_dig"="Klucz zabezpieczający powinien składać się z 16 cyfr"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Rozpocznij od wybrania urządzenia, które chcesz dodać"
+"open_the_back_of_the_remote_co"="1. Otwórz tył pilota"
+"reset_the_remote_control"="2. Zresetuj pilot"
+"connect_the_remote_control"="3. Podłącz pilot"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Włącz światło"
+"make_sure_that_your_light_is_i"="Upewnij się, że światło jest zainstalowane, a główny włącznik zasilania jest włączony."
+"which_control_device_are_you_u"="2. Jakiego urządzenia sterującego używasz?"
+"remember_to_use_a_control_devi"="Pamiętaj, aby użyć urządzenia sterującego, które jest już podłączone."
+"connect_the_light"="3. Podłącz światło"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Wyszukiwanie urządzeń..."
+"bulb"="Żarówka"
+"door_or_panel"="Drzwi lub panel"
+"open_the_back_of_the_motion_se"="1. Otwórz tył czujnika ruchu"
+"reset_the_motion_sensor"="2. Zresetuj czujnik ruchu"
+"connect_the_motion_sensor"="3. Podłącz czujnik ruchu"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Otwórz tył bezprzewodowego regulatora światła"
+"reset_the_wireless_dimmer"="2. Zresetuj bezprzewodowy regulator światła"
+"connect_the_wireless_dimmer"="3. Podłącz bezprzewodowy regulator światła"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Wyszukiwanie urządzenia"
+"which_device_would_you_like_to"="Które urządzenie chcesz dodać?"
+"now_add_your_lights"="Teraz dodaj światła"
+"they_can_be_added_after_youve_"="Można je dodać po podłączeniu urządzenia sterującego."
+"ill_do_this_later"="Zrobię to później"
+"delete_mood"="Usuń nastrój"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Aby potwierdzić przeniesienie urządzenia, naciśnij dowolny przycisk na urządzeniu. Może być konieczne kilkukrotne naciśnięcie przycisku."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="MÓJ DOM"
+"add_lights"="DODAJ ŚWIATŁA"
+"no_lights_have_been_added_to_t"="Do tej grupy nie dodano jeszcze świateł."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Wprowadź nazwę nastroju."
+"please_pick_another_name_this_"="Wybierz inną nazwę, ta jest już używana."
+"moods_by_ikea"="Nastroje z IKEA"
+"new_mood"="Nowy nastrój"
+"please_enter_a_mood_name"="Wprowadź nazwę nastroju."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Wyłącz"
+"turn_on"="Włącz"
+"min"="Min."
+"max"="Maks."
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Nie można znaleźć jednego urządzenia"
+"devices_cannot_be_found"="Nie można znaleźć urządzenia %1$s"
+"one_remote_has_a_low_battery"="Słaba bateria w pilocie"
+"one_motion_sensor_has_a_low_ba"="Słaba bateria w czujniku ruchu"
+"remotes_have_low_batteries"="Słabe baterie w pilotach %1$s"
+"devices_have_low_batteries"="Słabe baterie w urządzeniach %1$s"
+"updating"="Aktualizowanie…"
+"update_successful"="Aktualizacja przebiegła pomyślnie"
+"was_added_to_a_new_group"="Urządzenie %1$s zostało dodane do nowej grupy."
+"was_removed"="Urządzenie %1$s zostało usunięte"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Grupy"
+"rename_group"="Zmień nazwę grupy"
+"add_new_group"="Dodaj nową grupę"
+"add_devices"="Dodaj urządzenia"
+"new_group"="Nowa grupa"
+"group_name"="Nazwa grupy"
+"low_battery"="Słaba bateria"
+"manage_your_devices"="Zarządzaj urządzeniami"
+"devices"="Urządzenia"
+"last_seen_ago"="Ostatnio wyświetlane %1$s temu"
+"move_a_device_to_this_group_by"="Przenieś urządzenie do tej grupy, stukając w trzy kropki."
+"leaving_will_remove_new_group"="Brak akcji spowoduje usunięcie grupy"
+"groups_without_any_devices_wil"="Grupy bez urządzeń zostaną automatycznie usunięte."
+"move_to_other_group"="Przenieś do innej grupy"
+"rename_device"="Zmień nazwę urządzenia"
+"remove_device"="Usuń urządzenie"
+"select_destination_group"="Wybierz grupę docelową"
+"the_name_is_already_being_used"="Nazwa \" %1$s \" jest już zajęta."
+"remove_accessory"="Usunąć akcesorium?"
+"it_looks_like_there_was_a_prob"="Wygląda, że wystąpił problem podczas przenoszenia światła. Upewnij się, że światło jest włączone, i spróbuj przenieść je ponownie."
+"disconnected_devices"="Odłączone urządzenia"
+"add_new"="DODAJ NOWE"
+"device_was_not_moved"="Urządzenie nie zostało przeniesione"
+"unfortunately_you_cant_add_a_m"="Niestety nie można przenieść czujnika ruchu do grupy zawierającej bezprzewodowe regulatory światła lub piloty."
+"press_any_button_on_your_remot"="Naciśnij dowolny przycisk na pilocie."
+"great"="Świetnie!"
+"your_was_moved_to"="Urządzenie %1$s zostało przeniesione do %2$s."
+"are_you_sure_you_want_to_remov"="Czy na pewno chcesz usunąć element %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="TIMERY"
+"enabled"="włączone"
+"disabled"="wyłączone"
+"every_day"="Codziennie"
+"days"="Dni"
+"hours"="Godziny"
+"minutes"="Minuty"
+"seconds"="Sekundy"
+"mon"="Pon"
+"tue"="Wt"
+"wed"="Śr"
+"thu"="Czw"
+"fri"="Pt"
+"sat"="Sob"
+"sun"="Nie"
+"timer_is_not_set"="Ttimer nie został nastawiony"
+"mon_fri"="Pon–Pt"
+"cant_set_time"="Nie można nastawić czasu"
+"make_sure_you_set_your_timer_b"="Pamiętaj, by nastawić Ttimer, zanim wyjdziesz."
+"are_you_sure_you_want_to_delete_this_tim"="Czy na pewno chcesz usunąć ten Ttimer?"
+"add"="DODAJ"
+"am"="AM"
+"pm"="PM"
+"monday"="P"
+"tuesday"="W"
+"wednesday"="Ś"
+"thursday"="C"
+"friday"="P"
+"saturday"="S"
+"sunday"="N"
+"set_your_time"="Ustaw czas"
+"new_timer"="Nowy Timer"
+"what_time"="%1$s O której godzinie?"
+"which_lights"="%1$s Które światła?"
+"from"="od"
+"to"="do"
+"should_they_turn_on_or_off"="%1$s Czy mają zostać włączone czy wyłączone?"
+"save"="ZAPISZ"
+"set_your_lights_to_turn_on_or_"="Ustaw światła tak, aby włączały się lub wyłączały w określonym czasie."
+"set_your_lights_to_turn_on_or_off_e"="Ustaw światła tak, aby włączały się lub wyłączały o określonym czasie.\n\nŚwiatła będą pamiętać jasność i barwę od pierwszego użycia."
+"during_what_time"="%1$s O jakiej porze?"
+"you_cant_set_a_time_with_the_s"="Nie można nastawić tego samego czasu dla rozpoczęcia i zakończenia."
+"a_timer_has_been_updated"="Timer został zaktualizowany"
+"timers_have_been_updated"="Ttimery zostały zaktualizowane"
+"view"="Wyświetl"
+"you_are_now_using_the_maximum_"="Używasz teraz maksymalnej liczby Ttimerów."
+"timers_help_you_set_your_light"="Ttimery pomagają ustawić czas włączania i wyłączania oświetlenia. Dodaj go, aby rozpocząć!"
+"some_of_your_timers_was_update"="Niektóre Ttimery zostały zaktualizowane z innego urządzenia."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Powtórz"
+"rise_and_shine"="Wybudzanie światłem"
+"set_your_lights_to_wake_you_up"="Ustaw światła tak, aby cię budziły."
+"your_rise_and_shine_timer_was_"="Ttimer Wybudzanie światłem został zaktualizowany z innego urządzenia."
+"delete_rise_and_shine"="Usuń Wybudzanie światłem"
+"your_rise_and_shine_timer_just"="Ttimer Wybudzanie światłem został uruchomiony."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Poza domem"
+"out_and_about_set_your_lights_"="Nie ma cię w domu? Ustaw światła, aby włączały i wyłączały się tak, jakby ktoś był domu."
+"set_your_lights_to_slowly_dim_"="Ustaw światła tak, aby powoli zaczynały się ściemniać na 30 minut przed czasem określonym w Ttimerze. Światła będą się powoli rozjaśniać\n\n– tak jak poranne słońce."
+"your_away_from_home_timer_just"="Ttimer Poza domem został uruchomiony."
+"your_away_from_home_timer_was_"="Ttimer Poza domem został zaktualizowany z innego urządzenia."
+"delete_away_from_home"="Usuń Ttimer Poza domem"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="WŁĄCZ i WYŁĄCZ"
+"on_or_off"="WŁĄCZ lub WYŁĄCZ"
+"out_and_about_set_your_lights_to_tu"="Nie ma cię w domu? Ustaw światła, aby włączały i wyłączały się tak, jakby ktoś był domu.\n\nPamiętaj, aby nie wyłączać świateł włącznikiem ściennym. Będą pamiętać jasność i barwę od pierwszego użycia."
+"your_on_or_off_timer_just_star"="Ttimer Włącz lub Wyłącz został uruchomiony."
+"your_on_or_off_timer_was_updat"="Ttimer Włącz lub Wyłącz został zaktualizowany z innego urządzenia."
+"delete_on_or_off"="Usuń WŁĄCZ lub WYŁĄCZ"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="USTAWIENIA"
+"need_help"="Potrzebujesz pomocy?"
+"language"="Język"
+"default_language"="Domyślny język"
+"send_in_email"="WYŚLIJ W WIADOMOŚCI E-MAIL"
+"terms_and_conditions"="Regulamin"
+"privacy_policy"="Polityka prywatności"
+"software_licenses"="Licencje oprogramowania"
+"continue_"="Kontynuuj"
+"youve_selected_as_your_language_"="Wybrano język %1$s."
+"tradfri_terms_and_conditions"="Regulamin TRÅDFRI"
+"tradfri__privacy_policy"="Polityka prywatności TRÅDFRI"
+"tradfri_is_up_to_date"="System TRÅDFRI jest aktualny"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Dostępne są aktualizacje"
+"update"="AKTUALIZUJ"
+"unreachable"="Nieosiągalne"
+"update_details"="Szczegóły aktualizacji"
+"up_to_date"="Aktualne"
+"remote_controls"="Piloty"
+"motion_sensors"="Czujniki ruchu"
+"this_should_only_take_about_mi"="Powinno to potrwać około 1 minuty."
+"dismiss"="PORZUĆ"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="ODŁĄCZ"
+"disconnecting"="ODŁĄCZANIE..."
+"disconnected"="ODŁĄCZONE"
+"disconnecting_allow_you_to_con"="Odłączenie pozwala na nawiązanie połączenia z inną bramką. Nie można używać obu jednocześnie, nie ma jednak powodu do obaw, gdyż wszystkie ustawienia dotychczasowej bramki zostaną zachowane."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Znaleziono nową bramkę"
+"gateway_is_rebooting"="Trwa ponowne uruchamianie bramki..."
+"connect_to_new_gateway"="Połącz z nową bramką"
+"you_cant_connect_to_your_curre"="Nie można nawiązać połączenia z dotychczasową bramką, ale dostępna jest inna bramka. Czy chcesz połączyć się z nową bramką?"
+"connecting_will_disconnect_you"="Połączenie z tą bramką spowoduje rozłączenie z dotychczasową. Nie ma jednak powodu do obaw, wszystkie ustawienia dotychczasowej bramki zostaną zachowane."
+"try_again"="SPRÓBUJ PONOWNIE"
+"oops"="Ups!"
+"youre_about_to_remove_the_last"="Zaraz usuniesz ostatnie urządzenie"
+"your_light_needs_to_be_turned_"="Musisz najpierw włączyć światło włącznikiem, aby móc go używać."
+"remember_to_turn_on_your_light"="Pamiętaj, aby włączyć światła"
+"oops_something_went_wrong"="Ups! Coś poszło nie tak."
+"enter_the_gateway_ip_manually"="Wprowadź adres IP bramki ręcznie"
+"gateway_is_updating"="Trwa aktualizowanie bramki..."
+"your_gateway_software_is_being"="Oprogramowanie bramki jest aktualizowane, aby zapewnić użytkownikowi jak najlepsze możliwości korzystania z systemu. Bramka będzie niedostępna przez kilka minut, ale możesz normalnie korzystać ze świateł i pilota."
+"unable_to_connect_to_tradfri"="Nie można połączyć z systemem TRÅDFRI"
+"it_looks_like_you_scanned_the_"="Wygląda na to, że został zeskanowany nieprawidłowy kod. Spróbuj ponownie zeskanować kod znajdujący się na spodzie bramki."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Żarówka ze światłem białym"
+"bulb_e27_white_spectrum_globe_clear"="Żarówka ze światłem białym"
+"bulb_e27_white_spectrum_globe_opal"="Żarówka ze światłem białym"
+"bulb_e14_white_spectrum_globe_"="Żarówka ze światłem białym"
+"color_white_spectrum_bulb"="Żarówka ze światłem kolorowym/białym"
+"bulb_e14_color_white_spectrum_"="Żarówka ze światłem kolorowym/białym"
+"white_spectrum_panel"="Panel ze światłem białym"
+"panel_white_spectrum_30_90"="Panel ze światłem białym"
+"panel_white_spectrum_60_60"="Panel ze światłem białym"
+"color_white_spectrum_panel"="Panel ze światłem kolorowym/białym"
+"white_spectrum_door"="Drzwi ze światłem białym"
+"door_white_spectrum_36_84"="Drzwi ze światłem białym"
+"remote_control"="Pilot"
+"motion_sensor"="Czujnik ruchu"
+"wireless_dimmer"="Bezprzewodowy regulator światła"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Przenieś"
+"rename"="Zmień nazwę"
+"remove"="Usuń"
+"off"="Wył."
+"done"="GOTOWE"
+"cancel"="ANULUJ"
+"ok"="OK"
+"confirm"="POTWIERDŹ"
+"delete"="Usuń"
+"proceed"="Kontynuuj"
+"group"="Grupa"
+"plug"="Wtyczka"
+"everyday"="Codzienne"
+"focus"="Skupienie"
+"relax"="Relaks"
+"plugs"="Wtyczki"
+"gateway"="Bramka"
+"gateways"="Bramki"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Włącz wszystkie światła"
+"are_all_your_lights_on_they_mu"="Czy wszystkie światła %1$s są włączone? Muszą być włączone, aby udało się skutecznie przenieść bezprzewodowy regulator światła"
+"press_the_link_button"="Naciśnij przycisk połączenia"
+"to_control_the_new_group_just_"="Aby sterować nową grupą, wystarczy otworzyć Bezprzewodowy regulator światła i nacisnąć przycisk połączenia. Urządzenie zostanie przeniesione."
+"i_did_it"="Gotowe"
+"to_finish_removing_your_remote"="Aby dokończyć usuwanie pilota, zresetuj go, naciskając przycisk 4 razy. Zrobione!"
+"to_finish_removing_your_motion"="Aby dokończyć usuwanie czujnika ruchu, zresetuj go, naciskając 4 razy przycisk połączenia. Zrobione!"
+"to_finish_removing_your_wirele"="Aby dokończyć usuwanie bezprzewodowego regulatora światła, zresetuj go, naciskając 4 razy przycisk połączenia. Zrobione!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Aby przenieść urządzenie, otwórz bezprzewodowy regulator światła w urządzeniu %1$s i naciśnij przycisk połączenia."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Aby przenieś urządzenie, otwórz bezprzewodowe regulatory światła w %1$s i %2$s i naciśnij przyciski połączenia na obu"
+"required_update"="Wymagana aktualizacja"
+"update_required_tradfri_needs_"="Wymagana jest aktualizacja. System TRÅDFRI należy zaktualizować, aby sprawnie działał. W trakcie aktualizacji aplikacja będzie niedostępna."
+"an_important_update_has_been_p"="Przeprowadzono ważną aktualizację i system Trådfri został zaktualizowany do najnowszej wersji"
+"reconnect_to_gateway"="Podłącz ponownie ruter z bramką"
+"is_your_light_on"="Czy światło jest włączone?"
+"if_not_turn_it_on_to_successfu"="Jeśli nie, włącz je, aby z powodzeniem usunąć urządzenie."
+"to_remove_your_light_open_the_"="Aby usunąć źródło światła, otwórz bezprzewodowy regulator światła w urządzeniu %1$s i naciśnij przycisk połączenia."
+"wireless_motion_sensor"="Bezprzewodowy czujnik ruchu"
+"please_confirm"="Przenieść urządzenie %1$s?"
+"gently_rotate_your_wireless_di"="Aby potwierdzić, przekręć delikatnie pokrętło bezprzewodowego regulatora światła."
+"we_did_not_detect_any_action_o"="Urządzenie nie reaguje."
+"wave_your_hand_in_front_of_the"="Aby potwierdzić, pomachaj ręką przed czujnikiem ruchu."
+"enter_group_name"="Wpisz nazwę grupy"
+"enter_accessory_name"="Wpisz nazwę akcesorium"
+"remove_"="Usuń %1$s"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Biała ciepła żarówka"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Ustaw nastrój przed zapisaniem, nastrój zostanie uwzględniony."
+"my_moods"="Moje nastroje"
+"create_a_mood_and_save_it_for_"="Utwórz nastrój i zapisz go, aby był dostępny od ręki"
+"light_unreachable"="Źródło światła jest nieosiągalne"
+"if_you_create_or_edit_a_mood_while"="Jeśli utworzysz lub zmodyfikujesz nastrój w czasie, gdy źródło światło jest nieosiągalne, będzie ono w tym nastroju ignorowane. Przed dalszymi działaniami upewnij się, że źródła światła są włączone"
+"edit_moods"="EDYTUJ NASTROJE"
+"edit_mood"="EDYTUJ NASTRÓJ"
+"brightness"="JASNOŚĆ | %1$s"
+"disconnect_app"="ODŁĄCZ APLIKACJĘ"
+"clear_all_settings"="Wyczyść wszystkie ustawienia"
+"this_will_delete_all_Moods"="Spowoduje to usunięcie wszystkich Nastrojów i Timerów oraz wyzerowanie wszystkich ustawień. Zerowanie spowoduje odłączenie wszystkich urządzeń od bramki"
+"are_you_sure_you_want_to_clear"="Czy na pewno chcesz wyczyścić wszystkie ustawienia?"
+"clear"="Wyczyść"
+"cleared"="WYCZYSZCZONE"
+"clearing"="CZYSZCZENIE…"
+"see_details"="Sprawdź szczegóły"
+"update_did_not_complete"="Aktualizacji nie została ukończona"
+"one_or_more_devices_didnt_upda"="Co najmniej jedno z urządzeń nie zostało zaktualizowane. Nie martw się – światła będą działały dalej."
+"your_moods_are_still_loading_"="Nastroje wciąż się ładują. Spróbuj ponownie za kilka sekund."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Niezaktualizowane"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Żarówki"
+"waiting_for_gateway"="Oczekiwanie na bramkę"
+"wireless_dimmers"="Bezprzewodowe regulatory światła"
+"theres_an_important_new_update"="Dostępna jest nowa, ważna aktualizacja systemu TRÅDFRI."
+"close"="Zamknij"
+"update_pending"="Oczekująca aktualizacja"
+"your_devices_are_being_updated"="Twoje urządzenia są aktualizowane. Systemu TRÅDFRI można normalnie używać."
+"start_update"="Rozpocznij aktualizację"
+"continue_to_use_your_lights_as"="Korzystaj dalej ze świateł jak zwykle – aktualizacja zostanie przeprowadzona w tle. Aplikacja może przez krótki czas być niedostępna."
+"panel"="Panel"
+"door"="Drzwi"
+"panels"="Panele"
+"doors"="Drzwi"
+"check_for_updates"="Sprawdź, czy nie ma aktualizacji"
+"update_now"="Aktualizuj teraz"
+"view_update_details"="Przejrzyj szczegóły aktualizacji"
+"all_your_devices_are_updated_t"="Wszystkie urządzenia zostały zaktualizowane do najnowszej wersji."
+"your_gateway_didnt_update_dont"="Bramka nie została zaktualizowana. Nie martw się – światła będą działały dalej."
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Nie można nawiązać połączenia z bramką."
+"we_couldnt_connect_to_your_dev"="Nie można nawiązać połączenia z urządzeniami. Jeśli problem nie ustąpi, wyłącz bramkę i włącz ją ponownie"
+"we_couldnt_find_your_gateway_m"="Nie można znaleźć bramki. Upewnij się, że jest ona podłączona przewodem do rutera i że telefon jest podłączony do tej samej sieci."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Zimne niebo"
+"_eaf6fb"="Zimne światło dzienne"
+"_f5faf6"="Chłodna biel"
+"_f2eccf"="Wschód słońca"
+"_f1e0b5"="Ciepła biel"
+"_efd275"="Ciepły blask"
+"_ebb63e"="Światło świec"
+"_e78834"="Bursztynowy"
+"_e57345"="Brzoskwiniowy"
+"_da5d41"="Ciemnobrzoskwiniowy"
+"_dc4b31"="Ciemnoczerwony"
+"_e491af"="Różowy"
+"_e8bedd"="Jasnoróżowy"
+"_d9337c"="Ciemnoróżowy"
+"_c984bb"="Jasnofioletowy"
+"_8f2686"="Ciemnofioletowy"
+"_4a418a"="Niebieski"
+"_6c83ba"="Jasnoniebieski"
+"_a9d62b"="Limonkowy"
+"_d6e44b"="Żółty"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Szybko naciśnij i przytrzymaj 4 razy przycisk obok %1$s. Na pilocie zacznie migać czerwona lampka.<br/><br/><b>b.</b> Po ustaniu migania odczekaj 10 sekund. Można teraz kontynuować pracę.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Przytrzymaj pilota w odległości nie większej niż 2 cm od bramki.<br/><br/><b>b.</b> Naciśnij przycisk obok %1$s na pilocie i przytrzymaj, aż %1$s na bramce błyśnie szybko 4 razy.<br/><br/><b>c.</b> Zaczekaj na wyświetlenie potwierdzenia w aplikacji.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Przytrzymaj czujnik ruchu w odległości nie większej niż 2 cm od bramki.<br/><br/><b>b.</b> Naciśnij przycisk obok %1$s na czujniku ruchu i przytrzymaj, aż lampka powyżej %1$s na bramce błyśnie szybko 4 razy.<br/><br/><b>c.</b> Zaczekaj na wyświetlenie potwierdzenia w aplikacji.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Przytrzymaj bezprzewodowy regulator światła w odległości nie większej niż 2 cm od białego pudełka z tyłu drzwi lub panelu.<br/><br/><b>b.</b> Naciśnij i przytrzymaj przez 10 sekund przycisk obok %1$s. Źródło światła przyciemni się lub rozjaśni. Przytrzymaj przycisk, aż światło przestanie pulsować.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Przytrzymaj bezprzewodowy regulator światła w odległości nie większej niż 2 cm od żarówki.<br/><br/><b>b.</b> Naciśnij i przytrzymaj przez 10 sekund przycisk obok %1$s. Źródło światła przyciemni się lub rozjaśni. Przytrzymaj przycisk, aż światło przestanie pulsować.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Przytrzymaj czujnik ruchu w odległości nie większej niż 2 cm od żarówki.<br/><br/><b>b.</b> Naciśnij i przytrzymaj przez 10 sekund przycisk %1$s. Źródło światła przyciemni się lub rozjaśni. Przytrzymaj przycisk, aż światło przestanie pulsować.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Przytrzymaj czujnik ruchu w odległości nie większej niż 2 cm od białego pudełka z tyłu drzwi lub panelu.<br/><br/><b>b.</b> Naciśnij i przytrzymaj przez 10 sekund przycisk %1$s. Źródło światła przyciemni się lub rozjaśni. Przytrzymaj przycisk, aż światło przestanie pulsować.]]>"
+"found"="Znaleziono urządzenie %1$s"
+"perfect_is_now_connected_to_tr"="Doskonale! %1$s ma teraz połączenie z systemem TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Połączono"
+"disconnected_"="Odłączono"
+"find_detailed_help_in_our_trou"="Szczegółowe informacje pomocy można znaleźć w podręczniku rozwiązywania problemów."
+"disconnect_from_your_gateway"="Odłącz od bramki"
+"are_you_sure_you_want_to_disco"="Czy na pewno chcesz przeprowadzić odłączenie?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Wersja systemu Trådfri"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Timery używające tych samych źródeł światła"
+"you_have_two_timers_using_the_"="Masz dwa timery używające tych samych źródeł światła. Zresetuj system.\nLUB\nMasz ustawione identyczne okresy na dwóch timerach. Zresetuj system, aby źródła światła zapalały się we właściwym czasie"
+"your_timers_are_still_loading_"="Timery wciąż się ładują. Spróbuj ponownie za kilka sekund."
+"which_day"="%1$s Który dzień?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Uzyskaj pomoc"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Przytrzymaj pilota w odległości nie większej niż 2 cm od żarówki.<br /><br /><b>b.</b> Naciśnij i przytrzymaj przez 10 sekund przycisk obok %1$s. Źródło światła przyciemni się lub rozjaśni. Przytrzymaj przycisk, aż światło przestanie pulsować.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Przytrzymaj pilota w odległości nie większej niż 2 cm od białego pudełka z tyłu drzwi lub panelu.<br /><br /><b>b.</b> Naciśnij i przytrzymaj przez 10 sekund przycisk obok %1$s. Źródło światła przyciemni się lub rozjaśni. Przytrzymaj przycisk, aż światło przestanie pulsować.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Naciśnij 4 razy przycisk obok %1$s. Na czujniku ruchu zacznie migać czerwona lampka.<br /><br /><b>b.</b> Po ustaniu migania odczekaj 10 sekund. Można teraz kontynuować pracę.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Naciśnij 4 razy przycisk obok %1$s. Na bezprzewodowym regulatorze światła ruchu zacznie migać czerwona lampka.<br /><br /><b>b.</b> Po ustaniu migania odczekaj 10 sekund. Można teraz kontynuować pracę.]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Przytrzymaj bezprzewodowy regulator światła w odległości nie większej niż 2 cm od bramki.<br /><br /><b>b.</b> Naciśnij przycisk obok %1$s na bezprzewodowym regulatorze światła i przytrzymaj, aż światełko powyżej %1$s na bramce błyśnie szybko 4 razy.<br /><br /><b>c.</b> Zaczekaj na wyświetlenie potwierdzenia w aplikacji.]]>"
+"are_you_sure_you_want_to_delete_mood"="Czy na pewno chcesz usunąć \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Biała ciepła żarówka"
+"bulb_e27_w_opal_1000lm"="Biała ciepła żarówka"
+"bulb_e26_opal_1000lm"="Biała ciepła żarówka"
+"bulb_e12_ws_opal_400lm"="Żarówka ze światłem białym"
+"bulb_e26_ws_clear_950lm"="Żarówka ze światłem białym"
+"bulb_e26_ws_opal_980lm"="Żarówka ze światłem białym"
+"bulb_e27_ws_opal_980lm"="Żarówka ze światłem białym"
+
+<!--3rd PARTY DEVICES* -->
+"device"="urządzenie"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integracje"
+"eg_amazon_alexa_apple_homekit"="Np. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Steruj światłami TRÅDFRI za pomocą głosu, używając asystenta Amazon Alexa.\n\nNp. „Alexa, włącz światło” \n„Alexa, przyciemnij światło o 50%”."
+"enable"="Włącz"
+"disable"="Wyłącz"
+"you_are_logged_in"="Jesteś zalogowany."
+"to_get_started_enable_the_trad"="Aby rozpocząć, włącz funkcję TRÅDFRI w aplikacji Alexa. Następnie powiedz: „Alexa, wykryj moje urządzenia”."
+"ensure_your_alexa_device_is_s"="Upewnij się, że Alexa jest ustawiona"
+"to_continue_your_alexa_device"="Aby można było kontynuować, Alexa musi być włączona. Postępuj zgodnie z instrukcją Amazon Alexa Quick Start."
+
+<!-- Whats New Strings* -->
+"whats_new"="co nowego"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Wszystkie podłączone urządzenia będą dla Ciebie pracować lepiej i efektywniej. TRÅDFRI jest teraz zgodna z Apple HomeKit."
+"learn_more"="Dowiedz się więcej"
+"use_your_voice_to_control_your"="Steruj światłami TRÅDFRI za pomocą głosu, używając asystenta Amazon Alexa. Możesz je włączać i wyłączać oraz sterować ich jasnością."
+"disable_amazon_alexa"="Wyłączyć Amazon Alexa?"
+"you_will_no_longer_be_able_to_"="Wyłączy to sterowanie TRÅDFRI przy użyciu Amazon Alexa."
+"problem_connecting_to_amazon"="Problem z połączeniem z Amazon"
+"please_try_again"="Spróbuj ponownie."
+"accept_the_terms_of_use"="Zaakceptuj warunki korzystania"
+"in_order_to_enable_amazon_alex"="Aby korzystać z Amazon Alexa, musisz zaakceptować warunki korzystania."
+"cant_connect_to_amazon"="Brak połączenia z Amazon"
+"check_your_internet_connection"="Sprawdź połączenie internetowe i spróbuj ponownie."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Światła rozjaśniają się o %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Wyświetl szczegóły aktualizacji"
+"gateway_update_required"="Wymagana jest aktualizacja bramki"
+"to_use_this_new_feature_you_ne"="Aby móc korzystać z tej nowej funkcji, musisz zaktualizować oprogramowanie bramki do najnowszej wersji."
+"later"="Później"
+"gateway_update_available"="Dostępna jest aktualizacja bramki"
+"to_use_new_features_you_need_t"="Aby móc korzystać z nowych funkcji, musisz zaktualizować oprogramowanie bramki do najnowszej wersji."
+"new_update_available"="Dostępna jest nowa wersja"
+"in_order_to_control_your_devic"="Aby móc sterować urządzeniami z telefonu, musisz zaktualizować aplikację TRÅDFRI."
+"as_a_security_precaution_you_h"="Ze względów bezpieczeństwa odłączono Cię od bramki.\n \nPołącz się z bramką ponownie, aby kontynuować."
+"unknown_device"="Nieznane urządzenie"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Żarówki wielokolorowe"
+"now_you_can_decorate_your_home"="Teraz możesz dekorować dom kolorowym światłem."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Już prawie gotowe. Otwórz apkę Google Home, aby włączyć sterowanie głosem urządzeniami TRÅDFRI."
+"set_up_tradfri_for_voice_contr"="Skonfiguruj sterowanie głosem w systemie TRÅDFRI poprzez Asystenta Google.\n\nNa przykład „Google, włącz światło” albo „Google, przyciemnij światło o 50%”."
+"are_you_using_a_google_home_de"="Używasz urządzenia Google Home?"
+"if_youre_using_a_google_home_d"="Jeśli używasz urządzenia Google Home, dopilnuj, aby było teraz włączone.\nJeśli używasz Asystenta Google tylko w telefonie, kontynuuj."
+"cant_connect_to_google"="Nie można się połączyć z Google"
+"disable_google_assistant"="Wyłączyć Asystenta Google?"
+"you_will_no_longer_be_able_to_contro"="Wyłączy to sterowanie urządzeniami TRÅDFRI przy użyciu Google Home."
+"google_assistant_could_not_be_"="Nie można włączyć Asystenta Google"
+"google_assistant"="Asystent Google"
+"use_voice_control_to_adjust_yo"="Używaj sterowania głosowego do manipulowania urządzeniami TRÅDFRI przy użyciu Asystenta Google. Możesz je włączać oraz zmieniać kolory i jasność."
+"you_cant_have_two_timers_on_a"="Nie można dla tych samych źródeł światła ustawić jednocześnie dwóch timerów."
+"multicolored_bulb_title"="Żarówki wielokolorowe"
+"multicolored_bulb_desc"="Udekoruj dom kolorowymi światłami. Rodzina Trådfri właśnie się powiększyła."
+"something_went_wrong"="Coś poszło nie tak."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Zarządzaj urządzeniami"
+"devices"="urządzenia"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Informacje prawne"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="ODŁĄCZ OD BRAMKI"
+"in_progress"="W toku…"
+"turn_everything_off"="WYŁĄCZ WSZYSTKO"
+"all_devices_are_off"="Wszystkie urządzenia są wyłączone."
+"devices_on"="%1$s urządzenia"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Zaprogramuj włączanie i wyłączanie się świateł nawet na czas swojej nieobecności."
+"on_and_off_small"="Włącz i wyłącz"
+"group_must_be_empty_to_delete"="Grupa musi być pusta, aby można ją było usunąć."
+"please_remove_all_devices"="Usuń wszystkie urządzenia z grupy."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Nie można wyłączyć Asystenta Google"
+"please_verify_your_internet_co"="Sprawdź połączenie internetowe i spróbuj ponownie.\n\nJeśli apka nie uzyska połączenia po wielu próbach, spróbuj usunąć wszystkie pozostałe powiązania, które mogły zostać włączone."
+"try_disable_again"="SPRÓBUJ PONOWIĆ WYŁĄCZENIE"
+"remove_integration"="WYŁĄCZ POWIĄZANIA"
+"cant_connect"="Brak połączenia"
+"remove_all_integration"="Usunąć wszystkie powiązania?"
+"are_you_sure_this_will_remove_"="Na pewno? Spowoduje to usunięcie WSZYSTKICH powiązań, które mogły zostać włączone."
+"amazon_alexa_could_not_be_disa"="Nie można wyłączyć Amazon Alexa"
+"please_verify_your_internet_connect"="Sprawdź połączenie internetowe i spróbuj ponownie.\n\nJeśli apka nie uzyska połączenia po wielu próbach, wybierz WYŁĄCZ POWIĄZANIA, aby je zresetować i spróbuj ponownie.\nUsuniesz WSZYSTKIE możliwe powiązania, w tym powiązania z Amazon Alexa."
+"eg_amazon_alexa_google_assista"="Na przykład Amazon Alexa, Asystent Google"
+

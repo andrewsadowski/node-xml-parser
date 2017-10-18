@@ -1,0 +1,607 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="SZIA!"
+"i_agree_to_the"="Elfogadom a"
+"plug_in_your_gateway"="Csatlakoztasd a jeltovábbítót"
+"next"="KÖVETKEZŐ"
+"connect"="CSATLAKOZÁS"
+"terms_conditions"="Felhasználási feltételeket"
+"please_agree_to_continue"="Kérjük, fogadd el a folytatáshoz."
+"connecting_to_your_gateway"="Csatlakozás a jeltovábbítóhoz…"
+"plug_your_gateway_into_a_power"="Csatlakoztasd a jeltovábbítót egy konnektorhoz, a mellékelt Ethernet-kábellel pedig kösd össze a WIFI-útválasztóddal."
+"congrats"="Gratulálunk!"
+"and"="és"
+"connect_to_wifi"="Csatlakozás a WIFI-hez"
+"this_name_is_already_in_use_pl"="Ez a név már használatban van. Kérjük, próbálj ki egy másikat."
+"welcome_to_the_tradfri_lightin"="Üdvözlünk a TRÅDFRI világítási rendszerben. A legegyszerűbben így varázsolhatsz gyönyörű, otthoni életedet támogató fényeket. Készen állsz a beállítás megkezdésére?"
+"enter_the_gateway_ip"="Add meg a jeltovábbító IP-címét"
+"gateway_ip"="Jeltovábbító IP-címe"
+"if_the_gateway_is_plugged_in_c"="Ha a jeltovábbító megfelelően van csatlakoztatva, és mégsem található, lehet, hogy saját kezűleg kell megadnod az IP-címét. További információkért tanulmányozd a támogatási oldalt."
+"the_gateway_ip_is_incorrect"="A jeltovábbító IP-címe helytelen."
+"you_must_be_connected_to_your_"="Ahhoz, hogy a TRÅDFRI vezérelhető legyen az alkalmazásodról, csatlakoznod kell a WIFI-hálózatodhoz."
+"these_are_your_tradfri_devices"="Ezek a TRÅDFRI-eszközeid"
+"lets_get_started"="LÁSSUNK NEKI"
+"get_started"="LÁSS NEKI"
+"youre_now_connected_to_the_gat"="Most már csatlakozol a jeltovábbítóhoz. Most pedig csatlakoztassuk az eszközeidet."
+"add_another_device"="Másik eszköz hozzáadása"
+"finding_gateway"="A jeltovábbító keresése..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Beolvasás..."
+"type_in_the_code_instead"="Inkább írd be a kódot"
+"youll_find_the_code_on_the_bac"="A kódot a jeltovábbító hátoldalán találod."
+"we_found_the_code"="Megtaláltuk a kódot."
+"hold_on_while_we_verify_the_co"="Várd meg, amíg ellenőrizzük a kódot..."
+"scan"="BEOLVASÁS"
+"now_scan_the_code"="Most olvasd be a kódot"
+"enable_camera"="KAMERA ENGEDÉLYEZÉSE"
+"type_in_the_serial_number"="Írd be a sorozatszámot"
+"type_in_the_security_code"="Írd be a biztonsági kódot"
+"serial_number"="Sorozatszám"
+"security_code"="Biztonsági kód"
+"youll_find_it_on_the_back_of_y"="A jeltovábbító hátoldalán találod."
+"youll_find_them_both_on_the_ba"="Mindkettőt a jeltovábbító hátoldalán találod."
+"this_serial_number_is_incorrec"="Ez a sorozatszám helytelen"
+"type_in_the_serial_number_and_"="Írd be a sorozatszámot és a biztonsági kódot"
+"enable_your_camera_to_scan_the"="Engedélyezd kamerádnak a kód beolvasását."
+"type_in_the_code"="ÍRD BE A KÓDOT"
+"the_security_key_should_be_dig"="A biztonsági kulcsnak 16 számjegyből kell állnia"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Kezdd a hozzáadni kívánt eszköz kiválasztásával"
+"open_the_back_of_the_remote_co"="1. Nyisd fel a távirányító hátoldalát"
+"reset_the_remote_control"="2. Állítsd alaphelyzetbe a távirányítót"
+"connect_the_remote_control"="3. Csatlakoztasd a távirányítót"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Kapcsold be a lámpád"
+"make_sure_that_your_light_is_i"="Győződj meg arról, hogy a lámpád beszerelése megtörtént, valamint a fő áramellátó kapcsoló bekapcsolt állásban van."
+"which_control_device_are_you_u"="2. Melyik vezérlőeszközt használod?"
+"remember_to_use_a_control_devi"="Ne feledj olyan vezérlőeszközt használni, amely már csatlakoztatva van."
+"connect_the_light"="3. Csatlakoztasd a lámpát"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Eszközeid keresése..."
+"bulb"="Izzó"
+"door_or_panel"="Ajtó vagy panel"
+"open_the_back_of_the_motion_se"="1. Nyisd fel a mozgásérzékelő hátoldalát"
+"reset_the_motion_sensor"="2. Állítsd alaphelyzetbe a mozgásérzékelőt"
+"connect_the_motion_sensor"="3. Csatlakoztasd a mozgásérzékelőt"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Nyisd fel a vezeték nélküli fényerőszabályzó hátoldalát"
+"reset_the_wireless_dimmer"="2. Állítsd alaphelyzetbe a vezeték nélküli fényerőszabályzót"
+"connect_the_wireless_dimmer"="3. Csatlakoztasd a vezeték nélküli fényerőszabályzót"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Eszközöd keresése"
+"which_device_would_you_like_to"="Melyik eszközt szeretnéd hozzáadni?"
+"now_add_your_lights"="Most add hozzá a lámpáidat"
+"they_can_be_added_after_youve_"="Vezérlőeszköz csatlakoztatása után adhatók hozzá."
+"ill_do_this_later"="Később fogom végrehajtani"
+"delete_mood"="Hangulat törlése"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Az eszköz áthelyezésének megerősítéséhez, kérjük, nyomd meg az eszköz bármelyik gombját. Lehet, hogy néhányszor meg kell nyomnod."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="SAJÁT OTTHON"
+"add_lights"="LÁMPÁK HOZZÁADÁSA"
+"no_lights_have_been_added_to_t"="Nincsenek még lámpák hozzáadva ehhez a csoporthoz."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Add meg a hangulat nevét"
+"please_pick_another_name_this_"="Kérjük, válassz másik nevet, ez már használatban van."
+"moods_by_ikea"="IKEA-hangulatok"
+"new_mood"="Új hangulat"
+"please_enter_a_mood_name"="Kérjük, add meg a hangulat nevét."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Kikapcsolás"
+"turn_on"="Bekapcsolás"
+"min"="Minimum"
+"max"="Maximum"
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Az eszközök egyike nem található"
+"devices_cannot_be_found"="%1$s eszköz nem található"
+"one_remote_has_a_low_battery"="A távirányítók egyike kis töltöttségű elemmel/akkumulátorral rendelkezik"
+"one_motion_sensor_has_a_low_ba"="A mozgásérzékelők egyike kis töltöttségű elemmel/akkumulátorral rendelkezik"
+"remotes_have_low_batteries"="%1$s távirányító kis töltöttségű elemekkel/akkumulátorokkal rendelkezik"
+"devices_have_low_batteries"="%1$s eszköz kis töltöttségű elemekkel/akkumulátorokkal rendelkezik"
+"updating"="Frissítés..."
+"update_successful"="A frissítés sikeres"
+"was_added_to_a_new_group"="A(z) %1$s hozzáadása megtörtént egy új csoporthoz."
+"was_removed"="A(z) %1$s eltávolítása megtörtént"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Csoportok"
+"rename_group"="Csoport átnevezése"
+"add_new_group"="Új csoport hozzáadása"
+"add_devices"="Eszközök hozzáadása"
+"new_group"="Új csoport"
+"group_name"="Csoportnév"
+"low_battery"="Kis töltöttségű elem/akkumulátor"
+"manage_your_devices"="Kezeld eszközeidet"
+"devices"="Eszközök"
+"last_seen_ago"="Legutóbb %1$s ezelőtt volt látható"
+"move_a_device_to_this_group_by"="A három pontra koppintva helyezd át az eszközt ebbe a csoportba."
+"leaving_will_remove_new_group"="Ha kilépsz, a rendszer eltávolítja az új csoportot"
+"groups_without_any_devices_wil"="Az eszközök nélküli csoportokat a rendszer automatikusan el fogja távolítani."
+"move_to_other_group"="Áthelyezés másik csoportba"
+"rename_device"="Eszköz átnevezése"
+"remove_device"="Távolítsd el az eszközt"
+"select_destination_group"="Célcsoport kiválasztása"
+"the_name_is_already_being_used"="A(z) \" %1$s \" név már használatban van."
+"remove_accessory"="Eltávolítod a tartozékot?"
+"it_looks_like_there_was_a_prob"="Úgy tűnik, probléma adódott a lámpád áthelyezésekor. Győződj meg arról, hogy a lámpa be van kapcsolva, majd próbáld újból áthelyezni."
+"disconnected_devices"="Leválasztott eszközök"
+"add_new"="ÚJ HOZZÁADÁSA"
+"device_was_not_moved"="Az eszköz áthelyezése nem történt meg"
+"unfortunately_you_cant_add_a_m"="Sajnos nem adhatsz mozgásérzékelőt vezeték nélküli fényerőszabályzókkal vagy távirányítókkal rendelkező csoporthoz."
+"press_any_button_on_your_remot"="Nyomd meg a távirányítód bármelyik gombját."
+"great"="Nagyszerű!"
+"your_was_moved_to"="%1$s eszközödet a rendszer áthelyezte ide: %2$s."
+"are_you_sure_you_want_to_remov"="Valóban el szeretnéd távolítani a következőt: %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="IDŐZÍTŐK"
+"enabled"="engedélyezve"
+"disabled"="letiltva"
+"every_day"="Mindennap"
+"days"="Napok"
+"hours"="Órák"
+"minutes"="Percek"
+"seconds"="Másodpercek"
+"mon"="h."
+"tue"="k."
+"wed"="sze."
+"thu"="csü"
+"fri"="p."
+"sat"="szo."
+"sun"="v."
+"timer_is_not_set"="Az időzítő nincs beállítva"
+"mon_fri"="hét – pén"
+"cant_set_time"="Az idő nem állítható be"
+"make_sure_you_set_your_timer_b"="Ügyelj arra, hogy beállítsd az időzítődet, mielőtt kilépsz."
+"are_you_sure_you_want_to_delete_this_tim"="Valóban törölni szeretnéd ezt az időzítőt?"
+"add"="HOZZÁADÁS"
+"am"="DE"
+"pm"="DU"
+"monday"="H"
+"tuesday"="K"
+"wednesday"="SZ"
+"thursday"="CS"
+"friday"="P"
+"saturday"="SZ"
+"sunday"="V"
+"set_your_time"="Állítsd be az időpontodat"
+"new_timer"="Új időzítő"
+"what_time"="%1$s Milyen időpontban?"
+"which_lights"="%1$s Mely lámpák?"
+"from"="ettől:"
+"to"="eddig:"
+"should_they_turn_on_or_off"="%1$s Fel vagy le kell kapcsolódniuk?"
+"save"="MENTÉS"
+"set_your_lights_to_turn_on_or_"="Állítsd be a lámpáidat, hogy pontosan akkor kapcsolódjanak fel és le, amikor szeretnéd."
+"set_your_lights_to_turn_on_or_off_e"="Állítsd be a lámpáidat, hogy pontosan akkor kapcsolódjanak fel és le, amikor szeretnéd.\n\nA lámpáid emlékezni fognak arra a fényességre és színre, amivel a legutóbb használtad őket."
+"during_what_time"="%1$s Milyen időtartamban?"
+"you_cant_set_a_time_with_the_s"="Nem állítható be azonos kezdő és befejező időponttal rendelkező idő."
+"a_timer_has_been_updated"="Az időzítők egyike frissült"
+"timers_have_been_updated"="Az időzítők frissültek"
+"view"="Megtekintés"
+"you_are_now_using_the_maximum_"="Jelenleg a maximális számú időzítőt használod."
+"timers_help_you_set_your_light"="Az időzítők a világításod fel- és lekapcsolását segítenek beállítani. Adj hozzá egyet, hogy nekiláss!"
+"some_of_your_timers_was_update"="Néhány időzítődet másik eszközről frissítették."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Ismétlés"
+"rise_and_shine"="Világosban való ébredés"
+"set_your_lights_to_wake_you_up"="Állítsd be lámpáidat, hogy felébresszenek téged."
+"your_rise_and_shine_timer_was_"="A világosban való ébredés funkciót egy másik eszközről frissítették."
+"delete_rise_and_shine"="Világosban való ébredés funkció törlése."
+"your_rise_and_shine_timer_just"="A világosban való ébredés időzítője elindult."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Távol az otthontól"
+"out_and_about_set_your_lights_"="Eljársz otthonról? Állítsd be lámpáidat, hogy úgy kapcsolódjanak fel és le, mintha otthon lennél."
+"set_your_lights_to_slowly_dim_"="Állítsd be lámpáidat, hogy lassan növekedjen a fényerejük, amely az időzítőd beállított időpontja előtt 30 perccel veszi kezdetét. Lámpáid lassan egyre fényesebbek lesznek\n\n– éppen úgy, mint a felkelő nap."
+"your_away_from_home_timer_just"="A Távol az otthontól időzítőd éppen elindult."
+"your_away_from_home_timer_was_"="A Távol az otthontól időzítőt másik eszközről frissítették."
+"delete_away_from_home"="Távol az otthontól törlése"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="BE és KI"
+"on_or_off"="BE vagy KI"
+"out_and_about_set_your_lights_to_tu"="Eljársz otthonról? Állítsd be lámpáidat, hogy úgy kapcsolódjanak fel és le, mintha otthon lennél.\n\nJusson eszedbe, hogy ne kapcsold le a lámpákat a fali kapcsolóval. Emlékezni fognak arra a fényességre és színre, amivel a legutóbb használtad őket."
+"your_on_or_off_timer_just_star"="A Be vagy ki időzítőd éppen elindult."
+"your_on_or_off_timer_was_updat"="A Be vagy ki időzítőt másik eszközről frissítették."
+"delete_on_or_off"="BE vagy KI törlése"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="BEÁLLÍTÁSOK"
+"need_help"="Segítségre van szükséged?"
+"language"="Nyelv"
+"default_language"="Alapértelmezett nyelv"
+"send_in_email"="KÜLDÉS E-MAILBEN"
+"terms_and_conditions"="Felhasználási feltételek"
+"privacy_policy"="Adatvédelem"
+"software_licenses"="Szoftverlicencek"
+"continue_"="Folytatás"
+"youve_selected_as_your_language_"="A kiválasztott nyelv: %1$s."
+"tradfri_terms_and_conditions"="TRÅDFRI felhasználási feltételek"
+"tradfri__privacy_policy"="TRÅDFRI adatvédelmi szabályzat"
+"tradfri_is_up_to_date"="A TRÅDFRI naprakész"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Frissítések érhetők el"
+"update"="FRISSÍTÉS"
+"unreachable"="Elérhetetlen"
+"update_details"="Frissítés részletei"
+"up_to_date"="Naprakész"
+"remote_controls"="Távirányítók"
+"motion_sensors"="Mozgásérzékelők"
+"this_should_only_take_about_mi"="Ez körülbelül mindössze egy percet vesz igénybe."
+"dismiss"="ELVETÉS"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="LEVÁLASZTÁS"
+"disconnecting"="LEVÁLASZTÁS..."
+"disconnected"="LEVÁLASZTVA"
+"disconnecting_allow_you_to_con"="A leválasztás lehetővé teszi a csatlakozást egy másik jeltovábbítóhoz. Nem tudod majd mindkettőt egyszerre használni, de ne aggódj, minden színhelyed és lámpabeállításod továbbra is tárolva lesz a jelenlegi jeltovábbítón."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Új jeltovábbító található"
+"gateway_is_rebooting"="A jeltovábbító újraindul…"
+"connect_to_new_gateway"="Csatlakozás az új jeltovábbítóhoz"
+"you_cant_connect_to_your_curre"="Nem csatlakozhatsz a jelenlegi jeltovábbítóhoz, de elérhető egy másik. Szeretnél csatlakozni az új jeltovábbítóhoz?"
+"connecting_will_disconnect_you"="A csatlakozás leválaszt majd a jelenlegi jeltovábbítóról. De ne aggódj, minden beállításod továbbra is tárolva lesz a jelenlegi jeltovábbítón."
+"try_again"="PRÓBÁLKOZZ ÚJRA"
+"oops"="Hoppá!"
+"youre_about_to_remove_the_last"="Arra készülsz, hogy eltávolítod az utolsó eszközt"
+"your_light_needs_to_be_turned_"="Mielőtt használhatnád, a lámpáidat fel kell kapcsolnod a lámpák kapcsolójával."
+"remember_to_turn_on_your_light"="Jusson eszedbe felkapcsolni a lámpáidat"
+"oops_something_went_wrong"="Hoppá! Valami hiba történt."
+"enter_the_gateway_ip_manually"="Add meg a jeltovábbító IP-címét saját kezűleg"
+"gateway_is_updating"="A jeltovábbító frissül…"
+"your_gateway_software_is_being"="A jeltovábbító szoftvere frissül, hogy a lehető legjobb élményt nyújtsa számodra. A jeltovábbító néhány percig elérhetetlen lesz, de a megszokott módon folytathatod lámpáid és távirányítód használatát."
+"unable_to_connect_to_tradfri"="Nem lehet csatlakozni a TRÅDFRI alkalmazáshoz"
+"it_looks_like_you_scanned_the_"="Úgy tűnik, hogy helytelen kódot olvastál be. Próbáld meg beolvasni a jeltovábbító hátoldalán található kódot."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Fehér spektrumú izzó"
+"bulb_e27_white_spectrum_globe_clear"="Fehér spektrumú izzó"
+"bulb_e27_white_spectrum_globe_opal"="Fehér spektrumú izzó"
+"bulb_e14_white_spectrum_globe_"="Fehér spektrumú izzó"
+"color_white_spectrum_bulb"="Színes/fehér spektrumú izzó"
+"bulb_e14_color_white_spectrum_"="Színes/fehér spektrumú izzó"
+"white_spectrum_panel"="Fehér spektrumú panel"
+"panel_white_spectrum_30_90"="Fehér spektrumú panel"
+"panel_white_spectrum_60_60"="Fehér spektrumú panel"
+"color_white_spectrum_panel"="Színes/fehér spektrumú panel"
+"white_spectrum_door"="Fehér spektrumú ajtó"
+"door_white_spectrum_36_84"="Fehér spektrumú ajtó"
+"remote_control"="Távirányító"
+"motion_sensor"="Mozgásérzékelő"
+"wireless_dimmer"="Vezeték nélküli fényerőszabályzó"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Áthelyezés"
+"rename"="Átnevezés"
+"remove"="Eltávolítás"
+"off"="Ki"
+"done"="KÉSZ"
+"cancel"="MÉGSE"
+"ok"="OK"
+"confirm"="MEGERŐSÍTÉS"
+"delete"="Törlés"
+"proceed"="Folytatás"
+"group"="Csoport"
+"plug"="Csatlakozó"
+"everyday"="Mindennap"
+"focus"="Fókusz"
+"relax"="Lazítás"
+"plugs"="Csatlakozók"
+"gateway"="Jeltovábbító"
+"gateways"="Jeltovábbítók"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="Kapcsolj FEL minden lámpát"
+"are_all_your_lights_on_they_mu"="A(z) %1$s minden lámpáját felkapcsoltad? Mindegyiket FEL KELL KAPCSOLNI a vezeték nélküli fényerőszabályzó sikeres áthelyezéséhez"
+"press_the_link_button"="Nyomd meg a kapcsolat gombot"
+"to_control_the_new_group_just_"="Az új csoport vezérléséhez nyisd ki a vezeték nélküli fényerőszabályzót, és nyomd meg a kapcsolat gombot. Ekkor készüléked áthelyezése megtörténik."
+"i_did_it"="Kész"
+"to_finish_removing_your_remote"="A távirányító eltávolításának befejezéséhez állítsd vissza a kapcsolat gomb négyszeri megnyomásával. Most már készen vagy."
+"to_finish_removing_your_motion"="A mozgásérzékelő eltávolításának befejezéséhez állítsd vissza a kapcsolat gomb négyszeri megnyomásával. Most már készen vagy"
+"to_finish_removing_your_wirele"="A vezeték nélküli fényerőszabályzó eltávolításának befejezéséhez állítsd vissza a kapcsolat gomb négyszeri megnyomásával. Most már készen vagy"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="A készülék áthelyezéséhez nyisd ki a(z) %1$s vezeték nélküli fényerőszabályzóját, és nyomd meg a kapcsolat gombot."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Az eszköz áthelyezéséhez nyisd ki a(z) %1$s és a(z) %2$s vezeték nélküli fényerőszabályzóját, és mindkettőn nyomd meg a kapcsolat gombot"
+"required_update"="Kötelező frissítés"
+"update_required_tradfri_needs_"="Frissítés szükséges. A TRÅDFRI alkalmazást frissíteni kell, hogy továbbra is gond nélkül fusson. Amikor frissül, nem lesz elérhető."
+"an_important_update_has_been_p"="Fontos frissítés ment végbe, és a Trådfri a legújabb verzióra frissült"
+"reconnect_to_gateway"="Ismételt csatlakozás a jeltovábbítóhoz"
+"is_your_light_on"="Be van kapcsolva a világítás?"
+"if_not_turn_it_on_to_successfu"="Ha nem, kapcsold fel, hogy sikeresen áthelyezhesd a készülékedet."
+"to_remove_your_light_open_the_"="A lámpa eltávolításához nyisd ki a(z) %1$s vezeték nélküli fényerőszabályzóját, és nyomd meg a kapcsolat gombot."
+"wireless_motion_sensor"="Vezeték nélküli mozgásérzékelő"
+"please_confirm"="Át kívánod helyezni a következőt: %1$s?"
+"gently_rotate_your_wireless_di"="A megerősítéshez finoman forgasd el a vezeték nélküli fényerőszabályzót."
+"we_did_not_detect_any_action_o"="Az eszközöd nem válaszolt."
+"wave_your_hand_in_front_of_the"="Kérjük, megerősítésként lengesd meg a kezed a mozgásérzékelő előtt."
+"enter_group_name"="Kérjük, adj nevet a csoportodnak"
+"enter_accessory_name"="Kérjük, adj nevet a tartozékodnak"
+"remove_"="%1$s eltávolítása"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Melegfehér izzó"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Mentés előtt állítsd be a hangulatodat, így hangulatod is bekerül."
+"my_moods"="Hangulataim"
+"create_a_mood_and_save_it_for_"="Hozz létre egy hangulatot és mentsd el, hogy azonnal hozzáférhető legyen"
+"light_unreachable"="A lámpa nem érhető el"
+"if_you_create_or_edit_a_mood_while"="Ha olyankor hozol létre vagy szerkesztesz hangulatot, amikor egy lámpa nem érhető el, azt a lámpát az adott hangulat esetén figyelmen kívül hagyja a rendszer. Mielőtt folytatod, győződj meg róla, hogy lámpáidat felkapcsoltad"
+"edit_moods"="HANGULATOK SZERKESZTÉSE"
+"edit_mood"="HANGULAT SZERKESZTÉSE"
+"brightness"="FÉNYESSÉG | %1$s"
+"disconnect_app"="ALKALMAZÁS LEVÁLASZTÁSA"
+"clear_all_settings"="Minden beállítás törlése"
+"this_will_delete_all_Moods"="Ezzel törlődik minden Hangulat és Időzítő, és visszaállít minden beállítást. Visszaállításkor minden készülék kapcsolata megszűnik a jeltovábbítóval"
+"are_you_sure_you_want_to_clear"="Valóban törölni szeretnél minden beállítást?"
+"clear"="Törlés"
+"cleared"="TÖRÖLVE"
+"clearing"="TÖRLÉS…"
+"see_details"="Részletek megtekintése"
+"update_did_not_complete"="A frissítés nem történt meg"
+"one_or_more_devices_didnt_upda"="Legalább egy eszköz nem frissült. Ne aggódj, a világítás továbbra is működni fog"
+"your_moods_are_still_loading_"="Hangulataid még töltődnek. Kérjük, néhány pillanat múlva próbálkozz ismét."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Nem frissített"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Izzók"
+"waiting_for_gateway"="Várakozás a jeltovábbítóra"
+"wireless_dimmers"="Vezeték nélküli fényerőszabályzók"
+"theres_an_important_new_update"="Fontos új frissítés érhető el a TRÅDFRI alkalmazáshoz."
+"close"="Bezárás"
+"update_pending"="Frissítés függőben"
+"your_devices_are_being_updated"="Készülékeid frissítése zajlik. Folytathatod a TRÅDFRI alkalmazás használatát a megszokott módon."
+"start_update"="Frissítés indítása"
+"continue_to_use_your_lights_as"="Továbbra is használd lámpáidat a megszokott módon – a frissítések a háttérben futnak majd. Előfordulhat, hogy az alkalmazás egy rövid időre nem lesz elérhető."
+"panel"="Panel"
+"door"="Ajtó"
+"panels"="Panelek"
+"doors"="Ajtók"
+"check_for_updates"="Frissítések keresése"
+"update_now"="Frissítés most"
+"view_update_details"="A frissítés részleteinek megtekintése"
+"all_your_devices_are_updated_t"="Minden eszközöd a legújabb verzióra frissült."
+"your_gateway_didnt_update_dont"="Jeltovábbítód nem frissített. Ne aggódj, a világítás továbbra is működni fog"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Nem tudunk csatlakozni a jeltovábbítóhoz"
+"we_couldnt_connect_to_your_dev"="Nem tudtunk csatlakozni az eszközeidhez. Ha a probléma továbbra is fennáll, indítsd újra a jeltovábbítót"
+"we_couldnt_find_your_gateway_m"="Nem találtuk a jeltovábbítót. Kérjük, győződj meg arról, hogy az a kábellel csatlakozik a routerhez, illetve hogy a telefon ugyanahhoz a hálózathoz csatlakozik."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Hideg égbolt"
+"_eaf6fb"="Hűvös nappali fény"
+"_f5faf6"="Hidegfehér"
+"_f2eccf"="Napfelkelte"
+"_f1e0b5"="Melegfehér"
+"_efd275"="Meleg ragyogás"
+"_ebb63e"="Gyertyafény"
+"_e78834"="Meleg borostyánsárga"
+"_e57345"="Őszibarack"
+"_da5d41"="Sötét őszibarack"
+"_dc4b31"="Telítettpiros"
+"_e491af"="Rózsaszín"
+"_e8bedd"="Világos rózsaszín"
+"_d9337c"="Telített rózsaszín"
+"_c984bb"="Világoslila"
+"_8f2686"="Telítettlila"
+"_4a418a"="Kék"
+"_6c83ba"="Világoskék"
+"_a9d62b"="Lime"
+"_d6e44b"="Sárga"
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> Nyomd meg és tartsd benyomva a(z) %1$s melletti gombot gyorsan négyszer. A távirányítón piros fény fog villogni.<br/><br/><b>b.</b> Amikor a fény már nem villog, várj 10 másodpercet. Ekkor haladhatsz tovább.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> A távirányítót tartsd 2 centiméternél közelebb a jeltovábbítóhoz.<br/><br/><b>b.</b> Nyomd meg és tartsd benyomva a(z) %1$s melletti gombot a távirányítón, amíg a(z) %1$s a jeltovábbítón nem villan fel gyorsan négyszer.<br/><br/><b>c.</b> Várd meg, amíg megjelenik a megerősítő üzeneted itt az alkalmazásban.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> A mozgásérzékelőt tartsd 2 centiméternél közelebb a jeltovábbítóhoz.<br/><br/><b>b.</b> Nyomd meg és tartsd benyomva a(z) %1$s melletti gombot a mozgásérzékelőn, amíg a(z) %1$s feletti fény a jeltovábbítón nem villan fel gyorsan négyszer.<br/><br/><b>c.</b> Várd meg, amíg megjelenik a megerősítő üzeneted itt az alkalmazásban.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> A vezeték nélküli fényerőszabályzót tartsd 2 centiméternél közelebb az ajtód vagy paneled hátán lévő fehér dobozhoz.<br/><br/><b>b.</b> Nyomd meg és tartsd úgy a(z) %1$s melletti gombot 10 másodpercig. Fényforrásod tompább majd erősebb fénnyel kezd világítani. Addig tartsd lenyomva a gombot, amíg befejeződik a fény pulzálása.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> A vezeték nélküli fényerőszabályzót tartsd 2 centiméternél közelebb az izzóhoz.<br/><br/><b>b.</b> Nyomd meg és tartsd úgy a(z) %1$s melletti gombot 10 másodpercig. Fényforrásod tompább majd erősebb fénnyel kezd világítani. Addig tartsd lenyomva a gombot, amíg befejeződik a fény pulzálása.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> A mozgásérzékelőt tartsd 2 centiméternél közelebb az izzóhoz.<br/><br/><b>b.</b> Nyomd meg és tartsd úgy a(z) %1$s gombot 10 másodpercig. Fényforrásod tompább majd erősebb fénnyel kezd világítani. Addig tartsd lenyomva a gombot, amíg befejeződik a fény pulzálása.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> A mozgásérzékelőt tartsd 2 centiméternél közelebb az ajtód vagy paneled hátán lévő fehér dobozhoz.<br/><br/><b>b.</b> Nyomd meg és tartsd úgy a(z) %1$s gombot 10 másodpercig. Fényforrásod tompább majd erősebb fénnyel kezd világítani. Addig tartsd lenyomva a gombot, amíg befejeződik a fény pulzálása.]]>"
+"found"="%1$s található"
+"perfect_is_now_connected_to_tr"="Tökéletes! A(z) %1$s mostantól csatlakoztatva van a TRÅDFRI alkalmazáshoz."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Csatlakoztatva"
+"disconnected_"="Leválasztva"
+"find_detailed_help_in_our_trou"="Részletes segítséget hibaelhárítási útmutatónkban találsz."
+"disconnect_from_your_gateway"="Leválasztás a jeltovábbítóról"
+"are_you_sure_you_want_to_disco"="Valóban végre szeretnéd hajtani a leválasztást?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="Trådfri verzió"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Azonos lámpákhoz tartozó időzítők"
+"you_have_two_timers_using_the_"="Két időzítőd tartozik ugyanahhoz a lámpához. Kérjük, állítsd be újra.\nVagy\nKét időzítőd tartozik ugyanahhoz az időszakhoz. Kérjük, állítsd be újra, hogy lámpáid a megfelelő időben működjenek"
+"your_timers_are_still_loading_"="Időzítőid még töltődnek. Kérjük, néhány pillanat múlva próbálkozz ismét."
+"which_day"="%1$s Melyik nap?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Segítségkérés"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> A távirányítót tartsd 2 centiméternél közelebb az izzóhoz.<br /><br /><b>b.</b> Tartsd lenyomva a(z) %1$s melletti gombot 10 másodpercig. Fényforrásod tompább, majd erősebb fénnyel kezd világítani. Addig tartsd lenyomva a gombot, amíg befejeződik a fény pulzálása.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> A távirányítót tartsd 2 centiméternél közelebb az ajtód vagy paneled hátán lévő fehér dobozhoz.<br /><br /><b>b.</b> Tartsd lenyomva a(z) %1$s melletti gombot 10 másodpercig. Fényforrásod tompább, majd erősebb fénnyel kezd világítani. Addig tartsd lenyomva a gombot, amíg befejeződik a fény pulzálása.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> Nyomd meg a(z) %1$s melletti gombot gyorsan négyszer. A mozgásérzékelőn vörös fény fog villogni.<br /><br /><b>b.</b> Amikor a fény már nem villog, várj 10 másodpercet. Ekkor haladhatsz tovább.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> Nyomd meg a(z) %1$s melletti gombot gyorsan négyszer. A vezeték nélküli fényerőszabályzón vörös fény fog villogni.<br /><br /><b>b.</b> Amikor a fény már nem villog, várj 10 másodpercet. Ekkor haladhatsz tovább]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> A vezeték nélküli fényerőszabályzót tartsd 2 centiméternél közelebb a jeltovábbítóhoz.<br /><br /><b>b.</b> Nyomd meg és tartsd benyomva a(z) %1$s melletti gombot a vezeték nélküli fényerőszabályzón, amíg a(z) %1$s feletti fény a jeltovábbítón nem villan fel gyorsan négyszer.<br /><br /><b>c.</b> Várd meg, amíg megjelenik a megerősítő üzeneted itt az alkalmazásban.]]>"
+"are_you_sure_you_want_to_delete_mood"="Valóban végre szeretnéd hajtani a(z) \'%1$s\' törlését?"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Melegfehér izzó"
+"bulb_e27_w_opal_1000lm"="Melegfehér izzó"
+"bulb_e26_opal_1000lm"="Melegfehér izzó"
+"bulb_e12_ws_opal_400lm"="Fehér spektrumú izzó"
+"bulb_e26_ws_clear_950lm"="Fehér spektrumú izzó"
+"bulb_e26_ws_opal_980lm"="Fehér spektrumú izzó"
+"bulb_e27_ws_opal_980lm"="Fehér spektrumú izzó"
+
+<!--3rd PARTY DEVICES* -->
+"device"="eszköz"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integrációk"
+"eg_amazon_alexa_apple_homekit"="pl. Amazon Alexa, Apple HomeKit"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Az Amazon Alexa segítségével a hangoddal szabályozhatod TRÅDFRI lámpáidat.\n\nPl. „Alexa, kapcsold fel a villanyt” \n„Alexa, tompítsd a fényt 50%-kal.”"
+"enable"="Engedélyez"
+"disable"="Letilt"
+"you_are_logged_in"="Be vagy jelentkezve."
+"to_get_started_enable_the_trad"="A kezdéshez engedélyezd a TRÅDFRI lehetőséget az Alexa alkalmazásban. Majd mondd ezt: „Alexa, keresd meg az eszközeimet”."
+"ensure_your_alexa_device_is_s"="Kapcsold be Alexa készülékedet"
+"to_continue_your_alexa_device"="A folytatáshoz használatra készen kell állnia. Kövesd az Amazon Alexa gyors beüzemelési útmutatót."
+
+<!-- Whats New Strings* -->
+"whats_new"="Újdonságok"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Elérheted, hogy minden csatlakoztatott eszköz jobban és ügyesebben szolgáljon téged. A TRÅDFRI most együttműködik az Apple HomeKittel."
+"learn_more"="További információk"
+"use_your_voice_to_control_your"="Az Amazon Alexa segítségével a hangoddal szabályozhatod TRÅDFRI lámpáidat. Fel- és lekapcsolhatod őket, vagy állíthatsz a fényerejükön."
+"disable_amazon_alexa"="Letiltod az Amazon Alexát?"
+"you_will_no_longer_be_able_to_"="TRÅDFRI eszközeidet nem tudod majd az Amazon Alexából tovább szabályozni."
+"problem_connecting_to_amazon"="Probléma az Amazonhoz való csatlakozás során"
+"please_try_again"="Kérjük, próbáld meg újra."
+"accept_the_terms_of_use"="A felhasználási feltételek elfogadása"
+"in_order_to_enable_amazon_alex"="Az Amazon Alexa engedélyezéséhez el kell fogadnod a felhasználási feltételeket."
+"cant_connect_to_amazon"="Nem lehet csatlakozni az Amazonhoz"
+"check_your_internet_connection"="Ellenőrizd az internetkapcsolatot, majd próbáld meg újra."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="A lámpák fényereje ekkor kezd növekedni: %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="A frissítés részleteinek megjelenítése"
+"gateway_update_required"="A jeltovábbítóhoz frissítés szükséges"
+"to_use_this_new_feature_you_ne"="Ennek az új funkciónak a használatához a legújabb verzióra kell frissítened a jeltovábbító szoftverét."
+"later"="Később"
+"gateway_update_available"="A jeltovábbítóhoz frissítés érhető el"
+"to_use_new_features_you_need_t"="Új funkciók használatához a legújabb verzióra kell frissítened a jeltovábbító szoftverét."
+"new_update_available"="Új frissítés érhető el"
+"in_order_to_control_your_devic"="Ahhoz, hogy eszközeidet a telefonodról irányíthasd, frissítened kell a TRÅDFRI alkalmazást."
+"as_a_security_precaution_you_h"="Biztonsági okokból megszűnt a kapcsolatod a jeltovábbítóval.\n \nKérjük, a folytatáshoz csatlakozz újra a jeltovábbítóhoz."
+"unknown_device"="Ismeretlen eszköz"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Változtatható színű izzók"
+"now_you_can_decorate_your_home"="Mostantól színes izzókkal is emelheted otthonod fényét."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Már majdnem végeztél. TRÅDFRI-eszközeid hangvezérlésének engedélyezéséhez nyisd meg a Google Home alkalmazást."
+"set_up_tradfri_for_voice_contr"="Állítsd be a TRÅDFRI hangvezérlését a Google Segéddel.\n\npl. Google, kapcsold fel a villanyt, vagy Google, tompítsd a fényt 50%-kal."
+"are_you_using_a_google_home_de"="Google Home-készüléket használsz?"
+"if_youre_using_a_google_home_d"="Ha Google Home-készüléket használsz, most győződj meg róla, hogy be van kapcsolva.\nHa csak a telefonodon használod a Google Segédet, kérjük, folytasd."
+"cant_connect_to_google"="Nem lehet csatlakozni a Google-hoz"
+"disable_google_assistant"="Letiltod a Google Segédet?"
+"you_will_no_longer_be_able_to_contro"="TRÅDFRI-eszközeidet nem tudod majd a Google Home alkalmazásból tovább szabályozni."
+"google_assistant_could_not_be_"="A Google Segéd nem engedélyezhető"
+"google_assistant"="Google Segéd"
+"use_voice_control_to_adjust_yo"="Állítsd be hangvezérléssel TRÅDFRI-eszközeidet a Google Segéddel. Felkapcsolhatod őket, megváltoztathatod a színüket, vagy állíthatsz a fényerejükön."
+"you_cant_have_two_timers_on_a"="Nem lehet egyszerre bekapcsolva két időzítőd ugyanahhoz a lámpához."
+"multicolored_bulb_title"="Változtatható színű izzók"
+"multicolored_bulb_desc"="Emeld színes izzókkal otthonod fényét. A Trådfri termékcsalád nemrégiben új tagokkal bővült."
+"something_went_wrong"="Valami hiba történt."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Eszközök kezelése"
+"devices"="eszköz"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Jogi tudnivalók"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="LEVÁLASZTÁS A JELTOVÁBBÍTÓRÓL"
+"in_progress"="Folyamatban…"
+"turn_everything_off"="ÖSSZES KIKAPCSOLÁSA"
+"all_devices_are_off"="Valamennyi eszköz ki van kapcsolva."
+"devices_on"="%1$s eszköz be van kapcsolva"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Ütemezd a lámpák fel- és lekapcsolását, még akkor is, amikor nem vagy otthon."
+"on_and_off_small"="Be és ki"
+"group_must_be_empty_to_delete"="A csoport csak üresen törölhető."
+"please_remove_all_devices"="Kérjük, távolítsd el az összes eszközt a csoportból."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="A Google Segéd nem tiltható le"
+"please_verify_your_internet_co"="Ellenőrizd az internetkapcsolatot, majd próbáld újra.\n\nHa az alkalmazás többszöri próbálkozás után sem csatlakozik, próbálj eltávolítani minden, esetleg engedélyezett egyéb integrációt."
+"try_disable_again"="LETILTÁSI KÍSÉRLET MEGISMÉTLÉSE"
+"remove_integration"="INTEGRÁCIÓK ELTÁVOLÍTÁSA"
+"cant_connect"="Nem lehet csatlakozni"
+"remove_all_integration"="Eltávolítod az összes integrációt?"
+"are_you_sure_this_will_remove_"="Biztos vagy benne? Ez az ÖSSZES engedélyezett integrációt eltávolítja."
+"amazon_alexa_could_not_be_disa"="Az Amazon Alexa nem tiltható le"
+"please_verify_your_internet_connect"="Ellenőrizd az internetkapcsolatot, majd próbáld újra.\n\nHa az alkalmazás többszöri próbálkozás után sem csatlakozik, az integrációk alaphelyzetbe állításához válaszd az INTEGRÁCIÓK ELTÁVOLÍTÁSA lehetőséget, majd próbáld újra.\nEz az ÖSSZES engedélyezett integrációt eltávolítja, az Amazon Alexát is beleértve."
+"eg_amazon_alexa_google_assista"="p l. Amazon Alexa, Google Segéd"
+

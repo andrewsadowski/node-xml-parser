@@ -1,0 +1,609 @@
+<!--START UP SCREENS * WELCOME SCREENS-->
+"hi"="Sveiki!"
+"i_agree_to_the"="Sutinku su"
+"plug_in_your_gateway"="Prijunkite tinklų sietuvą"
+"next"="TOLIAU"
+"connect"="PRIJUNGTI"
+"terms_conditions"="Sąlygos"
+"please_agree_to_continue"="Sutikite, kad būtų galima tęsti."
+"connecting_to_your_gateway"="Jungiamasi prie jūsų tinklų sietuvo..."
+"plug_your_gateway_into_a_power"="Įjunkite tinklų sietuvą į maitinimo lizdą ir prijunkite jį prie „Wi-Fi“ maršruto parinktuvo, naudodami duotąjį eterneto kabelį."
+"congrats"="Sveikiname!"
+"and"="ir"
+"connect_to_wifi"="Prijungimas prie „Wi-Fi“"
+"this_name_is_already_in_use_pl"="Toks pavadinimas jau naudojamas. Bandykite įvesti kitą."
+"welcome_to_the_tradfri_lightin"="Sveikiname pradėjus naudotis apšvietimo sistema TRÅDFRI. Tai paprasčiausias būdas sukurti jaukų ir patogų apšvietimą savo namuose. Ar esate pasiruošę atlikti nustatymus?"
+"enter_the_gateway_ip"="Įveskite tinklų sietuvo IP"
+"gateway_ip"="Tinklų sietuvo IP"
+"if_the_gateway_is_plugged_in_c"="Jeigu tinklų sietuvas prijungtas tinkamai, tačiau nepavyksta jo rasti, gali prireikti rankiniu būdu įvesti tinklų sietuvo IP adresą. Daugiau informacijos žr. pagalbos puslapyje."
+"the_gateway_ip_is_incorrect"="Netinkamas tinklų sietuvo IP."
+"you_must_be_connected_to_your_"="Būtina prisijungti prie „Wi-Fi“ tinklo, kad galėtumėte valdyti TRÅDFRI naudodami išmaniąją programėlę."
+"these_are_your_tradfri_devices"="Tai bus jūsų TRÅDFRI įrenginiai"
+"lets_get_started"="PRADĖKIME"
+"get_started"="PRADŽIA"
+"youre_now_connected_to_the_gat"="Prisijungėte prie tinklų sietuvo. Dabar prijunkite savo įrenginius."
+"add_another_device"="Kito įrenginio prijungimas"
+"finding_gateway"="Tinklų sietuvo paieška..."
+
+
+
+<!--GATEWAY DISCOVERY * QR CODE SCANNING SCREEN , TYPE IN MANUAL IP SCREEN -->
+"scanning"="Nuskaitoma..."
+"type_in_the_code_instead"="Įvesti kodą"
+"youll_find_the_code_on_the_bac"="Kodą rasite ant tinklų sietuvo nugarėlės."
+"we_found_the_code"="Aptikome kodą."
+"hold_on_while_we_verify_the_co"="Palaukite, kol patvirtinsime kodą..."
+"scan"="NUSKAITYKITE"
+"now_scan_the_code"="Dabar nuskaitykite kodą"
+"enable_camera"="ĮJUNGTI KAMERĄ"
+"type_in_the_serial_number"="Įveskite serijos numerį"
+"type_in_the_security_code"="Įveskite saugos kodą"
+"serial_number"="Serijos numeris"
+"security_code"="Saugos kodas"
+"youll_find_it_on_the_back_of_y"="Jį rasite ant tinklų sietuvo nugarėlės."
+"youll_find_them_both_on_the_ba"="Abu numerius rasite ant tinklų sietuvo nugarėlės."
+"this_serial_number_is_incorrec"="Šis serijos numeris netinkamas"
+"type_in_the_serial_number_and_"="Įveskite serijos numerį ir saugos kodą"
+"enable_your_camera_to_scan_the"="Įjunkite kamerą, kad nuskaitytumėte kodą."
+"type_in_the_code"="ĮVESTI KODĄ"
+"the_security_key_should_be_dig"="Saugos kodą sudaro 16 skaičių"
+
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+"start_by_choosing_the_device_y"="Pradėkite pasirinkdami įrenginį, kurį norite prijungti"
+"open_the_back_of_the_remote_co"="1. Atidarykite nuotolinio valdymo įtaiso nugarėlę"
+"reset_the_remote_control"="2. Nuotolinio valdymo įtaiso nustatymas"
+"connect_the_remote_control"="3. Nuotolinio valdymo įtaiso prijungimas"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"turn_on_your_light"="1. Įjunkite apšvietimą"
+"make_sure_that_your_light_is_i"="Įsitikinkite, kad įjungtos šviesos ir pagrindinis maitinimo šaltinis."
+"which_control_device_are_you_u"="2. Kurį valdymo įrenginį naudojate?"
+"remember_to_use_a_control_devi"="Nepamirškite naudoti jau prijungto valdymo įrenginio."
+"connect_the_light"="3. Prijunkite apšvietimą"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_devices"="Ieškoma įrenginių..."
+"bulb"="Lemputė"
+"door_or_panel"="Durelės arba plokštė"
+"open_the_back_of_the_motion_se"="1. Atidarykite judesių jutiklio nugarėlę"
+"reset_the_motion_sensor"="2. Nustatykite judesių jutiklį"
+"connect_the_motion_sensor"="3. Judesių jutiklio prijungimas"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"open_the_back_of_the_wireless_"="1. Atidarykite belaidžio apšvietimo reguliatoriaus nugarėlę"
+"reset_the_wireless_dimmer"="2. Nustatykite belaidį apšvietimo reguliatorių"
+"connect_the_wireless_dimmer"="3. Prijunkite belaidį apšvietimo reguliatorių"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+"finding_your_device"="Įrenginio paieška"
+"which_device_would_you_like_to"="Kurį įrenginį norėtumėte prijungti?"
+"now_add_your_lights"="Dabar prijunkite šviesos šaltinius"
+"they_can_be_added_after_youve_"="Juos galima prijungti prijungus valdymo įtaisą."
+"ill_do_this_later"="Atliksiu vėliau"
+"delete_mood"="Šalinti nuotaiką"
+
+
+<!--<![CDATA[]]> should not be removed or localised-->
+<!--<![CDATA[]]> should not be removed or localised-->
+"to_confirm_moving_the_device_p"="Paspauskite bet kurį įrenginio mygtuką, kad patvirtintumėte įrenginį. Gali prireikti paspausti kelis kartus."
+
+
+<!--HOME * HOME SCREEN-->
+"my_home"="MANO NAMAI"
+"add_lights"="PRIJUNGTI ŠVIESAS"
+"no_lights_have_been_added_to_t"="Į šią grupę dar neįtraukta šviesos šaltinių."
+
+
+<!--MOODS * MOODS SCREEN-->
+"enter_a_mood_name"="Įveskite nuotaikos pavadinimą"
+"please_pick_another_name_this_"="Pasirinkite kitą pavadinimą, nes toks jau naudojamas."
+"moods_by_ikea"="Nuotaika pagal IKEA"
+"new_mood"="Nauja nuotaika"
+"please_enter_a_mood_name"="Įveskite nuotaikos pavadinimą."
+
+
+<!--DEVICES * BRIGHTNESS SCREEN-->
+"turn_off"="Išjungti"
+"turn_on"="Įjungti"
+"min"="Maž."
+"max"="Didž."
+
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"one_device_cannot_be_found"="Nepavyko rasti vieno įrenginio"
+"devices_cannot_be_found"="Nepavyko rasti %1$s įrenginių"
+"one_remote_has_a_low_battery"="Senka vieno nuotolinio valdymo įtaiso baterija"
+"one_motion_sensor_has_a_low_ba"="Senka vieno judesių jutiklio baterija"
+"remotes_have_low_batteries"="Senka %1$s nuotolinio valdymo įtaisų baterija"
+"devices_have_low_batteries"="Senka %1$s įrenginių baterija"
+"updating"="Naujinama..."
+"update_successful"="Sėkmingai atnaujinta"
+"was_added_to_a_new_group"="%1$s įtrauktas į naują grupę."
+"was_removed"="%1$s pašalintas"
+
+
+<!--MANAGE DEVICES * ADD, MOVE, DELETE SCREENS-->
+"groups"="Grupės"
+"rename_group"="Pervardyti grupę"
+"add_new_group"="Įtraukti naują grupę"
+"add_devices"="Prijungti įrenginius"
+"new_group"="Nauja grupė"
+"group_name"="Grupės pavadinimas"
+"low_battery"="Senka baterija"
+"manage_your_devices"="Tvarkyti savo įrenginius"
+"devices"="įrenginiai"
+"last_seen_ago"="Paskutinį kartą stebėta prieš %1$s"
+"move_a_device_to_this_group_by"="Perkelkite įrenginį į šią grupę bakstelėdami tris taškus."
+"leaving_will_remove_new_group"="Pašalinus įrenginį bus pašalinta grupė"
+"groups_without_any_devices_wil"="Grupės be įrenginių automatiškai šalinamos."
+"move_to_other_group"="Perkelti į kitą grupę"
+"rename_device"="Pervardyti įrenginį"
+"remove_device"="Šalinti įrenginį"
+"select_destination_group"="Pasirinkite paskirties grupę"
+"the_name_is_already_being_used"="Pavadinimas \" %1$s \" jau naudojamas."
+"remove_accessory"="Ar šalinti įrenginį?"
+"it_looks_like_there_was_a_prob"="Panašu, kad kilo problemų dėl šviesos šaltinių judėjimo. Patikrinkite, ar šviesos šaltinis įjungtas, ir dar kartą pabandykite jį pajudinti."
+"disconnected_devices"="Atjungti įrenginiai"
+"add_new"="ĮTRAUKTI NAUJĄ"
+"device_was_not_moved"="Įrenginys nebuvo pajudintas"
+"unfortunately_you_cant_add_a_m"="Deja, negalima įtraukti judesio jutiklio į grupę, kurioje yra belaidžių apšvietimo reguliatorių ar nuotolinio valdymo įtaisų."
+"press_any_button_on_your_remot"="Paspauskite bet kurį nuotolinio valdymo įtaiso mygtuką."
+"great"="Nuostabu!"
+"your_was_moved_to"="Jūsų %1$s perkelta į %2$s."
+"are_you_sure_you_want_to_remov"="Ar tikrai norite pašalinti %1$s?"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers"="LAIKMAČIAI"
+"enabled"="įjungta"
+"disabled"="išjungta"
+"every_day"="Kasdien"
+"days"="Dienos"
+"hours"="Val."
+"minutes"="Min."
+"seconds"="Sek."
+"mon"="Pr"
+"tue"="An"
+"wed"="Tr"
+"thu"="Kt"
+"fri"="Pn"
+"sat"="Št"
+"sun"="Sk"
+"timer_is_not_set"="Laikmatis nenustatytas"
+"mon_fri"="Pr–Pn"
+"cant_set_time"="Negalima nustatyti laiko"
+"make_sure_you_set_your_timer_b"="Nepamirškite prieš išvykdami nustatyti laikmačio."
+"are_you_sure_you_want_to_delete_this_tim"="Ar tikrai norite šalinti šį laikmatį?"
+"add"="ĮTRAUKTI"
+"am"="Iki pietų (AM)"
+"pm"="Po pietų (PM)"
+"monday"="Pr"
+"tuesday"="An"
+"wednesday"="Tr"
+"thursday"="Kt"
+"friday"="Pn"
+"saturday"="Št"
+"sunday"="Sk"
+"set_your_time"="Nustatykite laiką"
+"new_timer"="Naujas laikmatis"
+"what_time"="%1$s Kuriuo laiku?"
+"which_lights"="%1$s Kurie šviesos šaltiniai?"
+"from"="nuo"
+"to"="iki"
+"should_they_turn_on_or_off"="%1$s Ar turėtų būti įjungta ar išjungta?"
+"save"="IŠSAUGOTI"
+"set_your_lights_to_turn_on_or_"="Nustatykite, kad šviesos būtų įjungiamos ar išjungiamos tada, kai to norite."
+"set_your_lights_to_turn_on_or_off_e"="Nustatykite, kad šviesos būtų įjungiamos ar išjungiamos tada, kai to norite.\n\nBus įsimintas šviesumas ir spalvos pagal paskutinį naudotą kartą."
+"during_what_time"="%1$s Kuriuo laiku?"
+"you_cant_set_a_time_with_the_s"="Negalima nustatyti to paties laiko kaip pradžios ir pabaigos."
+"a_timer_has_been_updated"="Laikmatis atnaujintas"
+"timers_have_been_updated"="Laikmačiai atnaujinti"
+"view"="Peržiūra"
+"you_are_now_using_the_maximum_"="Naudojamas didžiausias laikmačių skaičius."
+"timers_help_you_set_your_light"="Naudojant laikmačius galima nustatyti apšvietimo įjungimą ir išjungimą. Įtraukite vieną ir pradėkite."
+"some_of_your_timers_was_update"="Kai kurie jūsų laikmačiai atnaujinti iš kito įrenginio."
+
+
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"repeat"="Kartoti"
+"rise_and_shine"="Kelkis ir šviesk"
+"set_your_lights_to_wake_you_up"="Nustatykite šviesų įjungimą."
+"your_rise_and_shine_timer_was_"="Jūsų laikmatis „Kelkis ir šviesk“ atnaujintas naudojant kitą įrenginį."
+"delete_rise_and_shine"="Šalinti „Kelkis ir šviesk“"
+"your_rise_and_shine_timer_just"="Ką tik paleistas laikmatis „Kelkis ir šviesk“."
+
+
+<!--TIMERS * AWAY FROM HOME SCREEN-->
+"away_from_home"="Išvykus iš namų"
+"out_and_about_set_your_lights_"="Išvykstate iš namų? Nustatykite, kad šviesos būtų įjungiamos ar išjungiamos taip, tarsi būtumėte namie."
+"set_your_lights_to_slowly_dim_"="Nustatykite, kad šviesa pradėtų po truputį stiprėti pradedant 30 minučių iki nustatyto laikmačio laiko. Šviesa pradės po truputį stiprėti\n\n– taip, kaip dėl ryte tekančios saulės."
+"your_away_from_home_timer_just"="Ką tik paleistas „Išvykus iš namų“ laikmatis."
+"your_away_from_home_timer_was_"="Jūsų laikmatis „Išvykus iš namų“ atnaujintas naudojant kitą įrenginį."
+"delete_away_from_home"="Šalinti laikmatį „Išvykus iš namų“"
+
+
+
+<!--TIMERS * ON AND OFF SCREEN-->
+"on_and_off"="Įjungimas ir išjungimas"
+"on_or_off"="Įjungta ar išjungta"
+"out_and_about_set_your_lights_to_tu"="Išvykstate iš namų? Nustatykite, kad šviesos būtų įjungiamos ar išjungiamos taip, tarsi būtumėte namie.\n\nNepamirškite, kad negalima išjungti šviesų naudojant sieninį jungiklį. Bus įsimintas šviesumas ir spalvos pagal paskutinį naudotą kartą."
+"your_on_or_off_timer_just_star"="Ką tik paleistas įjungimo ar išjungimo laikmatis."
+"your_on_or_off_timer_was_updat"="Jūsų įjungimo ar išjungimo laikmatis atnaujintas naudojant kitą įrenginį."
+"delete_on_or_off"="Šalinti ĮJUNGIMĄ ar IŠJUNGIMĄ"
+
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"settings"="NUSTATYMAI"
+"need_help"="Reikia pagalbos?"
+"language"="Kalba"
+"default_language"="Numatytoji kalba"
+"send_in_email"="SIŲSTI EL. LAIŠKĄ"
+"terms_and_conditions"="Sąlygos"
+"privacy_policy"="Privatumo politika"
+"software_licenses"="Programinės įrangos licencijos"
+"continue_"="Tęsti"
+"youve_selected_as_your_language_"="Savo kalba pasirinkote %1$s."
+"tradfri_terms_and_conditions"="TRÅDFRI sąlygos"
+"tradfri__privacy_policy"="TRÅDFRI privatumo strategija"
+"tradfri_is_up_to_date"="TRÅDFRI atnaujinta"
+
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"updates_are_available"="Yra naujinių"
+"update"="NAUJINTI"
+"unreachable"="Nepasiekiama"
+"update_details"="Naujinimo informacija"
+"up_to_date"="Atnaujinta"
+"remote_controls"="Nuotolinio valdymo įtaisai"
+"motion_sensors"="Judesio jutikliai"
+"this_should_only_take_about_mi"="Turėtų trukti apie 1 min."
+"dismiss"="ATSISAKYTI"
+
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"disconnect"="ATJUNGTI"
+"disconnecting"="ATJUNGIAMA..."
+"disconnected"="ATJUNGTA"
+"disconnecting_allow_you_to_con"="Atjungus galima prijungti prie kito tinklų sietuvo. Negalima prisijungti prie dviejų sietuvų vienu metu, tačiau nesijaudinkite – visi jūsų šviestuvų nustatymai bus išsaugoti dabartiniame tinklų sietuve."
+
+
+
+<!--ERRORS * ERROR SCREEN -->
+"new_gateway_found"="Aptiktas naujas tinklų sietuvas"
+"gateway_is_rebooting"="Iš naujo paleidžiamas tinklų sietuvas..."
+"connect_to_new_gateway"="Prisijunkite prie naujo tinklų sietuvo"
+"you_cant_connect_to_your_curre"="Negalima prisijungti prie esamo tinklų sietuvo, tačiau pasiekiamas kitas sietuvas. Ar norėtumėte prisijungti prie naujojo tinklų sietuvo?"
+"connecting_will_disconnect_you"="Prisijungdami atsijungsite nuo esamo tinklų sietuvo. Tačiau nesirūpinkite, visi nustatymai bus išsaugoti esamame tinklų sietuve."
+"try_again"="BANDYKITE DAR KARTĄ"
+"oops"="Oi!"
+"youre_about_to_remove_the_last"="Norite pašalinti paskutinį įrenginį"
+"your_light_needs_to_be_turned_"="Prieš naudojant būtina įjungti šviesą šviesų jungikliu."
+"remember_to_turn_on_your_light"="Nepamirškite įjungti šviesos."
+"oops_something_went_wrong"="Oi! Įvyko nežinoma klaida."
+"enter_the_gateway_ip_manually"="Rankiniu būdu įveskite tinklų sietuvo IP"
+"gateway_is_updating"="Naujinamas tinklų sietuvas..."
+"your_gateway_software_is_being"="Atnaujinama tinklų sietuvo programinė įranga. Tinklų sietuvas bus nepasiekiamas kelias minutes, tačiau šviesos šaltinius ir nuotolinio valdymo įtaisą galite naudoti kaip įprasta."
+"unable_to_connect_to_tradfri"="Nepavyksta prisijungti prie TRÅDFRI"
+"it_looks_like_you_scanned_the_"="Panašu, kad nuskaitėte netinkamą kodą. Bandykite nuskaityti galinėje tinklų sietuvo dalyje esantį kodą."
+
+
+
+<!--PRODUCT NAMES * -->
+"white_spectrum_bulb"="Baltos šviesos lemputė"
+"bulb_e27_white_spectrum_globe_clear"="Baltos šviesos lemputė"
+"bulb_e27_white_spectrum_globe_opal"="Baltos šviesos lemputė"
+"bulb_e14_white_spectrum_globe_"="Baltos šviesos lemputė"
+"color_white_spectrum_bulb"="Spalvotos / baltos šviesos lemputė"
+"bulb_e14_color_white_spectrum_"="Spalvotos / baltos šviesos lemputė"
+"white_spectrum_panel"="Baltos šviesos plokštė"
+"panel_white_spectrum_30_90"="Baltos šviesos plokštė"
+"panel_white_spectrum_60_60"="Baltos šviesos plokštė"
+"color_white_spectrum_panel"="Spalvotos / baltos šviesos plokštė"
+"white_spectrum_door"="Baltos šviesos durelės"
+"door_white_spectrum_36_84"="Baltos šviesos durelės"
+"remote_control"="Nuotolinio valdymo įtaisas"
+"motion_sensor"="Judesių jutiklis"
+"wireless_dimmer"="Belaidis apšvietimo reguliatorius"
+
+
+
+<!--GENERIC_NAMES * -->
+"move"="Perkelti"
+"rename"="Pervardyti"
+"remove"="Šalinti"
+"off"="Išjungta"
+"done"="ATLIKTA"
+"cancel"="ATŠAUKTI"
+"ok"="Gerai"
+"confirm"="PATVIRTINTI"
+"delete"="Šalinti"
+"proceed"="Vykdyti"
+"group"="Grupė"
+"plug"="Kištukas"
+"everyday"="Kasdien"
+"focus"="Fokusuota šviesa"
+"relax"="Atsipalaidavimas"
+"plugs"="Kištukai"
+"gateway"="Tinklų sietuvas"
+"gateways"="Tinklų sietuvai"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+<!--DEVICES * REMOVING NON SLEEPY AND SLEEPY DEVICES-->
+"turn_all_your_lights_on"="ĮJUNKITE visus šviesos šaltinius"
+"are_all_your_lights_on_they_mu"="Ar įjungti visi %1$s šviesos šaltiniai? Norint perkelti belaidį apšvietimo reguliatorių, visi šaltiniai turi būti ĮJUNGTI"
+"press_the_link_button"="Paspauskite susiejimo mygtuką"
+"to_control_the_new_group_just_"="Norėdami valdyti naują grupę, tiesiog atidarykite belaidį apšvietimo reguliatorių ir paspauskite susiejimo mygtuką. Tada jūsų įrenginys bus perkeltas."
+"i_did_it"="Atlikau tai"
+"to_finish_removing_your_remote"="Norėdami pašalinti nuotolinio valdymo įtaisą, nustatykite jį iš naujo paspausdami susiejimo mygtuką 4 kartus. Baigta!"
+"to_finish_removing_your_motion"="Norėdami pašalinti judesių jutiklį, nustatykite jį iš naujo paspausdami susiejimo mygtuką 4 kartus. Baigta!"
+"to_finish_removing_your_wirele"="Norėdami pašalinti belaidį apšvietimo reguliatorių, nustatykite jį iš naujo paspausdami susiejimo mygtuką 4 kartus. Baigta!"
+"to_move_your_device_open_the_wireless_dimmers_in_and_pr"="Norėdami perkelti įrenginį, %1$s atidarykite belaidį apšvietimo reguliatorių ir paspauskite susiejimo mygtuką."
+"to_move_your_device_open_the_wireless_dimmers_in_and_an"="Norėdami perkelti įrenginį, %1$s ir %2$s atidarykite belaidžius apšvietimo reguliatorius ir abiejuose paspauskite susiejimo mygtuką"
+"required_update"="Reikia atnaujinti"
+"update_required_tradfri_needs_"="Reikia atnaujinti. Kad TRÅDFRI veiktų sklandžiai, reikia atnaujinti. Naujinimo metu programėlė bus nepasiekiama."
+"an_important_update_has_been_p"="Atliktas svarbus naujinimas, o „Trådfri“ atnaujinta į naujausią versiją"
+"reconnect_to_gateway"="Prijungti tinklų sietuvą iš naujo"
+"is_your_light_on"="Ar įjungtas šviesos šaltinis?"
+"if_not_turn_it_on_to_successfu"="Jei ne, įjunkite, kad galėtumėte perkelti įrenginį."
+"to_remove_your_light_open_the_"="Norėdami pašalinti šviesos šaltinį, %1$s atidarykite belaidį apšvietimo reguliatorių ir paspauskite susiejimo mygtuką."
+"wireless_motion_sensor"="Belaidis judesių jutiklis"
+"please_confirm"="Ar perkelti %1$s?"
+"gently_rotate_your_wireless_di"="Norėdami patvirtinti, atsargiai pasukite belaidį apšvietimo reguliatorių."
+"we_did_not_detect_any_action_o"="Jūsų įrenginys neatsakė."
+"wave_your_hand_in_front_of_the"="Norėdami patvirtinti, pamojuokite ranka priešais judesių jutiklį."
+"enter_group_name"="Įveskite grupės pavadinimą"
+"enter_accessory_name"="Įveskite priedo pavadinimą"
+"remove_"="%1$s šalinimas"
+
+<!--PRODUCT NAMES * -->
+"warm_white_bulb"="Šiltai balto apšvietimo lemputė"
+
+
+<!--MOODS * MOODS SCREEN-->
+"set_your_mood_before_saving_yo"="Prieš įrašydami nustatykite nuotaiką. Jūsų nuotaika bus įtraukta."
+"my_moods"="Mano nuotaikos"
+"create_a_mood_and_save_it_for_"="Sukurkite nuotaiką ir įrašykite ją, kad greitai pasiektumėte"
+"light_unreachable"="Šviesos šaltinis nepasiekiamas"
+"if_you_create_or_edit_a_mood_while"="Jei nuotaiką kursite arba koreguosite, kai šviesos šaltinis nepasiekiamas, šviesos šaltinis tai nuotaikai bus ignoruojamas. Prieš tęsdami Įsitikinkite, kad įjungti šviesos šaltiniai"
+"edit_moods"="KOREGUOTI NUOTAIKAS"
+"edit_mood"="KOREGUOTI NUOTAIKĄ"
+"brightness"="ŠVIESUMAS | %1$s"
+"disconnect_app"="ATJUNKITE PROGRAMĖLĘ"
+"clear_all_settings"="Išvalykite visus nustatymus"
+"this_will_delete_all_Moods"="Taip panaikinsite visus nuotaikų ir laikmačių nustatymus ir nustatysite visus nustatymus iš naujo. Nustačius iš naujo, visi jūsų įrenginiai bus atjungti nuo tinklų sietuvo"
+"are_you_sure_you_want_to_clear"="Ar tikrai norite išvalyti visus savo nustatymus?"
+"clear"="Išvalyta"
+"cleared"="IŠVALYTA"
+"clearing"="VALOMA..."
+"see_details"="Žr. išsamią informaciją"
+"update_did_not_complete"="Naujinimas nebaigtas"
+"one_or_more_devices_didnt_upda"="Nepavyko atnaujinti vieno ar daugiau įrenginių. Tačiau nesirūpinkite – jūsų šviesos šaltiniai vis tiek veiks"
+"your_moods_are_still_loading_"="Jūsų nuotaikos vis dar įkeliamos. Po kelių sekundžių bandykite dar kartą."
+
+
+<!--DEVICES NOTIFICATIONS * UNREACHABLE , FIRMWARE UPDATE, SNACK BAR AND LOW BATTERY-->
+"not_updated"="Neatnaujinta"
+
+
+<!--FIRMWARE UPDATE * UPDATE SCREENS-->
+"bulbs"="Lemputės"
+"waiting_for_gateway"="Laukiama tinklų sietuvo"
+"wireless_dimmers"="Belaidžiai apšvietimo reguliatoriai"
+"theres_an_important_new_update"="Siūlomas svarbus naujas TRÅDFRI naujinimas."
+"close"="Uždaryti"
+"update_pending"="Laukiantis naujinimas"
+"your_devices_are_being_updated"="Jūsų įrenginiai atnaujinami. Galite toliau naudoti TRÅDFRI, kaip įprasta."
+"start_update"="Pradėti naujinimą"
+"continue_to_use_your_lights_as"="Toliau naudokite apšvietimą kaip įprasta – naujinimai vykdomi fone. Kurį laiką programėlė gali tapti nepasiekiama."
+"panel"="Plokštė"
+"door"="Durelės"
+"panels"="Plokštės"
+"doors"="Durelės"
+"check_for_updates"="Tikrinti, ar nėra naujinimų"
+"update_now"="Atnaujinti dabar"
+"view_update_details"="Peržiūrėti naujinimo informaciją"
+"all_your_devices_are_updated_t"="Visi įrenginiai pasižymi naujausia versija."
+"your_gateway_didnt_update_dont"="Jūsų tinklų sietuvas neatnaujintas. Tačiau nesirūpinkite – jūsų šviesos šaltiniai vis tiek veiks"
+
+
+<!--ERRORS * ERROR SCREEN -->
+"we_cant_connect_to_your_gatewa"="Nepavyko prisijungti prie jūsų tinklų sietuvo"
+"we_couldnt_connect_to_your_dev"="Nepavyko prisijungti prie jūsų įrenginių. Jei problema kartosis, išjunkite ir vėl įjunkite tinklų sietuvą"
+"we_couldnt_find_your_gateway_m"="Nepavyko rasti jūsų tinklų sietuvo. Įsitikinkite, ar jis prijungtas prie maršruto parinktuvo naudojant kabelį, o telefonas prijungtas prie to paties tinklo."
+
+
+<!--COLOR CODE AND NAME MAPPING *-->
+"_dcf0f8"="Šaltas dangus"
+"_eaf6fb"="Šaltas dieninis apšvietimas"
+"_f5faf6"="Šaltai baltas apšvietimas"
+"_f2eccf"="Saulėtekio spalva"
+"_f1e0b5"="Šiltai baltas apšvietimas"
+"_efd275"="Šiltas švytėjimas"
+"_ebb63e"="Žvakių šviesa"
+"_e78834"="Šiltas gelsvas apšvietimas"
+"_e57345"="Persiko spalva"
+"_da5d41"="Tamsaus persiko spalva"
+"_dc4b31"="Ryški raudona"
+"_e491af"="Rožinė"
+"_e8bedd"="Šviesiai rožinė"
+"_d9337c"="Ryški rausva"
+"_c984bb"="Šviesiai violetinė"
+"_8f2686"="Ryškiai violetinė"
+"_4a418a"="Mėlyna"
+"_6c83ba"="Šviesiai mėlyna"
+"_a9d62b"="Žalia"
+"_d6e44b"="Geltona"
+
+
+<!--ON BOARDING FLOW * PAIR INPUT DEVICES SCREEN, PAIR OUTPUT DEVICES SCREEN,PAIR UN-PAIR POPUPS -->
+<!--<![CDATA[]]> should not be removed or localised-->
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_remo"="<![CDATA[<b>a.</b> 4 kartus greitai paspauskite ir laikykite nuspaustą mygtuką šalia %1$s. Nuotolinio valdymo įtaise sumirksės raudonas indikatorius.<br/><br/><b>b.</b> Indikatoriui nustojus mirksėti, palaukite 10 sekundžių. Tada galite tęsti.]]>"
+"hold_the_remote_control_within_of_t"="<![CDATA[<b>a.</b> Laikykite nuotolinio valdymo įtaisą 2 cm atstumu nuo tinklų sietuvo.<br/><br/><b>b.</b> Paspauskite ir laikykite nuspaustą šalia %1$s esantį belaidžio valdymo įtaiso mygtuką, kol tinklų sietuvo %1$s sumirksės 4 kartus.<br/><br/><b>c.</b> Palaukite, kol programėlėje pamatysite patvirtinimą.]]>"
+"hold_the_motion_sensor_within_of_th"="<![CDATA[<b>a.</b> Laikykite judesių jutiklį 2 cm atstumu nuo tinklų sietuvo.<br/><br/><b>b.</b> Paspauskite ir laikykite nuspaustą šalia %1$s esantį judesių jutiklio mygtuką, kol tinklų sietuvo indikatorius, esantis virš %1$s, sumirksės 4 kartus.<br/><br/><b>c.</b> Palaukite, kol programėlėje pamatysite patvirtinimą.]]>"
+"hold_your_wireless_dimmer_within_of_the_"="<![CDATA[<b>a.</b> Laikykite belaidį apšvietimo reguliatorių 2 cm atstumu nuo baltos dėžutės, esančios ant durelių ar plokštės.<br/><br/><b>b.</b> Paspauskite ir 10 sekundžių palaikykite nuspaustą mygtuką šalia %1$s. Šviesos šaltinis pritems ir ims šviesti ryškiau. Laikykite mygtuką nuspaustą, kol šviesos šaltinis nustos keisti šviesumą.]]>"
+"hold_your_wireless_dimmer_within_of_bulb"="<![CDATA[<b>a.</b> Laikykite belaidį apšvietimo reguliatorių 2 cm atstumu nuo lemputės.<br/><br/><b>b.</b> Paspauskite ir 10 sekundžių palaikykite nuspaustą mygtuką šalia %1$s. Šviesos šaltinis pritems ir ims šviesti ryškiau. Laikykite mygtuką nuspaustą, kol šviesos šaltinis nustos keisti šviesumą.]]>"
+"hold_your_motion_sensor_within_of_the_bu"="<![CDATA[<b>a.</b> Laikykite judesių jutiklį 2 cm atstumu nuo lemputės.<br/><br/><b>b.</b> Paspauskite ir 10 sekundžių palaikykite nuspaustą mygtuką %1$s. Šviesos šaltinis pritems ir ims šviesti ryškiau. Laikykite mygtuką nuspaustą, kol šviesos šaltinis nustos keisti šviesumą.]]>"
+"hold_your_motion_sensor_within_of_the_wh"="<![CDATA[<b>a.</b> Laikykite judesių jutiklį 2 cm atstumu nuo baltos dėžutės, esančios ant durelių ar plokštės.<br/><br/><b>b.</b> Paspauskite ir 10 sekundžių palaikykite nuspaustą mygtuką %1$s. Šviesos šaltinis pritems ir ims šviesti ryškiau. Laikykite mygtuką nuspaustą, kol šviesos šaltinis nustos keisti šviesumą.]]>"
+"found"="%1$s aptikta"
+"perfect_is_now_connected_to_tr"="Puiku! Dabar %1$s prijungtas prie TRÅDFRI."
+
+
+<!--DISCONNECT * DISCONNECT SCREEN-->
+"connected"="Prijungta"
+"disconnected_"="Atjungta"
+"find_detailed_help_in_our_trou"="Išsamios pagalbos rasite nesklandumų šalinimo vadove."
+"disconnect_from_your_gateway"="Atjungimas nuo tinklų sietuvo"
+"are_you_sure_you_want_to_disco"="Ar tikrai norite atjungti?"
+
+
+<!--SETTINGS * SETTINGS SCREEN-->
+"tradfri_version"="„Trådfri“ versija"
+
+
+<!--TIMERS * TIMERS SCREEN-->
+"timers_using_same_lights"="Laikmačiai naudoja tuos pačius šviesos šaltinius"
+"you_have_two_timers_using_the_"="Du laikmačiai naudoja tuos pačius šviesos šaltinius. Nustatykite iš naujo.\nArba \ndu laikmačiai naudoja tuos pačius laiko nustatymus. Nustatykite iš naujo, kad apšvietimas veiktų tinkamu laiku"
+"your_timers_are_still_loading_"="Jūsų laikmačiai vis dar įkeliami. Po kelių sekundžių bandykite dar kartą."
+"which_day"="%1$s Kurią dieną?"
+
+<!--GENERIC_NAMES * -->
+"troubleshoot"="Gauti pagalbos"
+
+<!--*Newly Created Texts*-->
+<!--Delta Strings for Third Round Localization process *-->
+
+<!--New text-->
+<!--Delta Strings for round 3A Localization process *-->
+"hold_your_control_device_withi"=" <![CDATA[<b>a.</b> Laikykite nuotolinio valdymo įtaisą 2 cm atstumu nuo lemputės.<br /><br /><b>b.</b> Paspauskite ir 10 sekundžių palaikykite nuspaustą mygtuką šalia %1$s. Šviesos šaltinis pritems ir ims šviesti ryškiau. Laikykite mygtuką nuspaustą, kol šviesos šaltinis nustos keisti šviesumą.]]>"
+"hold_your_control_device_within_of_the_white_box_on_the_back_of_your_door_or_panel_pr"=" <![CDATA[<b>a.</b> Laikykite belaidį valdymo įtaisą 2 cm atstumu nuo baltos dėžutės, esančios ant durelių ar pulto.<br /><br /><b>b.</b> Paspauskite ir 10 sekundžių palaikykite nuspaustą mygtuką šalia %1$s. Šviesos šaltinis pritems ir ims šviesti ryškiau. Laikykite mygtuką nuspaustą, kol šviesos šaltinis nustos keisti šviesumą.]]>"
+"press_the_button_beside_quickly_times_a_red_light_will_flash_on_the_front_of_the_moti"=" <![CDATA[<b>a.</b> 4 kartus greitai paspauskite mygtuką šalia %1$s. Ant judesių jutiklio sumirksės raudonas indikatorius.<br /><br /><b>b.</b> Indikatoriui nustojus mirksėti, palaukite 10 sekundžių. Tada galite tęsti.]]>"
+"press_the_metal_button_in_the_"=" <![CDATA[<b>a.</b> 4 kartus greitai paspauskite mygtuką šalia %1$s. Ant apšvietimo reguliatoriaus sumirksės raudonas indikatorius.<br /><br /><b>b.</b> Indikatoriui nustojus mirksėti, palaukite 10 sekundžių. Tada galite tęsti]]>"
+"hold_the_wireless_dimmer_withi"=" <![CDATA[<b>a.</b> Laikykite belaidį apšvietimo reguliatorių 2 cm atstumu nuo tinklų sietuvo.<br /><br /><b>b.</b> Paspauskite ir laikykite nuspaustą šalia %1$s esantį apšvietimo reguliatoriaus mygtuką, kol tinklų sietuvo indikatorius, esantis virš %1$s, sumirksės 4 kartus.<br /><br /><b>c.</b> Palaukite, kol programėlėje pamatysite patvirtinimą.]]>"
+"are_you_sure_you_want_to_delete_mood"="Ar tikrai norite šalinti \'%1$s\'"
+
+<!--PRODUCT NAMES * -->
+"bulb_e26_w_opal_1000lm"="Šiltai balto apšvietimo lemputė"
+"bulb_e27_w_opal_1000lm"="Šiltai balto apšvietimo lemputė"
+"bulb_e26_opal_1000lm"="Šiltai balto apšvietimo lemputė"
+"bulb_e12_ws_opal_400lm"="Baltos šviesos lemputė"
+"bulb_e26_ws_clear_950lm"="Baltos šviesos lemputė"
+"bulb_e26_ws_opal_980lm"="Baltos šviesos lemputė"
+"bulb_e27_ws_opal_980lm"="Baltos šviesos lemputė"
+
+<!--3rd PARTY DEVICES* -->
+"device"="įrenginys"
+
+
+<!--*Newly Created Texts*-->
+<!--Copy Process Release_1.2 *-->
+
+<!--Alexa Integration-->
+"integrations"="Integravimai"
+"eg_amazon_alexa_apple_homekit"="pvz., „Amazon Alexa“, „Apple HomeKit“"
+"amazon_alexa"="Amazon Alexa"
+"use_your_voice_to_control_your_trad"="Balsu valdykite TRÅDFRI šviesos šaltinius naudodami „Amazon Alexa“.\n\npvz., „Alexa“, įjunk šviesą.“ \n„Alexa“, pritemdyk šviesą 50%.“"
+"enable"="Įjungti"
+"disable"="Išjungti"
+"you_are_logged_in"="Prisijungėte."
+"to_get_started_enable_the_trad"="Norėdami pradėti, įjunkite TRÅDFRI funkciją programoje „Alexa“. Tada ištarkite: „Alexa“, rask mano įrenginius“."
+"ensure_your_alexa_device_is_s"="Įsitikinkite, kad įrenginys „Alexa“ nustatytas"
+"to_continue_your_alexa_device"="Įrenginys „Alexa“ turi tinkamai veikti, kad būtų galima tęsti. Vadovaukitės „Amazon Alexa“ naudojimo instrukcijomis."
+
+<!-- Whats New Strings* -->
+"whats_new"="Kas naujo"
+"apple_homekit"="Apple HomeKit"
+"make_all_of_your_connected_dev"="Išmaniau ir efektyviau naudokite prijungtus įrenginius. TRÅDFRI dabar veikia su „Apple HomeKit“."
+"learn_more"="Sužinokite daugiau"
+"use_your_voice_to_control_your"="Balsu valdykite šviesos šaltinius TRÅDFRI naudodami „Amazon Alexa“. Juos įjunkite, išjunkite arba reguliuokite šviesumą."
+"disable_amazon_alexa"="Išjungti „Amazon Alexa“?"
+"you_will_no_longer_be_able_to_"="Nebegalėsite valdyti savo įrenginių TRÅDFRI naudodami „Amazon Alexa“."
+"problem_connecting_to_amazon"="Kyla problemų prisijungiant prie „Amazon“"
+"please_try_again"="Bandykite dar kartą."
+"accept_the_terms_of_use"="Sutikti su naudojimo sąlygomis"
+"in_order_to_enable_amazon_alex"="Jeigu norite įjungti „Amazon Alexa“, būtina sutikti su naudojimo sąlygomis."
+"cant_connect_to_amazon"="Nepavyksta prisijungti prie „Amazon“"
+"check_your_internet_connection"="Patikrinkite interneto ryšį, tada bandykite dar kartą."
+
+<!--TIMERS * RISE AND SHINE SCREEN-->
+"lights_start_to_brighten_at"="Šviesa pradeda stiprėti esant %1$s"
+
+<!-- Tradfri Version Details -->
+"show_update_details"="Rodyti naujinimo informaciją"
+"gateway_update_required"="Būtinas tinklų sietuvo naujinimas"
+"to_use_this_new_feature_you_ne"="Norėdami naudoti naują funkciją, atnaujinkite savo tinklų sietuvo programinę įrangą į naujausią versiją."
+"later"="Vėliau"
+"gateway_update_available"="Yra tinklų sietuvo naujinimas"
+"to_use_new_features_you_need_t"="Norėdami naudoti naujas funkcijas, atnaujinkite savo tinklų sietuvo programinę įrangą į naujausią versiją."
+"new_update_available"="Yra naujinimų"
+"in_order_to_control_your_devic"="Norėdami valdyti įrenginius naudodami telefoną, būtinai atnaujinkite programą TRÅDFRI."
+"as_a_security_precaution_you_h"="Gali būti, kad dėl saugumo buvo atjungta nuo tinklų sietuvo.\n \nIš naujo prisijunkite prie tinklų sietuvo, kad galėtumėte tęsti."
+"unknown_device"="Nežinomas įrenginys"
+
+<!--Copy Process Release_1.2 NEW*-->
+
+"multicoloured_bulbs"="Įvairių spalvų lemputės"
+"now_you_can_decorate_your_home"="Dabar galite papuošti namus spalvotomis lemputėmis."
+
+<!-- Copy process Release_1.3 -->
+"almost_done_open_the_google_ho"="Beveik baigta. Atsidarykite „Google Home“ programą, kad įjungtumėte TRÅDFRI įrenginių valdymo balsu funkciją."
+"set_up_tradfri_for_voice_contr"="Nustatykite TRÅDFRI, kad galėtumėte valdyti balsu, naudodami „Google“ padėjėją.\n\nPvz.: „Gerai, „Google“, įjunk šviesą“ arba „Gerai, „Google“, pritemdyk šviesą iki 50%“."
+"are_you_using_a_google_home_de"="Ar naudojate „Google Home“ įrenginį?"
+"if_youre_using_a_google_home_d"="Jei naudojate „Google Home“ įrenginį, įsitikinkite, kad jis dabar įjungtas.\nJei „Google“ padėjėją naudosite tik telefone, tęskite."
+"cant_connect_to_google"="Nepavyksta prisijungti prie „Google“"
+"disable_google_assistant"="Išjungti „Google“ padėjėją?"
+"you_will_no_longer_be_able_to_contro"="Nebegalėsite valdyti TRÅDFRI įrenginių naudodami „Google Home“."
+"google_assistant_could_not_be_"="Nepavyksta įjungti „Google“ padėjėjo"
+"google_assistant"="„Google“ padėjėjas"
+"use_voice_control_to_adjust_yo"="Naudokite valdymo balsu funkciją, kad galėtumėte reguliuoti TRÅDFRI įrenginius per „Google“ padėjėją. Įjunkite juos, keiskite spalvas arba reguliuokite šviesumą."
+"you_cant_have_two_timers_on_a"="Toms pačioms lempoms negalite nustatyti dviejų laikmačių vienu metu."
+"multicolored_bulb_title"="Įvairių spalvų lemputės"
+"multicolored_bulb_desc"="Papuoškite namus spalvotomis lemputėmis. „Trådfri“ šeima tiesiog išaugo."
+"something_went_wrong"="Įvyko nežinoma klaida."
+
+<!--MANAGE DEVICES * -->
+"manage_your_devices"="Tvarkykite įrenginius"
+"devices"="įrenginiai"
+
+<!-- LEGAL INFORMATION * -->
+"legal_information"="Teisinė informacija"
+
+
+<!-- DISCONNECT FROM GATEWAY -->
+"disconnect_app"="ATJUNGTI NUO TINKLŲ SIETUVO"
+"in_progress"="Vykdoma…"
+"turn_everything_off"="VISKĄ IŠJUNGTI"
+"all_devices_are_off"="Visi įrenginiai išjungti."
+"devices_on"="%1$s įrenginiai įjungti"
+"no_of_input_devices" translatable="false"=""""
+"none" translatable="false"=""""
+
+"schedule_lights_to_turn_on_and"="Suplanuokite, kada apšvietimas bus įjungtas ir išjungtas, net būdami išvykę."
+"on_and_off_small"="Įjungti ir išjungti"
+"group_must_be_empty_to_delete"="Kad galėtumėte ištrinti, grupė turi būti tuščia."
+"please_remove_all_devices"="Pašalinkite iš grupės visus įrenginius."
+
+<!-- REMOVE ALL INTEGRATION GOOGLE HOME -->
+"google_assistant_could_not_be_disabl"="Nepavyksta išjungti „Google“ padėjėjo"
+"please_verify_your_internet_co"="Patikrinkite interneto ryšį ir bandykite dar kartą.\n\nJei kelis kartus pabandžius programos nepavyksta prijungti, pabandykite pašalinti visus kitus integravimus, kuriuos galbūt įjungėte."
+"try_disable_again"="PABANDYKITE IŠJUNGTI DAR KARTĄ"
+"remove_integration"="PAŠALINKITE INTEGRAVIMUS"
+"cant_connect"="Nepavyksta prisijungti"
+"remove_all_integration"="Pašalinti visus integravimus?"
+"are_you_sure_this_will_remove_"="Ar esate tikri? Taip pašalinsite VISUS integravimus, kuriuos galbūt įjungėte."
+"amazon_alexa_could_not_be_disa"="Nepavyksta išjungti „Amazon Alexa“"
+"please_verify_your_internet_connect"="Patikrinkite interneto ryšį ir bandykite dar kartą.\n\nJei kelis kartus pabandžius programos nepavyksta prijungti, pasirinkite PAŠALINTI INTEGRAVIMUS, kad iš naujo nustatytumėte integravimus, ir bandykite dar kartą.\nTaip pašalinsite VISUS integravimus, kuriuos galbūt įjungėte, įskaitant „Amazon Alexa“."
+"eg_amazon_alexa_google_assista"="Pvz. : „Amazon Alexa“, „Google“ padėjėjas"
+
+
